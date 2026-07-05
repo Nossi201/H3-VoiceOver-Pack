@@ -1,0 +1,8 @@
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_00_narrator.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_01_T.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_02_narrator.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_03_npc_m.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_04_T.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_05_npc_m.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_06_T.mp3'
+file 'F:/gry/h3-Chro-Hdmod(modowanie)/plugin/H3ButtonPlugin/tools/audio_final/segments_46/segment_07_narrator.mp3'

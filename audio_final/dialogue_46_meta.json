@@ -1,0 +1,46 @@
+{
+  "id": 46,
+  "voices": [
+    "T",
+    "npc_m",
+    "T",
+    "npc_m",
+    "T"
+  ],
+  "segments": [
+    {
+      "voice": "narrator",
+      "text": "Sprowadzono przed twoje oblicze jakiegoś nieszczęśnika. Wygląda, jakby od dłuższego czasu ukrywał się w lesie i przymierał głodem, co można poznać bo jego wychudzonych żebrach. Żołnierz, który sprowadził tego oberwańca, mówi, że biedak podejrzanie kręcił się wokół obozu."
+    },
+    {
+      "voice": "T",
+      "text": "Kim jesteś?"
+    },
+    {
+      "voice": "narrator",
+      "text": "pytasz."
+    },
+    {
+      "voice": "npc_m",
+      "text": "Jestem bardem, królu."
+    },
+    {
+      "voice": "T",
+      "text": "Nie jestem królem."
+    },
+    {
+      "voice": "npc_m",
+      "text": "Z tego co wiem jesteś. Mówi się tez że chronisz nas bardów przed prawem królów-magów w zamian za nasze opowieści."
+    },
+    {
+      "voice": "T",
+      "text": "To prawda."
+    },
+    {
+      "voice": "narrator",
+      "text": "odpowiadasz z trudem opanowując emocje. A więc stary bard, który umarł w twoich ramionach, nie był ostatnim. Historia twojego ludu nie jest jeszcze stracona!"
+    }
+  ],
+  "total_chars": 608,
+  "output_file": "audio_final\\dialogue_46.mp3"
+}

@@ -1,0 +1,979 @@
+TEKSTY DO AUDIO - Woj_bmp_campaign_texts_ab
+======================================================================
+
+
+### SKIP ###
+
+# [  0] Wojownicy Pustkowi
+
+### NARRATOR ###
+
+  [  1] Zanim Tarnum stał się Nieśmiertelnym Bohaterem, był barbarzyńcą który zrzucił ka...
+  [  2] Misja: pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.
+  [  3] Wiedząc, jak się to wszystko zaczęło, lepiej zrozumiesz Tarnuma, wybory, jakich ...
+  [  4] Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.
+  [  5] Pokonawszy Rabaka, Tarnum sam obwołał się królem barbarzyńców - tego tytułu nie ...
+  [  6] Misja: Zdobądź Fortecę w ciągu 3 miesięcy, nie tracąc przy tym Tarnuma.
+  [  7] Lud barbarzyńców zachował swoją tożsamość i tradycję tylko dzięki bardom, choć p...
+  [  8] Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.
+  [  9] Chociaż Błotne Ziemie pozostawały pod władzą królów-magów, nawet oni nie byli w ...
+  [ 10] Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.
+  [ 11] Rozległy łańcuch górski nazywany Blankami oddziela barbarzyńskie stepy od Cesars...
+  [ 12] Misja: Zajmij Twierdzę, nie tracąc przy tym Tarnuma.
+  [ 13] Gdy Tarnum i jego horda przekroczyli Blanki, okazało się, że magowie są przygoto...
+  [ 14] Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.
+  [ 15] Lata zmagań, strata wszystkich których kochał i niespodziewana zdrada przywiodły...
+  [ 16] Misja: Zdobądź zamek Steelhorn, nie tracąc przy tym Tarnuma.
+  [ 17] Przerażeni brutalnym i krwawym rozwojem walk, kapitanowie Tarnuma wspólnie zażąd...
+  [ 18] Zdobywszy warownię Steelhorn, Tarnum wstrząsnął potęgą królów-magów, lecz jego t...
+
+### SKIP ###
+
+# [ 19] Król Barbarzyńców
+
+### NARRATOR ###
+
+  [ 20] Aby obwołać się królem barbarzyńców, Tarnum musi pokonać obecnego przywódcę klan...
+
+### SKIP ###
+
+# [ 21] Nowi rekruci
+
+### NARRATOR ###
+
+  [ 22] Twoja harda odpowiedź na ultimatum Rabaka musiała odbić się po okolicy szerokim ...
+  [ 23] Ah, wiedziałem, że nadejdziesz. Jeżeli chcesz zostać Królem, będziesz potrzebowa...
+  [ 24] Nie udało ci się znaleźć 50 wilczych jeźdźców? Chyba niespecjalnie chcesz zostać...
+  [ 25] Wreszcie, 50 wilczych jeźdźców zapewni mi bezpieczeństwo! Oto twoja zapłata. Pow...
+  [ 26] Bogato zdobiony portal aż trzeszczy i skrzy się od magii. Słyszałeś, że niekiedy...
+  [ 27] Te ziemie należą do Rabaka i jego klanu. Przez barbarzyńcow są uznawane za bogat...
+  [ 28] Słyszałeś, ze ta położona na uboczu wyspa była schronieniem czarowników, którzy ...
+  [ 29] Z pomiędzy szczytów drzew niespodziewanie wyskakuje banda żądnych krwi  obsydian...
+  [ 30] Tarnum jest młodym barbarzyńcą, który całe życie spędził w niewoli u królów-magó...
+
+### SKIP ###
+
+# [ 31] Stary Bard
+
+### NARRATOR ###
+
+  [ 32] W twoją stronę kuśtyka starzec, płosząc po drodze kilka owiec i wpada wprost w t...
+
+### SKIP ###
+
+# [ 33] Armia Jarga
+
+### NARRATOR ###
+
+  [ 34] Twoi rodacy nie zawsze byli niewolnikami cesarstwa Bracaduun. Dawno temu jeden z...
+
+### NPC_M ###
+
+  [ 35] Myślałeś, że twoi pobratymcy będą zafascynowani historią Jarga, podobnie jak ty....
+
+### NARRATOR ###
+
+  [ 36] Jeden z kapitanów zauważa, że będziesz potrzebował bardzo dużo złota, jeśli zami...
+  [ 37] Jedząc posiłek wspólnie ze swymi żołnierzami usłyszałeś, jak jeden z nich mówił,...
+
+### NPC_M ###
+
+  [ 38] "Zbieraj wszystkie zasoby, mój panie", przypomina jeden z doradców. To prawda ar...
+
+### NARRATOR ###
+
+  [ 39] Wieści o twoich zwycięstwach rozchodzą się niczym ogień, a zwiadowcy powracający...
+
+### SKIP ###
+
+# [ 40] Opowiedz mi historię
+
+### NPC_M ###
+
+  [ 41] "Co wiesz o naszej historii?" pytasz starszego wojownika siedzącego po przeciwne...
+
+### SKIP ###
+
+# [ 42] Opowieści Barda
+
+### NARRATOR ###
+
+  [ 43] Siedząc samotnie, w nocy rozmyślałeś nad tragiczną utratą własnej tożsamości prz...
+
+### SKIP ###
+
+# [ 44] Szukając Lidera
+
+### NARRATOR ###
+
+  [ 45] Ostatnio twoje imię jest na ustach wszystkich. Niektórzy mówią, że jesteś awantu...
+
+### NPC_M ###
+
+  [ 46] Sprowadzono przed twoje oblicze jakiegoś nieszczęśnika. Wygląda, jakby od dłuższ...
+  [ 47] Gdy pod koniec dnia po długim marszu zdjąłeś zbroje, z cienia wyskoczyła ciemna ...
+
+### SKIP ###
+
+# [ 48] Czterech Bardów
+
+### NPC_M ###
+
+  [ 49] W ciągu ostatnich kilku dni zgłosiło się kolejnych trzech bardów, ale niestety t...
+
+### SKIP ###
+
+# [ 50] Król Barbarzyńców
+
+### NPC_M ###
+
+  [ 51] Siedząc z bardami, słuchasz ich opowieści o Jargu i o tym, jak podbił ziemie leż...
+  [ 52] Jeden z kapitanów poinformował cię, że przybył właśnie posłaniec od przywódcy kl...
+
+### SKIP ###
+
+# [ 53] Król przestępca
+
+### NARRATOR ###
+
+  [ 54] Królowie magowie ogłosili Tarnuma przestępcą, teraz trzy fortece zbierają siły, ...
+
+### NPC_M ###
+
+  [ 55] Na polowaniu pokonałeś jedną ręka behemota, potwierdzając swoja krzepę.  Ku twoj...
+
+### SKIP ###
+
+# [ 56] Zdrajcy nie zasługują na pogrzeb!!
+
+### NARRATOR ###
+
+  [ 57] Rozciągająca się przed tobą dolina była świadkiem wielu powstań. Tysiące stracił...
+  [ 58] Zasadzka!!  Z zarośli wyłaniają się wrogowie zamierzający cię zabić, ale twoje s...
+  [ 59] Na głazie w pozycji siedzącej spoczywają zmumifikowane zwłoki starego wojownika,...
+  [ 60] Na ziemi znajdujesz worek złota, podnosisz go i rzucasz najbliższemu kapitanowi ...
+  [ 61] To ważna budowla dla każdego miasta, gdyż nawet mały jej fragment przyciąga odwi...
+
+### SKIP ###
+
+# [ 62] Skaliste jaskienie
+
+### NARRATOR ###
+
+  [ 63] Czarodziej stworzyli teleporty, by szybciej podróżować przez Pustkowia, ale odkr...
+  [ 64] To musi być ukryta dolina, o ktorej opowiadali Bardowie.
+  [ 65] Zdołałeś zapewnić chwilowe bezpieczeństwo swym ziemiom, umieszczając kilka oddzi...
+
+### SKIP ###
+
+# [ 66] Oko magika
+
+### NPC_M ###
+
+  [ 67] "Przeszukaj chatę, może znajdziesz oko magika, mój królu", podpowiada jeden z do...
+  [ 68] "Musimy się też bronić, panie", mówi twój ulubiony doradca i przyjaciel, Hardack...
+  [ 69] "Wiem, że walcząc o życie, człowiek może być nieco roztargniony", zażartował Har...
+
+### SKIP ###
+
+# [ 70] Ukryte złoto
+
+### NARRATOR ###
+
+  [ 71] Tworzenie armii wymaga zawsze bardzo dużo złota. Starsi mieszkańcy tych stron tw...
+
+### NPC_M ###
+
+  [ 72] Otrzymałeś wiadomość przywiązaną do nogi szkarłatnego ptaka. To nie przypadek - ...
+
+### NARRATOR ###
+
+  [ 73] Po raz kolejny musisz podziękować Bardom za ich wiedzę.  Żyła niegdyś w tych str...
+
+### SKIP ###
+
+# [ 74] Koszary goblinów
+
+### NPC_M ###
+
+  [ 75] "Nie zapomnij każdego tygodnia werbować oddziałów w miejscach takich, jak koszar...
+
+### NARRATOR ###
+
+  [ 76] Forgar, jeden z twoich najbardziej doświadczonych kapitanów, radzi, byś zebrał w...
+
+### SKIP ###
+
+# [ 77] Samotny kapitan
+
+### NARRATOR ###
+
+  [ 78] Samotny, zakrwawiony goblin wraca z misji zwiadowczej ze straszną nowiną. Fograr...
+
+### NPC_M ###
+
+  [ 79] Twój przyjaciel Hardac, sprowadził ostatniej nocy do twojego namiotu młodego woj...
+  [ 80] Zgodnie ze starym zwyczajem Król Barbarzyńców musi raz do roku odwiedzić jasnowi...
+
+### NARRATOR ###
+
+  [ 81] Usmiechasz się na wieśc o tym, że czarownicy zaatakowali odległa wioske. Twoja p...
+  [ 82] Zły czarownik Kurl uwięził czterech ostatnich Bardów i grozi, że zabije ich w ci...
+
+### SKIP ###
+
+# [ 83] Supplies 1
+# [ 84] Supplies 2
+# [ 85] supplies 3
+# [ 86] Supplies 4
+# [ 87] Koniec Gry
+
+### NARRATOR ###
+
+  [ 88] Descendent of the great Barbarian King Jarg, he despises his heritage and does e...
+  [ 89] Chwilowy odpoczynek w przydrożnej gospodzie przynosi ci okazję do wymienienia no...
+  [ 90] Stara wiedźma, wyglądająca tak jakby oczekiwała twojego przybycia, wciska ci do ...
+  [ 91] Błysk szaleństwa w oczach starożytnych behemotów informuje cię, że są we władzy ...
+
+### NPC_M ###
+
+  [ 92] "Cofnij się, mały człowieku! To złoto cyklopów - nie posłuży twojej śmiesznej, m...
+
+### NARRATOR ###
+
+  [ 93] Za tymi strażnikami leży przejście wiodące do twojej ziemi, które zaoszczędzi ci...
+  [ 94] Stara wiedźma, wyglądająca tak jakby oczekiwała twojego przybycia, wciska ci do ...
+  [ 95] Ci żołnierze powiewają sztandarem Kurla, bez wątpienia to jednostka strażnicza, ...
+  [ 96] Za ta bramą graniczną leży ziemia Kurla. Z pewnością przygotował się na twoje pr...
+  [ 97] Gdy zbliżasz się do magicznego bożka fortuny, otaczająca go ziemia zaczyna migot...
+
+### NPC_M ###
+
+  [ 98] Wraca zwiadowca, który ledwie uszedł z życiem z terenu wroga.  "Mój Królu," odzy...
+
+### NARRATOR ###
+
+  [ 99] Zarządzasz postój, by spożyć posiłek i przy okazji zabawić się zapasami. Wszyscy...
+  [100] Hardac, twój doradca, mówi, że przed każdą ważną bitwą warto odwiedzać pobojowis...
+
+### SKIP ###
+
+# [101] Gniazdo roków
+
+### NPC_M ###
+
+  [102] "Mamy szczęście, mój Królu!" woła Hardac.  Z miasta przyszły nowiny o odnalezien...
+
+### SKIP ###
+
+# [103] Nowi rekruci
+
+### NPC_M ###
+
+  [104] Dziś do miasta przybyła oddziały pragnące przyłączyć się do walki przeciw Kurlow...
+
+### SKIP ###
+
+# [105] Nawigacja na lądzie
+
+### NARRATOR ###
+
+  [106] Kurl dobrze wybrał miejsce na swoją twierdze. Ten nierówny teren jest trudny do ...
+
+### NPC_M ###
+
+  [107] "Nie powinieneś zaprzątać sobie głowy gromadzeniem zasobów i  oddziałów, mój Kró...
+
+### NARRATOR ###
+
+  [108] Czasu rzeczywiście nie mamy wiele, a trzeba pokonać daleką drogę. Hardac radzi, ...
+
+### NPC_M ###
+
+  [109] "Królu Tarnumie," mówi twój doradca, Hardac, "Spotkałem na drodze człowieka ze ś...
+
+### SKIP ###
+
+# [110] Rozwijanie kapitanów
+
+### NARRATOR ###
+
+  [111] I znów Hardac udzielił ci dobrej rady. Zaproponował by dobrze wytrenować wszystk...
+
+### NPC_M ###
+
+  [112] Przybył szpieg przynosząc straszne wieści.  Z niecierpliwości albo może jako ost...
+  [113] Zwiadowca przynosi ulotkę, która znalazła się w nocy na drzwiach wszystkich domó...
+
+### SKIP ###
+
+# [114] List o śmierci Barda
+
+### NARRATOR ###
+
+  [115] List Kurla, informujący o śmierci najstarszego Barda, podkopał zaufanie twych lu...
+
+### SKIP ###
+
+# [116] Kamień wiedzy
+
+### NPC_M ###
+
+  [117] W czasie wieczornego posiłku w towarzystwie żołnierzy zwróciły twoją uwagę słowa...
+
+### SKIP ###
+
+# [118] Obóz najemników
+
+### NPC_M ###
+
+  [119] I znów ten posiwiały goblin, który okrzyknął się twoim doradcą (śmiechu warte), ...
+
+### SKIP ###
+
+# [120] Powrót uciekinierów
+
+### NARRATOR ###
+
+  [121] Ci, którzy opuścili twój obóz po zabiciu najstarszego barda, zdali sobie wreszci...
+
+### SKIP ###
+
+# [122] Bitwa o bagna
+
+### NARRATOR ###
+
+  [123] By wzmocnić swoja armię, Tarnum musi podbić sąsiednią krainę. Wykorzystując trwa...
+
+### SKIP ###
+
+# [124] Bagna - na północ
+# [125] Powrót Yalli
+
+### NPC_F ###
+
+  [126] Tym razem wojowniczka Yalla wróciła prowadząc ze sobą bandę zbiegłych przestępcó...
+
+### NARRATOR ###
+
+  [127] Ach, spodziewałam się kogoś, ale nie ciebie! Kości powiedziały, że przybędzie ja...
+  [128] Nie masz pierścienia co? Ale na pewno w krótce go znajdziesz. Próbuj dalej.
+  [129] Pierścień życia!  Czuję, że jest w pobliżu... daj mi go proszę, a ja oddam ci w ...
+  [130] Odpoczywając przy drodze zauważasz dużego kocura, który wspina się na drzewo z w...
+  [131] Trzymaj się z dala! Na tym terenie mieszka szalona kobieta i naszym obowiązkiem ...
+  [132] Odnajduszesz przypadkiem oślepłą i bardzo stają kobietę, która umiera w samotnoś...
+  [133] Widzisz maga, który co sił w nogach ucieka przed smokiem. Mag otwiera magiczny p...
+  [134] Natrafiasz na zadbaną chatkę starego pustelnika. Słysząc o twej misji pustelnik ...
+  [135] Do zaginionej kopalni złota.
+  [136] Uwalniasz pobliskie wioski od ohydnego minotaura, który już od dłuższego czasu z...
+  [137] No cóż, rzeczywiście zakładanie się z tytanem nie było zbyt rozsądne, nie musisz...
+
+### SKIP ###
+
+# [138] Jeszcze nie masz złota to się pośpiesz!
+
+### NARRATOR ###
+
+  [139] Wreszcie! Zdążyłeś na czas. Przypuszczam, że tytan zamierza zrobić cos złego moi...
+  [140] To przejście wiedzie do niebezpiecznych wąwozów, znanych jako ojczyzna morderców...
+
+### NPC_M ###
+
+  [141] Właśnie zastanawiałeś się nad wizytą w pobliskiej tawernie, gdy spomiędzy drzew ...
+  [142] Twoje oddziały zostały niemal unieruchomione przez szczególnie bagnisty teren. J...
+
+### NARRATOR ###
+
+  [143] Kamienny posąg wojownika dzierży srebrną tarcze. Kiedy zabierasz tarczę posąg mo...
+  [144] Zaginiona kopalnia złota - strzeż się WIELKICH węży!
+
+### NPC_M ###
+
+  [145] Stojąc z kapitanem nad mapą bagien naszkicowana na piasku planujesz strategię da...
+
+### NPC_F ###
+
+  [146] "Szukaj chat jasnowidzów", mówi mądra kobieta, którą spotkałeś tego ranka przed ...
+
+### SKIP ###
+
+# [147] Bramy graniczne
+
+### NARRATOR ###
+
+  [148] Bardowie informują cię, że wiele lat temu wybudowano trzy bramy graniczne, by od...
+  [149] W czasie rutynowej narady jeden z kapitanów przypomina, że trzeba zadbać o cotyg...
+  [150] Nazywa się Yalla. przybyła do twojego obozu prowadząc kilka owiec, ale gdy tylko...
+
+### SKIP ###
+
+# [151] szpieg Yalla
+
+### TARNUM ###
+
+  [152] Yalla znów odwiedziła twój obóz. Tym razem miała na sprzedaż informacje, więc za...
+
+### NPC_M ###
+
+  [153] "Panie, panie", krzyczy posiwiały goblin, który mianował się twoim doradcą.  "Ta...
+
+### NPC_F ###
+
+  [154] Każdej nocy odczuwasz niepokój przemierzając obóz w oczekiwaniu na przybycie pię...
+
+### SKIP ###
+
+# [155] Odejście Yalli
+
+### NARRATOR ###
+
+  [156] Yalla odeszła, nim się obudziłeś. Tym razem nie dała ci okazji, byś spróbował ją...
+
+### NPC_M ###
+
+  [157] Zostałeś wezwany do dobrze strzeżonych wozów ze złotem i ze zdziwieniem znalazłe...
+
+### SKIP ###
+
+# [158] Handel surowcami
+
+### NPC_M ###
+
+  [159] Twój zaufany doradca, Hardac, przyszedł dziś z niewesoła miną.  "Dlaczego nigdy ...
+
+### SKIP ###
+
+# [160] Namawianie Yalli by została
+
+### NPC_M ###
+
+  [161] Spędziłeś kolejny wspaniały dzień z Yallą i nie wyobrażasz sobie większego szczę...
+
+### SKIP ###
+
+# [162] Zaginięcie Yalli
+
+### NARRATOR ###
+
+  [163] Podczas ostatniej wizyty Yalla obiecała, że wróci za kilka dni. Minęło ich już d...
+  [164] Świeżo przybyły zwiadowca nerwowa przekazuje ci złe wieści.  Czarownicy Baracadu...
+
+### SKIP ###
+
+# [165] Bitwa o Blanki
+
+### NARRATOR ###
+
+  [166] Tarnum musi jakoś utorować sobie drogę w tym ciężko ufortyfikowanym regionie i p...
+
+### SKIP ###
+
+# [167] Portal of Glory
+# [168] take resources
+# [169] take again
+# [170] Portal of Glory
+# [171] Raider's Plateau
+
+### NARRATOR ###
+
+  [172] Witamy w Imperium Bracaduun! Kraina Magicznego Piękna & Pięknej Magii
+  [173] Wchodzisz na teren Blanków. Tylko dla upoważnionych podróżnych! Przejście bez pa...
+
+### NPC_M ###
+
+  [174] Drogę niespodziewanie zasypuje ci tytan, który butnie oznajmia, "Daj mi 5000 szt...
+
+### NARRATOR ###
+
+  [175] Może pomożesz starej kobiecie, co? Ostatnio jestem zbyt słaba, by podróżować w p...
+  [176] Nie przeszkadzają mi twoje wizyty, ale wciąż potrzebuje klepsydry diabelskiej go...
+  [177] Och, co z ciebie zam iły młodzieniec! Bardzo ci dziękuje. A co do nagrody, czy 1...
+  [178] Tak jak powiedział Bard, Gladius Tytanów został porzucony dawno temu, podczas st...
+
+### NPC_M ###
+
+  [179] Jeden z Bardów zbliżył się do ciebie.  "Mój Królu, rozpoznaje to miejsce. Wiele ...
+
+### NARRATOR ###
+
+  [180] Twoja armia zostaje niespodziewanie zaatakowana przez niewielką bandę orków (doś...
+  [181] Znajdujesz spory kufer wykonany z nieznanego ci metalu. Kiedy go dotykasz z kufr...
+  [182] Dobrze słyszałeś, mam Hełm Gromu. I nie, nie sprzedam go! Będziesz musiał wydrze...
+  [183] Mówiłem że go nie sprzedam! Przynieś mi lepiej hełm piekielnego sztormu, ty ośle...
+  [184] Ooo! Hełm piekielnego sztormu jest znacznie ładniejszy niż to stare żelastwo. Ma...
+  [185] Pośród resztek spalonej na stosie czarownicy dostrzegasz pięknie wykonany amulet...
+  [186] Spotykasz wędrowca, który wyciąga talię kart i prosi cię byś wybrał jedną. Odmaw...
+
+### NPC_M ###
+
+  [187] Od strony rozpalonego słońcem horyzontu zbliża się grupa rycerzy, dawno temu zag...
+
+### NARRATOR ###
+
+  [188] Zupełnie przypadkiem jedna z twoich ludzi znalazł skrzynię zagrzebaną w piasku. ...
+  [189] Odwiedzając lokalnego mędrca opowiadasz o swojej misji. Mędrzec sięga do stojące...
+  [190] Na drodze czeka na ciebie mała grupa żołnierzy wroga, ale gdy się do nich zbliża...
+
+### NPC_M ###
+
+  [191] "Uwaga" , mówi doradca, gdy zbliżacie się do monolitu. "Znaki na tym portalu inf...
+
+### NARRATOR ###
+
+  [192] Niedawny zawał odkrył trochę klejnotów i złota na zboczu góry. Zatrzymałeś oddzi...
+  [193] Drżący krzak ostrzega cię przed atakiem na kilka sekund, zanim to nastąpi. Ostrz...
+  [194] Natknąłeś się na mały krąg kolorowych wozów obozujących nad rzeką. To są Cyganie...
+  [195] Przed tobą wysokie, kamienne mury zamku. Nigdy więcej nie widziałeś tak świetnie...
+  [196] Kopiąc groby dla kilku zmarłych, twoi ludzie natknęli się na zakopany skarb (pra...
+
+### SKIP ###
+
+# [197] Piorun Tytana
+
+### NPC_M ###
+
+  [198] Obudził cię szaman. "Miałem sen, mój Królu! Sen o twej śmierci, o tym że nasi wr...
+
+### SKIP ###
+
+# [199] Części Pioruna Tytana
+
+### NPC_M ###
+
+  [200] Wizyta u miejscowej czarownicy okazała się pożyteczna. Nie dość, że od ręki ulec...
+
+### NARRATOR ###
+
+  [201] Miesiące bezustannej walki nauczyły cię być gotowym do bitwy w każdej chwili. Na...
+
+### NPC_M ###
+
+  [202] Postanowiłeś spożyć posiłek samotnie w swoim namiocie, więc na widok swojego dor...
+
+### NARRATOR ###
+
+  [203] Nic, nawet wspomnienie dawnych zwycięstw, nie przynosi ci radości. Wciąż słyszys...
+  [204] Długo konferowałeś z Bardami na temat historii Blanków, a szczególnie walk w tym...
+  [205] Według najświeższych raportów zaatakowano wozy z dostawami. Wróg pojawił się dos...
+
+### SKIP ###
+
+# [206] Raider's Plateau
+
+### NARRATOR ###
+
+  [207] Siedząc przy wieczornym posiłku słuchasz, jak jeden z wojowników opowiada o taje...
+
+### SKIP ###
+
+# [208] Zemsta i żale
+
+### NPC_F ###
+
+  [209] Doszło do tego, że nawet niektórzy z dowódców zaczynają poddawać w wątpliwość tw...
+
+### SKIP ###
+
+# [210] Ponowna kradzierz
+
+### NARRATOR ###
+
+  [211] Znowu uderzono na linie zaopatrzenia twojej armii. To nie była zwykła zasadzka. ...
+
+### SKIP ###
+
+# [212] Syn Hardaca
+
+### NARRATOR ###
+
+  [213] Dzisiaj awansowałeś najstarszego syna Hardaca, Tordaca, na kapitana. Ten młody w...
+
+### NPC_M ###
+
+  [214] To był fatalny dzień.  Musiałeś zabić przywódcę orków, który walczył u twojego b...
+
+### SKIP ###
+
+# [215] Trzeci rabunek
+
+### NARRATOR ###
+
+  [216] Do obozu przybył ledwie żywy żołnierz. Przyniósł informacje o kolejnej zasadzce....
+
+### SKIP ###
+
+# [217] Pułapka Tordaca
+
+### NPC_M ###
+
+  [218] Zasadzki stały się twoim utrapieniem, zebrałeś więc kapitanów i doradców, aby sp...
+
+### SKIP ###
+
+# [219] Wysoka cena zwycięstwa
+
+### NPC_M ###
+
+  [220] Przybyła para ogrów wioząc między sobą ciało syna Hardaca, Tordaca. Pułapka okaz...
+
+### SKIP ###
+
+# [221] W pułapce!
+
+### NARRATOR ###
+
+  [222] Tarnum przebił się przez Blanki, ale w krótce zdał sobie sprawę, że jest w pułap...
+
+### NPC_M ###
+
+  [223] Strażnicy krzyczą: "To przejście jest otwarte tylko dla prześwietnego Tarnuma!"
+  [224] "To naprawdę ty, panie?" pyta kapitan straży. "Słyszałem, że masz przeszło dwa m...
+
+### SKIP ###
+
+# [225] Mała wioska Terray's
+
+### NARRATOR ###
+
+  [226] Na zachód - Blanki i Dzikie pustkowia    Na wschód - Cesarstwo Baracaduun
+  [227] Dźwięki bitwy przywabiają cię do miejsca, gdzie widzisz walkę między starym barb...
+  [228] Na zewnątrz sanktuarium modli się grupa zelotów. Na szyi ich przywódcy wisi znak...
+  [229] Biwakuje tu banda wędrownych Mistrzów. Wspinają się, widząc, jak się zbliżasz, a...
+  [230] Powietrze wokół ciebie załamuje się, przecierasz więc oczy dochodząc do wniosku,...
+  [231] Bandyci!  Ci brutalni mordercy nie mają zamiaru dyskutować. Wyciągają broń i nat...
+  [232] Widzisz złoty łuk zwisający z gałęzi drzewa, ale nie możesz go po prostu zabrać....
+
+### NPC_M ###
+
+  [233] "Z rozkazu cesarstwa, ci niebezpieczni buntownicy maja pozostać więźniami  w loc...
+
+### NARRATOR ###
+
+  [234] Jeden ze strażników przy bramie informuje cię, że nie zdołał zamknąć bramy dość ...
+
+### SKIP ###
+
+# [235] Po pułapce
+
+### NARRATOR ###
+
+  [236] Wyczerpana grupa twoich żołnierzy z tylnych straży przynosi straszną nowinę. Wie...
+
+### SKIP ###
+
+# [237] Przejście bezpieczne
+
+### NARRATOR ###
+
+  [238] Przybyły wieści od barbarzyńskich rebeliantów wiernych twojej sprawie. Zajęli pr...
+
+### NPC_M ###
+
+  [239] "Wszystko co musimy teraz zrobić", mówi twój doradca, Hardac "To przedostać się ...
+
+### NARRATOR ###
+
+  [240] Nie doceniłeś potęgi królów-magów Baracaduun. Do tej pory zwyciężałeś często. Ni...
+  [241] Przebudziłeś się, Twoje ciało jest ociężałe, długie włosy mokre od potu przylgnę...
+
+### SKIP ###
+
+# [242] Nowy kapitan
+
+### NARRATOR ###
+
+  [243] Z ociąganiem mianujesz następcę syna Hardaca. Twój wybór padł na ognistego ogra ...
+  [244] Jak to się stało, że jesteś oddzielony od swojej armii?  Krążysz po zamglonych b...
+
+### SKIP ###
+
+# [245] Rzeź Bloodclub
+
+### NPC_M ###
+
+  [246] Hardac wszedł do twojego namiotu z ponurą minę. Czekasz na nowiny.   "Chodzi o B...
+  [247] Dziś wrócił ze swej misji Bloodclub i natychmiast pojawił się w twoim namiocie. ...
+  [248] "To wszystko, co zamierzasz zrobić w tej sprawie, mój królu? Blodclub wyruszył d...
+  [249] Hardac wrócił ze zwiadu akurat w porze twojego lunchu. Gdy zsiadł z konia, zauwa...
+  [250] Jedna z grup zwiadowczych wróciła dzisiaj bez dowódcy, Bloodcluba. Gdy pytasz, c...
+
+### SKIP ###
+
+# [251] Ciało Bloodcluba
+
+### NARRATOR ###
+
+  [252] Grupa żołnierzy wróciła z puszczy niosąc ciało kapitana Bloodcluba. Po dokładnyc...
+  [253] Pole walki.  Widziałeś ich już tak wiele, że potrafisz w mgnieniu oka ocenić syt...
+
+### SKIP ###
+
+# [254] Rozmowa z  Hardaciem
+
+### TARNUM ###
+
+  [255] Tego ranka ty i Hardac wjechaliście na szczyt wzgórza, aby rozejrzeć się po okol...
+
+### SKIP ###
+
+# [256] Ogniem i mieczem
+
+### NARRATOR ###
+
+  [257] Straciwszy większość hordy w pułapce czarodziejów, Tarnum poszukuje sojuszników ...
+
+### NPC_M ###
+
+  [258] "Błagam", krzyczy jeden z wieśniaków. "To wszystko co mamy. Błagam, nie zabieraj...
+  [259] Nie długo po tym, jak twoja armia spaliła opuszczoną wioskę, odkrywasz grupę uch...
+  [260] Z jaskiń wychodzi grupa zmęczonych, rozwścieczonych górników. W rękach trzymają ...
+  [261] Grupa chłopstwa zagradza przejście, ale gdy cię rozpoznają, próbują usunąć się n...
+  [262] Duża grupa wolno posuwa się po bagnistym terenie.  "Kolejna banda tych cherlawyc...
+  [263] Przed pobliska wioską stoi grupa wieśniaków z widłami. Ich przywódca występuje n...
+  [264] Zwiadowcy donoszą, że w pobliskich zaroślach dostrzeżono obozowe ogniska. Być mo...
+  [265] Podążasz ślepo ze swą armią, nie zauważyłbyś rozwścieczonej grupy wieśniaków kry...
+
+### NARRATOR ###
+
+  [266] Twoi ludzie wytropili w tym surowym terenie grupę chłopów, którzy teraz znaleźli...
+  [267] Grupa barbarzyńskich zdrajców przybyła do magicznego ołtarza, aby się modlić o p...
+
+### NPC_M ###
+
+  [268] Przed tobą duża grupa popleczników królów-magów. Najwyraźniej sądzą, że w dużej ...
+
+### NARRATOR ###
+
+  [269] Duża grupa chłopów wychodzi z pobliskiego miasta niosąc na plecach swój skąpy do...
+  [270] Obecnie królowie-magowie przygotowywaną się do kolejnego ataku. Być może uda ci ...
+
+### SKIP ###
+
+# [271] Spalić wszystko!
+
+### NPC_M ###
+
+  [272] Dziś rano wydałeś wszystkim kapitanom następujący rozkaz:  "Spalić wszystko! Nie...
+
+### NARRATOR ###
+
+  [273] Wszędzie płoną wioski, ale twoi zwiadowcy donoszą, że duża liczba uchodźców prze...
+  [274] Wcześniej wysłałeś niewielką grupę, by zniszczyła pobliską wioskę, ale twoi żołn...
+
+### NPC_M ###
+
+  [275] Tropiciele wrócili prowadząc zaginioną jednostkę pod dowództwem kapitana dowódcó...
+
+### NARRATOR ###
+
+  [276] Dezerter! Jeden z kapitanów. Trzeba to załatwić szybko i bez litości albo inni w...
+  [277] Odwiedziwszy dymiące zgliszcza wioski zamieszkiwanej przez zdrajców, którzy zost...
+
+### SKIP ###
+
+# [278] Rodzinny koszmar
+
+### NARRATOR ###
+
+  [279] Masz wrażenie, że już to wcześniej widziałeś. Potworny sen, który właściwie jest...
+
+### SKIP ###
+
+# [280] Powrót zbiegów
+
+### NPC_M ###
+
+  [281] Hardac wrócił prowadząc goblina dezertera, Derga, w łańcuchach. Derg ma wciąż pr...
+
+### SKIP ###
+
+# [282] Problem z kapitanami
+
+### NPC_M ###
+
+  [283] Narady strategiczne są coraz cichsze, właściwie tylko ty mówisz przez większość ...
+
+### SKIP ###
+
+# [284] Pijacka walka
+
+### NPC_M ###
+
+  [285] Zamieszanie w przeciwległej części obozu zwróciło twoja uwagę na sprzeczkę międz...
+
+### SKIP ###
+
+# [286] Rebelia kapitanów
+
+### NPC_M ###
+
+  [287] W nocy wymknąłeś się z namiotu okrywszy się dla niepoznaki w czarne futro. Porus...
+  [288] "Tak dokonał wielkich czynów. i za to go kochamy. Ale teraz przesadza, to zbyt w...
+
+### SKIP ###
+
+# [289] Hardac mówi
+
+### NPC_M ###
+
+  [290] Do twojego namiotu wszedł Hardac. Jest późno - wszyscy poza strażnikami już śpią...
+
+### NARRATOR ###
+
+  [291] Tarnum wyparł królów-magów do oceanu. Teraz musi złamać ich ostatnie linie obron...
+
+### SKIP ###
+
+# [292] Uwaga na wyspę Nag
+# [293] Zamek Steelhorn
+
+### NPC_M ###
+
+  [294] Na drodze przed tobą dzieje się cos dziwnego. Samotny mężczyzna z łopatą kopie z...
+
+### NARRATOR ###
+
+  [295] Ogrzy szaman blokuje ci drogę okazują się uderzająco czarujący i prawie przekona...
+
+### NPC_M ###
+
+  [296] Samotny rycerz prowadzi grupę brudnych wieśniaków.  "Odłóżcie miecze", krzyczy r...
+  [297] Niemal wszyscy wieśniacy w tej okolicy musieli się zebrać, aby stanąć na drodze ...
+
+### NARRATOR ###
+
+  [298] Przed tobą rozciąga się ocean, ale pamiętaj, że królowie-magowie zawładnęli woda...
+
+### NPC_M ###
+
+  [299] Znalazłeś grupę kiepsko wyglądających górników obozujących przy drodze. Gdy twoj...
+
+### NARRATOR ###
+
+  [300] W czasie południowego odpoczynku jakiś nieuważny kuchcik zaprószył ogień. Żołnie...
+  [301] Nie wierzysz własnym oczom, ale ta magiczna kraina jest pełna cudów, które nie w...
+  [302] Na twoich oczach cała armia zmieniła się w kamień. W zimne, martwe kamienne posą...
+  [303] Przed tobą na ziemi leży skrzynia ze skarbem, najwyraźniej zapomniana przez ucie...
+  [304] Chyba zgubiłem przedmiot, który był dla mnie bardzo cenny, order męstwa, który d...
+  [305] Wracasz bez odznaki? A więc zapewne zginęła na zawsze!
+  [306] To ona! Och, wielkie dzięki!  Uczyniłeś wielka przysługę staremu człowiekowi. Po...
+  [307] Atak nadszedł od strony nisko sunących chmur, zupełnie zaskakując ciebie i twoic...
+
+### NPC_M ###
+
+  [308] Przy drodze rozbiła obóz banda nieokrzesanych najemników, jakby czekali na ciebi...
+
+### NARRATOR ###
+
+  [309] Widzisz żołnierzy odpoczywających po długim marszu, ale gdy podchodzisz, wyciąga...
+  [310] Nagle otacza cię mgła. Ledwie widzisz na odległość wyciągniętej ręki, ale wciąż ...
+  [311] Umieszczone na szczycie iglicy guano-plamy wystająca z wody są czymś, co wydaje ...
+
+### SKIP ###
+
+# [312] Później po zatruciu
+
+### NPC_M ###
+
+  [313] Sądziłeś, że część żołnierzy zdezerteruje lub zbuntuje się dowiedziawszy się o z...
+
+### SKIP ###
+
+# [314] Raport szpiegów
+
+### NARRATOR ###
+
+  [315] Szpiedzy donoszą, że między twoimi pozycjami a zamkiem Steelhorn są co najmniej ...
+
+### NPC_M ###
+
+  [316] Jak co dzień rano, pytasz o radę jasnowidza. Jasnowidz rzuca kości i patrzy na n...
+  [317] Jeden ze zwiadowców wrócił znad oceanu, gdzie robił rozpoznanie zamku Bracaduun ...
+
+### SKIP ###
+
+# [318] Imiona dzieci
+
+### NARRATOR ###
+
+  [319] Co najmniej pięćdziesięciu żołnierzy przybyło w ciągu ostatnich kilku miesięcy, ...
+
+### SKIP ###
+
+# [320] Znowu koszmar
+
+### NPC_M ###
+
+  [321] Znów ten sen.  TEN SEN - tak go nazywasz. Zawsze ten sam. Zawsze wszyscy, któryc...
+
+### SKIP ###
+
+# [322] Magiczne ziemie
+
+### NARRATOR ###
+
+  [323] Ludzie, mówią, że w tych rejonach nawet ziemia jest przesycona magią. Czarownicy...
+
+### NPC_M ###
+
+  [324] Ponieważ twoja horda straciła nieco na liczebności w ciągu kilku ostatnich miesi...
+
+### SKIP ###
+
+# [325] Stary goblin
+
+### NPC_M ###
+
+  [326] Zza drzew wyłania się znajomy, stary goblin - ten bezimienny, który sam mianował...
+
+### NARRATOR ###
+
+  [327] Dowiedziałeś się, ze miejsce, w którym się wychowałeś, zyskało na znaczeniu odką...
+
+### TARNUM ###
+
+  [328] Przybył dziś posłaniec od królów-magów. Kazałeś sprowadzić go przed swoje oblicz...
+
+### SKIP ###
+
+# [329] Znalezienie ojca
+
+### NPC_M ###
+
+  [330] Dziś zwiadowcy przyjechali wiodąc ze sobą starszego człowieka. Już gdy się zbliż...
+
+### SKIP ###
+
+# [331] Ostatnia wola ojca
+
+### NPC_M ###
+
+  [332] Ojciec leży w łóżku od pięciu dni i nie ma symptomów poprawy. Dzisiejszego ranka...
+
+### SKIP ###
+
+# [333] List od Goblina
+
+### NPC_M ###
+
+  [334] Jeden ze służących przyniósł wiadomość nabazgraną niezgrabnym pismem na materii ...
+
+### SKIP ###
+
+# [335] Nocna wizyta
+
+### NPC_M ###
+
+  [336] Budzi cię miękki hałas i otwierasz oczy, widzisz przed sobą czubek ostrza sztyle...
+
+### SKIP ###
+
+# [337] Nocna wizyta 2
+
+### NPC_M ###
+
+  [338] Sądząc, że gobelin odkrył, iż to ty byłeś tym, który nalał trucizny do pucharów ...
+
+### NARRATOR ###
+
+  [339] Koszmar zaczyna się podobnie, jak TEN SEN - twoja rodzina, Yalla, Hardac i twoi ...

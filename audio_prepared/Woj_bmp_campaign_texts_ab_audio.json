@@ -1,0 +1,3971 @@
+[
+  {
+    "id": 1,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 27,
+    "text": "Zanim Tarnum stał się Nieśmiertelnym Bohaterem, był barbarzyńcą który zrzucił kajdany niewolnictwa ze swego ludu. Oto jego opowieść, a zarazem jego upadek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 155
+  },
+  {
+    "id": 2,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 213,
+    "text": "Misja: pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 3,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 288,
+    "text": "Wiedząc, jak się to wszystko zaczęło, lepiej zrozumiesz Tarnuma, wybory, jakich dokonał, oraz powody, dla których Przodkowie Dali mu drugą szansę. Jego rodacy od pokoleń cierpieli w niewoli imperium Bracaduun i jego popleczników, ludzi takich, jak brutalny Rabak, który władał barbarzyńcami niczym król, lecz nie dbał o nich wcale.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 331
+  },
+  {
+    "id": 4,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 708,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 5,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 783,
+    "text": "Pokonawszy Rabaka, Tarnum sam obwołał się królem barbarzyńców - tego tytułu nie nosił nikt z jego ludu, odkąd imperium Bracaduun podbiło ziemie barbarzyńców. W oczach królów-magów był jednak tylko zbuntowanym robakiem, którego należało zmiażdżyć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 246
+  },
+  {
+    "id": 6,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 1118,
+    "text": "Misja: Zdobądź Fortecę w ciągu 3 miesięcy, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 71
+  },
+  {
+    "id": 7,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 1196,
+    "text": "Lud barbarzyńców zachował swoją tożsamość i tradycję tylko dzięki bardom, choć po wielu pokoleniach prześladowań pozostało ich już tylko czterech. Wiedząc, jak ważni są ci poeci, czarownik Kurl uwięził ich w swojej wieży jako zakładników - i za ich życie zażądał życia Tarnuma",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 276
+  },
+  {
+    "id": 8,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 1563,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 9,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 1638,
+    "text": "Chociaż Błotne Ziemie pozostawały pod władzą królów-magów, nawet oni nie byli w stanie w pełni kontrolować tych niestabilnych trzęsawisk. Tarnum ruszył więc ze swą armią przez błota w jednym tylko celu - by połączyć swe siły z wojskami Błotnych Ziem w jedną niezwyciężoną hordę, która wreszcie zdołałaby pokonać Cesarstwo Bracaduun.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 332
+  },
+  {
+    "id": 10,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2059,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 11,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2134,
+    "text": "Rozległy łańcuch górski nazywany Blankami oddziela barbarzyńskie stepy od Cesarstwa Baracaduun, a więc magowie na każdej przełęczy wybudowali zamek, aby zabezpieczyć swój kraj przed najazdem. Ufali, że żadna armia nie przedrze się przez Blanki. Tarnum udowodnił, że się mylą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 275
+  },
+  {
+    "id": 12,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2500,
+    "text": "Misja: Zajmij Twierdzę, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 52
+  },
+  {
+    "id": 13,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2559,
+    "text": "Gdy Tarnum i jego horda przekroczyli Blanki, okazało się, że magowie są przygotowani na ich przybycie. Zasadzka! Setki żołnierzy Tarnuma legły pod magiczną lawiną, a on pozostał sam - ranny i osaczony w kraju swych śmiertelnych wrogów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 235
+  },
+  {
+    "id": 14,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2882,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 15,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 2957,
+    "text": "Lata zmagań, strata wszystkich których kochał i niespodziewana zdrada przywiodły Tarnuma do tego mrocznego dna rozpaczy, gdy pozwolił, by zawładnęła nim wciekłość. Doszedł do wniosku, że jedynym sposobem zapewnienia bezpieczeństwa sobie i swojemu ludowi jest zlikwidowanie każdego, kto posługuje się czarami; co gorsza uznał, że kto nie jest z nim jest przeciw niemu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 367
+  },
+  {
+    "id": 16,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 3415,
+    "text": "Misja: Zdobądź zamek Steelhorn, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 60
+  },
+  {
+    "id": 17,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 3482,
+    "text": "Przerażeni brutalnym i krwawym rozwojem walk, kapitanowie Tarnuma wspólnie zażądali powrotu do domu. Lecz Tarnum nie mógł znieść ich zwątpienia, tak jak nie mógł zmusić ich do walki. Przy najbliższym posiłku ich racje były zatrute.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 231
+  },
+  {
+    "id": 18,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 3726,
+    "text": "Zdobywszy warownię Steelhorn, Tarnum wstrząsnął potęgą królów-magów, lecz jego tyrańskie rządy trwały krótko. Z ruin Cesarstwa Bracaduun wyrosło społeczeństwo Erathii i pewnego dnia ich król pokonał Tarnuma, wysyłając go pod osąd Przodków. Ale to już zupełnie inna historia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 274
+  },
+  {
+    "id": 20,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 4096,
+    "text": "Aby obwołać się królem barbarzyńców,\nTarnum musi pokonać obecnego przywódcę klanów Rabaka. Wszyscy bohaterowie są ograniczeni do 6 poziomu, ale Tarnum i jego najsilniejszy bohater przejdzie wraz z nim do kolejnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 226
+  },
+  {
+    "id": 22,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 25084,
+    "text": "Twoja harda odpowiedź na ultimatum Rabaka musiała odbić się po okolicy szerokim echem - kilka oddziałów wyszło z ukrycia, by dołączyć do twojej armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 150
+  },
+  {
+    "id": 23,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 25679,
+    "text": "Ah, wiedziałem, że nadejdziesz. Jeżeli chcesz zostać Królem, będziesz potrzebował solidnej broni. Dam ci ją ale najpierw musisz sprowadzić tu 50 wilczych jeźdźców, aby chronili mój dom.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 185
+  },
+  {
+    "id": 24,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 25868,
+    "text": "Nie udało ci się znaleźć 50 wilczych jeźdźców? Chyba niespecjalnie chcesz zostać Królem, hę?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 92
+  },
+  {
+    "id": 25,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 25964,
+    "text": "Wreszcie, 50 wilczych jeźdźców zapewni mi bezpieczeństwo! Oto twoja zapłata. Powodzenia!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 88
+  },
+  {
+    "id": 26,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 28557,
+    "text": "Bogato zdobiony portal aż trzeszczy i skrzy się od magii. Słyszałeś, że niekiedy królowie-magowie używają ich, by pokonywać duże odległości jednym krokiem. Chociaż nie ufasz magii, ten mały pokaz sztucznych ogni nie zawróci cię z raz wybranej ścieżki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 251
+  },
+  {
+    "id": 27,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 32094,
+    "text": "Te ziemie należą do Rabaka i jego klanu. Przez barbarzyńcow są uznawane za bogate w surowce - podobno dlatego, że Rabak jest tak dobrym przyjacielem magów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 155
+  },
+  {
+    "id": 28,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 32774,
+    "text": "Słyszałeś, ze ta położona na uboczu wyspa była schronieniem czarowników, którzy wdzierali się na ziemi barbarzyńców. Niespodziewany atak grupy gargulców zdaje się potwierdzać te opowieści.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 188
+  },
+  {
+    "id": 29,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 33145,
+    "text": "Z pomiędzy szczytów drzew niespodziewanie wyskakuje banda żądnych krwi  obsydianowych gargulców.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 96
+  },
+  {
+    "id": 30,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 33383,
+    "text": "Tarnum jest młodym barbarzyńcą, który całe życie spędził w niewoli u królów-magów z Bracaduun, ale zawsze marzył, że jego życie może być lepsze - powinno być lepsze.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 165
+  },
+  {
+    "id": 32,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 33593,
+    "text": "W twoją stronę kuśtyka starzec, płosząc po drodze kilka owiec i wpada wprost w twoje ramiona. Wówczas dopiero zauważasz strzałę w jego plecach. Jest osłabiony utrata krwi, ale gdy chwyta cię za rękę, nie możesz jej wyrwać.\n\nMówi że jest bardem, jednym z ostatnich jacy jeszcze zostali na świecie.\nTrudno w to uwierzyć biorąc pod uwagę, że strażnicy ustnej historii twojego ludu zostali wiele lat temu wyjęci spod prawa przez cesarstwo Bracaduun za rozpowszechnianie heroicznych opowieści podrywających barbarzyńców do zbrojnych powstań.\n\nNim umarł, stary bard zebrał siły, by opowiedzieć ostatnią w swoim życiu historię - prawdziwą historię twojego ludu, którą królowie-magowie próbowali ukryć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 694
+  },
+  {
+    "id": 34,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 34357,
+    "text": "Twoi rodacy nie zawsze byli niewolnikami cesarstwa Bracaduun. Dawno temu jeden z przodków twojego klanu, wielki wojownik imieniem Jarg, zebrał nieprzeliczone hordy i podbił całą ziemię od morza do morza - również Bracaduun.\n\nW miarę słów starca, twoje serce zaczęło bić coraz żywiej. To prawie jak w dziecięcych zabawach z lat młodości, gdy ukrywałeś się w leśnej głuszy z dala od wścibskich oczu. Z kijem zamiast miecza walczyłeś ze złymi czarownikami. Ale gdy dorosłeś, odrzuciłeś te gry jako dziecięce fantazje.\n\nA to się kiedyś stało. Stało się naprawdę!!\n\nAle wspominając obecnych przywódców klanów, nie możesz sobie wyobrazić, by ci zapici głupcy z obwisłymi brzuchami mogli prowadzić armię, a tym bardziej zwyciężać bitwy. Co stało się z odwagą twych rodaków?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 766
+  },
+  {
+    "id": 35,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 35192,
+    "text": "Myślałeś, że twoi pobratymcy będą zafascynowani historią Jarga, podobnie jak ty. Ale przywódca twego klanu tylko roześmiał się słysząc o Jargu i jego potężnej hordzie.\n\n\"Bajeczka dla dzieci!\", nazwał twoja historię. \"Opowiedziana przez dzieciaka\".\n\nKrew zawrzała ci w żyłach, gdy pozostali wybuchnęli śmiechem. To nie jest fantazja! To prawda!\n\n\"Co tym możesz wiedzieć, ty gruby goblinie!\", krzyknąłeś.\n\nTych słów nie można było cofnąć, ale tez nie zamierzałeś tego robić. Nawet wiedząc, że przeciwnik jest potężniejszy i bardziej doświadczony niż ty, nie poddałeś się, gdy przywódca wyzwał cię na pojedynek. Jarg tez by tego nie zrobił.\n\nI podobnie jak Jarg, znalazłeś sposób, by zwyciężyć mimo przeciwności, korzystając swej szybkości i siły wzmocnionej wściekłością, jakiej nigdy dotąd nie czułeś. Osłupiali członkowie klanów przyrzekli ci wierność jako swemu nowemu przywódcy.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Bajeczka dla dzieci!",
+          "voice": ""
+        },
+        {
+          "text": "Opowiedziana przez dzieciaka",
+          "voice": ""
+        },
+        {
+          "text": "Co tym możesz wiedzieć, ty gruby goblinie!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 880
+  },
+  {
+    "id": 36,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 36142,
+    "text": "Jeden z kapitanów zauważa, że będziesz potrzebował bardzo dużo złota, jeśli zamierzasz werbować armię. Jednym z łatwiejszych sposobów pozyskania go jest zatrzymywanie złota w skarbcu, zamiast rozdawania go biedakom. Warto też poszukać kopalni złota, takich jak ta na południu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 276
+  },
+  {
+    "id": 37,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 36488,
+    "text": "Jedząc posiłek wspólnie ze swymi żołnierzami usłyszałeś, jak jeden z nich mówił, że wraca właśnie z tawerny, gdzie widział najemników skłonnych walczyć za naszą sprawę - oczywiście nie za darmo.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 194
+  },
+  {
+    "id": 38,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 36752,
+    "text": "\"Zbieraj wszystkie zasoby, mój panie\", przypomina jeden z doradców. To prawda armia pochłania wszystkie zapasy. \"Może warto zatrudnić jakiego bohatera, który zająłby się tym zadaniem.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zbieraj wszystkie zasoby, mój panie",
+          "voice": ""
+        },
+        {
+          "text": "Może warto zatrudnić jakiego bohatera, który zajął...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 184
+  },
+  {
+    "id": 39,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 37000,
+    "text": "Wieści o twoich zwycięstwach rozchodzą się niczym ogień, a zwiadowcy powracający ze wszystkich zakątków twojej ojczyzny informują, że pozostałe klany zachowują spokój i neutralność wobec ostatnich wypadków.  Nie wesprą cię ani nie opowiedzą się przeciw tobie, poza jednym.\n\nObecny przywódca klanów, Rabak, został wyznaczony przez magów na przedstawiciela twojego ludu, ale nigdy nie słyszałeś, by powiedział złe słowo o Bracaduun. Siedzi w swojej twierdzy ucztując co wieczór, a ty przypominasz sobie wiele nocy, gdy twoja rodzina szła głodna na spoczynek, dlatego że musieliście opróżnić spichlerze, by zapłacić podatki.\n\nRabak nie będzie siedział bezczynnie, gdy rozzłościsz magów. Jesteś pewien, że wy dwaj wkrótce się spotkacie i to nie jako przyjaciele.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 758
+  },
+  {
+    "id": 41,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 37837,
+    "text": "\"Co wiesz o naszej historii?\" pytasz starszego wojownika siedzącego po przeciwnej stronie stołu.\n\nWypytujesz starszyznę o historię barbarzyńców w nadziei, że ktoś będzie umiał powiedzieć o dawnej chwale twego ludu, ale ich wiedza jest żenująco uboga. Większość nigdy nawet nie słyszała imienia Jarg.\n\nWojownik podniósł głowę znad miski, zmarszczył brwi.\n\n\"Tyle co inni. Moj dziad opowiadał, że kiedyś byliśmy wielkim narodem - największym - ale nie był przy zdrowych zmysłach. A nawet jeśli to prawda, to już przeszłość  Wszystko ma swój koniec. Nawet wielkie dęby - tysiącletnie - kiedyś padną na ziemię.\"\n\nJesteś pod wrażeniem szczerej odpowiedzi tego człowieka, ale jednocześnie zirytowany, że ten weteran nie umie powiedzieć ci nic więcej.\n\nWyciągasz rękę i pytasz: \"jak ci na imię?\"\n\n\"Hardac\", odpowiada wojownik.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co wiesz o naszej historii?",
+          "voice": ""
+        },
+        {
+          "text": "Tyle co inni. Moj dziad opowiadał, że kiedyś byliś...",
+          "voice": ""
+        },
+        {
+          "text": "jak ci na imię?",
+          "voice": ""
+        },
+        {
+          "text": "Hardac",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 818
+  },
+  {
+    "id": 43,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 38732,
+    "text": "Siedząc samotnie, w nocy rozmyślałeś nad tragiczną utratą własnej tożsamości przez twój naród. Nie byłeś w stanie znaleźć ani jednej osoby, która znałaby historię Jarga i jego hordy. Niektórzy uważając się za mędrców, wymyślali jakieś niestworzone opowieści, byle tylko nie przyznać się do niewiedzy.\n\nA potem znalazłeś rozwiązanie. Powiedziałeś swoim ludziom, by ogłosili, że poszukujesz bardów. Każdy wystarczająco odważny, by wyjść z ukrycia, znajdzie się pod twoją ochroną. Jeśli twoi ludzie maja kiedykolwiek odzyskać honor i odwagę, muszą poznać własną tożsamość. A tylko bardowie znają wszystkie tajemnice.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 613
+  },
+  {
+    "id": 45,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 39419,
+    "text": "Ostatnio twoje imię jest na ustach wszystkich. Niektórzy mówią, że jesteś awanturnikiem, który sprowadzi gniew Bracaduun. Inni czekają, by przekonać się, czy masz siłę wprowadzić w życie słowa o podboju. Słyszałeś, że wielu w tajemnicy popiera cię, ale wciąż na twojej drodze stoi największa przeszkoda. Rabak, przywódca klanów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 328
+  },
+  {
+    "id": 46,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 39815,
+    "text": "Sprowadzono przed twoje oblicze jakiegoś nieszczęśnika. Wygląda, jakby od dłuższego czasu ukrywał się w lesie i przymierał głodem, co można poznać bo jego wychudzonych żebrach. Żołnierz, który sprowadził tego oberwańca, mówi, że biedak podejrzanie kręcił się wokół obozu.\n\n\"Kim jesteś?\" pytasz.\n\n\"Jestem bardem, królu.\"\n\n\"Nie jestem królem.\"\n\n\"Z tego co wiem jesteś. Mówi się tez że chronisz nas bardów przed prawem królów-magów w zamian za nasze opowieści.\"\n\n\"To prawda.\" odpowiadasz z trudem opanowując emocje. A więc stary bard, który umarł w twoich ramionach, nie był ostatnim. Historia twojego ludu nie jest jeszcze stracona!",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Kim jesteś?",
+          "voice": ""
+        },
+        {
+          "text": "Jestem bardem, królu.",
+          "voice": ""
+        },
+        {
+          "text": "Nie jestem królem.",
+          "voice": ""
+        },
+        {
+          "text": "Z tego co wiem jesteś. Mówi się tez że chronisz na...",
+          "voice": ""
+        },
+        {
+          "text": "To prawda.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 630
+  },
+  {
+    "id": 47,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 40512,
+    "text": "Gdy pod koniec dnia po długim marszu zdjąłeś zbroje, z cienia wyskoczyła ciemna postać wywijając w powietrzu nagim ostrzem. Błyskawicznie zareagowałeś i powaliłeś zamachowca gołymi rękami.\n\n\"Gdy już odciągnięto ciało, mówisz: \"Skrytobójca. Rabak okazał się pojętnym uczniem królów-magów. Teraz wiem, że kroczę właściwą drogą\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Gdy już odciągnięto ciało, mówisz: ",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 325
+  },
+  {
+    "id": 49,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 40911,
+    "text": "W ciągu ostatnich kilku dni zgłosiło się kolejnych trzech bardów, ale niestety to wszyscy, jacy pozostali przy życiu. Wzdrygasz się na myśl, jak blisko utraty własnej historii - zapisanej jedynie w głowach tych ludzi - był twój naród. Gdyby nie ich odwaga i zdecydowanie, by pielęgnować tradycyjne wartości, barbarzyńcy już dawno stali by się łańcuchowymi psami Bracaduun.\n\nNatychmiast rozkazujesz, by każdy z bardów zaczął nauczać dwóch kolejnych, aby w przypadku ich śmierci aby wiedza tak ważna dla twojego narodu nie przepadła na zawsze.\n\n\"I spieszcie się.\", napominasz ich, \"w przyszłym roku musicie wziąć dwóch kolejnych uczniów i tak co roku.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "I spieszcie się.",
+          "voice": ""
+        },
+        {
+          "text": "w przyszłym roku musicie wziąć dwóch kolejnych ucz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 650
+  },
+  {
+    "id": 51,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 41637,
+    "text": "Siedząc z bardami, słuchasz ich opowieści o Jargu i o tym, jak podbił ziemie leżące między dwoma oceanami. Dokonał wielu bohaterskich czynów.\n\n\"Jarg żył tak dawno temu\", mówisz, \"Opowiedzcie o barbarzyńskich królach którzy, panowali po nim.\"\n\nBardowie wymienili znaczące spojrzenia, a potem najstarszy z nich powiedział: \"Jarg był ostatni. Panował sprawiedliwie do późnej starości, ale po jego śmierci królestwo rozpadło się. Jego synowie zaczęli walczyć o władzę i tak osłabili państwo, że barbarzyńcy nie byli w stanie odeprzeć czarowników, którzy w międzyczasie stworzyli cesarstwo Baracaduun.\"\n\n\"Jarg jest ostatni?\" powtarzasz zdziwiony.\n\n\"Nie\", ciągnie stary bard. \"Musimy mieć króla. Tylko król może zjednoczyć nasz naród. Tylko król potrafi zrzucić jarzmo jakie nałożyli na nas czarownicy!\"\n\nMija kilka chwil nim zdajesz sobie sprawę że mówią o tobie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jarg żył tak dawno temu",
+          "voice": ""
+        },
+        {
+          "text": "Opowiedzcie o barbarzyńskich królach którzy, panow...",
+          "voice": ""
+        },
+        {
+          "text": "Jarg był ostatni. Panował sprawiedliwie do późnej ...",
+          "voice": ""
+        },
+        {
+          "text": "Jarg jest ostatni?",
+          "voice": ""
+        },
+        {
+          "text": "Nie",
+          "voice": ""
+        },
+        {
+          "text": "Musimy mieć króla. Tylko król może zjednoczyć nasz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 858
+  },
+  {
+    "id": 52,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 42563,
+    "text": "Jeden z kapitanów poinformował cię, że przybył właśnie posłaniec od przywódcy klanów,  Rabaka. Co też ten człowiek może mieć do powiedzenia? Z pewnością nie ma zamiaru przyłączyć się do ciebie. Pewno jakieś puste groźby. \n\n\"Powiedz posłańcowi\", mówisz do kapitana, \"że jeśli nie przynosi bezwarunkowej kapitulacji Rabaka, spotkam się z przywódca klanów dopiero na polu bitwy!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Powiedz posłańcowi",
+          "voice": ""
+        },
+        {
+          "text": "że jeśli nie przynosi bezwarunkowej kapitulacji Ra...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 376
+  },
+  {
+    "id": 54,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 43147,
+    "text": "Królowie magowie ogłosili Tarnuma przestępcą, teraz trzy fortece zbierają siły, by go uwięzić. Tarnum musi pokonać wszystkie wrogie miasta. Wszyscy bohaterowie są ograniczeni do 11 poziomu, ale najsilniejszy kapitan Tarnuma przejdzie wraz z nim na następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 271
+  },
+  {
+    "id": 55,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 62598,
+    "text": "Na polowaniu pokonałeś jedną ręka behemota, potwierdzając swoja krzepę. \nKu twojemu zaskoczeniu okazało się, że behemot zapędził grupę myśliwych do pobliskiej jaskini i czaił się przy niej, by na nich napaść.\n\n\"Uratowałeś nam życie!\" dziękują myśliwi.\n\nSą głodni i osłabieni, więc wysyłasz ich do koszar, gdzie otrzymają pożywienie. W zamian za uratowanie życia myśliwi chcą dołączyć do twojej armii.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Uratowałeś nam życie!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 400
+  },
+  {
+    "id": 57,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 64391,
+    "text": "Rozciągająca się przed tobą dolina była świadkiem wielu powstań. Tysiące straciło tu życie, zaskoczony przez armię królów-magów. Kości nie pogrzebanych wciąż zaścielają ziemię.\n\nTwoi ludzie pochylają głowy na wspomnienie, jak potężny i okrutny jest nasz wróg.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 259
+  },
+  {
+    "id": 58,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 64746,
+    "text": "Zasadzka!!\n\nZ zarośli wyłaniają się wrogowie zamierzający cię zabić, ale twoje szybko reagują. Mając świeżo w pamięci odgłos kości kruszących się pod ich stopami, twoi żołnierze szybko i skutecznie nawiązują walkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 214
+  },
+  {
+    "id": 59,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 66712,
+    "text": "Na głazie w pozycji siedzącej spoczywają zmumifikowane zwłoki starego wojownika, martwego od tysiącleci. Ale zbliżając się, dostrzegasz, że jego zbroja jest w wyśmienitym stanie, mimo że prze tak długi czas była wystawiona na działanie niesprzyjającej aury.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 257
+  },
+  {
+    "id": 60,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 67131,
+    "text": "Na ziemi znajdujesz worek złota, podnosisz go i rzucasz najbliższemu kapitanowi - który natychmiast go upuszcza. Gdy mężczyźni pędzą naprzód, by podnieść rozproszone złoto, podnosisz torbę, ale niewiarygodnie jest ona pełna po brzegi!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 234
+  },
+  {
+    "id": 61,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 67413,
+    "text": "To ważna budowla dla każdego miasta, gdyż nawet mały jej fragment przyciąga odwiedzających. A więcej odwiedzających to więcej rekrutów!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 135
+  },
+  {
+    "id": 63,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 70632,
+    "text": "Czarodziej stworzyli teleporty, by szybciej podróżować przez Pustkowia, ale odkryłeś, że i ty możesz wykorzystać je do tego celu. Dzięki nim, będziesz mógł błyskawicznie atakować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 179
+  },
+  {
+    "id": 64,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 70975,
+    "text": "To musi być ukryta dolina, o ktorej opowiadali Bardowie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 56
+  },
+  {
+    "id": 65,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 71129,
+    "text": "Zdołałeś zapewnić chwilowe bezpieczeństwo swym ziemiom, umieszczając kilka oddziałów w starym garnizonie. Nie będziesz w stanie bezpośrednio korzystać z tych oddziałów, ale nie czekaj zbyt długo z rozpoczęciem walki. Żaden garnizon nie utrzyma się w nieskończoność.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 265
+  },
+  {
+    "id": 67,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 71463,
+    "text": "\"Przeszukaj chatę, może znajdziesz oko magika, mój królu\", podpowiada jeden z doradców. Oko magika pozwala śledzić ruchy wroga, dzięki czemu nigdy cię on nie zaskoczy.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Przeszukaj chatę, może znajdziesz oko magika, mój ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 167
+  },
+  {
+    "id": 68,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 71693,
+    "text": "\"Musimy się też bronić, panie\", mówi twój ulubiony doradca i przyjaciel, Hardack.\n\n\"Powinieneś odwiedzić położoną niedaleko stad kamienną wieżę i poświęcić nieco czasu na naukę taktyki obronnej.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Musimy się też bronić, panie",
+          "voice": ""
+        },
+        {
+          "text": "Powinieneś odwiedzić położoną niedaleko stad kamie...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 195
+  },
+  {
+    "id": 69,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 71952,
+    "text": "\"Wiem, że walcząc o życie, człowiek może być nieco roztargniony\", zażartował Hardac przy obiedzie, \"Ale nie zapominaj co tydzień odwiedzać młyna. Ta armia pochłania zasoby niczym szarańcza, będziemy więc potrzebować jeszcze dużo złota!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wiem, że walcząc o życie, człowiek może być nieco ...",
+          "voice": ""
+        },
+        {
+          "text": "Ale nie zapominaj co tydzień odwiedzać młyna. Ta a...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 236
+  },
+  {
+    "id": 71,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 72259,
+    "text": "Tworzenie armii wymaga zawsze bardzo dużo złota. Starsi mieszkańcy tych stron twierdzą, że w okolicy jest ukryta dolina, a w niej zapomniana kopalnia złota. Niestety, nikt nie potrafi wskazać drogi do tego bogactwa, rozkazujesz więc żołnierzom, by bacznie obserwowali teren.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 274
+  },
+  {
+    "id": 72,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 72610,
+    "text": "Otrzymałeś wiadomość przywiązaną do nogi szkarłatnego ptaka. To nie przypadek - szkarłatny ptak jest wśród twego ludu symbolem śmierci. Jeden z bardów rozwija pergamin.\n\n\"Do dzikusa, który sądzi, że jest królem. Poddaj się albo umrzesz śmiercią powolną i bolesną. W naszych salach tortur nawet najsłabsi umierają tygodniami.\"\n\nBard ponuro potrząsa głową i mówi: \"Podpisane Bracaduun\".\n\nZnasz opowieści o torturach magów i nie wątpisz, że są prawdziwe. Ale patrząc na twarze zebranych tu ludzi, którzy oczekują na twoją odpowiedź, wiesz, że nie możesz okazać swoich prawdziwych uczuć.\n\nA więc uśmiechasz się i chwytasz ptaka w dłonie. Wolno unosisz zwierzę do twarzy i muskasz ustami jego łebek.\n\n\"Cieszę się, że będę miał szanse zbliżyć się do tych magów\", rzucasz.\n\"Wtedy przekonają się, że słabi nie żyją zbyt długo, gdy wpadną mi w ręce.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Do dzikusa, który sądzi, że jest królem. Poddaj si...",
+          "voice": ""
+        },
+        {
+          "text": "Podpisane Bracaduun",
+          "voice": ""
+        },
+        {
+          "text": "Cieszę się, że będę miał szanse zbliżyć się do tyc...",
+          "voice": ""
+        },
+        {
+          "text": "Wtedy przekonają się, że słabi nie żyją zbyt długo...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 841
+  },
+  {
+    "id": 73,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 73517,
+    "text": "Po raz kolejny musisz podziękować Bardom za ich wiedzę.\n\nŻyła niegdyś w tych stronach barbarzyńska kobieta, która została zaślubiona ogrowi. Zabrała swój posąg i udała się do chaty ogra, ale gdy olbrzym wyszedł, chwyciła jego siekierę i ścięła mu głowę. Mówi się, że ukryła posąg w pobliskiej jaskini i spędziła resztę życia samotnie w chacie ogra, która miała być jej domem. \n\nKorzystając ze wskazówek zawartych w tej starej baśni, bardowie znaleźli skrzynie z zasobami zakopaną w górskiej jaskini.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 499
+  },
+  {
+    "id": 75,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 74091,
+    "text": "\"Nie zapomnij każdego tygodnia werbować oddziałów w miejscach takich, jak koszary goblinów\", przypomina Hardac, mój doradca. \"Im więcej masz wojska, tym jesteś  potężniejszy!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie zapomnij każdego tygodnia werbować oddziałów w...",
+          "voice": ""
+        },
+        {
+          "text": "Im więcej masz wojska, tym jesteś  potężniejszy!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 175
+  },
+  {
+    "id": 76,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 74330,
+    "text": "Forgar, jeden z twoich najbardziej doświadczonych kapitanów, radzi, byś zebrał wszystkie oddziały pod swoją komendę. Dzięki temu, będą cię chronić przed polującymi na ciebie magami, a ty będziesz mógł atakować korzystając zarówno z ich liczebności, jak i z woli walki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 268
+  },
+  {
+    "id": 78,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 74672,
+    "text": "Samotny, zakrwawiony goblin wraca z misji zwiadowczej ze straszną nowiną.\nFograr, twój najlepszy kapitan, wpadł w zasadzkę magów. Jedynie goblinowi udało się uciec, choć był świadkiem brutalnej egzekucji Fograra. Kapitan nawet nie maił szans się bronić!\n\nCo za straszna śmierć - zostać pochwyconym przez magię i pozbawionym możliwości obrony. Ci madzy nie mają poczucia wstydu ani honoru. Zaciskasz dłoń na rękojeści miecza marząc, by jeden z tych rzucających czary znalazł się w tej chwili obok ciebie. Gdybyś tylko mógł zemścić się na tych tchórzach!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 552
+  },
+  {
+    "id": 79,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 75288,
+    "text": "Twój przyjaciel Hardac, sprowadził ostatniej nocy do twojego namiotu młodego wojownika o długich włosach. We trzech spędziliście wiele godzin \nna układaniu strategii, a potem wojownik oddalił się w nowej zbroi.\n\nGdy wojownik odszedł, Hardac odwrócił się do ciebie i powiedział: \"Skąd wiesz, że dadzą się na to nabrać?\"\n\n\"Są jak wilki. Czyhają na słabych, chorych i bezradnych. Nie oprą się pokusie\", odparłeś.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Skąd wiesz, że dadzą się na to nabrać?",
+          "voice": ""
+        },
+        {
+          "text": "Są jak wilki. Czyhają na słabych, chorych i bezrad...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 409
+  },
+  {
+    "id": 80,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 75765,
+    "text": "Zgodnie ze starym zwyczajem Król Barbarzyńców musi raz do roku odwiedzić jasnowidza, aby ten przepowiedział mu przyszłość. Niestety, tajemnicza odpowiedź ślepej kobiety zaniepokoiła cię.\"\n\n\"Pozostań, na ścieżce, którą wybrałeś\",  powiedziała. \"Pokusa innej ścieżki \nbędzie oznaczała twój upadek.\"\n\nNa szczęście, nie potrafiła wyjaśnić tego proroctwa. Typowe!\n\nCo masz zrobić, skręcić w lewo, gdy powinieneś skręcić w prawo?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": ",  powiedziała. ",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 423
+  },
+  {
+    "id": 81,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 76255,
+    "text": "Usmiechasz się na wieśc o tym, że czarownicy zaatakowali odległa wioske.\nTwoja przynęta zadziałała, zmusiłes wrogów, by skupili swe wysiłki w odleglym miejscu, zapewniając sobie czas na zwmocnienie armii.\n\nParę dni temu wysłałeś tam dlugowłosego barbarzyńskiego wojownika uderzajaco do ciebie podobnego, rozglaszając, że król barbarzyńców zamierza odwiedzić tam kobietę. Królowie-magowie wpadli w pułapkę sądząc, że nakryja cię samotnego i słabego - gdy dotarli do wioski, zastali tam twoje oddziały i wojownika w królewskiej zbroi, ktory nie był tobą.\n\nTeraz Baracduun wie, że nietylko czarownicy potrafią zastawiać pułapki.\n\nRaporty mówią, że młody wojownik przed śmiercią zdołal nawet zabić jednego z czarowników - chwalebny koniec, który zostanie roslawiony przez bardów po wsze czasy, jeśli tylko nikt nie zamknie im ust.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 826
+  },
+  {
+    "id": 82,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 77283,
+    "text": "Zły czarownik Kurl uwięził czterech ostatnich Bardów i grozi, że zabije ich w ciągu trzech miesięcy, jeśli król barbarzyńców nie rozpuści swych oddziałów i nie podda się. Tarnum i pozostali bohaterowie są ograniczeni do 15 poziomu, ale on sam z 2 najlepszymi przejdzie do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 295
+  },
+  {
+    "id": 88,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 99720,
+    "text": "Descendent of the great Barbarian King Jarg, he despises his heritage and does everything he can to distance himself from it.  Hence, he endured the torments of his fellow students to become a Wizard.  Now, he rules over the same Barbarians he hates.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 250
+  },
+  {
+    "id": 89,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 102289,
+    "text": "Chwilowy odpoczynek w przydrożnej gospodzie przynosi ci okazję do wymienienia nowych wieści, opowieści i... bagażu. W swojej nowej sakwie znajdujes parę rękawic.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 90,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 102485,
+    "text": "Stara wiedźma, wyglądająca tak jakby oczekiwała twojego przybycia, wciska ci do ręki talizman, a następnie szybko odchodzi nie udzielając słowa wyjaśnienia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 156
+  },
+  {
+    "id": 91,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 103094,
+    "text": "Błysk szaleństwa w oczach starożytnych behemotów informuje cię, że są we władzy jakiegoś zaklęcia. To oczywiste, że Kurl nie chce, byś dostał złoto z kopalni, której pilnują.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 174
+  },
+  {
+    "id": 92,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 103398,
+    "text": "\"Cofnij się, mały człowieku! To złoto cyklopów - nie posłuży twojej śmiesznej, małej wojence! \"Krzyczy Cyklop Królewski, który pilnuje tej kopalni.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Cofnij się, mały człowieku! To złoto cyklopów - ni...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 147
+  },
+  {
+    "id": 93,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 103799,
+    "text": "Za tymi strażnikami leży przejście wiodące do twojej ziemi, które zaoszczędzi ci wielu dni podróży ale, najpierw musisz pokonać te królewskie nagi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 147
+  },
+  {
+    "id": 94,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 105925,
+    "text": "Stara wiedźma, wyglądająca tak jakby oczekiwała twojego przybycia, wciska ci do ręki talizman, a następnie szybko odchodzi nie udzielając słowa wyjaśnienia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 156
+  },
+  {
+    "id": 95,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 106158,
+    "text": "Ci żołnierze powiewają sztandarem Kurla, bez wątpienia to jednostka strażnicza, pozostawiona tu, by strzegła czegoś cennego. Gdy się zbliżasz, podnoszą halabardy i gotują się do bitwy - będą oczywiście walczyć do ostatniej kropli krwi, gdyż bardziej obawiają się okrutnego czarownika, niż twojej armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 302
+  },
+  {
+    "id": 96,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 106835,
+    "text": "Za ta bramą graniczną leży ziemia Kurla. Z pewnością przygotował się na twoje przybycie, ale i tak nie masz wyboru!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 115
+  },
+  {
+    "id": 97,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 107033,
+    "text": "Gdy zbliżasz się do magicznego bożka fortuny, otaczająca go ziemia zaczyna migotać niczym horyzont na pustyni. Zarośla, drzewa i skały zmieniają się w oddziały wroga. To zasadzka!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 179
+  },
+  {
+    "id": 98,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 107323,
+    "text": "Wraca zwiadowca, który ledwie uszedł z życiem z terenu wroga.\n\n\"Mój Królu,\" odzywa się złapawszy oddech, \"znalazłem namiot szkarłatnego klucznika, ale bronią go giganci - trudny przeciwnik dla każdej armii. Zanim zaatakujesz, upewnij się, czy masz szanse na zwycięstwo!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Mój Królu,",
+          "voice": ""
+        },
+        {
+          "text": "znalazłem namiot szkarłatnego klucznika, ale broni...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 270
+  },
+  {
+    "id": 99,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 107988,
+    "text": "Zarządzasz postój, by spożyć posiłek i przy okazji zabawić się zapasami. Wszyscy stają w szranki, łącznie z tobą. To trudne zawody, ale w końcu udaje ci się zwyciężyć i zdobyć serca żołnierzy. Dzięki temu maja uczucie ,że wybrali właściwego człowieka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 251
+  },
+  {
+    "id": 100,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 108346,
+    "text": "Hardac, twój doradca, mówi, że przed każdą ważną bitwą warto odwiedzać pobojowisko. To zawsze dodaje twoim żołnierzom woli walki i zagrzewa ich krew przed walką.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 102,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 108661,
+    "text": "\"Mamy szczęście, mój Królu!\" woła Hardac.\n\nZ miasta przyszły nowiny o odnalezieniu gniazda roków. Mały chłopiec zgubił się w górach i cały klan ruszył na poszukiwania. Dziecko znaleźli bezpieczne schronione w gnieździe roka. Trochę czasu zabrało odebranie chłopca samicy przejawiającej wobec niego instynkt macierzyński, ale wszystko dobrze się skończyło.\n\nPrzy niewielkich kosztach, roki mogą zostać wcielone od twojej armii. Przodkowie są ci przychylni.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Mamy szczęście, mój Królu!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 455
+  },
+  {
+    "id": 104,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 109211,
+    "text": "Dziś do miasta przybyła oddziały pragnące przyłączyć się do walki przeciw Kurlowi. Żywią do niego szczególną nienawiść i wspominają opowieść o okrucieństwach, jakie miały miejsce na zarządzanych przez niego ziemiach barbarzyńców.\n\n\"Kurl prześladuje barbarzyńców bardziej niż inni czarownicy, ale nie wiemy dlaczego. Gdy zostanie popełniona jakaś zbrodnia, nie trudzi się jej wyjaśnieniem. Po prostu wrzuca pierwszego z brzegu barbarzyńcę do lochów. A nikt nie przebywa długo w lochach Kurla. W każdym razie, niedługo pozostaje przy życiu\".\n\nSłuchasz, jak opisują niektóre ze stosowanych przez Kurla tortur i ciarki przebiegają ci wzdłuż kręgosłupa - zdajesz sobie sprawę, że masz do czynienia z najgorszym ze złych.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Kurl prześladuje barbarzyńców bardziej niż inni cz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 715
+  },
+  {
+    "id": 106,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 110036,
+    "text": "Kurl dobrze wybrał miejsce na swoją twierdze. Ten nierówny teren jest trudny do pokonania, ale kilka ważnych przejść zostało zablokowanych przez nieczułych strażników granicznych. Znajdź namioty kluczników w tych samych barwach, co bramy graniczne. I lepiej się pospiesz.\n\nPonieważ Kurl ogłosił, że zabije bardów w ciągu trzech miesięcy, jeśli król barbarzyńców nie rozpuści oddziałów i nie podda się, morale twoich oddziałów podupada. Od miesięcy powtarzałeś przecież, jak ważni dla historii i tożsamości narodowej barbarzyńców są Bardowie.  A wiec co stanie się, gdy bardowie zginą?\n\nJeśli nie uwolnisz ich w ciągu trzech miesięcy, będziesz miał okazje się przekonać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 669
+  },
+  {
+    "id": 107,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 110783,
+    "text": "\"Nie powinieneś zaprzątać sobie głowy gromadzeniem zasobów i  oddziałów, mój Królu\", mówi jeden z kapitanów.\n\n\"Nie mamy czasu, więc lepiej pozostaw te sprawy innym. Ty powinieneś skoncentrować się na odszukaniu namiotów kluczników, abyśmy mogli dostać się do twierdzy Kurla.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie powinieneś zaprzątać sobie głowy gromadzeniem ...",
+          "voice": ""
+        },
+        {
+          "text": "Nie mamy czasu, więc lepiej pozostaw te sprawy inn...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 275
+  },
+  {
+    "id": 108,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 111146,
+    "text": "Czasu rzeczywiście nie mamy wiele, a trzeba pokonać daleką drogę. Hardac radzi, byś znalazł kogoś, kto nauczy ciebie i twoich kapitanów umiejętności znajdowania drogi, dzięki czemu wszyscy będą mogli szybko pokonać te pustkowia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 228
+  },
+  {
+    "id": 109,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 111440,
+    "text": "\"Królu Tarnumie,\" mówi twój doradca, Hardac, \"Spotkałem na drodze człowieka ze świeżym i szybkim koniem. Mówi, że kupił go w stajniach na południu. Musimy co tydzień odwiedzać stajnie, jeśli mamy uratować Bardów, nim minie termin wyznaczony przez Kurla.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Królu Tarnumie,",
+          "voice": ""
+        },
+        {
+          "text": "Spotkałem na drodze człowieka ze świeżym i szybkim...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 254
+  },
+  {
+    "id": 111,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 111773,
+    "text": "I znów Hardac udzielił ci dobrej rady. Zaproponował by dobrze wytrenować wszystkich kapitanów, nawet jeśli ich obowiązki sprowadzają się do gromadzenia zasobów. Dobrze jest mieć po swojej stronie wyszkolonych dowódców, szczególnie, jeśli czeka cię walka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 112,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 112098,
+    "text": "Przybył szpieg przynosząc straszne wieści.\n\nZ niecierpliwości albo może jako ostrzeżenie, Kurl złamał swoje słowo i ściął najstarszego z bardów. To bardzo przygnębiająca wiadomość, gdyż najstarszy  bard był zarazem największym mędrcem, a teraz jego wiedza została stracona na zawsze. Ten akt jedynie potwierdza, jak pilna jest twoja misja i jak okrutni są twoi wrogowie.\n\nTej nocy nie możesz zasnąć zastanawiając się, jakie opowieści o historii barbarzyńców zostały stracone ze śmiercią starego barda. W pewien sposób już zawiodłeś swych ludzi. Kawałek ich tożsamości przepadł na zawsze.\n\nWstajesz z posłania, padasz na kolana i drzesz ziemię dłońmi. Zaciskając zęby przysięgasz: \"Już nigdy więcej was nie zawiodę!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Już nigdy więcej was nie zawiodę!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 715
+  },
+  {
+    "id": 113,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 112887,
+    "text": "Zwiadowca przynosi ulotkę, która znalazła się w nocy na drzwiach wszystkich domów w okolicy. Autorem jest Kurl.\n\n\"Arogancja tak zwanego Króla Barbarzyńców, Tarnuma, spowodowała śmierć niewinnego. Jak tchórz odmówił stawienia mi czoła i teraz biedny stary człowiek nie żyje. Niech będzie to lekcją na temat prawdziwej natury tego przestępcy, który twierdzi, że jest królem. Teraz musze poprosić - nie, błagać - Tarnuma o poddanie się, by nie cierpieli kolejni niewinni ludzie.\"\n\nZgniatasz papier w dłoni nic nie mówiąc. Nie możesz pozbyć się uczucia, że na swój sposób Kurl ma rację.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Arogancja tak zwanego Króla Barbarzyńców, Tarnuma,...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 582
+  },
+  {
+    "id": 115,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 113548,
+    "text": "List Kurla, informujący o śmierci najstarszego Barda, podkopał zaufanie twych ludzi. Wielu zaprzestało pracy, inni uciekli zabierając ze sobą zasoby. Nie możesz na to nic poradzić, musisz dalej prowadzić walkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 210
+  },
+  {
+    "id": 117,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 113830,
+    "text": "W czasie wieczornego posiłku w towarzystwie żołnierzy zwróciły twoją uwagę słowa starszego, nieco posiwiałego goblina: \"Jeśli jeszcze o tym nie wiesz, mój królu, warto odwiedzić kamień wiedzy. Każdy powinien to robić. Zawsze wiele można się tam nauczyć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 253
+  },
+  {
+    "id": 119,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 114157,
+    "text": "I znów ten posiwiały goblin, który okrzyknął się twoim doradcą (śmiechu warte), daje ci świetną radę.\n\n\"Gdy natkniesz się na obóz najemników, wyślij do niego wszystkich swoich kapitanów\" mówi goblin. \"Trening z najemnikami zaprocentuje podczas wszystkich przyszłych bitew\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Gdy natkniesz się na obóz najemników, wyślij do ni...",
+          "voice": ""
+        },
+        {
+          "text": "Trening z najemnikami zaprocentuje podczas wszystk...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 273
+  },
+  {
+    "id": 121,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 114508,
+    "text": "Ci, którzy opuścili twój obóz po zabiciu najstarszego barda, zdali sobie wreszcie sprawę, że jedna przegrana potyczka nie oznacza przegranej wojny . Znów wracają do twoich szeregów i pracują jeszcze ciężej niż do tej pory, produkując więcej niż kiedykolwiek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 258
+  },
+  {
+    "id": 123,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 114972,
+    "text": "By wzmocnić swoja armię, Tarnum musi podbić sąsiednią krainę. Wykorzystując trwającą wojnę między jaszczuroludźmi a gnolami, obwołuje się nowym królem. Podbij wszystkie miasta nie tracąc Tarnuma. Bohaterowie są ograniczeni do 18 poziomu. Dwaj wraz z Tarnumem przejdą do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 293
+  },
+  {
+    "id": 126,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 176208,
+    "text": "Tym razem wojowniczka Yalla wróciła prowadząc ze sobą bandę zbiegłych przestępców pragnących przyłączyć się do twojej armii. Zażądała jedynie niewielkiej zapłaty.\n\nZnaleźliście odosobnione miejsce na Saring i w ciągu godziny każde z was miło już kilka draśnięć. Yalla jest trudnym przeciwnikiem - w twoich oczach to kolejna zaleta. Gdy odpoczywaliście po walce, zapytałeś, co porabia, gdy nie handluje z twoją armią.\n\nZdjąwszy ciężkie buty, położyła ci nagie stopy na kolanach, byś je rozmasował.\n\n\"W zasadzie jestem wyrzutkiem\", powiedziała. \"Postawiłam sobie za punkt honoru, by stać sie cierniem tkwiącym w boku Baracaduun\".\n\n\"To tak, jak ja\", odparłeś, z góry żałując momentu, gdy znów się oddali. Jak namówić ją by została?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "W zasadzie jestem wyrzutkiem",
+          "voice": ""
+        },
+        {
+          "text": "Postawiłam sobie za punkt honoru, by stać sie cier...",
+          "voice": ""
+        },
+        {
+          "text": "To tak, jak ja",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 728
+  },
+  {
+    "id": 127,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 183519,
+    "text": "Ach, spodziewałam się kogoś, ale nie ciebie! Kości powiedziały, że przybędzie jakiś wojownik. No cóż. Gdzieś tu mam tunikę króla cyklopów - może okazać się przydatna w przyszłych bitwach. Jeśli przyniesiesz mi pierścień życia, będzie twoja.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 240
+  },
+  {
+    "id": 128,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 183763,
+    "text": "Nie masz pierścienia co? Ale na pewno w krótce go znajdziesz. Próbuj dalej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 75
+  },
+  {
+    "id": 129,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 183842,
+    "text": "Pierścień życia!  Czuję, że jest w pobliżu... daj mi go proszę, a ja oddam ci w zamian obiecaną nagrodę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 104
+  },
+  {
+    "id": 130,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 184010,
+    "text": "Odpoczywając przy drodze zauważasz dużego kocura, który wspina się na drzewo z widocznym zamiarem dostania się do gniazda sroki. Kierowany niezrozumiałym impulsem odstraszasz drapieżnika i sam wspinasz się na drzewo. W sroczym gnieździe znajdujesz kolekcję świecących kamyków i pierścieni.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 289
+  },
+  {
+    "id": 131,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 184328,
+    "text": "Trzymaj się z dala! Na tym terenie mieszka szalona kobieta i naszym obowiązkiem jest nie przepuszczać nikogo dalej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 115
+  },
+  {
+    "id": 132,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 184539,
+    "text": "Odnajduszesz przypadkiem oślepłą i bardzo stają kobietę, która umiera w samotności. Opiekujesz się nią i obiecujesz jej godziwy pochówek. Wdzieczna staruszka ofiarowuje ci magiczny amulet ozdobiony stylizowanym okiem. Jak się dowiadujesz, pozwala on widzieć nawet z zamkniętymi oczami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 285
+  },
+  {
+    "id": 133,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 185533,
+    "text": "Widzisz maga, który co sił w nogach ucieka przed smokiem. Mag otwiera magiczny portal i wskakuje do niego strącając sobie przy okazji kapelusz z głowy. Smok wskakuje za magiem a portal zamyka się. Podnosisz kapelusz, zdmuchujesz z niego kurz i zakładasz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 134,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 186535,
+    "text": "Natrafiasz na zadbaną chatkę starego pustelnika. Słysząc o twej misji pustelnik przerywa medytację i ofiarowuje ci przedmiot, który, jak mówi, ochroni cię przed przekleństwami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 176
+  },
+  {
+    "id": 135,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 187386,
+    "text": "Do zaginionej kopalni złota.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 28
+  },
+  {
+    "id": 136,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 187507,
+    "text": "Uwalniasz pobliskie wioski od ohydnego minotaura, który już od dłuższego czasu zjadał chłopów. W ramach nagrody otrzymujesz glejt męstwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 137
+  },
+  {
+    "id": 137,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 187836,
+    "text": "No cóż, rzeczywiście zakładanie się z tytanem nie było zbyt rozsądne, nie musisz mi tego powtarzać! Jestem mu winien wiele złota - 9000 sztuk, żeby być dokładnym - i musze je szybko zwrócić. Jeśli się spóźnię, tytan zrobi ze mnie mielonkę. Jeśli mi pomożesz, cos ci dam. Ale pospiesz się! Tytan nie będzie czekał zbyt długo.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 324
+  },
+  {
+    "id": 139,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 188207,
+    "text": "Wreszcie! Zdążyłeś na czas. Przypuszczam, że tytan zamierza zrobić cos złego moim rzepką, jeśli nie dostanie 9000 sztuk złota. A tak, rzeczywiście, obiecałem ci nagrodę, co?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 173
+  },
+  {
+    "id": 140,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 197641,
+    "text": "To przejście wiedzie do niebezpiecznych wąwozów, znanych jako ojczyzna morderców i potwornych stworzeń. Niewielu odważa się tędy podróżować, a jeszcze mniej liczni uchodzą stąd z życiem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 186
+  },
+  {
+    "id": 141,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 197970,
+    "text": "Właśnie zastanawiałeś się nad wizytą w pobliskiej tawernie, gdy spomiędzy drzew wyskoczyli bandyci z nożami w zębach.\n\n\"Lbo asz łoto lbo ycie!\" krzyczy przywódca.\n\n\"Hę?\" próbujesz dowiedzieć się o co chodzi.\n\nAle jest za późno. Atakują i nie masz okazji powiedzieć im, że nie należy nikogo napadać z gęba pełną jedzenia.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Lbo asz łoto lbo ycie!",
+          "voice": ""
+        },
+        {
+          "text": "Hę?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 320
+  },
+  {
+    "id": 142,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 198437,
+    "text": "Twoje oddziały zostały niemal unieruchomione przez szczególnie bagnisty teren. Jeden z ludzi ledwie uniknął wciągnięcia przez błoto. Szybko organizujesz oddziały, nakazujesz ścięcie pobliskich drzew i ułożenie bali, po których cała armia będzie mogła pokonać ten odcinek drogi. Dziś dowiedziałeś się, że nie bez powodu zwą tą krainę \"błotnistą\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "błotnistą",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 345
+  },
+  {
+    "id": 143,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 198922,
+    "text": "Kamienny posąg wojownika dzierży srebrną tarcze. Kiedy zabierasz tarczę posąg momentalnie obraca się w pył.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 107
+  },
+  {
+    "id": 144,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 199086,
+    "text": "Zaginiona kopalnia złota - strzeż się WIELKICH węży!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 52
+  },
+  {
+    "id": 145,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 199270,
+    "text": "Stojąc z kapitanem nad mapą bagien naszkicowana na piasku planujesz strategię dalszych walk, ale twój doradca Hardac potrząsa głową z dezaprobatą.\n\n\"Wiemy, że gnole i jaszczuroludzie walczą między sobą o władzę - wojny domowe są nieprzewidywalne i chaotyczne. Teraz jest dobry moment na atak, ale musisz się spieszyć, mój królu, nim wybiorą nowego władcę!\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wiemy, że gnole i jaszczuroludzie walczą między so...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 357
+  },
+  {
+    "id": 146,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 199696,
+    "text": "\"Szukaj chat jasnowidzów\", mówi mądra kobieta, którą spotkałeś tego ranka przed swoim namiotem. Może jest po prostu szaloną staruszką, ale cos w sposobie, w jakim zniknęła, gdy odwróciłeś wzrok spowodowało, że wolisz posłuchać jej rady.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Szukaj chat jasnowidzów",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 236
+  },
+  {
+    "id": 148,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 200006,
+    "text": "Bardowie informują cię, że wiele lat temu wybudowano trzy bramy graniczne, by oddzielić bagna od Twej ojczyzny. To jedyna droga między tymi regionami. Jeśli przejmiesz przejścia, będziesz mógł dostać się na bagna mając jednocześnie pewność, że wrogowie nie zaatakują z zaskoczenia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 281
+  },
+  {
+    "id": 149,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 200350,
+    "text": "W czasie rutynowej narady jeden z kapitanów przypomina, że trzeba zadbać o cotygodniowe wizyty we młynie. Można w ten sposób zyskać dodatkowe zasoby.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 149
+  },
+  {
+    "id": 150,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 200563,
+    "text": "Nazywa się Yalla. przybyła do twojego obozu prowadząc kilka owiec, ale gdy tylko na nią spojrzałeś, od razu domyśliłeś się, że nie jest pasterką.  Miecz u boku, czujne spojrzenie - to wojowniczka.\n\nZrobiła dobry interes sprzedając owce twojej armii.\n\nChociaż nie prowadziłeś transakcji osobiście, wasze spojrzenia skrzyżowały się, gdy odbierała zapłatę. Nie odwróciła wzroku ani nie wydała się onieśmielona twoją obecnością. Skinęła głową, uśmiechnęła się i odeszła bez słowa. \n\nZapewne takie właśnie były barbarzyńskie kobiety w czasach Jarga. Dumne, dzikie, niezależne. Słyszałeś opowieści Bardów o walecznych kobietach, umierających u boku swych mężczyzn, o całych rodzinach bohaterów stających do walki z wielkimi zagrożeniami. Dziś jedynie kilka kobiet posługuje się mieczem i ośmiela się samotnie podróżować po tych surowych terenach.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 840
+  },
+  {
+    "id": 152,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 201474,
+    "text": "Yalla znów odwiedziła twój obóz. Tym razem miała na sprzedaż informacje, więc zaprosiłeś ja do swojego namiotu na prywatną rozmowę. \n\nPowiedziała, że w Błotnych Krainach trwa zawzięta walka między trzema stronami. Czarownica Miralda  walczy pod pomarańczowym sztandarem. Wystan, jaszczuroczłek, ma barwy błękitne. Natomiast gnol Alkin powiewa czerwoną flagą. Każdy z nich jest trudnym przeciwnikiem, ale na szczęście są zaślepieni wzajemną nienawiścią i walczą zaciekle między sobą. \n\nInformacje Yalli słono cię kosztowały, ale przynajmniej mogłeś przez chwilę rozmawiać z nią sam na sam. Gdy zapytałeś z jakiego klanu pochodzi, zamarła, a jej oczy stały się zimne. \n\n\"Nie należę do żadnego\", powiedziała, \"odkąd sprzeciwiliśmy się czarownikom. Mężczyźni zginęli w walce. Moja matka i inne kobiety z klanu nie miały tego szczęścia, gdy czarownicy postanowili nas ukarać.\"\n\n\"Dołącz do mnie! Wszystkie klany stoją za mną. Dołącz do mojej armii, a będziesz  mogła się zemścić. Przysięgam.\"\n\n\"Gdy byliśmy w potrzebie, żaden klan nam nie pomógł, więc i teraz nie chcę ich pomocy!\"\n\nYalla odeszła w nie najlepszym nastroju.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie należę do żadnego",
+          "voice": ""
+        },
+        {
+          "text": "odkąd sprzeciwiliśmy się czarownikom. Mężczyźni zg...",
+          "voice": ""
+        },
+        {
+          "text": "Dołącz do mnie! Wszystkie klany stoją za mną. Dołą...",
+          "voice": "tarnum"
+        },
+        {
+          "text": "Gdy byliśmy w potrzebie, żaden klan nam nie pomógł...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1117
+  },
+  {
+    "id": 153,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 202663,
+    "text": "\"Panie, panie\", krzyczy posiwiały goblin, który mianował się twoim doradcą.\n\n\"Taaa, ehem, jak cię tam zwą?\" pytasz.\n\n\"Właśnie dokonałem wielkiego odkrycia\" , mówi goblin, jakby nie słyszał pytania. \"Wspiąłem się na szczyt drzewa - jaki się stamtąd rozciąga widok, chłopcze! Wiesz co? W ten sposób mógłbyś nawet dostrzec wroga!\" Powiedziawszy to, szalony stary goblin oddala się w dziwnym pląsie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Panie, panie",
+          "voice": ""
+        },
+        {
+          "text": "Taaa, ehem, jak cię tam zwą?",
+          "voice": ""
+        },
+        {
+          "text": "Właśnie dokonałem wielkiego odkrycia",
+          "voice": ""
+        },
+        {
+          "text": "Wspiąłem się na szczyt drzewa - jaki się stamtąd r...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 395
+  },
+  {
+    "id": 154,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 203132,
+    "text": "Każdej nocy odczuwasz niepokój przemierzając obóz w oczekiwaniu na przybycie pięknej wojowniczki, Yalli. Dłużej niż ty walczy z czarownikami i czujesz, że wiele was łączy - tak jakby znała cię lepiej niż twój przyjaciel, Hardac.\n\nWreszcie pojawiła się próbując sprzedać kolejne towary skradzione Bracaduun.\n\nZapraszając ją na posiłek. Przy miodzie i baraninie do późna w nocy opowiadasz o swym marzeniu, by odtworzyć dawną potęgę barbarzyńców. \n\n\"Chcę dać naszym ludziom siłę, aby pewnego dnia każdy mężczyzna, kobieta czy dziecko woleli raczej wybrać śmierć niż ugiąć kark we wstydzie\",\nmówisz.\n\n\"Chodzi ci o dzień, gdy mężczyźni zajmą się pracą, zamiast siedzieć, pić i narzekać na swój los\", odparła gorzka Yalla. \"To było by miłe\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Chcę dać naszym ludziom siłę, aby pewnego dnia każ...",
+          "voice": ""
+        },
+        {
+          "text": "Chodzi ci o dzień, gdy mężczyźni zajmą się pracą, ...",
+          "voice": "npc_f"
+        },
+        {
+          "text": "To było by miłe",
+          "voice": "npc_f"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 735
+  },
+  {
+    "id": 156,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 203940,
+    "text": "Yalla odeszła, nim się obudziłeś. Tym razem nie dała ci okazji, byś spróbował ją zatrzymać. Chociaż rozumiesz, dlaczego wybrała samotną walkę, chciałbyś, by ci zaufała i stanęła do walki u twego boku. Razem, we dwoje moglibyście osiągnąć o wiele więcej - może nawet zniszczyć całe Cesarstwo Baracaduun.\n\nKról barbarzyńców władający królestwem rozciągającym się od mórz do morza, niczym Jarg! Ale zdajesz sobie sprawę, że to nie jest twoje jedyne marzenie. To cel, który pragniesz dzielić z barbarzyńską wojowniczką, Yallą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 522
+  },
+  {
+    "id": 157,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 204535,
+    "text": "Zostałeś wezwany do dobrze strzeżonych wozów ze złotem i ze zdziwieniem znalazłeś tam roztrzęsionego Hardaca przesypującego monety w jednej z sakw. Gdy wyjął rękę, na ziemię posypały się kawałki zardzewiałego żelaza.\n\n\"Co to ma znaczyć?\" pytasz.\n\n\"Okazuje się mój Królu, że część złota, które zebraliśmy, było fałszywe. Być może za sprawą jakiś czarów\" , mówi Hardac.\n\n\"Ile tego było?\" pytasz.\n\n\"Nie wiem, ale sprawdzę to.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co to ma znaczyć?",
+          "voice": ""
+        },
+        {
+          "text": "Okazuje się mój Królu, że część złota, które zebra...",
+          "voice": ""
+        },
+        {
+          "text": "Ile tego było?",
+          "voice": ""
+        },
+        {
+          "text": "Nie wiem, ale sprawdzę to.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 423
+  },
+  {
+    "id": 159,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 205033,
+    "text": "Twój zaufany doradca, Hardac, przyszedł dziś z niewesoła miną.\n\n\"Dlaczego nigdy nie przynosisz dobrych wieści?\" zażartowałeś.\n\n\"Ale przynajmniej nie jestem starym goblinem\" odparł Hardac.\n\nGdy skończyłem się śmiać, Hardac powiedział: \"Po tym wypadku z fałszywym złotem będziemy potrzebowali więcej pieniędzy, mój Królu. Uważam, że powinniśmy sprzedać wszelkie nadwyżki - siarkę, klejnoty i inne surowce. Na targowisku nie uzyskamy zapewne dobrych cen, ale przynajmniej zdobędziemy nieco złota\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dlaczego nigdy nie przynosisz dobrych wieści?",
+          "voice": ""
+        },
+        {
+          "text": "Ale przynajmniej nie jestem starym goblinem",
+          "voice": ""
+        },
+        {
+          "text": "Po tym wypadku z fałszywym złotem będziemy potrzeb...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 494
+  },
+  {
+    "id": 161,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 205613,
+    "text": "Spędziłeś kolejny wspaniały dzień z Yallą i nie wyobrażasz sobie większego szczęścia. A gdy siedziała już na koniu, gotowa do drogi, położyłeś jej rękę na kolanie.\n\n\"Zostań\", powiedziałeś miękko. \"Nienawidzę momentu, gdy odjeżdżasz\".\n\nZerknęła w dół na ciebie, przeczesała palcami twoje długie włosy.\n\n\"Ale dzięki temu bardziej się cieszysz, gdy wracam. Możesz poczekać kilka dni. Sam wiesz, nawet królowie nie zawsze dostają to, czego chcą.\"\n\nI odjechała.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zostań",
+          "voice": ""
+        },
+        {
+          "text": "Nienawidzę momentu, gdy odjeżdżasz",
+          "voice": ""
+        },
+        {
+          "text": "Ale dzięki temu bardziej się cieszysz, gdy wracam....",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 456
+  },
+  {
+    "id": 163,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 206144,
+    "text": "Podczas ostatniej wizyty Yalla obiecała, że wróci za kilka dni. Minęło ich już dziewięć!!! Tak się zaniepokoiłeś, że wysłałeś czterech zwiadowców w cztery różne strony świata, by szukali barbarzyńskiej wojowniczki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 214
+  },
+  {
+    "id": 164,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 206429,
+    "text": "Świeżo przybyły zwiadowca nerwowa przekazuje ci złe wieści.\n\nCzarownicy Baracadun wyciągnęli wreszcie cierń ze swojego boku. Yalla została pochwycona w czasie napadu na kopalnię złota - najwyraźniej była to pułapka, z której nie miała szans uciec. Zwiadowca był świadkiem publicznej egzekucji Yalli. Nieugięcie stała przed swoimi oprawcami i splunęła w twarz czarownika, który rzucił na nią śmiertelne zaklęcie pioruna.\n\nZaciskasz pięści i rozkazujesz, by nikt ci nie przeszkadzał. Przez wiele godzin rąbiesz pnie na drzazgi, zbyt małe, by rozpalić solidne ognisko, cały czas wyobrażając sobie, że pnie ubrane są w barwne togi czarowników.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 639
+  },
+  {
+    "id": 166,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 207275,
+    "text": "Tarnum musi jakoś utorować sobie drogę w tym ciężko ufortyfikowanym regionie i przejąć wszystkie zamki. Nie strać Tarnuma. Wszyscy bohaterowie są ograniczeni do 21 poziomu, ale dwaj najsilniejsi przejdą wraz z Tarnumem do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 245
+  },
+  {
+    "id": 172,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 340037,
+    "text": "Witamy w Imperium Bracaduun!\nKraina Magicznego Piękna & Pięknej Magii",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 69
+  },
+  {
+    "id": 173,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 340126,
+    "text": "Wchodzisz na teren Blanków.\nTylko dla upoważnionych podróżnych!\nPrzejście bez paszportu zabronione!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 99
+  },
+  {
+    "id": 174,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 340982,
+    "text": "Drogę niespodziewanie zasypuje ci tytan, który butnie oznajmia, \"Daj mi 5000 sztuk złota albo rozsmaruję cię wraz z twoją armią po okolicy.\"\nOdmawiasz. Tytan chwyta za ogromny miecz zwisający u jego pasa i już się ma zamachnąć, gdy ty prześlizgujesz się pomiędzy jego nogami. Tytan, zaskoczony tym niecodziennym manewrem potyka się i upada nadziewając się na własny miecz, ginąc na miejscu. Korzystając z okazji zabierasz należące do niego rzeczy.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Daj mi 5000 sztuk złota albo rozsmaruję cię wraz z...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 447
+  },
+  {
+    "id": 175,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 342466,
+    "text": "Może pomożesz starej kobiecie, co? Ostatnio jestem zbyt słaba, by podróżować w poszukiwaniu artefaktów, ale nie zamierzam jeszcze rezygnować z praktyki. Jeśli przyniesiesz mi klepsydrę diabelskiej godziny, dam ci cos w nagrodę - może trochę złota.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 247
+  },
+  {
+    "id": 176,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 342717,
+    "text": "Nie przeszkadzają mi twoje wizyty, ale wciąż potrzebuje klepsydry diabelskiej godziny. Idź i znajdź ją dla mnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 112
+  },
+  {
+    "id": 177,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 342833,
+    "text": "Och, co z ciebie zam iły młodzieniec! Bardzo ci dziękuje. A co do nagrody, czy 10000 sztuk złota cie zadowoli?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 110
+  },
+  {
+    "id": 178,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 343741,
+    "text": "Tak jak powiedział Bard, Gladius Tytanów został porzucony dawno temu, podczas starożytnej bitwy. Obecnie jest strzeżony przez dużą grupę złotych golemów. Czy chcesz walczyć z nimi o tę potężną broń?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 198
+  },
+  {
+    "id": 179,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 343989,
+    "text": "Jeden z Bardów zbliżył się do ciebie.\n\n\"Mój Królu, rozpoznaje to miejsce. Wiele lat temu stoczyła się tu walka między wielkim klanem, a armią tytanów. Mówi się że Gladius Tytanów, broń o wielkiej potędze, spoczywa wciąż między kośćmi umarłych.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Mój Królu, rozpoznaje to miejsce. Wiele lat temu s...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 244
+  },
+  {
+    "id": 180,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 347032,
+    "text": "Twoja armia zostaje niespodziewanie zaatakowana przez niewielką bandę orków (dość głupich by się na atak odważyć). Z łatwością rozbijasz oddział wroga i wkrótce jego niedobitki pierzchają w panice. Jeden z poległych orków nosi błyszczący, rogaty hełm. Decydujesz, iż będzie to dobra pamiątka z potyczki zabierasz go.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 181,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 347370,
+    "text": "Znajdujesz spory kufer wykonany z nieznanego ci metalu. Kiedy go dotykasz z kufra wydobywa się przeciągły gwizd i jego wieko odskakuje gwałtownie ukazując twym oczom leżącą w środku świetlista tarczę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 200
+  },
+  {
+    "id": 182,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 347659,
+    "text": "Dobrze słyszałeś, mam Hełm Gromu. I nie, nie sprzedam go! Będziesz musiał wydrzeć mi go z zimnych, umarłych dłoni. ALBO możesz mi coś za niego dać. Powiedzmy hełm piekielnego sztormu? To była by rozsądna wymiana.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 212
+  },
+  {
+    "id": 183,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 347875,
+    "text": "Mówiłem że go nie sprzedam! Przynieś mi lepiej hełm piekielnego sztormu, ty ośle!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 81
+  },
+  {
+    "id": 184,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 347960,
+    "text": "Ooo! Hełm piekielnego sztormu jest znacznie ładniejszy niż to stare żelastwo. Masz i daj mi spokój.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 99
+  },
+  {
+    "id": 185,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 355713,
+    "text": "Pośród resztek spalonej na stosie czarownicy dostrzegasz pięknie wykonany amulet. Ostrożnie zabierasz znalezisko i szybko się oddalasz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 135
+  },
+  {
+    "id": 186,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 367325,
+    "text": "Spotykasz wędrowca, który wyciąga talię kart i prosi cię byś wybrał jedną. Odmawiasz, a wtedy nieznajomy sam wyciąga jedna kartę. Gdy zagląda na nią, na jego twarzy pojawia się wyraz ogromnego zaskoczenia. W sekundę potem rozlega się głośny trzask i nieznajomy znika pozostawiając na ziemi rozsypaną talię. Zbierasz karty i oddalasz się szybko z tego miejsca.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 359
+  },
+  {
+    "id": 187,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 368610,
+    "text": "Od strony rozpalonego słońcem horyzontu zbliża się grupa rycerzy, dawno temu zaginionych na pustyni, jak można się domyślać na podstawie ich pełnych szaleństwach oczu i spalonym słońcem policzków. \n\n\"Trzymaj się z dala, podłe demony!\" krzyczy ich dowódca. \"Jesteśmy, strażnikami skarbów naszego władcy. Cofnijcie się!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Trzymaj się z dala, podłe demony!",
+          "voice": ""
+        },
+        {
+          "text": "Jesteśmy, strażnikami skarbów naszego władcy. Cofn...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 318
+  },
+  {
+    "id": 188,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 369130,
+    "text": "Zupełnie przypadkiem jedna z twoich ludzi znalazł skrzynię zagrzebaną w piasku. Tego musiały pilnować gorgony. Otwierasz ją i w środku znajdujesz rzadkie zaklęcie: Magiczny portal.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 180
+  },
+  {
+    "id": 189,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 369657,
+    "text": "Odwiedzając lokalnego mędrca opowiadasz o swojej misji. Mędrzec sięga do stojącego niedaleko kufra po czym wręcza ci dziwnie wyglądającą parę butów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 148
+  },
+  {
+    "id": 190,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 370112,
+    "text": "Na drodze czeka na ciebie mała grupa żołnierzy wroga, ale gdy się do nich zbliżasz, rzucają broń na ziemię i poddają się. Twoi żołnierze wiwatują na tę oznakę słabości. Co za szczęście! Po raz pierwszy inni też uwierzyli, że jednak możesz pokonać Blanki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 191,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 370473,
+    "text": "\"Uwaga\" , mówi doradca, gdy zbliżacie się do monolitu. \"Znaki na tym portalu informują, że przeniesie cię tylko w jedna stronę. Gdy przez niego przejdziesz, nie będziesz mógł wrócić - a plotki mówią, że po drugiej stronie wielka armia wroga!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Uwaga",
+          "voice": ""
+        },
+        {
+          "text": "Znaki na tym portalu informują, że przeniesie cię ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 242
+  },
+  {
+    "id": 192,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 370925,
+    "text": "Niedawny zawał odkrył trochę klejnotów i złota na zboczu góry. Zatrzymałeś oddziały na tak długo, aby żołnierze zdążyli je wykopać, a potem ruszasz z poczuciem, że jednak cieszysz się łaska przodków.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 199
+  },
+  {
+    "id": 193,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 371207,
+    "text": "Drżący krzak ostrzega cię przed atakiem na kilka sekund, zanim to nastąpi. Ostrzegasz swoich ludzi, gdy zdesperowani bandyci wyskakują z zarośli.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 145
+  },
+  {
+    "id": 194,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 371521,
+    "text": "Natknąłeś się na mały krąg kolorowych wozów obozujących nad rzeką. To są Cyganie. Chętnie wmieszali się w twoich żołnierzy, śmiejąc się, śpiewając i tańcząc. Cyganie wręczają ci posiłek, a stara kobieta czyta ci dłonie. Kiedy w końcu rozstajesz się z tymi ludźmi, ty i twoi ludzie jesteście w dobrym nastroju i nadal nucicie piosenki Cyganów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 342
+  },
+  {
+    "id": 195,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 372003,
+    "text": "Przed tobą wysokie, kamienne mury zamku. Nigdy więcej nie widziałeś tak świetnie zorganizowanej obrony miasta. Pytasz kapitanów, czy któryś z nich atakował już wcześniej jakiś zamek, ale wszyscy przecząco potrząsają głowami. A wiec będziesz pierwszy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 250
+  },
+  {
+    "id": 196,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 372728,
+    "text": "Kopiąc groby dla kilku zmarłych, twoi ludzie natknęli się na zakopany skarb (prawdopodobnie skradziony królom-magom). Jeśli chodzi o ciebie, potrzebujesz go bardziej niż ktokolwiek kto go ukradł.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 195
+  },
+  {
+    "id": 198,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 373014,
+    "text": "Obudził cię szaman. \"Miałem sen, mój Królu! Sen o twej śmierci, o tym że nasi wrogowie zabili cię w tych górach.\"\n\nPytasz więc: \"Czy to przepowiednia, czy tylko sen?\"\n\n\"Tak mój Królu, to przepowiednia\", odpowiada szaman. \"Ale ona nie musi się sprawdzić. Musisz tylko stworzyć potężny artefakt, Piorun Tytana! jeśli będziemy dysponować jego potęga, armie naszych wrogów nie będą mogły się z nami równać.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Miałem sen, mój Królu! Sen o twej śmierci, o tym ż...",
+          "voice": ""
+        },
+        {
+          "text": "Czy to przepowiednia, czy tylko sen?",
+          "voice": ""
+        },
+        {
+          "text": "Tak mój Królu, to przepowiednia",
+          "voice": ""
+        },
+        {
+          "text": "Ale ona nie musi się sprawdzić. Musisz tylko stwor...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 403
+  },
+  {
+    "id": 200,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 373497,
+    "text": "Wizyta u miejscowej czarownicy okazała się pożyteczna. Nie dość, że od ręki uleczyła twoje rany to jeszcze powiedziała, jak powołać do życia Piorun Tytana.\n\n\"Znajdź cztery artefakty - Gladius Tytanów, Pancerz Tytana, Hełm Gromu i Tarczę Strażnika Niebios. Mając te przedmioty, posiądziesz potęgę, o jakiej nie śniłeś. Poszukaj chatki maga, a on wskaże ci drogę.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Znajdź cztery artefakty - Gladius Tytanów, Pancerz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 362
+  },
+  {
+    "id": 201,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 373932,
+    "text": "Miesiące bezustannej walki nauczyły cię być gotowym do bitwy w każdej chwili. Na wschodzie majaczą na horyzoncie Blanki, wyniosły łańcuch górski  najeżony strażnicami twych wrogów. Nawet Jarg nie próbował by się przedzierać przez te góry; musisz dokonać wyczynu, którego nikt jeszcze nie dokonał.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 296
+  },
+  {
+    "id": 202,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 374295,
+    "text": "Postanowiłeś spożyć posiłek samotnie w swoim namiocie, więc na widok swojego doradcy i przyjaciela, Hardaca, masz nieco zirytowaną minę.\n\n\"Co się stało mój królu? Czy chodzi o tą barbarzyńską kobietę?\"\n\n\"Nie nic się nie stało\", odpowiadasz, chociaż Hardack ma racje. Tęsknisz za Yallą, mimo że tak krótko ja znałeś.\n\nHardac nie ciągnął dalej tematu, ale gdy wyszedł, żałujesz, że go okłamałeś. I nie tylko to, czujesz się też bardzo samotny... znowu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co się stało mój królu? Czy chodzi o tą barbarzyńs...",
+          "voice": ""
+        },
+        {
+          "text": "Nie nic się nie stało",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 450
+  },
+  {
+    "id": 203,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 374814,
+    "text": "Nic, nawet wspomnienie dawnych zwycięstw, nie przynosi ci radości. Wciąż słyszysz dziesiątki opowieści o armiach, którym nie udało się przejść przez Blanki, i o torturach, jakie je spotkały za to, że ośmieliły się spróbować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 224
+  },
+  {
+    "id": 204,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 375106,
+    "text": "Długo konferowałeś z Bardami na temat historii Blanków, a szczególnie walk w tym rejonie. To, co mieli do powiedzenia, nie dodało ci odwagi.\n\nNikt nie zdołał podbić tych gór. Jest w nich zbyt wiele zamków. Ale nie wykorzystano nigdy jeden z taktyk. Ataku prawdziwej hordy - armii tak licznej, że mogłaby złamać kark świata!\n\nMusisz stworzyć taką armię.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 352
+  },
+  {
+    "id": 205,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 375525,
+    "text": "Według najświeższych raportów zaatakowano wozy z dostawami. Wróg pojawił się dosłownie znikąd i równie tajemniczo zniknął. Tropiciele próbowali go śledzić, ale nikogo nie znaleźli. Tak, jakby wróg nigdy się tam nie pojawił.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 223
+  },
+  {
+    "id": 207,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 375823,
+    "text": "Siedząc przy wieczornym posiłku słuchasz, jak jeden z wojowników opowiada o tajemniczej kryjówce rabusiów - Raider's Plateau. Mówi się, że ci bandyci znają sekretne przejście przez Blanki i dzięki temu mogą bez przeszkód napadać na tabory z dostawami dla królów-magów z Baracaduun. Gdybyż to tylko mogła być prawda.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 315
+  },
+  {
+    "id": 209,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 376210,
+    "text": "Doszło do tego, że nawet niektórzy z dowódców zaczynają poddawać w wątpliwość twój plan.\n\n\"Co nas obchodzi Baracaduun? Przecież odzyskaliśmy naszą ojczyznę!\" mówią.\n\nAle ty się z nimi nie zgadzasz. Jak mógłbyś pozwolić, że wróg bez strachu obwarował się w swych zamkach i knuł intrygi, aby znów zniewolić naród barbarzyńców? Przecież pozabijali całe rodziny, tak było na przykład w przypadku Yalli.\n\nNawet twoja rodzina została rozdzielona. Przez dwa dni w roku twoja matka zalewała się łzami wspominając urodziny twych dwóch starszych sióstr. Prawo Baracaduun stanowiło, że żadna z rodzin barbarzyńców nie może mieć więcej niż jedno dziecko, a twoi rodzice byli tak biedni, że potrzebowali syna, by pomagał im w ciężkich pracach. Nie chcieli tego, ale musieli oddać swoje dwie córki czarownikom.\n\nA poza tym, jest jeszcze to, co zrobili z Yallą...",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co nas obchodzi Baracaduun? Przecież odzyskaliśmy ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 848
+  },
+  {
+    "id": 211,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 377134,
+    "text": "Znowu uderzono na linie zaopatrzenia twojej armii. To nie była zwykła zasadzka. Wróg uderzył szybko i zniknął, zanim oddziały przydzielone do obstawy wozów zdążył zareagować. Musisz liczyć się z dużymi stratami, dopóki nie uda ci się zlikwidować tych zasadzek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 260
+  },
+  {
+    "id": 213,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 377464,
+    "text": "Dzisiaj awansowałeś najstarszego syna Hardaca, Tordaca, na kapitana. Ten młody wojownik jest charyzmatycznym przywódcą - żołnierze bardzo go lubią. Mimo tygodni depresji, uśmiechasz się rodzicielską dumę malującą się na twarzy starego przyjaciela. To dobry dzień.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 263
+  },
+  {
+    "id": 214,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 377795,
+    "text": "To był fatalny dzień.\n\nMusiałeś zabić przywódcę orków, który walczył u twojego boku od samego początku, potężnego kapitana i dobrego przywódcę. Ale Ungrod pozwolił sobie na zbyt wiele. Wszystko stało się tak szybko - Ungrod stwierdził, że przedkładasz własną rządzę zemsty nad dobro klanów.\n\n\"Jesteś równie arogancki, jak czarownicy!\"\n\nTe słowa wywołały twoją wściekłość. Wyciągnęliście miecze. Pojedynek był krótki.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jesteś równie arogancki, jak czarownicy!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 416
+  },
+  {
+    "id": 216,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 378284,
+    "text": "Do obozu przybył ledwie żywy żołnierz. Przyniósł informacje o kolejnej zasadzce. Należał do małej grupy, która próbowała przetransportować w tajemnicy trochę złota na twoje terytorium, ale pewnej nocy, gdy zbijali obóz, znikąd pojawiło się dwóch gigantów. Ochrona nie była w stanie sprostać tym potworom, a żołnierz ledwie zdołał ujść z życiem. Niestety, złoto zostało stracone.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 378
+  },
+  {
+    "id": 218,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 378736,
+    "text": "Zasadzki stały się twoim utrapieniem, zebrałeś więc kapitanów i doradców, aby spytać jak zamierzają im przeciwdziałać. Syn twojego przyjaciela, Hardaca, pierwszy wystąpił naprzód. \n\n\"Zasadzką, mój Królu\", powiedział Tordac. \"Wozy z towarem i przebranymi żołnierzami przygotowanymi na niespodziewany atak. Rozpuścimy plotki, że w tych wozach przewozimy połowę naszego złota, aby czarownicy nie oparli się pokusie.\"\n\nTo dobry pomysł, jak na kogoś tak młodego. Jesteś pod wrażeniem, mianujesz więc Tordaka dowódca całego przedsięwzięcia.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zasadzką, mój Królu",
+          "voice": ""
+        },
+        {
+          "text": "Wozy z towarem i przebranymi żołnierzami przygotow...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 534
+  },
+  {
+    "id": 220,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 379351,
+    "text": "Przybyła para ogrów wioząc między sobą ciało syna Hardaca, Tordaca.\nPułapka okazała się sukcesem, ale jego cena była zbyt wysoka.\n\nZostali zaatakowani przez kilka gigantów dowodzonych przez potężnego czarownika, co tłumaczy, dlaczego wrogowie tak szybko pojawiali się i znikali. Tordac i inni żołnierze dzielnie walczyli, Tordac zdołał nawet zabić czarownika, nim sam zginął.\n\nPóźniej przybył Hardac, roztrzęsiony na widok ciała swojego syna i pogrążony w smutku. \n\nKładąc rękę na ramieniu przyjaciela, mówisz: \"Zginał na polu chwały. Powinieneś być dumny.\"\n\nHardac spojrzał na ciebie i dostrzegłeś w jego oczach rezygnację, gdy mówił: \"To ja go tu sprowadziłem.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zginał na polu chwały. Powinieneś być dumny.",
+          "voice": ""
+        },
+        {
+          "text": "To ja go tu sprowadziłem.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 663
+  },
+  {
+    "id": 222,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 380217,
+    "text": "Tarnum przebił się przez Blanki, ale w krótce zdał sobie sprawę, że jest w pułapce. Jego jedynym ratunkiem jest przejęcie miasta na północnej granicy i ucieczka. Wszyscy bohaterowie są ograniczeni do 25 poziomu, ale dwaj jego najsilniejsi podążą za Tarnumem do następnego poziomu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 280
+  },
+  {
+    "id": 223,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 443267,
+    "text": "Strażnicy krzyczą: \"To przejście jest otwarte tylko dla prześwietnego Tarnuma!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To przejście jest otwarte tylko dla prześwietnego ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 79
+  },
+  {
+    "id": 224,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 443379,
+    "text": "\"To naprawdę ty, panie?\" pyta kapitan straży. \"Słyszałem, że masz przeszło dwa metry wzrostu. Czy chcesz przejść, mój królu?\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To naprawdę ty, panie?",
+          "voice": ""
+        },
+        {
+          "text": "Słyszałem, że masz przeszło dwa metry wzrostu. Czy...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 125
+  },
+  {
+    "id": 226,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 445476,
+    "text": "Na zachód - Blanki i Dzikie pustkowia  \n\nNa wschód - Cesarstwo Baracaduun",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 73
+  },
+  {
+    "id": 227,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 448033,
+    "text": "Dźwięki bitwy przywabiają cię do miejsca, gdzie widzisz walkę między starym barbarzyńcą a ośmiogłową hydrą. Szybko wkraczasz do akcji przechylając wkrótce szalę zwycięstwa na rzecz barbarzyńcy. Po bitwie barbarzyńca oddaje ci swój amulet, którego jak mówi, używał aby uspokoić swój umysł przed walką.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 300
+  },
+  {
+    "id": 228,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 449869,
+    "text": "Na zewnątrz sanktuarium modli się grupa zelotów. Na szyi ich przywódcy wisi znak świętości. Czy zamierzasz walczyć z nimi o ten artefakt?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 137
+  },
+  {
+    "id": 229,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 451432,
+    "text": "Biwakuje tu banda wędrownych Mistrzów. Wspinają się, widząc, jak się zbliżasz, a ich lider pyta: „Czy jesteś wystarczająco odważny, aby rzucić nam wyzwanie za ten wielki artefakt, Opończa przeciwstawienia?”",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 206
+  },
+  {
+    "id": 230,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 451832,
+    "text": "Powietrze wokół ciebie załamuje się, przecierasz więc oczy dochodząc do wniosku, że zbyt wiele godzin spędziłeś w siodle. Gdy wszystko wraca do normy, okazuje się, że jesteś otoczony. Magiczna zasadzka!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 202
+  },
+  {
+    "id": 231,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 452256,
+    "text": "Bandyci!  Ci brutalni mordercy nie mają zamiaru dyskutować. Wyciągają broń i natychmiast atakują.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 97
+  },
+  {
+    "id": 232,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 452536,
+    "text": "Widzisz złoty łuk zwisający z gałęzi drzewa, ale nie możesz go po prostu zabrać. Po pierwsze musisz pokonać gryfy królewskie otaczające drzewo. Czy chcesz z nimi walczyć?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 170
+  },
+  {
+    "id": 233,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 460465,
+    "text": "\"Z rozkazu cesarstwa, ci niebezpieczni buntownicy maja pozostać więźniami  w lochach aż do śmierci\", krzyczy dowódca pikinierów otaczających więzienie. Strażnicy dobywają broni i atakują.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Z rozkazu cesarstwa, ci niebezpieczni buntownicy m...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 187
+  },
+  {
+    "id": 234,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 460891,
+    "text": "Jeden ze strażników przy bramie informuje cię, że nie zdołał zamknąć bramy dość szybko i silny oddział wroga ufortyfikował się w mieście granicznym przed tobą. To ostatnia przeszkoda, która przeszkoda, która blokuje ci dostęp do doliny, w której wiele lat temu osiedlili się potomkowie Jarga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 292
+  },
+  {
+    "id": 236,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 461939,
+    "text": "Wyczerpana grupa twoich żołnierzy z tylnych straży przynosi straszną nowinę. Wielki zawał - niewątpliwie wywołany przez magiczne trzęsienie ziemi - zniszczył połowę twojej armii oraz wozy z zaopatrzeniem. Pozostała część armii została po drugiej stronie Blanków i nie jest w stanie przedostać się do ciebie.\n\nTwoje siły zostały zdziesiątkowane i otoczone. Masz tylko oddziały awangardy, które prowadziłeś ze sobą, oraz niewielką siłę w garnizonie za tobą. Przez jakiś czas żołnierze utrzymają garnizon, ale to nie będzie trwało wiecznie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 537
+  },
+  {
+    "id": 238,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 462556,
+    "text": "Przybyły wieści od barbarzyńskich rebeliantów wiernych twojej sprawie. Zajęli przejście na północy, przejście do krain zasiedlonych dawno temu przez potomków Jarga. Utrzymają je - pozwalając przejść jedynie tobie. \n\nZ pewnością płynąca w twoich żyłach krew pierwszego Króla Hordy będzie cię bronić przed wrogami...\n\nJeśli tylko zdołasz ich dosięgnąć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 350
+  },
+  {
+    "id": 239,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 462971,
+    "text": "\"Wszystko co musimy teraz zrobić\", mówi twój doradca, Hardac \"To przedostać się przez północne przejście. Nasi żołnierze są zmęczeni i słabi - wątpię, byśmy zdołali pokonać czarowników. W krainie potomków Jarga znajdziemy ochronę.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wszystko co musimy teraz zrobić",
+          "voice": ""
+        },
+        {
+          "text": "To przedostać się przez północne przejście. Nasi ż...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 231
+  },
+  {
+    "id": 240,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 463266,
+    "text": "Nie doceniłeś potęgi królów-magów Baracaduun. Do tej pory zwyciężałeś często. Nic nie oparło się twojej potędze. Aż do tej chwili. \n\nNie możesz pozbyć się poczucia winy wobec setek żołnierzy pogrzebanych na Blankach pod tonami skał. To byli twoi żołnierze. I zaciskając mocniej palce na rękojeści miecza, przysięgasz, że ci, którzy zginęli, zostali pomszczeni.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 360
+  },
+  {
+    "id": 241,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 463688,
+    "text": "Przebudziłeś się, Twoje ciało jest ociężałe, długie włosy mokre od potu przylgnęły do skóry. Mija kilka sekund, nim zdajesz sobie sprawę, gdzie jesteś, a w tym czasie sen, który cię zbudził, znika - zapomniany na zawsze.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 220
+  },
+  {
+    "id": 243,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 463979,
+    "text": "Z ociąganiem mianujesz następcę syna Hardaca. Twój wybór padł na ognistego ogra o imieniu Bloodclub. Chociaż nie jest najbłyskotliwszym z kapitanów, Bloodclub robi przerażające wrażenie na polu bitwy. A teraz nastał czas wciekłości i pogromu. \n\nChociaż jak do tej pory zwyciężałeś wszystkie bitwy, wydaje się, że czarownicy zawsze są gotowi i chętni odparować każdy cios, tak jak to zrobili, przygotowując zasadzkę na Blankach. Teraz nadszedł czas, by Baracaduun zadrżało z przerażenia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 486
+  },
+  {
+    "id": 244,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 464528,
+    "text": "Jak to się stało, że jesteś oddzielony od swojej armii?\n\nKrążysz po zamglonych bagnach, otoczony przez cienie prześlizgujące się między drzewami o poskręcanych konarach. To pewnie wróg przygotowujący się do ataku! Wyciągasz miecz w oczekiwaniu na nadchodzącą śmierć. \n\nGdy wreszcie ruszają na ciebie, wychodząc ze wszystkich stron, atakujesz tego, który jest na przedzie i zadajesz śmiertelne ciecie. Zbyt późno orientujesz się, że przywódca była jedyna kobieta, która kochałeś, Yalla.\n\nA potem budzisz się w swoim namiocie, zlany potem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 537
+  },
+  {
+    "id": 246,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 465138,
+    "text": "Hardac wszedł do twojego namiotu z ponurą minę. Czekasz na nowiny. \n\n\"Chodzi o Bloodcluba, mój Królu\", mówi Hardac.\n\n\"Nie żyje?\" pytasz.\n\n\"Nie, nie o to chodzi. Kradł owce i świnie z wrogich wiosek i najwyraźniej znalazł przy okazji ukrywających się czarowników. Bloodclub zabił czarowników, a potem rozpoczął rzeź. Zabił wszystkich mieszkańców wioski  za ukrywanie czarowników, nawet dzieci. Jakby nie dość tego, podpalił zabudowania i zostawił zwłoki wśród zgliszcz!\"\n\nKiwasz głową, wiedząc, że Hardac i pozostali kapitanowie oczekują od ciebie ukarania ogra za skrzywdzenie niewinnych, ale jakoś nie potrafisz uznać Bloodcluba za winnego ani jego uczynku za zły, skoro pomagają Bracaduun?\n\n\"Zajmę się tym, Hardac.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Chodzi o Bloodcluba, mój Królu",
+          "voice": ""
+        },
+        {
+          "text": "Nie żyje?",
+          "voice": ""
+        },
+        {
+          "text": "Nie, nie o to chodzi. Kradł owce i świnie z wrogic...",
+          "voice": ""
+        },
+        {
+          "text": "Zajmę się tym, Hardac.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 717
+  },
+  {
+    "id": 247,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 465918,
+    "text": "Dziś wrócił ze swej misji Bloodclub i natychmiast pojawił się w twoim namiocie.\n\n\"Wzywałeś mnie, mój Królu?\"\n\n\"Tak\" odpowiadasz, \"tak zamordowałeś niewinnych ludzi. Byli nieuzbrojeni, słyszałem, że wyrżnąłeś wszystkich.\"\n\nOgr zamarł usłyszawszy to oskarżenie i odparł: \"Ukrywali czarowników. Byli wrogami. Poza tym czarownicy nie potrzebują broni, żeby zabijać!\" \n\nPotakujesz, zdając sobie sprawę, że Bloodclub ma swoje racje. \"Ale nie rob tego więcej. Możesz odejść.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wzywałeś mnie, mój Królu?",
+          "voice": ""
+        },
+        {
+          "text": "Tak",
+          "voice": ""
+        },
+        {
+          "text": "tak zamordowałeś niewinnych ludzi. Byli nieuzbroje...",
+          "voice": ""
+        },
+        {
+          "text": "Ukrywali czarowników. Byli wrogami. Poza tym czaro...",
+          "voice": ""
+        },
+        {
+          "text": "Ale nie rob tego więcej. Możesz odejść.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 468
+  },
+  {
+    "id": 248,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 466450,
+    "text": "\"To wszystko, co zamierzasz zrobić w tej sprawie, mój królu? Blodclub wyruszył dziś w pole - sądziłem, że zostanie ukarany\", powiedział Hardac.\n\nPotrząsasz głową i mówisz: \"Mój przyjacielu, to świetny dowódca i dobry wojownik. Nie mogę pozwolić sobie teraz na stracenie kogoś takiego. Chyba pamiętasz, że mamy niewielu żołnierzy, mniej niż kiedykolwiek!\"\n\n\"A więc\", mówi Hardac drętwiejąc, \"dostał jedynie klapsa za zamordowanie dzieci?\" Nie czekając na odpowiedź, Hardac odszedł. Masz nadzieję, że z czasem się uspokoi i przyzna ci rację.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To wszystko, co zamierzasz zrobić w tej sprawie, m...",
+          "voice": ""
+        },
+        {
+          "text": "Mój przyjacielu, to świetny dowódca i dobry wojown...",
+          "voice": ""
+        },
+        {
+          "text": "A więc",
+          "voice": ""
+        },
+        {
+          "text": "dostał jedynie klapsa za zamordowanie dzieci?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 539
+  },
+  {
+    "id": 249,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 467053,
+    "text": "Hardac wrócił ze zwiadu akurat w porze twojego lunchu. Gdy zsiadł z konia, zauważyłeś, ze broczy krwią.\n\n\"Co się stało?\" pytasz.\n\n\"Nic, mój królu. Koń spłoszył się na widok węża i zrzucił mnie. Skaleczyłem się w kolano, to wszystko - zagoi się. Jednak konia wybiorę sobie innego.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co się stało?",
+          "voice": ""
+        },
+        {
+          "text": "Nic, mój królu. Koń spłoszył się na widok węża i z...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 280
+  },
+  {
+    "id": 250,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 467397,
+    "text": "Jedna z grup zwiadowczych wróciła dzisiaj bez dowódcy, Bloodcluba. Gdy pytasz, co się stało z ogrem, mówią, ze Bloodclub oddalił się od grupy, aby zapolować na dzika. Gdy długo nie wracał, zwiadowcy założyli, że dzik go rozszarpał i wrócili do obozu. \n\nOdwracasz się do Hardaca i potrząsasz głową: \"Coś tu śmierdzi, przyjacielu. Niech ktoś go poszuka.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Coś tu śmierdzi, przyjacielu. Niech ktoś go poszuk...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 352
+  },
+  {
+    "id": 252,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 467824,
+    "text": "Grupa żołnierzy wróciła z puszczy niosąc ciało kapitana Bloodcluba. Po dokładnych oględzinach odkrywasz, że Bloodclub zginał w walce, ale nie z dzikiem, jak mówiono.\n\nKtoś go zabił, ale to nie było morderstwo. Ma wiele ran, ale tylko jedną poważną. To była prawdopodobnie uczciwa walka, ale któż zdecydował by się na uczciwą walkę z ogrem? I po co? Nie masz dowodów, ale spoglądasz na Hardaca i pozostałych kapitanów, którzy stoją wokół ze stoickim spokojem. \n\nTo musiał być któryś z nich. Widzisz to w ich oczach. Zapewne jakaś forma samosądu... albo po prostu go nie lubili. To był jeden z nich, jesteś pewien, albo boisz się zgadywać, który.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 644
+  },
+  {
+    "id": 253,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 468532,
+    "text": "Pole walki.\n\nWidziałeś ich już tak wiele, że potrafisz w mgnieniu oka ocenić sytuację. Ale tu jest inaczej. Stoisz sam, zdajesz sobie sprawę, że to kolejny koszmar, ale nie możesz (albo nie chcesz) się obudzić. To cos więcej niż tylko sen, to prawie jakby ktoś szeptał ci coś do ucha.\n\nU twych stóp leżą wszyscy, których kiedykolwiek znałeś, przyjaciele i wrogowie. Jest też Yalla, martwa od twojego miecza. I twoja matka, twój ojciec. Są też obie twoje siostry jako małe dziewczynki, choć to niemożliwe. Są przecież starsze niż ty.\n\nJest też Hardac, obok swojego syna, Tordaka. Bloodclub, stary Bard ze strzałą w plecach, czarownik Kurl, twoi kapitanowie i wielu innych - ich ciała leżą jedno na drugim.\n\nWszyscy martwi od twojego miecza.\n\nA potem się budzisz. Tym razem jednak nie możesz zapomnieć snu, choć bardzo byś chciał.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 828
+  },
+  {
+    "id": 255,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 469439,
+    "text": "Tego ranka ty i Hardac wjechaliście na szczyt wzgórza, aby rozejrzeć się po okolicy. Gdy zatrzymałeś się, by podziwiać zielone pola, zapytałeś: \"Jak twoje kolano?\"\n\nHardac wzruszył ramionami i odparł: \"Nie jestem już tak młody, rany nie goją się tak szybko, jak niegdyś.\"\n\n\"Muszę cos wiedzieć przyjacielu\", mówisz.\n\n\"Cokolwiek zechcesz.\"\n\n\"Czy ty i pozostali kapitanowie jesteście ze mną?\"\n\nMinęła długa chwila, nim twój przyjaciel odpowiedział.\n\n\"Oni tęsknią za domem i rodzinami, to wszystko\", powiedział wreszcie Hardac.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jak twoje kolano?",
+          "voice": ""
+        },
+        {
+          "text": "Nie jestem już tak młody, rany nie goją się tak sz...",
+          "voice": ""
+        },
+        {
+          "text": "Muszę cos wiedzieć przyjacielu",
+          "voice": "tarnum"
+        },
+        {
+          "text": "Cokolwiek zechcesz.",
+          "voice": ""
+        },
+        {
+          "text": "Czy ty i pozostali kapitanowie jesteście ze mną?",
+          "voice": ""
+        },
+        {
+          "text": "Oni tęsknią za domem i rodzinami, to wszystko",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 523
+  },
+  {
+    "id": 257,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 470171,
+    "text": "Straciwszy większość hordy w pułapce czarodziejów, Tarnum poszukuje sojuszników w dolinie, w której od pokoleń mieszkają potomkowie Jarga. Nie pozwól, by wpadł w ręce wroga. Wszycy bohaterowie są ograniczeni do 28 poziomu. Tarnum i wszystkie jego umiejętności, zaklęcia i doświadczenie przejdą dalej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 300
+  },
+  {
+    "id": 258,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 497652,
+    "text": "\"Błagam\", krzyczy jeden z wieśniaków. \"To wszystko co mamy. Błagam, nie zabieraj naszego młyna!\"\n\n\"Nie chcemy go zabierać! Dołącz do nas, walcz z czarownikami, a nie będziesz się musiał już nikogo obawiać!\"\n\nAle wieśniacy potrząsają głowami. Ich przedstawiciel mówi: \"Nie wiesz, co oni nam zrobili! Nie możemy dołączyć do ciebie ani się poddać.\"\n\nZaciskasz dłoń na rękojeści miecza. O co chodzi tym ludziom? Czy już tak długo są niewolnikami, ze zapomnieli, co znaczy wolność?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Błagam",
+          "voice": ""
+        },
+        {
+          "text": "To wszystko co mamy. Błagam, nie zabieraj naszego ...",
+          "voice": ""
+        },
+        {
+          "text": "Nie chcemy go zabierać! Dołącz do nas, walcz z cza...",
+          "voice": ""
+        },
+        {
+          "text": "Nie wiesz, co oni nam zrobili! Nie możemy dołączyć...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 476
+  },
+  {
+    "id": 259,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 498186,
+    "text": "Nie długo po tym, jak twoja armia spaliła opuszczoną wioskę, odkrywasz grupę uchodźców, próbującą ukryć się w leśnych ostępach. Jak pozostali, zapewne próbują ukryć się przed tobą, aby potem dołączyć do swoich panów, czarowników. \n\n\"Niezły pomysł\", mówisz. \"Ale żaden zdrajca nie ucieknie przed Królem Tarnumem!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Niezły pomysł",
+          "voice": ""
+        },
+        {
+          "text": "Ale żaden zdrajca nie ucieknie przed Królem Tarnum...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 312
+  },
+  {
+    "id": 260,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 498556,
+    "text": "Z jaskiń wychodzi grupa zmęczonych, rozwścieczonych górników. W rękach trzymają kilofy i oskardy, niczym broń. Ich przywódca wystąpił na przód.\n\n\"Nie pozwolimy, byś przejął tą kopalnię\", mówi. \"Prosimy odejdź. Nie chcemy z tobą walczyć, ale czarownicy ukarzą nas, jeśli do ciebie przestaniemy.\"\n\n\"Czy ktokolwiek w tej kotlinie ma prawdziwie barbarzyńską krew?\", krzyczysz  ku niebiosom, a potem atakujesz.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie pozwolimy, byś przejął tą kopalnię",
+          "voice": ""
+        },
+        {
+          "text": "Prosimy odejdź. Nie chcemy z tobą walczyć, ale cza...",
+          "voice": ""
+        },
+        {
+          "text": "Czy ktokolwiek w tej kotlinie ma prawdziwie barbar...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 405
+  },
+  {
+    "id": 261,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 499019,
+    "text": "Grupa chłopstwa zagradza przejście, ale gdy cię rozpoznają, próbują usunąć się na bok. Gdy prosisz, by przyłączyli się do ciebie, potrząsają przecząco głowami.\n\n\"Czarownicy ukarzą nas, jeśli ci pomożemy. Poza tym słyszeliśmy, że wkrótce  zginiesz i co w tedy będzie z nami?\"\n\nNie możesz uwierzyć własnym uszom. Krew z krwi Jarga, a sprzymierzają się z rzucającymi czary! Wyczuwasz, że jeśli czarownicy rozkażą im walczyć po swojej stronie, ci ludzie dołączą do walki, dochodzisz do wniosku, że lepiej od razu wyeliminować to zagrożenie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czarownicy ukarzą nas, jeśli ci pomożemy. Poza tym...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 536
+  },
+  {
+    "id": 262,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 499667,
+    "text": "Duża grupa wolno posuwa się po bagnistym terenie.\n\n\"Kolejna banda tych cherlawych wieśniaków, mój królu\", mówi jeden z kapitanów. \"Nie są chyba warci naszego wysiłku.\"\n\n\"To ja oceniam sytuację. Zabić wszystkich!\" odpowiadasz.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Kolejna banda tych cherlawych wieśniaków, mój król...",
+          "voice": ""
+        },
+        {
+          "text": "Nie są chyba warci naszego wysiłku.",
+          "voice": ""
+        },
+        {
+          "text": "To ja oceniam sytuację. Zabić wszystkich!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 225
+  },
+  {
+    "id": 263,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 499943,
+    "text": "Przed pobliska wioską stoi grupa wieśniaków z widłami. Ich przywódca występuje naprzód i mówi: \"Prosimy, zostaw nas w spokoju. Nie mamy bogactwa, ale z chęcią damy ci wszystko, co nam jeszcze zostało - pozwól nam tylko żyć!\"\n\nŚmiejesz się z bezczelność tego człowieka.\n\n\"Weźmiemy, co zechcemy, łącznie z waszymi bezwartościowymi żywotami, wielbiciele czarowników!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Prosimy, zostaw nas w spokoju. Nie mamy bogactwa, ...",
+          "voice": ""
+        },
+        {
+          "text": "Weźmiemy, co zechcemy, łącznie z waszymi bezwartoś...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 364
+  },
+  {
+    "id": 264,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 500437,
+    "text": "Zwiadowcy donoszą, że w pobliskich zaroślach dostrzeżono obozowe ogniska. Być może to armia przygotowująca zasadzkę albo ci podstępni tchórze, którzy nie chcą dołączyć do twojej armii.\n\nTak czy inaczej, warto ich zaskoczyć. Wskakując na konia, krzyczysz: \"Do ataku!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Do ataku!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 266
+  },
+  {
+    "id": 265,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 500754,
+    "text": "Podążasz ślepo ze swą armią, nie zauważyłbyś rozwścieczonej grupy wieśniaków kryjących się za drzewami.\n\n\"Jesteśmy otoczeni! Zasadzka - wróg między drzewami!\" krzyczysz.\n\nWieśniacy - drwale - wychodzą z pomiędzy drzew z przerażeniem malującym się na twarzy.\n\n\"Nie, my tylko...\"\n\nZbyt późno, żołnierze już atakują.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jesteśmy otoczeni! Zasadzka - wróg między drzewami...",
+          "voice": ""
+        },
+        {
+          "text": "Nie, my tylko...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 313
+  },
+  {
+    "id": 266,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 501293,
+    "text": "Twoi ludzie wytropili w tym surowym terenie grupę chłopów, którzy teraz znaleźli się w pułapce. Nie mają dokąd pójść. \n\nGdy zaczynasz z nimi rozmawiać, dowiadujesz się, czemu uciekali. Próbują cię unikać, gdyż nie chcą dołączyć do twojej armii. Ale skąd masz wiedzieć, czy ich prawdziwym zamiarem nie jest dołączyć do czarowników? Nie możesz na to pozwolić.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 357
+  },
+  {
+    "id": 267,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 501708,
+    "text": "Grupa barbarzyńskich zdrajców przybyła do magicznego ołtarza, aby się modlić o pomoc. Co za ironia! Ci ludzie odwrócili się plecami od swojego dziedzictwa i nic nie możesz zrobić, by im pomóc. Dołączą do czarowników, jeśli tylko będą mieli możliwość.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 250
+  },
+  {
+    "id": 268,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 502016,
+    "text": "Przed tobą duża grupa popleczników królów-magów. Najwyraźniej sądzą, że w dużej grupie są groźniejszym przeciwnikiem dla twojej armii. \n\n\"Nie będziemy dłużej uciekać morderco!\" krzyczy ich dowódca.\n\n\"A powinniście!\" odpowiadasz. A potem atakujesz.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie będziemy dłużej uciekać morderco!",
+          "voice": ""
+        },
+        {
+          "text": "A powinniście!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 247
+  },
+  {
+    "id": 269,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 502321,
+    "text": "Duża grupa chłopów wychodzi z pobliskiego miasta niosąc na plecach swój skąpy dobytek. Co za błąd. Powinni byli zostać w obrębie murów. Rzucasz się do ataku.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 157
+  },
+  {
+    "id": 270,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 502692,
+    "text": "Obecnie królowie-magowie przygotowywaną się do kolejnego ataku. Być może uda ci się odbudować armię werbując potomków Jarga, zamieszkujących podobna tą dolinę. To była zaprawdę wielka armia! Wysyłasz więc doradców do okolicznych miast, aby werbowali nową hordę w miejsce tej, która poległa w Blankach.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 301
+  },
+  {
+    "id": 272,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 503068,
+    "text": "Dziś rano wydałeś wszystkim kapitanom następujący rozkaz:\n\n\"Spalić wszystko! Nie chce, by zostało po nas cos więcej niż spalona ziemia - żadnych domostw, wozów ani plonów!\n\nCi doświadczeni wojownicy wzdrygnęli się i wyglądali na niezadowolonych, ale twoje stalowe spojrzenie dało im do zrozumienia, że nie będzie żadnych dyskusji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 330
+  },
+  {
+    "id": 273,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 503464,
+    "text": "Wszędzie płoną wioski, ale twoi zwiadowcy donoszą, że duża liczba uchodźców przemieszcza się w terenie. Uchodźców? Czy też wojsk czekających na okazje do ataku?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 160
+  },
+  {
+    "id": 274,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 503690,
+    "text": "Wcześniej wysłałeś niewielką grupę, by zniszczyła pobliską wioskę, ale twoi żołnierze nigdy nie wrócili. Obawiając się najgorszego, podążasz ich śladem, wioska jest nietknięta, brak tez śladów walki. Czy to możliwe, żeby wszyscy zniknęli?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 238
+  },
+  {
+    "id": 275,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 503996,
+    "text": "Tropiciele wrócili prowadząc zaginioną jednostkę pod dowództwem kapitana dowódców goblina o imieniu Derg.\n\n\"Co się z nimi działo?\" pytasz.\n\n\nTropiciele wyruszają ramionami. \"Nic mój Królu. Są żywi i mają się dobrze - i z tego, co widzę, wracają do domu.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co się z nimi działo?",
+          "voice": ""
+        },
+        {
+          "text": "Nic mój Królu. Są żywi i mają się dobrze - i z teg...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 254
+  },
+  {
+    "id": 276,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 504318,
+    "text": "Dezerter! Jeden z kapitanów. Trzeba to załatwić szybko i bez litości albo inni wyciągną błędne wnioski. Zaczną sadzić, że tracisz kontrolę nad swoimi ludźmi. A więc wysyłasz oddział pod dowództwem Hardaca, aby schwytał tchórza i przyprowadził go żywego.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 253
+  },
+  {
+    "id": 277,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 504638,
+    "text": "Odwiedziwszy dymiące zgliszcza wioski zamieszkiwanej przez zdrajców, którzy zostali zabicie przez twoich żołnierzy, zauważasz wśród ciał znajomą twarz. Klękasz obok ciała martwej kobiety i widzisz, że jest idealna kopią twojej matki, tyle że młodszą - zapewne nieco starsza od ciebie.\n\nMimo, że nie widziałeś nigdy swojej najstarszej siostry (została zabrana przez czarowników, nim się narodziłeś), w głębi serca czujesz, że to Anada. Zaczynasz szlochać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 454
+  },
+  {
+    "id": 279,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 505167,
+    "text": "Masz wrażenie, że już to wcześniej widziałeś. Potworny sen, który właściwie jest czymś więcej niż tylko snem. Martwe ciało Yalli, zabitej twoją ręką. Twoja matka, ojciec i siostry (wciąż jako małe dziewczynki, choć wiesz, że to niemożliwe). Jest tez Hardac, stary Bard ze strzała w plecach, czarownik Kurl, twoi kapitanowie, twoi żołnierze i wielu innych - ciała tworzące jeden wielki cios. \n\n                             Wszyscy martwi od twojego miecza.\n\n                                        A potem się budzisz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 517
+  },
+  {
+    "id": 281,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 505757,
+    "text": "Hardac wrócił prowadząc goblina dezertera, Derga, w łańcuchach. Derg ma wciąż prowokujące spojrzenie, mimo że pada u twych stóp.  \n\n\"A jego ludzie?\" pytasz Hardaca.\n\n\"Wszyscy martwi\" odpowiada twój przyjaciel. Zwracasz się do Derga.\n\n\"Dezerter nie zasługuje na śmierć w czasie bitwy\", mówisz.\n\n\"A więc nie powinieneś! Wstydzę się tego, co kazałeś mi robić. Żałuję że nie uciekłem wcześniej!\"\n\nW końcu okazujesz łaskę i pozwalasz Dergowi walczyć o wolność. Ale jego przeciwnikiem jest Hardac, więc walka nie trwa długo.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "A jego ludzie?",
+          "voice": ""
+        },
+        {
+          "text": "Wszyscy martwi",
+          "voice": ""
+        },
+        {
+          "text": "Dezerter nie zasługuje na śmierć w czasie bitwy",
+          "voice": ""
+        },
+        {
+          "text": "A więc nie powinieneś! Wstydzę się tego, co kazałe...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 518
+  },
+  {
+    "id": 283,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 506354,
+    "text": "Narady strategiczne są coraz cichsze, właściwie tylko ty mówisz przez większość czasu. Niegdyś przekrzykiwali się, aby przedstawić swoje pomysły. Masz tego dosyć.\n\nWbijasz sztylet w piasek. \"O co chodzi? Zachowujecie się jak banda głuchoniemych dzieciaków!\"\n\nBez odpowiedzi. Podnieśli głowy i spojrzeli na ciebie, ale w ich oczach nie widać już dawnego uwielbienia. Zmieniło się w coś innego. Może w strach?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "O co chodzi? Zachowujecie się jak banda głuchoniem...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 407
+  },
+  {
+    "id": 285,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 506833,
+    "text": "Zamieszanie w przeciwległej części obozu zwróciło twoja uwagę na sprzeczkę między dwoma kapitanami. Ich niezdarne ruchy zdradzały, że są pijani. oglądasz pojedynek na pięści, który nawet zaczyna cię bawić. Jeśli to spór, powinien zostać rozstrzygnięty. \n\nAle nagle jeden z kapitanów wyciągnął nóź z cholewy i nim ktokolwiek zdążył zareagować, jego przeciwnik padł martwy. Nie możesz uwierzyć. Wszyscy wiedzą, że nie uznajesz broni w zapasach! Prawo \"krew za krew\" wymaga, by ten, który użył noża, również zginał. Ale straciłeś ostatnio zbyt wielu kapitanów, by przekładnie go ukarać. Wszyscy patrzą na ciebie w oczekiwaniu wyroku.\n\n\"Spór został rozstrzygnięty\", mówisz i odchodzisz",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "krew za krew",
+          "voice": ""
+        },
+        {
+          "text": "Spór został rozstrzygnięty",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 681
+  },
+  {
+    "id": 287,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 507590,
+    "text": "W nocy wymknąłeś się z namiotu okrywszy się dla niepoznaki w czarne futro. Poruszając się ostrożnie i cicho, słyszysz rozmowę kapitanów.\n\n\"On zaczyna wariować!\" powiedział jeden.\n\n\"To przesada! Po prostu przesada! To znaczy to, że mamy zabijać tu niewinnych! Nieuzbrojonych! Dlaczego?\" niemal krzyczy inny.\n\nA potem słyszysz głos Hardaca. \"Przestańcie! To głupie gadanie - ale groźne. Tarnum jest Królem i to on uwolnił nasz lud z jarzma niewolnictwa!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "On zaczyna wariować!",
+          "voice": ""
+        },
+        {
+          "text": "To przesada! Po prostu przesada! To znaczy to, że ...",
+          "voice": ""
+        },
+        {
+          "text": "Przestańcie! To głupie gadanie - ale groźne. Tarnu...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 452
+  },
+  {
+    "id": 288,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 508105,
+    "text": "\"Tak dokonał wielkich czynów. i za to go kochamy. Ale teraz przesadza, to zbyt wiele. Co my tu właściwie robimy?\" odpowiedział jeden z kapitanów.\n\n\"Walczymy\", odparł Hardac\n\n\"Mamy już dość walki, Hardac\", odezwał się któryś ze starszych dowódców, \"i sądzimy, że ty też\". Wojna Tarnuma zaczyna kosztować nas zbyt wiele, \nciebie już kosztowała życie syna.\"\n\nNastąpiła długo cisza, a po niej rozległa się ostra komenda Kardaca:\n\"Rozejść się!\"\n\nA więc chociaż Hardac wciąż jest ci wierny.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Tak dokonał wielkich czynów. i za to go kochamy. A...",
+          "voice": ""
+        },
+        {
+          "text": "Walczymy",
+          "voice": ""
+        },
+        {
+          "text": "Mamy już dość walki, Hardac",
+          "voice": ""
+        },
+        {
+          "text": "i sądzimy, że ty też",
+          "voice": ""
+        },
+        {
+          "text": "\n\nNastąpiła długo cisza, a po niej rozległa się os...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 484
+  },
+  {
+    "id": 290,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 508659,
+    "text": "Do twojego namiotu wszedł Hardac. Jest późno - wszyscy poza strażnikami już śpią.\n\n\"Czas, byśmy przerwali to zabijanie, królu Tarnumie\", powiedział.\n\nJesteś zaskoczony i nieco zraniony, że i on dołączył do pozostałych kapitanów jak i oni, jest przeciw tobie. Co masz teraz zrobić? Razem kapitanowie są zbyt mocni, by siłą narzucić im swoja wolę. jednak dopóki Hardac nie był po ich stronie, nie odważyliby się niczego zrobić, ale wspólnie z nimi mogą siłą pozbawić cię dowodzenia. \n\nZamykasz oczy i mówisz: \"Być może masz rację, przyjacielu. porozmawiamy o powrocie do domu, gdy nic nie będzie nam groziło ze strony potomków Jarga. Być może urządzimy sobie ucztę? Obiecuję.\"\n\nHardac kiwa głową, uśmiecha się.\n\n\"Tak będzie najlepiej, mój Królu.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czas, byśmy przerwali to zabijanie, królu Tarnumie",
+          "voice": ""
+        },
+        {
+          "text": "Być może masz rację, przyjacielu. porozmawiamy o p...",
+          "voice": ""
+        },
+        {
+          "text": "Tak będzie najlepiej, mój Królu.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 744
+  },
+  {
+    "id": 291,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 509605,
+    "text": "Tarnum wyparł królów-magów do oceanu. Teraz musi złamać ich ostatnie linie obrony i zdobyć niezdobyty dotąd zamek Steelhorn.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 124
+  },
+  {
+    "id": 294,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 622045,
+    "text": "Na drodze przed tobą dzieje się cos dziwnego. Samotny mężczyzna z łopatą kopie z furią trakt, wbijając kamienie i rzucając w pobliskie zarośla. \n\nI wciąż mruczy pod nosem: \"Po co komu drogi?\"\n\nA potem widzisz, jak wyciąga z dziury wielką skrzynię i rzuca ją na bok z taka samą atencją, jak ciskał kamienie. Ostrożnie wykradasz skrzynię i odjeżdżasz, aby później w spokoju ją otworzyć.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Po co komu drogi?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 384
+  },
+  {
+    "id": 295,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 623199,
+    "text": "Ogrzy szaman blokuje ci drogę okazują się uderzająco czarujący i prawie przekonałeś się, że powinniście zostać przyjaciółmi, ale wtedy zauważasz magiczny Pierścień Wędrowca wokół jego palca. Chcesz ten pierścień, ale czy chcesz z nim walczyć?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 242
+  },
+  {
+    "id": 296,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 627470,
+    "text": "Samotny rycerz prowadzi grupę brudnych wieśniaków.\n\n\"Odłóżcie miecze\", krzyczy rycerz na twój widok. \n                \"Jestem obrońcą tych ludzi\"\n\nNie mając już na karku swoich tchórzliwych kapitanów, nie widzisz powodu, by go usłuchać.\n\n\"Nikt nie będzie mi mówił, co mam robić\", odpowiadasz i rozkazujesz atakować.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Odłóżcie miecze",
+          "voice": ""
+        },
+        {
+          "text": "Jestem obrońcą tych ludzi",
+          "voice": ""
+        },
+        {
+          "text": "Nikt nie będzie mi mówił, co mam robić",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 315
+  },
+  {
+    "id": 297,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 628140,
+    "text": "Niemal wszyscy wieśniacy w tej okolicy musieli się zebrać, aby stanąć na drodze twojej armii. Wielka grupa tych popleczników królów-magów stoi przed tobą wołając: \"Tarnum morderca!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Tarnum morderca!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 181
+  },
+  {
+    "id": 298,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 628610,
+    "text": "Przed tobą rozciąga się ocean, ale pamiętaj, że królowie-magowie zawładnęli wodami, tak jak uczynili to z lądem i mogą w każdej chwili zaatakować, uważaj więc na tyły.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 167
+  },
+  {
+    "id": 299,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 628990,
+    "text": "Znalazłeś grupę kiepsko wyglądających górników obozujących przy drodze. Gdy twoja armia zbliża się do nich, nie próbowali uciekać. Są zbyt zmęczeni. Najprawdopodobniej ci mężczyźni są zbiegłymi niewolnikami Bracaduun, którzy chcą dołączyć do hordy. Zadziwia cię, gdy dowiadujesz się, że nie wiedzą kim jesteś, mówisz więc, by udali się na tył kolumny, gdzie dostaną żywność. \n\n\"Powiedz im, że Król Tarnum kazał dać wam jeść\", mówisz jeszcze, gdy się oddalają. Są pod takim wrażeniem, że chcą dołączyć do twojej armii.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Powiedz im, że Król Tarnum kazał dać wam jeść",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 517
+  },
+  {
+    "id": 300,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 629626,
+    "text": "W czasie południowego odpoczynku jakiś nieuważny kuchcik zaprószył ogień. Żołnierze nie odnieśli ran, ale wozy z zaopatrzeniem spłonęły. Chociaż drzewo można zrąbać w lesie, musisz zapłacić rzemieślnikom za budowę nowych wozów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 227
+  },
+  {
+    "id": 301,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 629936,
+    "text": "Nie wierzysz własnym oczom, ale ta magiczna kraina jest pełna cudów, które nie wyglądają na realne. Obok drogi rośnie drzewo pełne dojrzałych owoców - owoców, które okazują się cennymi klejnotami. Szybko rozkazujesz żołnierzom wyczyścić drzewo z klejnotów, zdając sobie sprawę, że i tak nie wszystkie klejnoty trafią do twoich kufrów, ale w końcu co z tego?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 357
+  },
+  {
+    "id": 302,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 630376,
+    "text": "Na twoich oczach cała armia zmieniła się w kamień. W zimne, martwe kamienne posągi.\n\nKrążysz między nimi z wyciągniętym mieczem. Co za magia tu działa? A potem kontem oka zauważasz jakiś ruch. \n\nOdwracasz się.\n\nNic.\n\nNastępny cień!\n\nWkrótce poruszasz się z wolna po okręgu zdając sobie sprawę, że atak jest bliski. A gdy już nastąpi, jesteś niemal zbyt wolny. Bezkształtny cień spada na ciebie jak wielka fala - jesteś ślepy, martwiejesz czując, jak mięśnie twardnieją, staja się nieruchome.\n\nNa szczęście miecz w cos trafił i słyszysz krzyk. Otwierasz oczy na oślepiające światło dnia i widzisz, że stoisz na ziemi, a twoi żołnierze zebrali się wokół ciebie. Gdyby nie twoja odwaga, wszyscy bylibyście już kamieniami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 718
+  },
+  {
+    "id": 303,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 631177,
+    "text": "Przed tobą na ziemi leży skrzynia ze skarbem, najwyraźniej zapomniana przez uciekających wrogów. Rozkazujesz służącym, by ją otworzyli. Niestety skrzyni wybucha, słudzy znikają, a z opadających dymów otaczających skrzynię-pułapkę wylatuje grupa dżinów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 252
+  },
+  {
+    "id": 304,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 631860,
+    "text": "Chyba zgubiłem przedmiot, który był dla mnie bardzo cenny, order męstwa, który dostałem w młodości. Jeśli go odnajdziesz, nauczę cię wszystkiego, co umiem - po pierwsze tego, czy zasłużyłem sobie na tą odznakę. To będzie uczciwa wymiana.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 237
+  },
+  {
+    "id": 305,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 632101,
+    "text": "Wracasz bez odznaki? A więc zapewne zginęła na zawsze!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 54
+  },
+  {
+    "id": 306,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 632159,
+    "text": "To ona! Och, wielkie dzięki! \nUczyniłeś wielka przysługę staremu człowiekowi. Pozwól teraz, że pokażę ci, czego nauczyłem się przez te wszystkie lata.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 150
+  },
+  {
+    "id": 307,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 632401,
+    "text": "Atak nadszedł od strony nisko sunących chmur, zupełnie zaskakując ciebie i twoich ludzi. Możesz tylko cieszyć się, że ta zasadzka ma cię zmiękczyć, a nie pokonać. Większe niebezpieczeństwo jeszcze przed tobą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 208
+  },
+  {
+    "id": 308,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 632925,
+    "text": "Przy drodze rozbiła obóz banda nieokrzesanych najemników, jakby czekali na ciebie. Ich przywódca podchodzi do ciebie z zaczepnym wyrazem twarzy.\n\n\"Królowie-magowie zapłacili nam, byśmy się tu na ciebie zaczaili, ale przedyskutowaliśmy to. Raczej poczekamy i zobaczymy kto zwycięży, zanim opowiemy się po którejś stronie. ruszaj w spokoju. \"\n\nNajemnicy odchodzą na bok.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Królowie-magowie zapłacili nam, byśmy się tu na ci...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 368
+  },
+  {
+    "id": 309,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 633388,
+    "text": "Widzisz żołnierzy odpoczywających po długim marszu, ale gdy podchodzisz, wyciągają broń i staja w szyku. Widzisz, że przewożą artefakt zwany Bezdenna Sakiewka Złota i nie zamierzają oddać jej bez walki. Czy zamierzasz ich zaatakować?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 233
+  },
+  {
+    "id": 310,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 633716,
+    "text": "Nagle otacza cię mgła. Ledwie widzisz na odległość wyciągniętej ręki, ale wciąż wolno posuwasz się naprzód. Wcześniej czy później wydostaniesz się z tej mgły. Ale gdy wreszcie mgła opada, przed tobą pojawia się mała armia gotowa do ataku.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 238
+  },
+  {
+    "id": 311,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 634346,
+    "text": "Umieszczone na szczycie iglicy guano-plamy wystająca z wody są czymś, co wydaje się być głową posągu. Właśnie wtedy, gdy zaczynasz zastanawiać się, jak się tam dostał (i być może w jaki sposób możesz go odzyskać), stado wściekłych Gryfów wyskakuje z ich gniazd po stronie klifu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 313,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 637335,
+    "text": "Sądziłeś, że część żołnierzy zdezerteruje lub zbuntuje się dowiedziawszy się o zamordowaniu Hardaca i innych kapitanów, ale jest dokładnie odwrotnie. Twoi żołnierze kochają cię. A szczególnie rozmiłowani są w zwycięstwach, które  wraz z tobą odnoszą. Teraz obiecałeś, że ostatecznie złamiesz grzbiety tych podstępnych czarowników.\n\n\"Zamek Steelhorn, ten niezdobyty bastion, padnie przed nami! Przez całą wieczność będą sławione czyny, których tu dokonamy. Wasze wnuki i wnuki waszych wnuków będą powtarzać wasze imiona z dumą. Tym razem walczymy o nieśmiertelność - i wszyscy zdobędziemy sobie miejsca pomiędzy przodkami!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 621
+  },
+  {
+    "id": 315,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 638030,
+    "text": "Szpiedzy donoszą, że między twoimi pozycjami a zamkiem Steelhorn są co najmniej dwa zamki i trzy towery, ale wróg jest nieprzygotowany. Twoja horda przybyła tu tak szybko, że Bracaduun nie zdołał jej zdziesiątkować. Ale nie pora na odpoczynek. Jeśli szybko zaatakujesz, zdobędziesz nad nimi wielką przewagę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 307
+  },
+  {
+    "id": 316,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 638414,
+    "text": "Jak co dzień rano, pytasz o radę jasnowidza. Jasnowidz rzuca kości i patrzy na nie przez długi czas, a potem mówi: \"Połącz rozsypanego człowieka - posążek legionisty. Dzięki niemu zdobędziesz siłę i chwałę.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Połącz rozsypanego człowieka - posążek legionisty....",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 207
+  },
+  {
+    "id": 317,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 638690,
+    "text": "Jeden ze zwiadowców wrócił znad oceanu, gdzie robił rozpoznanie zamku Bracaduun leżącego na wschodzie. Opowiedział też historię, która każe sądzić, że zbyt często zagląda do butelki. \n\n\"Widziałem tą wielką wirującą dziurę w wodzie, mój Królu, i jeden z okrętów Bracaduun, który pożeglował wprost do niej. Pomyślałem sobie: \"są już martwi\", gdy dziura ich wciągnęła. Ale ku mojemu zaskoczeniu, okręt i jego załoga wrócili następnego dnia - chociaż sądzę, że na pokładzie było mniej żołnierzy niż gdy wypływali.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Widziałem tą wielką wirującą dziurę w wodzie, mój ...",
+          "voice": ""
+        },
+        {
+          "text": ", gdy dziura ich wciągnęła. Ale ku mojemu zaskocze...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 510
+  },
+  {
+    "id": 319,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 639272,
+    "text": "Co najmniej pięćdziesięciu żołnierzy przybyło w ciągu ostatnich kilku miesięcy, aby ci powiedzieć, że maja dzieci, którym nadali twoje imię. To, że żołnierze oddają ci w ten sposób cześć, łagodzi chwilowo ból, a co ważniejsze - ich wiara w ciebie i słuszność twych wyborów sprawia ci wielką radość.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 298
+  },
+  {
+    "id": 321,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 639642,
+    "text": "Znów ten sen.\n\nTEN SEN - tak go nazywasz. Zawsze ten sam. Zawsze wszyscy, których znasz, są martwi. I wiesz, że zginęli z twojej ręki.\n\n\nAle to przecież tylko sen, prawda? Nigdy przecież nie skrzywdziłbyś Yalli ani swoich rodziców, ani... cóż śmierć twojej siostry to była pomyłka. Gdyby czarownicy nie zabrali jej z domu, \"to\" nigdy by się nie wydarzyło, prawda?\n\nA Hardac, cóż, musiałeś zabić i jego, i pozostałych kapitanów. Żałujesz tego, ale Hardac musiał umrzeć dla dobra twoich ludzi. Hardac i pozostali kapitanowie nie zrozumieli, że królów-magów trzeba zniszczyć do końca, tak jak zgangrenowaną kończynę trzeba odciąć w całości, aby choroba nie rozpowszechniła się na całe ciało.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "to",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 688
+  },
+  {
+    "id": 323,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 640404,
+    "text": "Ludzie, mówią, że w tych rejonach nawet ziemia jest przesycona magią. Czarownicy mieszkają tu od setek lat, przez co ich zaklęcia i eksperymenty magiczne wsiąkły w glebę, tak jak woda w suche koryto rzeki. teraz ziemia aż iskrzy od tego zauroczenia, a magiczna moc każdego, kto na niej stanie, jest znacznie większa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 324,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 640785,
+    "text": "Ponieważ twoja horda straciła nieco na liczebności w ciągu kilku ostatnich miesięcy, może warto było przeprowadzić werbunek w jednym lub dwóch miastach Bracaduun. Nietrudno będzie zmusić mieszkańców do zmiany strony, gdy będziesz kontrolował ich rodziny. \n\nSzybkie i potężne jednostki, takie jak archanioły, będą wspaniałymi sojusznikami - poza tym wiesz, że będą tez walczyć w szeregach wroga. Jak mówią twoi ludzie: \"Nigdy nie zaczynaj walki na miecze, gdy trzymasz w ręku łyżkę!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nigdy nie zaczynaj walki na miecze, gdy trzymasz w...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 482
+  },
+  {
+    "id": 326,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 641338,
+    "text": "Zza drzew wyłania się znajomy, stary goblin - ten bezimienny, który sam mianował się twoim doradcą. Myślałeś, że już zginął.\n\n\"Mój Królu! Mój Królu!\" krzyczy i macha ramionami. \"Ktoś otruł wszystkich twoich doradców! Coś takiego! Nie mogę w to uwierzyć, wszyscy ci wielcy bohaterowie zginęli tak nikczemną śmiercią. Trzeba znaleźć winowajcę!\"\n\nTwoja ręka zaczęła szukać miecza. Zastanawiasz się jak mogłeś go przeoczyć, ale nim zdążyłeś sięgnąć do rękojeści, szalony doradca znikł między drzewami.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Mój Królu! Mój Królu!",
+          "voice": ""
+        },
+        {
+          "text": "Ktoś otruł wszystkich twoich doradców! Coś takiego...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 497
+  },
+  {
+    "id": 327,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 641899,
+    "text": "Dowiedziałeś się, ze miejsce, w którym się wychowałeś, zyskało na znaczeniu odkąd je opuściłeś i jest teraz ośrodkiem handlu i kultury na Pustkowiach. Mieszkający tam ludzie nazwali nowe miasto od twojego imienia - Tarnia. \n\nRzeczywiście, artyści rozpoczęli nawet budowę wielkiego pomnika ku twojej czci. Nigdy, w najśmielszych snach nie podejrzewałeś, że osiągniesz taki sukces. Te ostatnie zaszczyty  popychają cię naprzód, jeszcze bardziej zdeterminowanego, by szybko skończyć ta wojnę. Być może już jutro będziesz mógł wrócić do domu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 538
+  },
+  {
+    "id": 328,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 642505,
+    "text": "Przybył dziś posłaniec od królów-magów. Kazałeś sprowadzić go przed swoje oblicze, ale nie za blisko. Nazbyt zalatywał perfumami.\n\n\"Mam dla ciebie propozycje, Królu Tarnumie!\" powiedział.\n\n\"Aha, więc teraz jestem już Królem Tarnumem?\" odpowiadasz. \"Pamiętam jeszcze, jak zwracano się do mnie bandyto.\"\n\n\"Och, cóż, ehm, to był wielki błąd z naszej strony. Przyznajemy się do naszej pomyłki i proponujemy pokój między naszymi wielkimi narodami. Błagamy, zgódź się zakończyć to bezsensowne zabijanie!\"\n\nWybuchasz śmiechem na ta jawną oznakę słabości. Wreszcie złamałeś królów-magów.\n\n\"Dla mnie to zabijanie nie jest bezsensowne\", odpowiadasz wreszcie.\n\"Wasz naród uciskał moich ludzi od pokoleń. Niemal udało się wam pozbawić nas tożsamości. Cóż, teraz wiatr wieje z innego kierunku i jest wichurą, która nie umilknie, dopóki choć jeden czarownik lub zwolennik czarowników pozostanie przy życiu!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Mam dla ciebie propozycje, Królu Tarnumie!",
+          "voice": ""
+        },
+        {
+          "text": "Aha, więc teraz jestem już Królem Tarnumem?",
+          "voice": ""
+        },
+        {
+          "text": "Pamiętam jeszcze, jak zwracano się do mnie bandyto...",
+          "voice": ""
+        },
+        {
+          "text": "Och, cóż, ehm, to był wielki błąd z naszej strony....",
+          "voice": ""
+        },
+        {
+          "text": "Dla mnie to zabijanie nie jest bezsensowne",
+          "voice": ""
+        },
+        {
+          "text": "Wasz naród uciskał moich ludzi od pokoleń. Niemal ...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 893
+  },
+  {
+    "id": 330,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 643473,
+    "text": "Dziś zwiadowcy przyjechali wiodąc ze sobą starszego człowieka. Już gdy się zbliżałeś, rozpoznałeś w zbiedzonym starcu swego ojca. Pomagając mu zsiąść  z konia zauważyłeś, że jest zbyt slaby, by iść.\n\n\"Znaleźliśmy go na drodze, mój Królu. Mówi, że chce cię odnaleźć\", powiedział jeden ze zwiadowców.\n\nWołasz natychmiast czarownicę, aby zaopiekowała się twoim chorym ojcem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Znaleźliśmy go na drodze, mój Królu. Mówi, że chce...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 371
+  },
+  {
+    "id": 332,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 643921,
+    "text": "Ojciec leży w łóżku od pięciu dni i nie ma symptomów poprawy.\nDzisiejszego ranka uzdrowiciele powiedzieli, że jest bliski śmierci, więc natychmiast do niego poszedłeś. Obudził się, gdy usiadłeś przy łóżku, ale rozpoznanie ciebie zajęło mu kilka chwil.\n\n\"Co się stało?\" pytasz. \"Dlaczego tu jesteś?\"\n\n\"Słyszałem różne rzeczy... opowieści... o tobie, mój synu\", odparł ojciec.\n\n\"Jakie rzeczy? Z pewnością nic, co byłoby warte tej długiej drogi!\"\n\n\"Rzeczy, które mnie przeraziły... Przestraszyłem się drogi, którą obrałeś...\nMusiałem...\"\n\nOjciec upadł i nigdy już się nie obudził. To były jego ostatnie słowa i sam siebie przekonujesz, że przecież nie wiesz nawet, co miał na myśli. A przynajmniej nie jesteś pewien. Jeszcze zanim się położyłeś, wiedziałeś, ze dziś znów przyśni ci się TEN SEN.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co się stało?",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego tu jesteś?",
+          "voice": ""
+        },
+        {
+          "text": "Słyszałem różne rzeczy... opowieści... o tobie, mó...",
+          "voice": ""
+        },
+        {
+          "text": "Jakie rzeczy? Z pewnością nic, co byłoby warte tej...",
+          "voice": ""
+        },
+        {
+          "text": "Rzeczy, które mnie przeraziły... Przestraszyłem si...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 791
+  },
+  {
+    "id": 334,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 644786,
+    "text": "Jeden ze służących przyniósł wiadomość nabazgraną niezgrabnym pismem na materii pochodzącej z togi czarownika. \"Królu. Ja szuka truciciel. Nie znalazł u czarodzieje. Ja dziwić kto???\"\n\nW podpisie widnieje tylko X, ale jesteś pewien, że autorem tej informacji jest szalony goblin. Kto by przypuszczał, że ten głupek potrafi pisać?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Królu. Ja szuka truciciel. Nie znalazł u czarodzie...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 329
+  },
+  {
+    "id": 336,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 645186,
+    "text": "Budzi cię miękki hałas i otwierasz oczy, widzisz przed sobą czubek ostrza sztyletu. Po drugiej stronie sztyletu widzisz posiwiałego goblina, który już od jakiegoś czasu jest niczym cierń w twoim boku. Skoczył w twoim kierunku, więc udajesz, że się poddałeś, szukając jednocześnie noża ukrytego pod posłaniem. \n\n\"Znalazłem tego, który zamordował doradców!\" mówi goblin.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Znalazłem tego, który zamordował doradców!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 368
+  },
+  {
+    "id": 338,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 645627,
+    "text": "Sądząc, że gobelin odkrył, iż to ty byłeś tym, który nalał trucizny do pucharów twoich kapitanów, zadajesz cios i wbijasz nóź aż po rękojeść w pierś goblina. Pada na ziemię z wyrazem kompletnego zaskoczenia na twarzy.\n\n\"Dlaczego to zrobiłeś? Chciałem ci wyznać... że to moja wina... ten łoś, którego jedliśmy, ale ja go nie upolowałem. Znalazłem przy drodze, od dwóch dni był martwy... musiał być już zepsuty... zatrułem ich wszystkich...\nPowinieneś to wiedzieć, prawda?\"\n\n\"Tak\", skłamałeś. Biedny, stary głupiec.\n\n\"Cóż, dostałem to, na co zasłużyłem\", wymamrotał stary goblin, nim krew buchnęła z jego ust. \"Pewnego dnia wszyscy dostaniemy to, na co zasługujemy.\"\n\nI umarł.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dlaczego to zrobiłeś? Chciałem ci wyznać... że to ...",
+          "voice": ""
+        },
+        {
+          "text": "Tak",
+          "voice": ""
+        },
+        {
+          "text": "Cóż, dostałem to, na co zasłużyłem",
+          "voice": ""
+        },
+        {
+          "text": "Pewnego dnia wszyscy dostaniemy to, na co zasługuj...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 674
+  },
+  {
+    "id": 339,
+    "source": "Woj_bmp.lod:ab.h3c",
+    "offset": 646368,
+    "text": "Koszmar zaczyna się podobnie, jak TEN SEN - twoja rodzina, Yalla, Hardac i twoi kapitanowie, wszyscy, których kiedykolwiek znałeś, leżą martwi u twych stóp. W ręku trzymasz zakrwawiony miecz.\n\nA potem wchodzisz do wielkiej sali, a przed tobą olbrzymie drzwi, większe niż kiedykolwiek widziałeś. I w jaki sposób razem z tobą przed tymi drzwiami stoją też twoi rodzice, Yalla, twoje siostry, Hardac i wszyscy inni.\n\nPatrzą na ciebie z obrzydzeniem i nie mówią ani słowa. A potem odwracają się do ciebie plecami. I sen kończy się pozostawiając cię w przeświadczeniu, że już nigdy więcej ci się nie przyśni.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 603
+  }
+]

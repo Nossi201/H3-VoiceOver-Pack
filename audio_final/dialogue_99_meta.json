@@ -1,0 +1,37 @@
+{
+  "id": 99,
+  "voices": [
+    "T",
+    "npc_m",
+    "T"
+  ],
+  "segments": [
+    {
+      "voice": "narrator",
+      "text": "Sprowadzono przed twoje oblicze jakiegoś nieszczęśnika."
+    },
+    {
+      "voice": "T",
+      "text": "Kim jesteś?"
+    },
+    {
+      "voice": "narrator",
+      "text": "pytasz."
+    },
+    {
+      "voice": "npc_m",
+      "text": "Jestem bardem, królu."
+    },
+    {
+      "voice": "T",
+      "text": "Nie jestem królem."
+    },
+    {
+      "voice": "narrator",
+      "text": "odpowiadasz."
+    }
+  ],
+  "total_chars": 124,
+  "output_file": "audio_final\\dialogue_99.mp3",
+  "seed": 12345
+}
