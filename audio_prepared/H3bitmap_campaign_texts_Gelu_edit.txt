@@ -1,0 +1,86 @@
+# PLIK DO RĘCZNEJ EDYCJI GŁOSÓW
+#=====================================================================
+# Format: ID | [głosy] | TEKST
+#
+# Głosy dla cytatów: tarnum, npc_m, npc_f
+# Pusta tablica [] = tylko narrator (brak dialogów)
+# Tablica z "" = wymaga ręcznego przypisania głosu
+#
+# Przykłady:
+#   5|[]|Tekst bez dialogów - tylko narrator
+#   6|["npc_m"]|Narrator mówi: "cytat jednego NPC"
+#   7|["npc_m","npc_f"]|Ona: "cześć" On: "witaj"
+#   8|[""]|Tekst z cytatem - WYMAGA EDYCJI!
+#
+# SKIP - pomijane w generowaniu audio
+#=====================================================================
+
+# SKIP: 0|[]|Eliksir życia...
+1|[]|Gelu trenował wiele miesięcy, by zostać członkiem elitarnego oddziału Erathii, Leśnej Straży. Jego ostatnim sprawdzianem jest stworzenie artefaktu, zwanego Eliksirem Życia. Musi więc szybko odnaleźć cztery elementy składające się na ten magiczny przedmiot, aby uchronić je przed nekromantami.
+2|[]|To specjalny obszar treningowy, na którym odbędzie się twój końcowy egzamin. Wielu nie przeszło tego sprawdzianu, choć większość go zdała. Powodzenia.
+3|[]|Leśna Straż to oczy i uszy Erathii. Idziemy zawsze tam, gdzie najbardziej\nnas potrzebują, a są to zwykle miejsca, w które trudno dotrzeć zwykłym\noddziałom bojowym. Jesteśmy duchami lasu, które widzą wszystko\ni niosą cichą śmierć jednym, niedostrzegalnym strzałem. Dobrze\nspisywałeś się podczas treningu, Gelu. Teraz przyszedł czas na \nostateczny sprawdzian. Odbędzie się w małej kotlince obok \nGaia's Crest. Oczyść ten rejon z wrogów, aby umocnić swą pozycję \nw szeregach Leśnej Straży. Powodzenia.
+4|[]|Ten rejon jest zajęty przez bandytów. Jeśli to tylko możliwe, korzystaj z pomocy gildii złodziei, gdyż mają oni wiele użytecznych informacji.
+5|[]|Plotki głoszą, że Pierścień Żywotności, najważniejszy składnik\nEliksiru Życia, znajduje się w rejonie Shantanna na południu AvLee.\nW tej misji kluczową rolę gra czas: widziano jak Rycerz Śmierci\nspotkał się z bandytami, którzy od dawna terroryzują ten rejon.\nSądzimy, że wynajął ich, by ubiegli nas w poszukiwaniach.
+6|[]|Smoczy Panowie znani są z braku rozsądku, ale może uda ci się ich nakłonić do oddania pierścienia bez rozlewu krwi.
+7|[]|Pierścień Życia, drugi składnik eliksiru, jest ukryty w dolinie Dagrond.\nMieszka tam elfickiej szlachty, dysponująca wielką władzą. Są owi \nelfowie opiekunami kilku stad złotych i zielonych smoków.\nCi Smoczy Panowie zawsze byli lojalni wobec AvLee, lecz obawiamy\nsię, że jeden z nich został przekupiony przez nekromantów. Jeśli ten\nzdrajca dostanie pierścień przed tobą, stanie się zbyt potężnym\nprzeciwnikiem.
+8|[]|Wampir, lord Vokial, używa Fiolki Żywej Krwi, by sycić swój głód. Odbierz mu ją, a będzie musiał cierpieć niewygody dawnego sposobu zdobywania pożywienia. Kradnąc tę Fiolkę, wyrządzisz mu wielką szkodę i przysporzysz kłopotów.
+9|[]|Ostatni artefakt potrzebny do stworzenia Eliksiru Życia znajduje się\nw zmartwiałych rękach Władcy Wampirów Vokiala. \nMówi się, że Fiolka Żywej Krwi pozwala mu wyżywić się bez\nkonieczności uciekania się do bardziej drastycznych sposobów \npozyskiwania świeżej krwi. Można by rzec, że ten artefakt utrzymuje \nzło na wodzy, ale mimo to - musimy go zdobyć. Musisz odebrać fiolkę\nwampirowi. I pamiętaj, że nie każde zadanie należy wykonywać przy \nużyciu bezpośrednich środków. Mądrze wykorzystaj to, czego \nnauczyłeś się w czasie treningu. Bądź czujny.
+10|[]|Stworzyłem Eliksir Życia i ocaliłem AvLee przed nekromantami z Deyji, zasługując tym sobie na wysoką pozycję w Leśnej Straży. Mam nadzieję, że również w przyszłości będę miał zaszczyt bronić tej przepięknej krainy, którą tak bardzo pokochałem.
+11|[]|Pokonaj wszystkich wrogów Gelu. Jeśli Gelu zostanie pokonany w czasie walki, przegrasz. Twoi bohaterowie nie mogą awansować powyżej 10 poziomu, ale Gelu i dwóch najlepszych bohaterów zabiorą swoje doświadczenie, umiejętności i zaklęcia do następnego scenariusza.
+12|["npc_m"]|"Melduję się. Czekam na rozkazy."
+13|["npc_m"]|"Według rozkazu."
+14|[]|Ciemny i budzący podejrzenia szlak jest dziwnie spokojny i cichy. Nagle słyszysz syk tysiąca węży. Zanim zdążyłeś się obrócić, wyrosły przed tobą dwa tuziny meduz i ruszyły do ataku.
+15|[]|Stojąca przed tobą skrzynka budzi dziwny niepokój. Nagle światło wokół niej zaczyna pulsować, a ze szczelin wydobywa się dziwnej barwy mgła.
+16|[]|To miasto może być świetną bazą wypadową dla dalszych operacji. Przejmij je i szybko rozbuduj. Ale zachowaj ostrożność! Przeciwnicy mogą się tu podkraść pod twoją nieobecność i odbić miasto. Zostaw kilka oddziałów na straży, najlepiej pod dowództwem jakiegoś sierżanta, aby miasto nie było bezbronne w razie ataku.
+17|[]|Gratulacje, kadecie. Przed tobą ostatni test. Jeśli go zaliczysz, dołączysz do szeregów osławionej Leśnej Straży. Musisz podbić nizinny region Gaia's Crest. Zamieszkuje go wiele potworów, jest kilka miast oraz kilka oddziałów Leśnej Straży pozorujących wrogów. To często odwiedzana prowincja, więc nie powinieneś mieć problemu z odnalezieniem drogi. Aby zaliczyć ten test, musisz pokonać wszystkich wrogów wszelkimi dostępnymi środkami. Powodzenia, kadecie. I niech Światło opromienia twoją drogę.
+# SKIP: 18|[]|Words of Encouragement...
+19|[]|Minęło 30 dni od rozpoczęcia misji. Działasz zbyt wolno. Jako członek Leśnej Straży musisz szybciej przemieszczać swoje oddziały, by atakować nieprzyjaciela, gdy jest słaby i nieprzygotowany. Im mniej wie o naszych działaniach na danym obszarze, tym mniej prawdopodobne, że przygotuje się na atak. Pospiesz się. Zaatakuj i zabezpiecz ten rejon. Od sprawnego przeprowadzenia ataku może zależeć twoje życie.
+# SKIP: 20|[]|60 Days Later...
+21|[]|Kadecie, to staje się farsą! Tej wielkości rejon powinien być do tej pory oczyszczony z wrogów. Misje Leśnej Straży wymagają szybkości, niezawodności i nieuchwytności. Chyba przeceniliśmy twoje zdolności i należy cofnąć cię do treningu podstawowego. Pospiesz się i oczyść ten obszar!
+# SKIP: 22|[]|A Lesson in Adversity...
+23|[]|Zwiadowcy z Leśnej Straży muszą radzić sobie w wielu nieoczekiwanych sytuacjach. Przyjdzie czas, gdy coś pójdzie nie tak lub nie da się wcześniej zaplanować. Oto właśnie jedna z takich sytuacji. Kilka wozów dostawczych dostało się w ręce rabusiów, a ich zawartość znikła. Musisz sobie z tym jakoś poradzić.
+24|[]|Powstrzymaj grupę zbuntowanych lordów AvLee przed sprzedaniem Pierścienia Żywotności Rycerzom Śmierci z Deyji. Pamiętaj, że Gelu nie może przegrać żadnej bitwy. Gelu nie może awansować powyżej 15 poziomu, a jego doświadczenie, umiejętności i zaklęcia przejdą do następnego scenariusza.
+25|[]|Mój przyjaciel, Phelan, powiedział mi, że mogę spodziewać się odwiedzin bladolicego gościa o imieniu Gelu. Czy to ty?
+26|[]|Powiedziano mi, że mam czekać na Gelu. Jeśli zdarzy ci się spotkać go w czasie wędrówki, powiedz mu, gdzie mnie szukać.
+27|[]|Zanim powiem ci, gdzie jest pierścień, musisz udowodnić, że jesteś go wart, przynosząc mi Order Męstwa. Nie wracaj bez tego artefaktu.
+28|[]|Nie znalazłeś Orderu Męstwa? Tsk, tsk. Sądziłem, żeś z twardszej ulepiony gliny.  Idź i szukaj.  To jedyny sposób, by poznać miejsce, w którym ukryto pierścień.
+29|[]|Udowodniłeś swoją wartość. Pokażę ci, gdzie znajduje się Pierścień Żywotności.   Człowiek, który go posiada, mieszka w chacie na południowy zachód stąd. Ukrywa pierścień i odda go tylko temu, kogo ja uznam za wartego tego zaszczytu. Powiadomię go o twoim przybyciu. Weź te Skrzydła Anioła. Pozwolą ci szybciej do niego dotrzeć. Na miejscu dostaniesz to, czego szukasz.
+30|[]|Leśnej Straży powierzono zadanie odzyskania kilku artefaktów niezbędnych do stworzenia Eliksiru Życia. Jeśli ta magiczna mikstura dostanie się w ręce nekromantów z Deyji, wykorzystają jej potężną moc dla swych niecnych celów. \n\nGelu został mianowany dowódcą ekspedycji, która ma wyruszyć na teren tych odszczepieńców. Mówi się, że mają Pierścień Żywotności, a przynajmniej wiedzą, gdzie się znajduje i planują sprzedać go nekromantom. Musisz ich powstrzymać i przejąć pierścień. Nie zawiedź nas, pamiętaj, że nie chodzi tylko o twoje życie. Powodzenia.
+# SKIP: 31|[]|Scout Report...
+32|[]|Szpiedzy donoszą o jasnowidzu z północnego wschodu, który zna ponoć miejsce ukrycia Pierścienia Żywotności. Odszukaj jasnowidza, zlokalizuj pierścień i odzyskaj go. Bądź ostrożny! Nekromanci też poszukują pierścienia.
+33|[]|Władcy tych terenów to bandyci i szaleńcy. Napadają na karawany, wyrzynają wsie i garnizony nie zastanawiając się, czym może się to skończyć dla ich ojczyzny. Z głupoty są w stanie sprzedać Pierścień Żywotności nekromantom i zdradzić swych rodaków tylko po to, by wypełnić kufry złotem. Takim zdrajcom nie można ufać. Nie można też okazywać im litości.
+# SKIP: 34|[]|An Arrangement...
+35|[]|Zwiadowcy donoszą, że jeden z miejscowych zabijaków skontaktował się z nekromantami i ma zamiar wkrótce się z nimi spotkać. Nie ma czasu do stracenia. Jeśli pierścień wpadnie w ręce nekromantów, będziesz musiał wydrzeć im go siłą. Za wszelką cenę zadbaj, by pierścień znalazł się w bezpiecznym miejscu. Pamiętaj, że najlepszą obroną jest atak: oczyść rejon z zamieszkujących go bandytów, nim się zorganizują i spróbują przejąć artefakt. W ostateczności, możesz najechać Deyję.
+36|[]|Jasnowidz z północnego wschodu to mądry starzec o imieniu Feredor. Udaj się do niego, ale pamiętaj, że nie da ci od razu pierścienia. Mówi się, że poddaje poszukiwaczy artefaktu specjalnemu testowi. Wypełnij każde zadanie, które ci zleci - musisz mieć ten pierścień!
+# SKIP: 37|[]|The Vision...
+38|[]|Ostatniej nocy dręczyły cię potworne koszmary, wizje nadciągających potworności. Nawiedzały cię spowite w szczątki szat postaci, wyciągające kościste szpony w kierunku zielonych łąk, pozostawiające za sobą spopielone pogorzelisko pełne żywych trupów. Upiorny śmiech odbił się echem w twej głowie i duszy. Obudziłeś się przerażony i roztrzęsiony, lecz wciąż zdecydowany odzyskać Pierścień Żywotności.
+39|[]|Ostrożnie, ten region - niegdyś miejsce chwalebnej bitwy - jest obecnie świętą ziemią. Uważaj, by jej nie zbezcześcić.
+# SKIP: 40|[]|Bandits Attack!...
+41|[]|Bandyci napadli na twoje wozy aprowizacyjne i przejęli wartościowe zasoby.
+# SKIP: 42|[]|Dolina Smoczych Panów...
+43|[]|Ta dolina należy do smoczych panów. Trzeba ich pokonać i zdobyć Pierścień Życia. Jeśli Gelu zostanie pokonany w walce, przegrasz. Gelu nie może awansować powyżej 20 poziomu, ale zabierze doświadczenie, umiejętności i zaklęcia do następnego scenariusza.
+44|[]|Gdzieś w dolinie Dagrond ukryty jest Pierścień Życia, drugi składnik potrzebny do stworzenia eliksiru życia. Doliną tą władają Smoczy Panowie. Opiekują się oni zielonymi i złotymi smokami żyjącymi w AvLee. Niestety, jeden z nich został przekupiony i knuje przeciw AvLee. Jesteśmy przekonani, że działa w porozumieniu z nekromantami z Deyji. \nDowiedział się, że pierścień ukryty jest w dolinie i zapewne zechce go przejąć. Musisz temu zapobiec. Zdobądź pierścień, abyśmy zdążyli stworzyć Eliksir Życia nim nekromanci zagarną dla siebie ten potężny artefakt.
+# SKIP: 45|[]|More on the Dragon Lords...
+46|[]|Wiemy już z całą pewnością, że Smoczy Pan działa na szkodę AvLee i jego mieszkańców. Zjednoczył się z siłami zła, istotami tak pokrętnymi, że mogą cię przekonać, iż zdrajca jest szlachetnym mieszkańcem AvLee, a nie groźnym mordercą. Smoczy Pan sprawia wrażenie szacownego elfickiego lorda, ale po kryjomu pozwala nekromantom pozyskiwać ludność AvLee do ich ohydnej armii. Niszcząc jego samego i tych, którzy idą za nim, oddasz AvLee wielką przysługę. Czyn ten zostanie sowicie wynagrodzony i na zawsze zapisze twoje imię we wdzięcznej pamięci narodu elfów.
+# SKIP: 47|[]|Lord Falorel...
+48|[]|To wprost wymarzone zadanie, by doskonalić twoje umiejętności. Od opuszczenia Akademii Rekrutów Leśnej Straży nie brałeś udziału w tak szybkiej akcji. Chociaż martwią cię czarne chmury zbierające się nad horyzontem, czujesz, że uczestniczysz w czymś... ważnym. Eliksir Życia może uleczyć wiele bolączek AvLee.
+# SKIP: 49|[]|Smoke on the Horizon...
+50|[]|Zapach dymu niesiony przez poranny wiatr podpowiada ci, że jezioro ognia, którego szukasz, znajduje się gdzieś na południe stąd.
+# SKIP: 51|[]|Nocna kradzież...
+52|[]|Aby wygrać kampanię, musisz wykraść wampirzemu lordowi, Vokialowi, jego Fiolkę Żywej Krwi, przy czym Gelu nie może zostać pokonany w bitwie. Gelu nie może awansować powyżej 25 poziomu, ale swoje doświadczenie, zaklęcia i umiejętności będzie mógł wykorzystać w następnej kampanii.
+53|["npc_m"]|"Pst. Hej. Tutaj. Słyszeliśmy, że poszukujesz fiolki, którą ma pewien wampirzy lord. My, gildia złodziei, też szukamy paru rzeczy. Wyświadcz nam przysługę, a odpłacimy ci tym samym. Jeśli przyniesiesz nam Gladius Tytanów i Tarczę Strażnika Niebios, możemy wykraść rzeczoną fiolkę z domu wampira. Umowa stoi? Tak myślałem."
+54|["npc_m"]|"Jeszcze nie znalazłeś, hę? Jeśli naprawdę zależy ci na tej fiolce, zawróć i poszukaj trochę dokładniej, kapewu?"
+55|["npc_m"]|"W porządku! Teraz możemy pohandlować. Sprawa wygląda tak: ty dajesz nam Gladius Tytanów i Tarczę Strażnika Niebios, a mój towarzysz przekaże ci Fiolkę Żywej Krwi. Umowa stoi?"
+56|[]|Jak śmiesz nachodzić moje królestwo, i próbować mnie okraść!? Urządzimy sobie ucztę na twoich szczątkach.
+57|[]|Złodzieje! Budźcie się moje dzieci, przyszedł obiadek!
+58|[]|Przyszedł czas, by zdobyć ostatni składnik eliksiru życia: Fiolkę Żywej Krwi. Od długiego czasu znajduje się ona w posiadaniu lorda wampirów, Vokiala. Pozwala mu bezkrwawo zaspokajać jego nieposkromiony, wampirzy apetyt. Mówi się, że uznał zwykły sposób pożywiania się wampirów za obrzydliwy, prymitywny i poniżej jego godności. Odebranie mu tego artefaktu załatwi za jednym zamachem dwie sprawy: pozwoli nam stworzyć eliksir, a Vokialowi przysporzy paru zmartwień i problemów. Może nawet doprowadzi go do śmierci głodowej, choć na to ostatnie nie należy raczej liczyć.
+# SKIP: 59|[]|Words of Encouragement...
+60|[]|Jak dotąd służyłeś mi wiernie, Gelu. Ja, lord Falorel, jestem wielce rad z twoich usług i nie omieszkam poinformować o tym twych zwierzchników z Leśnej Straży. Współpraca z Erathią dobrze służy naszym wspólnym interesom i być może, podążając tą drogą, naprawimy szkody wyrządzone podczas Drewnianej Wojny. Chcę wynagrodzić twoją lojalność. Przyjmij proszę to złoto jako wyraz wdzięczności za twój wkład w ratowanie AvLee i jego mieszkańców.
+61|[]|Vokial jest potężnym lordem wampirów i będzie silnie strzeżony. Na teren Deyji wkraczaj ostrożnie, gdyż Vokial dobrze pilnuje się przed złodziejami.
+# SKIP: 62|[]|The Titans Gladius...
+63|[]|Chodzą słuchy, że Miecz Tytanów, pilnowany przez czarne smoki, jest gdzieś na południowym zachodzie doliny.
+# SKIP: 64|[]|The Sentinel Shield...
+65|[]|Przypadkowo napotkany wędrowiec opowiedział ci o błyszczącej tarczy, którą widział na południowym wschodzie. Wziąłby ją, gdyby nie napadły go rozwścieczone czerwone smoki.
+# SKIP: 66|[]|Beware the Guild of Cutthroats...
+67|[]|Uważaj na gildię złodziei - jej członkowie są groźni i podstępni. Dobrze sprawdź, czy masz to, czego szukają. A zanim dokonasz wymiany, każ pokazać sobie to, co mają ci dać.
+68|[]|Gdy już zdobędziesz Fiolkę Żywej Krwi, połącz ją z Pierścieniem Życia i Pierścieniem Żywotności, a uzyskasz Eliksir Życia. Musisz mieć wszystkie trzy elementy, aby stworzyć eliksir i nie możesz ich rozdzielać, aby eliksir nie stracił stabilności. \n\nProcedura jest prosta. Umieść pierścienie w fiolce i trzykrotnie wypowiedz słowa wypisane na zwoju, który dostałeś. Gdy wypowiesz je po raz trzeci, pojawi się eliksir. Przynieś go do mnie natychmiast.

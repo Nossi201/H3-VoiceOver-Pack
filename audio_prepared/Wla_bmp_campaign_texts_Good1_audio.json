@@ -1,0 +1,739 @@
+[
+  {
+    "id": 0,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 34,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles. Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 192
+  },
+  {
+    "id": 1,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 573,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami gry Heroes Chronicles. Postępuj według instrukcji pojawiających się na ekranie, gdyż zostały one ułożone w taki sposób, aby pokazać wszystkie najważniejsze funkcje gry - poza tym dzięki nim ukończysz swoją pierwszą misję...",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 277
+  },
+  {
+    "id": 2,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 18817,
+    "text": "To dwustronny monolit przejścia.  Gdy twój bohater na nim stanie, zostanie przeniesiony do takiego samego monolitu w innej części mapy.  Jeśli po drugiej stronie natkniesz się na stworzenia, z którymi nie masz ochoty walczyć, wystarczy wcisnąć spację, aby się cofnąć do poprzedniej lokacji.  Jeśli chcesz walczyć, po prostu zaatakuj je.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 336
+  },
+  {
+    "id": 3,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 19562,
+    "text": "Przed nami warsztat, w którym można rekrutować chochliki.  Raz w tygodniu znajdziesz tu darmowy oddział.  Liczebność oddziału co tydzień jest taka sama.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 152
+  },
+  {
+    "id": 4,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 19882,
+    "text": "Zauważ, że gdy odwiedzisz kamieniołomy kolor flagi, którą są oznakowane na minimapie, zmienia się z szarego na niebieski - barwę twojej flagi.  Kamieniołomy będzie wzbogacać zasoby królestwa o dwa wozy kamieni dziennie.  W sumie istnieje siedem typów kopalń - dopilnuj, aby w obrębie twoich włości znalazła się co najmniej jedna kopalnia każdego typu, aby zasilać zapasy wszystkich surowców do wymaganego poziomu.\n\nGdy już oflagujesz kamieniołomy, udaj się do migoczącego na zielono obiektu, a powiem ci co to jest.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 515
+  },
+  {
+    "id": 5,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 20564,
+    "text": "Jak widzisz, ten obszar różni się od zaśnieżonych terenów wokół.  To magiczne chmury, które każdemu użytkownikowi magii dają umiejętności eksperta magii powietrza, dopóki z nich nie zejdzie. W czasie walki zaklęcia magii powietrza, które znasz, będą rzucane na poziomie eksperta.  Występują jeszcze trzy obszary o podobnych właściwościach.  Są to gołoborza, błyszczące stawy i pola ognia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 388
+  },
+  {
+    "id": 6,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 21047,
+    "text": "Niezłym pomysłem jest odwiedzenie fabryki machin wojennych i zakupienie kilku urządzeń, które pomogą pokonać wroga.  Gdy wejdziesz do środka, możesz zakupić balistę (podobną do wielkiej kuszy), namiot medyka (leczący jeden oddział na zakończenie każdej tury walki) oraz wóz z amunicją (dzięki któremu masz pewność, że oddziałom strzeleckim nie zabraknie amunicji w czasie walki).",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 379
+  },
+  {
+    "id": 7,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 21533,
+    "text": "Obiekty takie, jak ten kamień wiedzy mogą dać premie w postaci szczęścia, morale i innych cech, w przypadku kamienia wiedzy tą cechą jest doświadczenia.  Gdy wjedziesz na kamień, przekonasz się twój niedoświadczony bohater zyska 1000 punktów doświadczenia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 256
+  },
+  {
+    "id": 8,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 21908,
+    "text": "Witaj, Wasza Wysokość, zwę się Rissa i pomogę ci poznać ten świat.  Najpierw udajmy się do kopalni rudy położonej na wschód stąd.  Gdy już przejmę kontrolę nad kopalnią, udajmy się na południe, aby zająć tartak.  Jeśli zechcesz, zawsze możemy się zatrzymać, aby zebrać surowce leżące luzem na ziemi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 299
+  },
+  {
+    "id": 9,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 22362,
+    "text": "To, Wasza Wysokość, jest młyn.  Co tydzień młynarz będzie miał dla ciebie nieco zasobów.  Pamiętaj, aby raz w tygodniu wysyłać kogoś do młyna, aby odbierał zyski.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 162
+  },
+  {
+    "id": 10,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 22679,
+    "text": "Gwiazda to miejsce, w którym możesz podnieść umiejętności z zakresu rzucania zaklęć o 1 punkt.  Dozwolona tylko jedna wizyta na bohatera.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 137
+  },
+  {
+    "id": 11,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 22947,
+    "text": "To namiot zielonego klucznika.  Odwiedzenie tego miejsca umożliwi ci przejście przez zieloną bramę graniczną.  Zawsze, gdy zobaczysz namiot klucznika, zatrzymaj się i wstąp do niego, aby zapewnić sobie przejście przez bramę graniczną.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 234
+  },
+  {
+    "id": 12,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 23300,
+    "text": "To jest tartak, który produkuje dwa wozy drewna dziennie.  Tartak będzie twój, gdy go odwiedzisz, co zostanie odnotowane zmianą koloru flagi.  Od tego miejsca idź na zachód wzdłuż ścieżki, aby kontynuować misję.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 211
+  },
+  {
+    "id": 13,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 23630,
+    "text": "Dziwnie wyglądający obiekt na wschodzie to chata czarownicy.  Nie rezygnuj z wysłania chociaż jednego bohatera do wiedźmy, aby dowiedzieć się, czego może nauczyć.  Nauka jest tu bezpłatna.  Każda wiedźma uczy tylko jednej umiejętności, ale mogą wybierać je z szerokiego wachlarza dostępnych umiejętności.  Jeśli bohater zna już daną umiejętność lub nie może poznać ich więcej, czarownica może być nieco zirytowana, ale nie zrobi nikomu krzywdy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 444
+  },
+  {
+    "id": 14,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 24157,
+    "text": "To jest kaplica magii.  Kaplice magii mają trzy poziomy i uczą każdego wyposażonego w księgę zaklęć bohatera zaklęć poziomu pierwszego, drugiego lub trzeciego.  W każdej kaplicy można nauczyć się tylko jednego zaklęcia, ale istnieje duży wachlarz zaklęć, które mogą występować w kaplicach.  Często znajdziesz tu bardzo użyteczne zaklęcia, których nie ma w wieży magów.  Należy co najmniej raz odwiedzić każdą kaplicę i sprawdzić, czy nie można nauczyć się w niej nowych czarów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 477
+  },
+  {
+    "id": 15,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 24757,
+    "text": "To miejsce powinien odwiedzić każdy bohater.  Ogród objawienia podbuduje wiedzę każdego, kto go odwiedzi.  Jego działanie jest jednorazowe, a więc ponowna wizyta w ogrodzie nie da żadnego efektu.  Gdy wzrośnie wiedza bohatera, wzrośnie także jego liczba punktów magii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 268
+  },
+  {
+    "id": 16,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 25156,
+    "text": "Tego dziwnego miejsca strzegą diabliki.  Gromadzą tu zapasy siarki i złota, ale nie oddadzą ich bez walki.  Zanim wdasz się w potyczkę, upewnij się, czy masz wystarczająco silną armię.  Skarbu może bronić od 100 do 300 diablików.  Znajdziesz też inne miejsca bronione przez grupy różnych stworzeń - zanim je zaatakujesz, przygotuj się dobrze, aby wygrać bitwę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 360
+  },
+  {
+    "id": 17,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 25683,
+    "text": "Przed nami zielona brama graniczna.  Możesz przez nią przejść dopiero po odwiedzeniu namiotu zielonego klucznika.  Odszukanie właściwego klucznika często nie jest łatwe, ale zawsze jest warte wysiłku.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 200
+  },
+  {
+    "id": 18,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 25990,
+    "text": "W niektórych miejscach musisz uiścić opłatę za podniesienie umiejętności bohatera.  To właśnie jedno z takich miejsc.  W szkole magii można podnieść poziom wiedzy lub magii - według uznania.  Jeśli jednak nie wniesiesz opłaty, niczego się nie nauczysz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 252
+  },
+  {
+    "id": 19,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 26595,
+    "text": "Zbliżasz się do magicznej studni.  Zawsze należy się z niej napić, jeśli to tylko możliwe, a szczególnie po bitwach, w których twój bohater rzucił szczególnie dużo zaklęć.  Magiczna studnia odnawia wszystkie punkty magii.  Skuteczna jest tylko jedna wizyta dziennie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 266
+  },
+  {
+    "id": 20,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 26980,
+    "text": "Gdy klikniesz na garnizonie prawym przyciskiem myszy, zauważysz, że stacjonuje w nim wiele różnych oddziałów.  Najwyraźniej władca podziemi z tej prowincji nie życzy sobie żadnych niespodziewanych gości.  Jeśli chcesz go pokonać, najpierw musisz zwyciężyć jednostki z garnizonu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 21,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 27442,
+    "text": "Na zachód stąd znajduje się odkrywka siarki.  Mimo że masz już jedną, druga też się przyda.  Dzięki ty będziesz mieć więcej surowców, a twój wróg mniej.  Spójrz na mini-mapę - flaga zmieni się z koloru czerwonego, czyli koloru twojego wroga, na niebieski, czyli twój.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 267
+  },
+  {
+    "id": 22,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 27793,
+    "text": "Oto arena.  Tu możesz poprawić swoją obronę lub atak, ale nie jedno i drugie.  Każdy bohater jest upoważniony do jednej wizyty, która nie obciąża budżetu królestwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 164
+  },
+  {
+    "id": 23,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 28064,
+    "text": "Teraz możesz zobaczyć wrota żywiołów, gdzie urzędują źli władcy żywiołów.  Gdy będziesz dysponować wystarczająco silną armią, by zaatakować stacjonującego w tym mieście bohatera, powinieneś uderzyć na wrota żywiołów.\n\nPamiętaj, że miasto jest otoczone murem, ma wieże strzelnicze oraz fosę.  Wdarcie się do środka może wymagać znacznie więcej oddziałów, niż zwycięstwo w każdej innej bitwie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 391
+  },
+  {
+    "id": 24,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 28658,
+    "text": "W pobliżu rośnie drzewo wiedzy, które podniesie poziom bohatera w zamian za kilka sztuk złota, klejnotów, a czasem nawet za darmo.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 130
+  },
+  {
+    "id": 25,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 29059,
+    "text": "Oto świątynia obłoków, w której mieszkają potężne giganty.  Aby móc je werbować, musisz najpierw kilka pokonać, ale warto podjąć ten trud i poświęcić trochę czasu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 163
+  },
+  {
+    "id": 26,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 29305,
+    "text": "Przed nami siedlisko przeraz.  Podobnie jak w przypadku ołtarza życzeń i fabryki golemów, aby werbować mieszkające tu stworzenia, najpierw musisz kilka pokonać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 160
+  },
+  {
+    "id": 27,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 29548,
+    "text": "To jest kaplica.  Podobnie jak w warsztacie, możesz tu werbować gargulce.  Jednak gargulce nie dołączą do ciebie tak po prostu - musisz zapłacić im żołd.  Potem będą już twoje.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 176
+  },
+  {
+    "id": 28,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 29807,
+    "text": "Fabryka golemów nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu golemy, musisz najpierw pokonać kilka z nich w walce.  Ponadto, znajdziesz tu nie jeden, ale cztery typy golemów.  W fabryce można rekrutować bardzo rzadkie, złote i diamentowe golemy, a także zwykłe, kamienne i żelazne.  Warto tu co jakiś czas zaglądać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 369
+  },
+  {
+    "id": 29,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 30271,
+    "text": "Ołtarz życzeń nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu geniusze, musisz najpierw pokonać kilka z nich w walce.  Przypuszczam, że muszą upewnić się, czy jesteś dobrym dowódcą, nim staną po twojej stronie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 261
+  },
+  {
+    "id": 30,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 30807,
+    "text": "W wieży magów szkolą się magowie.  Świetnie potrafią posługiwać się zaklęciami, rzucają na wrogów potężne kule energii.  Zawsze warto mieć ich w swojej armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 158
+  },
+  {
+    "id": 31,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 31084,
+    "text": "Zanim zbadasz ten połyskujący, zielony obiekt, wstąp do kamieniołomów.  Wkrótce będziemy koło nich przechodzić.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 111
+  },
+  {
+    "id": 32,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 31278,
+    "text": "Dostępu do tych kopalni broni kilka stworzeń.  Jednak wydobywane tu zasoby są nam niezbędne do rozbudowy.  Jeśli uważasz, że Rissa ma zbyt mało oddziałów, wyślij ją do miasta, aby zwerbowała dodatkowe jednostki.  Jeśli sądzisz, że armia Rissy jest wystarczająco silna, zaatakuj!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 33,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 31687,
+    "text": "To młyn wodny, w którym raz w tygodniu można pobierać podatek.  Jeśli nie będziesz wstępować tu co tydzień, młynarz wyda pieniądze i następnym tygodniu nie dostaniesz ani grosza więcej.  Warto zatrudnić kogoś, by co tydzień odwiedzał młyny i wiatraki, aby zbierać należne ci podatki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 283
+  },
+  {
+    "id": 34,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 32132,
+    "text": "To jest laboratorium, które może dostarczać królestwu jeden tygiel rtęci dziennie.  Należy zadbać, aby co najmniej jedno z nich znalazło się pod twoją kontrolą.  Jednak najpierw musimy pozbyć się stąd żywiołaków powietrza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 222
+  },
+  {
+    "id": 35,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 32448,
+    "text": "Stworzenia, które spotykasz mogą do ciebie dołączyć, zaatakować cię lub po prostu uciec.  To co zrobią, zależy od wielkości armii bohatera, stronie, po której walczy dany rodzaj stworzeń, umiejętności dyplomatycznych oraz tego, czy są w nastroju do walki.  Wygląda na to, że te driady nie są nastawione zbyt przyjaźnie, więc chyba będziemy musieli z nimi walczyć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 363
+  },
+  {
+    "id": 36,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 33136,
+    "text": "Witaj, jesteś w chacie jasnowidza.  Tu będziesz otrzymywać pomniejsze zadania, które czasem są integralną częścią całej misji.  Jasnowidz może zażądać od ciebie wielu rzeczy - od oddziałów, poprzez surowca, aż po wykonanie jakiegoś zadania.\n\nJa chcę ci po prostu pomóc, więc wezmę od ciebie 30 magów i zamienię ich w 30 czarodziejów.  Czarodzieje to znawcy magii potężniejsi od magów i arcymagów.  Spodobają ci się ich zaklecia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 428
+  },
+  {
+    "id": 37,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 33568,
+    "text": "Wróć proszę, gdy będziesz miał 30 magów, a ja zamienię ich na czarodziejów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 75
+  },
+  {
+    "id": 38,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 33647,
+    "text": "Skoro masz 30 magów, pozwolisz mi chyba zamienić ich w 30 czarodziejów?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 71
+  },
+  {
+    "id": 39,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 35172,
+    "text": "Witam, Wasza Wysokość.  Jestem twoim doradcą, zwę się Marantea.  Właśnie przekazano ci podstawowy zestaw obowiązków osoby zarządzającej królestwem.  Każdego dnia będę udzielać ci nowych rad, a ty wykaż nieco cierpliwości i zapoznaj się z nimi.  Gdy nauczysz się wszystkiego, co ci pokażę, będziesz w stanie sprawnie zarządzać królestwem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 337
+  },
+  {
+    "id": 40,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 35575,
+    "text": "KAŻDY dzień należy rozpocząć od skonstruowania jakiegoś budynku.  Aby zacząć budowę, przejedź do miasta klikając na nim lub na małej ikonie miasta z prawej strony ekranu.\n\nNa ekranie miasta - z prawej strony - znajdź budynek o nazwie \"Dom Rady Miasta\".  Kliknij na nim, aby wyświetlić ekran domu Rady.  Znajdziesz tu wszystkie typy budynków.  Gdy klikniesz prawym przyciskiem myszy na budynku, dowiesz się, jakie są jego funkcje oraz ile kosztuje jego budowa. \n\nZacznij od budowy kaplicy.  Budynek ten pozwala rekrutować gargulce.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dom Rady Miasta",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 530
+  },
+  {
+    "id": 41,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 36169,
+    "text": "Dziś zbuduj fabrykę golemów, w której powstają kamienne golemy.  Później, gdy postawisz inne budynki, będzie można ją zmodernizować.  Gdy skończysz wybierać budynki, przespaceruj się po okolicy swoim pierwszym bohaterem, Rissą, aby dowiedzieć się więcej o swoim otoczeniu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 272
+  },
+  {
+    "id": 42,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 36506,
+    "text": "Dziś jest doskonały dzień na zajęcie się budynkiem gildii magów.  Możesz oczywiście zbudować, co tylko chcesz, ale budując w określonej kolejności, najlepiej wykorzystasz funkcje budowli.  Gildia magów zaopatruje twoich bohaterów w cenne zaklęcia, których mogą używać w czasie bitwy oraz w trakcie wędrówki po mapie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 43,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 36886,
+    "text": "Dziś zajmiemy się budową wieży magów.  Wieża ma zupełnie inną funkcję niż gildia magów, gdyż w przeciwieństwie do niej nie dostarcza zaklęć, ale szkoli samych magów.  Magowie potrafią w trakcie bitwy rzucać w kierunku wrogów potężne kule energii - to wspaniałe uzupełnienie możliwość twojej armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 297
+  },
+  {
+    "id": 44,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 37247,
+    "text": "Teraz możemy wybudować ołtarz życzeń, który pozwala rekrutować geniuszy.\n\n\nNie zapominaj co jakiś czas skierować Rissy do miasta, aby mogła uzupełnić oddziały.  Jej początkowe siły szybko zostaną uszczuplone, a musisz zdobyć niemały szmat ziemi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 245
+  },
+  {
+    "id": 45,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 37556,
+    "text": "Jeśli Rissa nie odwiedzała ostatnio miasta, powinna do niego wstąpić, aby nauczyć się nowych zaklęć i zwerbować kolejne oddziały.  Jej oddziały nie są jeszcze zbyt liczne.\n\nDziś zajmiemy się budową złotego pawilony, w którym mieszkają potężne przerazy.  Te uzbrojone po zęby stworzenia są fantastycznymi wojownikami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 46,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 37937,
+    "text": "Budynki takie jak cytadela staraj się budować przed końcem tygodnia.  Liczba oddziałów, które mogą jutro przybyć, zwiększy się dzięki temu o 50%.  Miasto zostanie też opatrzone wieżami strzelniczymi oraz fosą.  Nie sądzę, żeby ktoś nas teraz zaatakował, ale w zwykłej grze nie można wykluczyć takiej możliwości.  Obrona miasta jest trudna, ale cytadela, a potem zamek znacznie ułatwiają to zadanie.\n\nZbuduj teraz cytadelę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 422
+  },
+  {
+    "id": 47,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 38428,
+    "text": "Cudowanie - nowy tydzień!  Na początku każdego tygodnia ma miejsce bardzo ważne wydarzenie.  W każdym budynku werbującym oddziały pojawiają się nowe jednostki - zarówno w mieście, jak i poza nim.  Aby zwerbować oddziały znajdujące się w budynkach poza miastem, musisz wysłać do nich bohatera.  Aby wynająć bohatera, musisz przejść do tawerny.  Kliknij na tawernie i wynajmij jednego z dwóch bohaterów.  Wyślij go poza miasto, aby zwerbował jednostki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 450
+  },
+  {
+    "id": 48,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 38944,
+    "text": "Dziś zajmiemy się budową targowiska.  Dzięki niemu można zamieniać nadwyżki zgromadzonych zasobów na inne brakujące towary.  Gdy masz na przykład za dużo drewna, na targowisku możesz zamienić je na złoto.  Im więcej masz targowisk, tym lepsze ceny uzyskasz przy wymianie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 271
+  },
+  {
+    "id": 49,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 39280,
+    "text": "Aby zbudować ratusz, musisz mieć kuźnię.  Gdy zbudujesz kuźnię, sprawdź, co też ma ona do zaoferowania twojemu bohaterowi.  Pamiętaj, że tylko bohater może robić zakupy w kuźni, oddziały nie mają do niej dostępu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 212
+  },
+  {
+    "id": 50,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 39557,
+    "text": "Teraz możesz już zbudować ratusz, który pozwoli podnieść dochody z królestwa. Będzie przynosić ci 2000 sztuk złota dziennie.  Dzięki temu zgromadzisz fundusze na opłacenie wszystkich oddziałów, które pojawią się na początku przyszłego miesiąca.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 244
+  },
+  {
+    "id": 51,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 39866,
+    "text": "Teraz masz już zapewne wystarczająco dużo złota, aby zbudować świątynie obłoków i zwerbować kilka gigantów do armii Rissy.  Giganty mimo swej wielkości bardzo szybko poruszają się - to wspaniały nabytek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 203
+  },
+  {
+    "id": 52,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 40134,
+    "text": "Twoja forteca jest kiepsko broniona, należałoby postawić zamek.  To nalepszy sposób zabezpieczenia miasta przed napastnikami, a poza tym umożliwia budowę kapitolu.  Zamek zwiększy też cotygodniowy przyrost oddziałów o 50%.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 222
+  },
+  {
+    "id": 53,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 40421,
+    "text": "Jak widzisz, możesz teraz zbudować kapitol i zarabiać 4000 sztuk złota dziennie - marzenie każdego władcy!  Zarządź budowę, a już od jutra zaczniesz czerpać z niej zyski.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 170
+  },
+  {
+    "id": 54,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 40656,
+    "text": "W fortecy można umieścić bardzo interesującą strukturę o nazwie ściana wiedzy.  Gdy ją zbudujesz, sprowadź do miasta Rissę i innych bohaterów.  Wszyscy otrzymają dodatkowy punkt wiedzy - to cenna premia!  Ale pamiętaj, że każdy bohater dostanie ją tylko raz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 258
+  },
+  {
+    "id": 55,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 40979,
+    "text": "Kolejnym specjalnym budynkiem jest biblioteka, która dostarcza dodatkowych zaklęć każdego poziomu.  Koszt budowy to niewielka cena za dodatkowe czary.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 150
+  },
+  {
+    "id": 56,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 41194,
+    "text": "Aby zwiększyć cotygodniowy kontyngent gargulców, zbuduj obiekt o nazwie Skrzydła Stwórcy.  Dodatkowe oddziały zawsze się przydadzą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 131
+  },
+  {
+    "id": 57,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 41390,
+    "text": "Nie raz już mówiłam o modernizacji budynków, to dotyczy też budynków, w których można werbować oddziały.  Modernizacja pozwala werbować bardziej doświadczone, szybsze i lepsze oddziały.  Zawsze warto modernizować znajdujące się w mieście budynki, jeśli tylko masz na to surowce.  Jednak dużo ważniejsze niż modernizowanie istniejących budynków jest werbowanie jednostek i konstruowanie nowych budynków.\n\nDo tej pory masz już zapewne wszystkie budynki podstawowego poziomu, w których można prowadzić werbunek.  A więc zabierz się za modernizację tych, które najbardziej ci się przydają.  Jeśli zwerbowałeś jakieś oddziały przed zmodernizowaniem budynku, nie martw się - możesz je ulepszyć.  Po prostu kliknij na ikonie oddziału, a następnie skorzystaj ze strzałki w górę, która pojawi się w ramce.  Trzeba będzie wydać trochę złota, ale ulepszone oddziały są tego warte.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 869
+  },
+  {
+    "id": 58,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 42324,
+    "text": "Sądzę, że wiesz już co trzeba, panie.  Wiem, że Rissa ma dla ciebie jeszcze parę informacji, ale ja przekazałam ci już wszystko.  Po prostu buduj kolejne budynki, modernizuj je i werbuj jednostki.  Jeśli będziesz mieć jakieś problemy, zajrzyj do elektronicznego przewodnika, gdyż zawiera on wiele ważnych informacji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 59,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 42706,
+    "text": "Gdy skończysz (to znaczy, gdy żaden z twoich bohaterów nie będzie miał już punktów ruchu i skonstruujesz wybrane budynki), zamknij kolejkę klikając na przycisku klepsydry umieszczonym z prawej strony ekranu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 207
+  },
+  {
+    "id": 60,
+    "source": "Wla_bmp.lod:Good1.h3c",
+    "offset": 42981,
+    "text": "Aby zapłacić za jednostki, musisz zwiększyć swoje dochody.  Najlepszym sposobem jest rozbudowa domu Rady Miasta.  Gdy zmodernizujesz tę budowlę, twoje dzienne dochody wzrosną.  Wybuduj więc dom Rady Miasta, a zamiast 500 sztuk złota dziennie będziesz otrzymywać 1000.  Nawet jeśli kusi cię, by zbudować świątynię obłoków, powstrzymaj się na razie z jej budową; werbunek gigantów jest bardzo kosztowny, a nie chcesz chyba zbyt szybko pozbyć się zapasu złota.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 457
+  }
+]

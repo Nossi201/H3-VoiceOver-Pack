@@ -1,0 +1,66 @@
+# PLIK DO RĘCZNEJ EDYCJI GŁOSÓW
+#=====================================================================
+# Format: ID | [głosy] | TEKST
+#
+# Głosy dla cytatów: tarnum, npc_m, npc_f
+# Pusta tablica [] = tylko narrator (brak dialogów)
+# Tablica z "" = wymaga ręcznego przypisania głosu
+#
+# Przykłady:
+#   5|[]|Tekst bez dialogów - tylko narrator
+#   6|["npc_m"]|Narrator mówi: "cytat jednego NPC"
+#   7|["npc_m","npc_f"]|Ona: "cześć" On: "witaj"
+#   8|[""]|Tekst z cytatem - WYMAGA EDYCJI!
+#
+# SKIP - pomijane w generowaniu audio
+#=====================================================================
+
+# SKIP: 0|[]|Niech żyje król...
+1|[]|Wojna w Erathii to najlepsza rzecz, jaka mogła spotkać ludność krainy Deyja.  Wojna na taką skalę to niekończące się żniwa dla naszej armii nieumarłych. Dziś świętujemy, jutro podbijemy Erathię.
+2|[]|Król Gryphonheart, człowiek, który wygnał nas z Erathii, nie żyje. Inwazja Nighonu i Eeofolu ofiarowała nam dar śmierci. Nareszcie możemy zbudować własną armię i sami najechać Erathię. By zapewnić sobie sukces potrzebujemy tylko dobrego taktyka. Musisz więc odnaleźć grobowiec króla Gryphonhearta.
+3|[]|Naszym celem było zabicie człowieka, który wygnał nas z Erathii. Jednak inwazja wojsk Nighonu i Eofolu była dla nas niespodziewanym prezentem. Pola Erathii usiane są ciałami jej obrońców. Dla nekromantów to okres zbiorów, okres wojny. Królowa Katarzyna jest godnym przeciwnikiem. Aby pokonać pozostałą część wojsk Erathii, potrzebujemy kogoś, kto dorówna jej zdolnościami taktycznymi. Mamy plan... diaboliczny plan. Wykorzystując fakt, że Katarzyna będzie zajęta wojną z królestwem Nighonu, prześlizgniesz się z małym oddziałem do miejsca, gdzie pochowany został król Gryphonheart. Uważaj jednak. Teren ten zajęty jest przez rozproszone, ale dość silne oddziały armii erathiańskiej. Kiedy już odnajdziesz grób króla, wskrześ go i spraw, by stanął na czele naszych wojsk. Jeśli król Gryphonheart będzie dowodził naszą armią, szybko podbijemy jego królestwo i zmienimy je w krainę zmarłych.
+4|[]|Podczas prac nad wskrzeszeniem Gryphonhearta, naszemu królowi\nVilmarowi przydarzył się niefortunny wypadek. Król Gryphonheart \nprzejął pełną władzę nad armią... a także całym królestwem. \nJego umiejętność kontrolowania umarłych przerasta wszystko co do \ntej pory widzieliśmy. To dobrze rokuje planom naszej przyszłej inwazji.\nJednak nasi pozostali lordowie bacznie przypatrują się nowemu królowi, \nszukając oznak jego słabości.
+5|[]|Przy granicy Erathii znaleźliśmy wspaniałą bazę wypadową dla pozyskiwania stworzeń do naszej armii bez zwracania na siebie uwagi przeciwnika. Zbuduj potężną armię - ale śpiesz się! Potrzebujemy tych oddziałów jak najszybciej!
+6|[]|Zanim rozpoczniemy inwazję na szeroką skalę, musimy zdobyć\nwystarczającą ilość wojsk. Ludność Erathii będzie dobrym materiałem na rekrutów. Dokonaj szybkiego wypadu na okoliczne miasta. Potrzebne nam posiłki uzyskasz wskrzeszając poległych.
+7|[]|Zbuntowany Rycerz Śmierci nie zamierza uczestniczyć w naszej chwalebnej inwazji na Erathię. Uważa, że nie biorąc udziału w walce ocali swą ziemię przed kontratakiem Erathian. Czas nauczyć go posłuszeństwa.
+8|[]|Rycerz Śmierci imieniem Mot odmawia poddania się rozkazom króla Gryphonhearta. Musi on zostać przykładnie ukarany, aby wszyscy ujrzeli, że podobne akty zdrady nie będą tolerowane. Mot szczelnie otoczył się swoimi wojskami. Pokonaj je i przejmij nad nimi kontrolę. Kiedy już zabijesz Mota, wskrześ go, aby zasilił szeregi naszej armii.
+9|[]|Nadszedł czas. Król-Lisz Gryphonheart zdecydował, że atak rozpocznie się właśnie teraz. Z całej Deyji nadciągną wojska, które zaleją Erathię. Cel naszego ataku został wybrany przez samego króla. Przysięgasz, że go nie zawiedziesz.
+10|[]|Na naszej drodze stoi armia Erathii. Nadszedł czas decydującej bitwy. Król Gryphonheart szkolił generałów armii erathiańskiej i zna ich taktykę. Morale nie gra roli u nieumarłych. Gdy wzmocnimy nasze oddziały ciałami rycerzy wroga, morale naszych przeciwników podupadnie. Wtedy zalejemy ich naszymi wojskami i zadamy decydujący cios. Król Gryphonheart wkrótce ponownie zasiądzie na tronie Erathii.
+# SKIP: 11|[]|Grób Króla...
+12|[]|Masz trzy miesiące na dostarczenie Ducha Opresji do Stonecastle. Szukaj mędrca - wypełnienie jego misji pozwoli ci przenieść nagrodę do następnego scenariusza.
+# SKIP: 13|[]|Intro part 1...
+14|[]|Szpiedzy donieśli, że grób króla Gryphonhearta znajduje się w Stonecastle, niedaleko północnej granicy Erathii. Te obszary ominęły zawieruchy wojny z Nighonem i Eofolem. Szybko przeszukaj teren, odnajdź zwłoki króla, a wtedy my będziemy mogli tchnąć w nie życie.
+# SKIP: 15|[]|Intro part 2...
+16|[]|Jednym z przedmiotów potrzebnych do rytuału ożywienia Króla jest Duch Opresji. Musisz odnaleźć ten artefakt i zanieść go do Stonecastle. Trzeba tego dokonać bardzo szybko - jeżeli duch króla opuści ciało wszystko będzie stracone.
+# SKIP: 17|[]|Sezon zbiorów...
+18|[]|Aby wygrać, musisz zebrać 2500 szkieletów we wszystkich twoich armiach. Niektóre posterunki graniczne można pokonać tylko wtedy, gdy bohater posiada artefakt z poprzedniego scenariusza. Artefakt ukryty poza granicą będzie dostępny również w następnym scenariuszu.
+# SKIP: 19|[]|Intro part 1...
+20|[]|Aby wykorzystać element zaskoczenia, musisz w przeciągu miesiąca zaatakować Erathię. Niestety nasze siły nie są wystarczająco mocne, aby zaatakować na całym froncie. Potrzebujemy twojej pomocy przy zwerbowaniu żołnierzy wzdłuż granicy. Zebranie wystarczającej ilości nieumarłych pozwoli nam wygrać.
+# SKIP: 21|[]|Intro part 2...
+22|[]|Tak jak poprzednio musisz działać bardzo szybko. Ponieważ podstawowym warunkiem zaskoczenia jest szybkość ataku, musisz zdążyć z natarciem w przeciągu trzech miesięcy. W tym czasie musisz zebrać armię przynajmniej 2500 szkieletów. Jeżeli nas zawiedziesz, nie będziemy mieć żadnej szansy.
+# SKIP: 23|[]|Warning 3 weeks left...
+24|["npc_m"]|Otrzymujesz list od swoich zwierzchników. "Postępy jakie czynisz są zadowalające, ale masz jeszcze tylko trzy tygodnie na wykonanie zadania."
+# SKIP: 25|[]|Warning 2 weeks left...
+26|["npc_m"]|Otrzymujesz list od swoich zwierzchników. "Cieszymy się z twoich postępów. Pamiętaj jednak, że potrzebujemy przynajmniej 2500 szkieletów, a zostały tylko dwa tygodnie do rozpoczęcia natarcia."
+# SKIP: 27|[]|Warning 1 week left...
+28|["npc_m"]|Otrzymujesz list od swoich zwierzchników. "Za tydzień od dzisiaj zaatakujemy Erathię. Twoja armia 2500 szkieletów jest kluczem do sukcesu. Mamy nadzieję, że zdajesz sobie sprawę z tego, że porażka nie wchodzi rachubę."
+# SKIP: 29|[]|News of Sandro...
+30|["npc_m"]|Podchodzi jeden z twoich doradców. "Właśnie dowiedzieliśmy się, że w okolicy uwięziony jest Sandro wraz ze swoją armią. Jeżeli uda ci się go odnaleźć i oswobodzić, będzie dużym wzmocnieniem dla naszych sił."
+# SKIP: 31|[]|Należna kara...
+32|[]|Musisz pokonać Mota - Rycerza Śmierci. Niektórzy strażnicy przepuszczą cię tylko jeżeli będziesz posiadać artefakt zdobyty podczas poprzedniej misji. Artefakt ukryty po drugiej stronie granicy zostanie przeniesiony do następnej misji.
+# SKIP: 33|[]|Whirlpool hint...
+34|[]|Wir jest bramą do Świata Zmarłych, ale Kluczem jest Naszyjnik Przyzwania.
+# SKIP: 35|[]|Intro part 1...
+36|["npc_m"]|Otrzymujesz list od Króla Gryphonhearta. "Dowódco, jeden z moich generałów, Mot, nie wykonuje moich rozkazów, twierdząc że nie powinniśmy atakować Erathii. Nie potrzebujemy go do realizacji naszych planów".
+# SKIP: 37|[]|Intro part 2...
+38|["npc_m"]|"Potrzebujemy jednak jego armii. Nie mogę pozwolić na niesubordynację. Twoim zadaniem jest znalezienie Mota i zniszczenie go. Gdy tego dokonasz, wskrzesimy go i poddamy naszym rozkazom. Wykonaj to zadanie, a zostaniesz moim nowym generałem."
+# SKIP: 39|[]|Intro part 3...
+40|[]|Sam widok nieumarłego króla powoduje, że ciarki chodzą ci po plecach. Musisz jednak wykonać zadanie. Rozumiesz, że nie możesz pozwolić sobie na luksus porażki.
+# SKIP: 41|[]|Dzień i noc...
+42|[]|Aby zwyciężyć, musisz zdobyć wszystkie miasta i zamki wroga, oraz pokonać wszystkich wrogich bohaterów. Niektóre posterunki graniczne można przejść tylko wtedy, gdy bohater posiada artefakt z poprzedniego scenariusza.
+43|[]|Oto Gladius Tytanów który, jak twierdził mędrzec, jest ci podobno przeznaczony. Czy chcesz posiąść go na swoją własność?
+44|[]|Oto Gladius Tytanów który, jak twierdził mędrzec, jest ci podobno przeznaczony. Czy chcesz posiąść go na swoją własność?
+# SKIP: 45|[]|Intro part 1...
+46|[]|Otrzymujesz bezpośrednie rozkazy od Króla Gryphonhearta. Atak masz rozpocząć z trzech twierdz przy granicy z Erathią. Na początku opór powinien być słaby, ale musisz szybko zabezpieczyć teren, zanim wróg otrzyma wsparcie.
+# SKIP: 47|[]|Intro part 2...
+48|[]|Oczywistym jest iż Król Gryphonheart chce odzyskać tron Erathii, ale tym razem zamierza zdobyć go siłą. Ruszaj, nadszedł czas.

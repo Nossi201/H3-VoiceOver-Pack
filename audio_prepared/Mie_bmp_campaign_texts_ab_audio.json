@@ -1,0 +1,2822 @@
+[
+  {
+    "id": 1,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 20,
+    "text": "Elficki bohater, Gelu, wyruszył, by pomimo apokaliptycznej przepowiedni odnaleźć tajemniczy Miecz Mrozu. Teraz losy świata spoczywają w rękach Tarnuma, który musi rozpalić swoje mroczne talenty i poprowadzić wynaturzone stwory Nighonu przeciw dawnemu przyjacielowi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 265
+  },
+  {
+    "id": 2,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 312,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 3,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 387,
+    "text": "Elficki bohater, Gelu, wyruszył by odnaleźć i zniszczyć Miecz Mrozu. Pragnął powstrzymać apokaliptyczną przepowiednię, lecz nie zdawał sobie sprawy, że odnalezienie artefaktu może sprowadzić na świat olbrzymie niebezpieczeństwo. Tarnum musi go powstrzymać, jednak siły dobra, Avlee i Erathii, odmówiły przystąpienia do kampanii przeciwko Gelu. Któż tedy będzie gotów dźwignąć miecz przeciw elfom?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 396
+  },
+  {
+    "id": 4,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 866,
+    "text": "Misja: Zdobądź pierścień nieskończonych bogactw, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 77
+  },
+  {
+    "id": 5,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 950,
+    "text": "Gelu był zbyt blisko Miecza Mrozu, by Tarnum mógł stać spokojnie z boku i się przyglądać. Tak długo jak żona barbarzyńcy, Kija, wciąż pozostawała niedaleko, stanowiła zagrożenie, dlatego Tarnum postanowił wyeliminować ją z tych niebezpiecznych łowów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 250
+  },
+  {
+    "id": 6,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 1283,
+    "text": "Misja: Zdobądź Bastion, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 52
+  },
+  {
+    "id": 7,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 1342,
+    "text": "Kolejna para zachłannych oczu spoczęła na Mieczu Mrozu, lecz nie po to, by go zniszczyć bądź uchronić przed odszukaniem. Kija, żona bezwzględnego króla barbarzyńców, Kilgora, przybyła, by przywłaszczyć sobie niebezpieczne ostrze. Tarnum będzie bardziej niż kiedykolwiek potrzebował zwycięstwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 293
+  },
+  {
+    "id": 8,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 1709,
+    "text": "Misja: Zrekrutuj 6 błękitnych smoków, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 66
+  },
+  {
+    "id": 9,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 1782,
+    "text": "Tarnum wiedział, że błękitne smoki, najpotężniejsze ze smoczej braci, mogą dać siłę potrzebną do zwyciężenia zarówno elfów Gelu jak i barbarzyńców Kiji. Jednakże przekonanie błękitnych smoków do współpracy mogło go słono kosztować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 231
+  },
+  {
+    "id": 10,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 2093,
+    "text": "Misja: Pokonaj Ufretina, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 53
+  },
+  {
+    "id": 11,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 2153,
+    "text": "Tarnum był niechętny pojmaniu jednego z przyjaciół Gelu, ponieważ chciał zapobiec niechybnemu przesłuchaniu. Jak daleko był w stanie się posunąć, by poznać położenie Miecza Mrozu? Czy był w stanie uciec się do morderstwa? A gdyby mógł, czy Przodkowie mogliby mu wybaczyć?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 271
+  },
+  {
+    "id": 12,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 2508,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 13,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 2583,
+    "text": "Kiedy Ufretin na niego spojrzał, dostrzegł w nim jedynie mężczyznę, który zdradził elfy i dołączył do ich śmiertelnego wroga. Tarnum musiał sprawić, by więzień mu zaufał i zdradził lokalizację Miecza Mrozu. W przeciwnym razie Nieśmiertelny Bohater musiałby zmusić go do mówienia przemocą, a tego chciał za wszelką cenę uniknąć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 327
+  },
+  {
+    "id": 14,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 2995,
+    "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 15,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 3070,
+    "text": "Ostre brzegi północnych rubieży nie zgotowały Tarnumowi ciepłego powitania. Dotarł do brzegu z niewielkimi tylko siłami, odcięty od wszelkiego zaopatrzenia i otoczony przez zacięte elfy z Vori. Na domiar złego jego własne oddziały nastawały na jego życie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 255
+  },
+  {
+    "id": 16,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 3409,
+    "text": "Misja: Podbij Bastion Volee, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 57
+  },
+  {
+    "id": 17,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 3473,
+    "text": "Gelu wciąż nie chciał dostrzec, że już samo odszukanie Miecza Mrozu może doprowadzić do wypełnienia przepowiedni. Tarnum nie miał innego wyjścia, jak tylko wyprzedzić go w wyścigu do miasta Volee, gdzie niegdyś zaginęła starożytna broń.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 236
+  },
+  {
+    "id": 18,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 3719,
+    "text": "Z trudem wywalczone zwycięstwo nad miastem Volee poszło na marne. Gdy Tarnum przebił się do miejsca spoczynku miecza, okazało się, że ktoś już wydarł go z jego lodowego leża. Pośród odłamków lodu leżał porzucony barbarzyński topór. Tarnum zacisnął dłonie na jego rękojeści i nabrawszy w płuca powietrza, wykrzyczał imię złodzieja.\n\"Kija!\"\nCzemu jej nie zabił, gdy pozostawała jego jeńcem?\nPotem zaczął się modlić, \"Przodkowie, błagam was, nie pozwólcie, by moje miłosierdzie sprowadziło na cały świat zagładę!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Kija!",
+          "voice": ""
+        },
+        {
+          "text": "Przodkowie, błagam was, nie pozwólcie, by moje mił...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 510
+  },
+  {
+    "id": 20,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 4305,
+    "text": "Tarnum musi podbić podziemne miasta Nighonu, by móc w nich sformować armię gotową stawić czoła Gelu i jego elfom.  Wszyscy bohaterowie ograniczeni są do poziomu 6, zaś Tarnum wraz ze zdobytymi umiejętnościami, czarami i doświadczeniem przejdzie do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 271
+  },
+  {
+    "id": 21,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 22482,
+    "text": "Osądzony przez Przodków jako niegodny wstąpienia do Raju, Tarnum wędruje po świecie szukając odkupienia za swe zbrodnie. Jest Nieśmiertelnym Bohaterem, wiecznym obrońcą, ale powątpiewa, czy kiedykolwiek zdoła zadośćuczynić za błędy popełnione w młodości.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 22,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 24595,
+    "text": "Spod ciemnego sklepienia jaskini sfruwa na ciebie skora do walki grupa harpich wiedźm, lecz ty uniósłszy swój miecz jednym płynnym cięciem powalasz ich prowodyra. Pozostałe harpie z uśmiechami na twarzach błagają cię, byś pozwolił im dołączyć do dowódcy o tak wielkiej sile.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 274
+  },
+  {
+    "id": 23,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 24920,
+    "text": "Zstępując do tego świata wiecznej ciemności, zastanawiasz się, czy dokonałeś właściwego wyboru.  Nie bez powodu mieszkańcy podziemi cieszą się sławą najokrutniejszej z nacji.  Czyż myśl, że możesz ich pozyskać do walki w służbie dobra, nie była z twej strony ogromną arogancją?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 277
+  },
+  {
+    "id": 24,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 25349,
+    "text": "Przybył dzisiaj wóz z zaopatrzeniem, wioząc zapasy z jednej z moich osobistych skrytek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 87
+  },
+  {
+    "id": 25,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 25500,
+    "text": "\"Jeśli Miecz Mrozu i Ostrze Armagedonu kiedykolwiek się spotkają, będzie to oznaczało koniec świata!\"\n\nJakiż głupiec z tego elfa!  Co mogło go pchnąć do poszukiwań Miecza Mrozu?  Spotkałem niegdyś Gelu, dał mi się wówczas poznać jako pełen inspiracji przywódca i wzięty wojownik.  W ciągu kilku ostatnich lat dokonał wielu heroicznych czynów, udowadniając, że jego umiejętnościom dorównuje tylko jego upór.  Nigdy bym go nie podejrzewał o brak rozsądku.\n\nCzy jest aż tak bardzo przywiązany do Ostrza Armageddonu, że nie potrafi dostrzec zagrożenia, na jakie naraża cały świat?\n\nDlatego też przybyłem do Nighonu w poszukiwaniu siły, która mogłaby przeciwstawić się Gelu i jego elfom.  Niestety, Król Elfów nie kiwnie nawet palcem, by przeszkodzić największemu bohaterowi Avlee.  Erathianie natomiast pozostają z nim w przymierzu - podniesienie ręki na Gelu jest równoznaczne ze zniszczeniem tego sojuszu.  Moim jedynym wyjściem pozostało przywdzianie szat suwerena i poprowadzenie armii Nighonu do walki za szlachetną sprawę.\n\nSłyszałem, że po śmierci przywódczyni Nighonu, Smoczej Królowej Mutare, w podziemiach zapanował chaos.  Walka o dominację między jej generałami przeistoczyła się w niekończącą się wojnę domową.  To idealny moment, bym wśliznął się na scenę i przejął kontrolę nad ich siłami.  Tylko z ich pomocą będę mógł powstrzymać Gelu przed wypełnieniem jego szalonej misji.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jeśli Miecz Mrozu i Ostrze Armagedonu kiedykolwiek...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1387
+  },
+  {
+    "id": 26,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 26951,
+    "text": "Setki lat, które upłynęły od mojego brutalnego, niegodnego raju życia, zmiękczyły mnie.  Już po tygodniu dowodzenia stworzeniami Nighonu zacząłem współczuć ich trudnemu żywotowi.  Los najsłabszych wśród służących w moich szeregach - ślepych troglodytów - był nie do pozazdroszczenia.\n\nWidziałem, jak harpie i beholdery zabijają troglodytę tylko dlatego, że wszedł im w drogę.  Nic dziwnego, że te małe istoty wszędzie zdążają w takim pośpiechu.  Przyznaję, że w swoim życiu zabiłem setki troglodytów, lecz teraz, pod moją komendą, za wszelką cenę starałem się ich chronić przed ich własnymi sprzymierzeńcami.\n\nKiedy para harpii zaczęła szykanować troglodytę niosącego jedzenie dla swoich ziomków, przyskoczyłem do nich i schwyciłem skrzydlate kobiety za kościste gardła.  Wiedziałem, że nie mogę okazać słabości, w przeciwnym razie ktoś inny mógłby zapragnąć przejąć dowodzenie i zabić mnie.  Okazanie litości mogło być równie śmiertelnym błędem.\n\nZ tego też powodu wymierzyłem troglodycie kopniaka, posyłając go na ziemię i cisnąłem harpie na najbliższą ścianę tunelu.\n\n\"Czy powiedziałem wam, że możecie między sobą walczyć ?  Czy padło to z moich ust?\" ryknąłem ile sił w płucach.  Zadbałem, by usłyszała mnie cała moja armia.\n\nTroglodyta skulił się, gdy sięgnąłem do pasa po nabijaną kolcami maczugę.  Harpie próbowały oddalić się chyłkiem.  Zrozumiałem, że jeśli nie dam im przykładu tu i teraz, wkrótce więcej z tych stworzeń zginie.\n\nSkoczyłem na harpie.  Wolną ręką chwyciłem za skrzydło jednej z nich i szarpnąłem, odrywając je od ciała.  Maczugą grzmotnąłem drugą harpię, druzgocząc jej żebra i miażdżąc serce.\n\nZwracając się do reszty mojej armii, wzniosłem wysoko dłoń ze skrwawionym skrzydłem, tak, by każdy mógł je dojrzeć.\n\n\"To JA mówię wam, kogo możecie zabijać!  Jeśli jeszcze ktoś tego nie rozumie, niech wystąpi teraz naprzód,\" rzekłem do nich.  Wiedzieli, że jeśli ktokolwiek się poruszy, zginie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy powiedziałem wam, że możecie między sobą walcz...",
+          "voice": ""
+        },
+        {
+          "text": "To JA mówię wam, kogo możecie zabijać!  Jeśli jesz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1915
+  },
+  {
+    "id": 27,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 28931,
+    "text": "Po każdym zwycięstwie muszę zmagać się z moimi własnymi żołnierzami, odciągając ich od masakrowania ocalałych.  Ci Nighończycy nie mają pojęcia, co to litość.  Dlatego też, by nie przemknęło im przez myśl, że ja, jako suweren, jestem słabym wodzem z powodu okazywanej pokonanym łaski, zacząłem udawać, że jestem obłąkany.\n\nRozmawiałem z rzeczami, których tam nie było, pewnego zaś razu przejechałem nago kilka mil, nim \"zorientowałem się\", że nie mam na sobie swego pancerza.\n\nA gdy ktoś zostaje schwytany, zamiast torturować go, póki nie wyzionie ducha, upokarzam go.  Grupę troglodytów unurzałem w smole i obrzuciłem pierzem, mówiąc im, że są teraz harpiami.  Raz nawet zmusiłem minotaura, by ubrał kobiecą suknię.\n\nNa szczęście moje oddziały są teraz na tyle zdezorientowane, że przestały się przejmować, kiedy darowuję życie więźniom.  I jak dotąd są zbyt przerażeni, by spróbować podważyć mój autorytet.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "zorientowałem się",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 908
+  },
+  {
+    "id": 28,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 29903,
+    "text": "Przez stulecia zdołałem zgromadzić olbrzymie zapasy na wypadek zaistnienia sytuacji takiej jak obecna.  Wiedząc, że będę potrzebował tych surowców, wysłałem słowo do moich zaufanych przyjaciół, którzy zorganizowali transport części skarbu.  Pierwsze wozy z zaopatrzeniem powinny przybyć już jutro, kolejne zaś są w drodze i powinny tu docierać co dwa tygodnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 360
+  },
+  {
+    "id": 29,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 30328,
+    "text": "Otrzymałem dziś wiadomość od mojego przyjaciela z Avlee, w której informuje, że Gelu postawił żagle i wyruszył do odległej, leżącej na północy krainy Vori, tygodnie przed planowanym początkiem wyprawy.  Jest żądny ukończenia swej misji zniszczenia Miecza Mrozu.  Jeśli się nie pośpieszę i nie zbiorę w Nighonie dostatecznej armii, nigdy go nie dogonię.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 352
+  },
+  {
+    "id": 30,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 30745,
+    "text": "Zwycięstwo jest bliskie, dlatego posłałem umyślnego, by zakupił kilka okrętów i przygotował je na moje przybycie.  Dowiedziałem się również, że wpływy Nighonu sięgają daleko aż do ziem Vori, dlatego prawdopodobnie będę w stanie utrzymać stamtąd kontrolę nad tymi tunelami.\n\nZobaczymy.  Lecz najpierw muszę domknąć tu parę spraw, a przede wszystkim umocnić moje terytoria na tyle, by oparły się zakusom nighońskich suwerenów - przynajmniej do czasu, nim nie powstrzymam Gelu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 474
+  },
+  {
+    "id": 31,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 31428,
+    "text": "By dostać się do miasta Volee, Tarnum musi zdobyć pierścień nieskończonych bogactw. Niestety, na jego drodze stoi przywódczyni barbarzyńców - Kija. Tarnum wraz z dwoma najlepszymi herosami przejdzie do następnego scenariusza, zabierając czary, umiejętności i doświadczenie. Poziom ograniczony do 32.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 299
+  },
+  {
+    "id": 32,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 60173,
+    "text": "Mieszkający w tej ruderze strojny w kunsztowne szaty czarodziej zupełnie nie pasuje do tego miejsca.  Nawet jego pompatyczne słowa utwierdzają cię w przekonaniu, że nie powinien pozostawać zakopany tak głęboko w ziemi.\n\n\"Potrzebuję twojej pomocy, dzielny podróżniku,\" zwraca się do ciebie.  \"Wygląda na to, że czerwone smoki skradły mi księgę o niebagatelnej wartości.  Jeśli zwrócisz mi księgę magii ognia w nieskazitelnym stanie, zapłacę ci 48,000 sztuk złota.  Niezła sumka, co nie?\"\n\n\"Dla mnie to aż nadto,\" mówisz mu.\n\n\"Tak, wiem, lecz jak już wspomniałem, MUSZĘ odzyskać tę książkę.  I to szybko!  Nie zwlekaj, mój przyjacielu.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Potrzebuję twojej pomocy, dzielny podróżniku,",
+          "voice": ""
+        },
+        {
+          "text": "Wygląda na to, że czerwone smoki skradły mi księgę...",
+          "voice": ""
+        },
+        {
+          "text": "Dla mnie to aż nadto,",
+          "voice": ""
+        },
+        {
+          "text": "Tak, wiem, lecz jak już wspomniałem, MUSZĘ odzyska...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 634
+  },
+  {
+    "id": 33,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 60811,
+    "text": "\"Musisz mi wybaczyć, ale w zwykłych okolicznościach nie przestaję z osobnikami twojego pokroju.  Nie mam najmniejszego zamiaru udzielać się towarzysko.  Jedyne, co mnie interesuje, to moja książka!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Musisz mi wybaczyć, ale w zwykłych okolicznościach...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 198
+  },
+  {
+    "id": 34,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 61013,
+    "text": "Arogancki czarodziej uważnie bada księgę magii ognia, zakładając przed jej otwarciem białą rękawiczkę.  Każdą stronę przewraca powoli i z namaszczeniem.\n\n\"Och nie!  Tu jest smuga!\"\n\n\"Była w posiadaniu czerwonych smoków,\" wyjaśniasz.  \"Nie możesz wymagać, by była w idealnym stanie.\"\n\n\"Mogę i wymagam!  Prawdą jest jednak, że winienem ci 40,000 sztuk złota,\" mówi czarodziej.\n\n\"Hej, przecież mowa była o 48 tysiącach sztuk!\"  przypominasz mu.\n\n\"Oczywiście.  Wiesz, że w zasadzie to mi je kradniesz?  Zabieraj swoje piekielne pieniądze i wynoś się stąd!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Och nie!  Tu jest smuga!",
+          "voice": ""
+        },
+        {
+          "text": "Była w posiadaniu czerwonych smoków,",
+          "voice": ""
+        },
+        {
+          "text": "Nie możesz wymagać, by była w idealnym stanie.",
+          "voice": ""
+        },
+        {
+          "text": "Mogę i wymagam!  Prawdą jest jednak, że winienem c...",
+          "voice": ""
+        },
+        {
+          "text": "Hej, przecież mowa była o 48 tysiącach sztuk!",
+          "voice": ""
+        },
+        {
+          "text": "Oczywiście.  Wiesz, że w zasadzie to mi je kradnie...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 552
+  },
+  {
+    "id": 35,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 64661,
+    "text": "Słyszałeś, że to może być miejsce ukrycia pierścienia nieskończonych bogactw, lecz wydaje ci się mało prawdopodobne, by faktycznie tak było.\n\nW solidnych drzwiach otwiera się maleńki wziernik, przez który spogląda na ciebie para czarnych oczu.\n\n\"Odejdź!  Jedynym, którego chcę zobaczyć, jest Tarnum, Przyjaciel Smoków.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Odejdź!  Jedynym, którego chcę zobaczyć, jest Tarn...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 319
+  },
+  {
+    "id": 36,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 64984,
+    "text": "\"Nie jesteś tym, którego szukam!  Odejdź stąd!  Marnujesz tylko mój czas,\" woła do ciebie gruby głos zza drzwi.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie jesteś tym, którego szukam!  Odejdź stąd!  Mar...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 111
+  },
+  {
+    "id": 37,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 65099,
+    "text": "\"Ja jestem Tarnum,\" mówisz.\n\nSłyszysz szczęk kilku otwieranych zamków, a następnie w krąg światła wkracza krępa postać.\n\nTo krasnolud Ufretin!\n\n\"Nie spodziewałem się, że jeszcze cię kiedyś zobaczę!\" mówisz mu.\n\n\"A ja się nie spodziewałem, że kiedykolwiek się tu znajdę, wierz mi,\" powiada.\n\n\"Co się stało?\"\n\n\"Nim odnalazłem drogę powrotną do Gelu, twoje słowa wsiąkły w moją duszę.  Wiedziałem, że musisz mieć rację - bo dlaczego miałbyś uczynić wszystko to, co uczyniłeś?  Próbowałem przekonać Gelu, by zawrócił, ale nie usłuchał mnie.  Zwyzywał cię od łajdaków i mnie także, ponieważ z tobą rozmawiałem.  Jest poza wszelką kontrolą!\"\n\n\"Wiem o tym.  Jest przeświadczony o słuszności swej racji, a zarazem zbyt uparty by przyznać, że ściąga zagrożenie na cały świat,\" przytakujesz krasnoludowi.\n\n\"No cóż, zamknął przejście wiodące do miasta Volee i zatrzymał jedyny istniejący klucz - pierścień nieskończonych bogactw.  Ukradłem mu go i zamierzałem ci go oddać, gdy drogę zagrodziła mi Kija i jej barbarzyńcy.  Na całe szczęście zdołałem zabarykadować się w tym magicznym drzewie,\" rzekł Ufretin.\n\nKrasnolud zdjął pierścień i wpatruje się teraz ze smutkiem w leżącą na jego dłoni błyskotkę.\n\n\"Mam nadzieję, że postępuję właściwie,\" mówi krótko.\n\n\"Wiem, jak ciężko ci było zdradzić przyjaciela, ale uwierz mi, to dla dobra nas wszystkich!\"\n\n\"Po prostu go powstrzymaj, Tarnumie, Przyjacielu Smoków.  Powstrzymaj go, nim na wieki splami swe imię i będzie znany jako ten, którego pycha nieomal nie zniszczyła świata.\"\n\nUfretin pragnie ci wręczyć pierścień nieskończonych bogactw.  Czy go przyjmiesz?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Ja jestem Tarnum,",
+          "voice": "tarnum"
+        },
+        {
+          "text": "Nie spodziewałem się, że jeszcze cię kiedyś zobacz...",
+          "voice": ""
+        },
+        {
+          "text": "A ja się nie spodziewałem, że kiedykolwiek się tu ...",
+          "voice": ""
+        },
+        {
+          "text": "Co się stało?",
+          "voice": ""
+        },
+        {
+          "text": "Nim odnalazłem drogę powrotną do Gelu, twoje słowa...",
+          "voice": ""
+        },
+        {
+          "text": "Wiem o tym.  Jest przeświadczony o słuszności swej...",
+          "voice": ""
+        },
+        {
+          "text": "No cóż, zamknął przejście wiodące do miasta Volee ...",
+          "voice": ""
+        },
+        {
+          "text": "Mam nadzieję, że postępuję właściwie,",
+          "voice": ""
+        },
+        {
+          "text": "Wiem, jak ciężko ci było zdradzić przyjaciela, ale...",
+          "voice": ""
+        },
+        {
+          "text": "Po prostu go powstrzymaj, Tarnumie, Przyjacielu Sm...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1595
+  },
+  {
+    "id": 39,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 67795,
+    "text": "Niedobitki barbarzyńskich plemion skryły się w głębinach tych podlodowcowych tuneli.  A może to Kija ich tu przywiodła?\n\nMoje własne poszukiwania wiadomości na temat miasta Volee, gdzie ponoć skryty został Miecz Mrozu, przyniosły pewne rezultaty.  Volee było pierwszym miastem elfów Vori, które jednak zupełnie zaginęło ponad tysiąc lat temu, gdy stworzony został Miecz Mrozu.\n\nNiektórzy twierdzą, że to Miecz Mrozu doprowadził do powstania olbrzymich lodowców, które pogrzebały pod sobą starożytne miasto.  Jeśli w broni tej faktycznie zaklęta została tak wielka siła, nie dziwi mnie, że byłaby również w stanie sprowadzić na cały świat zagładę.\n\nJednak najpierw raz na zawsze muszę pozbyć się Kiji.  Żona władcy barbarzyńców nie ma już dokąd uciec.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 750
+  },
+  {
+    "id": 40,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 68609,
+    "text": "Zallisa, królewska meduza, ostrzegła mnie dzisiaj, że ta część lodowca połączona została niezliczoną liczbą tuneli i portali.  Jeśli nie będę dostatecznie czujny, wróg bez większego trudu będzie w stanie szybko i cicho przekraść się na moje tyły.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 246
+  },
+  {
+    "id": 41,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 68920,
+    "text": "Kosztowało mnie to nieco złota, jednak opłaciwszy dezerterów wroga, zdołałem od nich wyciągnąć sporo interesujących informacji dotyczących Kiji i jej wojsk.\n\nSkoro została żoną Kilgora, władcy barbarzyńców, bez wątpienia jest wielką wojowniczką.  Jednak w przeciwieństwie do jej męża, to nie szaleństwo pcha ją do działania, lecz ambicja i jej upodobanie w zadawaniu cierpienia.  Kija zbudowała w jednej z leżących poniżej jaskiń twierdzę, umocnioną potężnymi fortyfikacjami.  I wie też, że jestem coraz bliżej i bliżej.\n\nWażniejsze jest jednak to, że próbuje odnaleźć pierścień niekończących się bogactw - jedyny artefakt zdolny otworzyć podwoje miasta Volee - zanim ją dopadnę.  Tym, czego tak naprawdę pożąda, jest Miecz Mrozu i uczyni wszystko, co tylko leży w jej mocy, aby go posiąść - nawet jeśli będzie to kosztowało życie wszystkich jej ludzi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 852
+  },
+  {
+    "id": 42,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 69836,
+    "text": "Doniesiono mi, że na południu, w starej chatce proroka ukrywa się czarodziej, oferujący olbrzymią nagrodę każdemu, kto będzie w stanie odzyskać jego własność.  Muszę się śpieszyć.  Nie chcę, by moi wrogowie zgłosili się po to złoto przede mną.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 243
+  },
+  {
+    "id": 43,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 70144,
+    "text": "Odkąd Neez i Kilkik polegli, znacznie lepiej sypiam.  Mogę zaufać chciwości mojego minotaurzego ochroniarza.  Na pierwszy rzut oka widać, że łaknie wyłącznie bogactwa.  Zaś Zallisa i jej meduzy nadal odczuwają wdzięczność za okazaną im przeze mnie łaskę.  Gdyby tylko udało mi się utrzymać ten stan rzeczy choć trochę dłużej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 325
+  },
+  {
+    "id": 44,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 70534,
+    "text": "Dzisiejszego dnia w moim obozie zjawił się gobliński posłaniec, niosący wiadomość od Kiji, trzeciej żony Kilgora.\n\n\"Królowa pragnie, byśmy zjednoczyli się pod wspólnym sztandarem i zmietli te paskudne elfy,\" rzekł goblin.  \"Dlaczego walczymy, skoro możemy być sojusznikami?  A hojność oferty, jaką obdarza cię Królowa Kija, jest wprost bezgraniczna!\"\n\n\"Sam to osądzę,\" odpowiedziałem. \"Czego ona chce?\"\n\n\"Prosi tylko o Miecz Mrozu.  Możesz zatrzymać wszystkie zdobyte łupy, a nawet te zmrożone północne krainy!  Wszystko będzie twoje!\"\n\nRozejrzałem się po moich ludziach.  Sojusz ten wydał im się nad wyraz korzystny, po ich twarzach poznałem, że byli gotowi zaprzestania walki.\n\n\"Odmawiam!\"\n\n\"Co?\" spytał osłupiały goblin.\n\n\"Jeśli Kija pragnie porzucić to wszystko dla tego jednego miecza, zaiste musi być on potężną bronią - być może zdolną do podbicia całego świata!  Odrzucam jej propozycję, lecz wróć do Kiji i powiedz jej, że składam jej tę samą ofertę.  Może zatrzymać te zmrożone pustkowia dla siebie, ale to ja posiądę Miecz Mrozu.\"\n\nPodejrzliwe spojrzenia mej straży odprowadziły w ciemność odesłanego przeze mnie goblina.\n\n\"Dlaczego tak postąpiłeś?  Majątek, który ci oferowano, był większy niż jestem w stanie to sobie wyobrazić,\" rzekł Trongar.\n\n\"Ponieważ z Mieczem Mrozu u mego pasa i tak będę mógł to wszystko posiąść.  To właśnie był plan Kiji.  Chciała mi wszystko oddać, co by się jednak stało, gdyby jej mąż postanowił pomaszerować na północ?  Odpowiem ci.  Odebrałby nam to wszystko, a my zostalibyśmy z niczym!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Królowa pragnie, byśmy zjednoczyli się pod wspólny...",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego walczymy, skoro możemy być sojusznikami? ...",
+          "voice": ""
+        },
+        {
+          "text": "Sam to osądzę,",
+          "voice": "npc_f"
+        },
+        {
+          "text": "Czego ona chce?",
+          "voice": "npc_f"
+        },
+        {
+          "text": "Prosi tylko o Miecz Mrozu.  Możesz zatrzymać wszys...",
+          "voice": "npc_f"
+        },
+        {
+          "text": "Odmawiam!",
+          "voice": ""
+        },
+        {
+          "text": "Co?",
+          "voice": ""
+        },
+        {
+          "text": "Jeśli Kija pragnie porzucić to wszystko dla tego j...",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego tak postąpiłeś?  Majątek, który ci oferow...",
+          "voice": ""
+        },
+        {
+          "text": "Ponieważ z Mieczem Mrozu u mego pasa i tak będę mó...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1532
+  },
+  {
+    "id": 45,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 72131,
+    "text": "Istniało tylko jedno rozwiązanie dla zakusów Kiji.  Musiałem zwyciężyć jej armię.  Musiałem zgnieść ją raz na zawsze, w przeciwnym razie nigdy nie zaprzestałaby poszukiwań Miecza Mrozu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 185
+  },
+  {
+    "id": 46,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 72518,
+    "text": "Tarnum musi pokonać elfy Vori, które strzegą pomostu łączącego stały ląd z północnymi lodowcami.  Do poszukiwań Miecza Mrozu dołączył też nowy wróg.  Tarnum i jego najlepszy kapitan zabiorą czary, umiejętności i doświadczenie do następnego scenariusza.  Bohaterowie mogą osiągnąć 18 poziom.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 290
+  },
+  {
+    "id": 47,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 89820,
+    "text": "Oblężenie tej wieży zajęłoby zbyt wiele cennego czasu, dlatego decydujesz się przystąpić do negocjacji z jej strażnikami.  Zgodzili się przepuścić cię, jeśli przyniesiesz im Naszyjnik Boskich Mocy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 197
+  },
+  {
+    "id": 48,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 90021,
+    "text": "Jeśli nie dostarczysz strażnikom Naszyjnika Boskich mocy, nie zamienią z tobą nawet słowa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 90
+  },
+  {
+    "id": 49,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 90115,
+    "text": "Strażnicy domagają się, byś przerzucił Naszyjnik Boskich Mocy na blanki strażnicy, ty jednak odmawiasz im i postanawiasz poczekać, co zrobią.  Ostatecznie ich chciwość bierze górę.  Otwierają przed tobą wrota i zgadzają się przepuścić twoją armię, jeśli tylko wręczysz im artefakt.\n\nCzy przekażesz im teraz naszyjnik?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 317
+  },
+  {
+    "id": 52,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 95144,
+    "text": "Gelu cały czas pozostaje o krok przede mną.  Moi zwiadowcy donoszą, że ufortyfikował niewielkie miasto leżące w pobliżu lądowego pomostu, którym można dotrzeć do północnych lodowców.  To jedyna droga prowadząca do elfa, dlatego będę musiał zająć to miasto.\n\nCo więcej, moje harpie wykryły na tym obszarze także oddziały barbarzyńców.  Cóż oni robią tak daleko na północy?  Od chwili, gdy otrzymałem te wieści, złe przeczucie nieustannie ściska mój żołądek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 456
+  },
+  {
+    "id": 53,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 95664,
+    "text": "Przykład, który dałem moim ludziom kiedy byłem jeszcze bezwzględnym barbarzyńskim tyranem, wydaje dziś swoje plugawe owoce.  Moim ludem przewodzi teraz Kilgor, który uczynił z niego żądną krwi zbieraninę dzikusów.  \n\nWciąż jednak wierzę w moich rodaków.  Poleciłem moim posłańcom, by udali się do najbliższych osad barbarzyńców i spytali o cel ich przybycia tutaj oraz o ewentualną możliwość zawiązania sojuszu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 411
+  },
+  {
+    "id": 54,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 96140,
+    "text": "Do mojego obozu wjechał dziś krzepki wojownik i odmówił złożenia swego topora moim strażnikom.  Dostrzegłem go już z daleka i od razu rozpoznałem w nim jednego z moich ludzi - barbarzyńców - i poleciłem przyprowadzić go przed moje oblicze.\n\n\"To niezbyt rozsądne, mój Suwerenie,\" powiedział beholder Neez.  \n\n\"To prawda,\" dodał Kilkik, \"ten człowiek może być zabójcą.  Pozwól nam, byśmy go najpierw przesłuchali.\"\n\n\"Nie, ja z nim porozmawiam,\" odrzekłem.\n\nPamiętając, że muszę udawać obłąkanego, odwróciłem głowę w prawo i przemówiłem w pustą przestrzeń namiotu, \"Powiedziałem im, mamo!  Porozmawiam z dzikusem... tak, w cztery oczy!\"\n\nObracając się z powrotem w stronę beholderów, rozkazałem, \"Zabierzcie tego barbarzyńcę do mojego namiotu.  Porozmawiam z nim osobiście.\"\n\nWkrótce barbarzyńca został przyprowadzony przed moje oblicze.  Wyglądał na człowieka dumnego i silnego, gotowego na śmierć.\n\n\"Dzień dobry,\" powitałem go.\n\n\"Ty dowodzisz tym tałatajstwem?\"\n\n\"Tak, a cóż wy, dzikusy, robicie tak daleko od swego domu?\" spytałem w odpowiedzi.\n\n\"Reprezentuję mojego wodza, Kiję, trzecią żonę Kilgora, króla Krewlodu!\" odrzekł butnie barbarzyńca.\n\n\"Co ma zatem do powiedzenia?\"\n\n\"Tylko tyle, nighońska szumowino!  Przybyła do tej krainy w poszukiwaniu Miecza Mrozu.  Nie wie, jaki jest twój cel, lecz ostrzega cię, że jeśli wejdziesz jej w drogę, powiesi cię za pęciny!  Czy to rozumiesz?\"\n\nCzyli miałem do czynienia z trzecią żoną Kilgora, Kiją, we własnej osobie.  Jestem pewien, że nie poszukiwała Miecza Mrozu dla siebie, lecz dla swego męża.  Ponownie poczułem jak żołądek podchodzi mi do gardła.  Dokładnie o tym mówili Przodkowie.  Muszę uczynić wszystko, aby przekonać Gelu do zaprzestania poszukiwań Miecza Mrozu.  Mogłem sobie wyobrazić, do czego byłby zdolny szaleniec pokroju Kilgora, gdyby ten potężny oręż wpadł w jego ręce.\n\n\"Pytałem, czy rozumiesz!\" rzekł wysłannik spluwając.\n\nWłaśnie wtedy dostrzegłem cień sunący w poprzek mojego namiotu - znajomy kształt jednego z moich wielookich doradców.  Jeśli pozwolę barbarzyńcy mówić do mnie w ten sposób, beholdery spostrzegą moją słabość.  Choć mi się to nie podobało, wciąż byli mi potrzebni, nie mówiąc już o reszcie moich oddziałów. \n\nDlatego też jednym skokiem skróciłem dystans dzielący mnie od posła i złamałem mu nos.  Kiedy leżał oszołomiony, odebrałem mu jego barbarzyńską broń i i złamałem rękę tępym końcem topora.  Potem cisnąłem nim w stronę wejścia do namiotu, tak, by wszyscy mogli go dojrzeć.\n\n\"Powiedz tej swojej kobiecie, że będę robił wszystko, co mi się żywnie podoba!  Nie kryję się za kobietami jak Kilgor, kiedy trzeba podjąć zdecydowane kroki.  Jestem nighońskim suwerenem!\"\n\nPotem zakopałem topór w ziemi między jego nogami i poleciłem mu wynosić się, póki jeszcze nie powiesiłem go za kostki nóg.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To niezbyt rozsądne, mój Suwerenie,",
+          "voice": ""
+        },
+        {
+          "text": "To prawda,",
+          "voice": ""
+        },
+        {
+          "text": "ten człowiek może być zabójcą.  Pozwól nam, byśmy ...",
+          "voice": ""
+        },
+        {
+          "text": "Nie, ja z nim porozmawiam,",
+          "voice": ""
+        },
+        {
+          "text": "Powiedziałem im, mamo!  Porozmawiam z dzikusem... ...",
+          "voice": ""
+        },
+        {
+          "text": "Zabierzcie tego barbarzyńcę do mojego namiotu.  Po...",
+          "voice": ""
+        },
+        {
+          "text": "Dzień dobry,",
+          "voice": ""
+        },
+        {
+          "text": "Ty dowodzisz tym tałatajstwem?",
+          "voice": ""
+        },
+        {
+          "text": "Tak, a cóż wy, dzikusy, robicie tak daleko od sweg...",
+          "voice": ""
+        },
+        {
+          "text": "Reprezentuję mojego wodza, Kiję, trzecią żonę Kilg...",
+          "voice": ""
+        },
+        {
+          "text": "Co ma zatem do powiedzenia?",
+          "voice": ""
+        },
+        {
+          "text": "Tylko tyle, nighońska szumowino!  Przybyła do tej ...",
+          "voice": ""
+        },
+        {
+          "text": "Pytałem, czy rozumiesz!",
+          "voice": ""
+        },
+        {
+          "text": "Powiedz tej swojej kobiecie, że będę robił wszystk...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 2785
+  },
+  {
+    "id": 55,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 98990,
+    "text": "Żona barbarzyńcy, Kija, nie zdawała sobie sprawy, że prawdopodobnie nikt nie znał barbarzyńców lepiej niż ja.  Wiedziałem, że w odpowiedzi na moje groźby może dojść przemocy.  Niestety. nic nie mogłem na to poradzić.\n\nWypowiedziała mi wojnę i miałem teraz tu, na północy, dwójkę wrogów - lecz nie chciałem śmierci żadnego z nich.  Nie znajdowałem przyjemności w zabijaniu moich ludzi, nieważne jak bardzo pobłądzili.  A przez ostatnie lata mego życia z elfami również i je pokochałem jak braci.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 494
+  },
+  {
+    "id": 56,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 99548,
+    "text": "Wreszcie, po kilku imponujących zwycięstwach, smoki uznały mnie za wypróbowanego wodza i zgodziły się przybyć na północ, by walczyć pod moimi sztandarami.  Czerwone smoki nieustannie narzekają na zimno - przez co zmuszony jestem budować olbrzymie ogniska, przy których mogą się ogrzać.  Wymaga to wiele drewna, lecz dopóki po stronie Gelu walczy kilka złotych i zielonych smoków, dopóty będę potrzebował ich potęgi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 415
+  },
+  {
+    "id": 57,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 100028,
+    "text": "Beholdery Neez i Kilkik spotykają się ze mną każdej nocy, by porozmawiać o postępach i omówić następny dzień marszu.  Neez, który zdaje się mieć uszy w każdej frakcji mojej armii, nieustannie donosi mi o potencjalnych zdrajcach, dzięki czemu mogę ich zgnieść zanim wymkną się spod kontroli.  Kilkik zaś zajął się zaś zbieraniem wywiadu na temat naszych wrogów.\n\nDzisiaj opowiedział mi o przesłuchaniu orkowego więźnia, podczas którego pozyskał wiele cennych informacji .  Nie wnikałem, jak przebiegało owo przesłuchanie, ani czy ork je przetrwał.  Znałem odpowiedzi na te pytania.\n\n \"Wygląda na to, że ta trzecia żona Kilgora za wszelką cenę pragnie uczynić swych synów sukcesorami męża,\" rzekł Kilkik.\n\n\"Tak, to oczywiste!  Jeśli ofiaruje Kilgorowi oręż tak potężny, jak Miecz Mrozu, z całą pewnością okaże jej swą wdzięczność,\" powiedziałem.\n\n\"Dlatego też doszliśmy do wniosku, że dodatkowe metody walki z nią - takie jak rabunek czy szantaż - z pewnością nie przyniosą zamierzonego rezultatu.  Nie działa z przyziemnych pobudek, dlatego szanse, że się podda, są niewielkie,\" orzekł Neez.\n\nCo oznacza, że jedynym sposobem na pozbycie się Kiji jest jej zabicie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wygląda na to, że ta trzecia żona Kilgora za wszel...",
+          "voice": ""
+        },
+        {
+          "text": "Tak, to oczywiste!  Jeśli ofiaruje Kilgorowi oręż ...",
+          "voice": ""
+        },
+        {
+          "text": "Dlatego też doszliśmy do wniosku, że dodatkowe met...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1162
+  },
+  {
+    "id": 58,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 101255,
+    "text": "Musiałem sięgnąć po moje zapasy drewna, by podtrzymać ogień płonących dla smoków stosów.  Toczenie wojny na północy nie jest ani łatwe, ani tanie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 146
+  },
+  {
+    "id": 59,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 101466,
+    "text": "W czasie jednego z naszych strategicznych spotkań zwróciłem się do Kilkika i zapytałem, \"Czy udało ci się wybadać, dokąd zmierza Gelu?  Być może moglibyśmy go wyprzedzić.\"\n\n\"Nie,\" odpowiedział Kilkik.\n\n\"Wszyscy elfi więźniowie, których przesłuchiwaliśmy, nie zostali wtajemniczeni w jego długofalowe plany.  Jest mądrym przywódcą, strzegącym tego sekretu przed swoimi ludźmi,\" rzekł Kilkik.\n\n\"Mam jednak pewną sugestię,\" dodał Kilkik.\n\n\"Jaką?\"\n\n\"Do tej pory porywaliśmy wyłącznie tych niższych rangą podwładnych, nic nieznaczących.  Musimy dopaść kogoś będącego zawsze blisko Gelu.\"\n\nTo był dobry pomysł, na razie jednak Gelu mnie ignorował, wysforowując się daleko przed moją armię.  Jeśli pochwycę kogoś, na kim mu zależy, z pewnością rozdrażnię porywczego elfa.\n\nZ drugiej strony, może właśnie tego potrzebuję.  Muszę zaskoczyć Gelu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy udało ci się wybadać, dokąd zmierza Gelu?  Być...",
+          "voice": ""
+        },
+        {
+          "text": "Nie,",
+          "voice": ""
+        },
+        {
+          "text": "Wszyscy elfi więźniowie, których przesłuchiwaliśmy...",
+          "voice": ""
+        },
+        {
+          "text": "Mam jednak pewną sugestię,",
+          "voice": ""
+        },
+        {
+          "text": "Jaką?",
+          "voice": ""
+        },
+        {
+          "text": "Do tej pory porywaliśmy wyłącznie tych niższych ra...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 836
+  },
+  {
+    "id": 61,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 102515,
+    "text": "Kiedy Tarnum spostrzega, że jego wróg jest potężniejszy niż początkowo przypuszczał, zwraca się do błękitnych smoków po pomoc.  Tarnum i jego dwaj najlepsi kapitanowie pojawią się w następnym scenariuszu, a wraz z nimi ich czary, umiejętności i doświadczenie. Bohaterowie mogą osiągnąć poziom 22.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 296
+  },
+  {
+    "id": 62,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 151042,
+    "text": "Strażnicy przepuszczą tylko Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 36
+  },
+  {
+    "id": 63,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 151082,
+    "text": "Nareszcie przybyłeś, Tarnumie!  Czy życzysz sobie przejść?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 58
+  },
+  {
+    "id": 64,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 161812,
+    "text": "Zbliżasz się do tej leżącej na odludziu chatki zupełnie sam i zaczynasz się zastanawiać, czy to dobry pomysł, kiedy zza zaspy wynurza się para kryształowych smoków.\n\n\"Stop!\" wykrzykuje ktoś na moment przed zakończeniem twojego żywota.  \n\nWspaniale ubrany młody mężczyzna z przyjacielskim uśmiechem wychodzi przed chatę.\n\n\"Przepraszam, że cię przestraszyłem, to tylko moi strażnicy. A przynajmniej będą nimi do czasu, gdy nie zastąpię ich innymi,\" powiada.\n\n\"Jakich obrońców poszukujesz?\" pytasz.\n\n\"W zasadzie przydałyby mi się latające smoki.  Potrzebuję sześciu czarnych smoków, które mogłyby przetransportować mnie i moje rzeczy przez morze.  Nie wiesz przypadkiem, gdzie mógłbym znaleźć choćby jednego?  Jestem gotów wymienić te dwa kryształowe na sześć czarnych smoków.\"\n\nZdaję ci się, że wiesz, gdzie można ich szukać.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Stop!",
+          "voice": ""
+        },
+        {
+          "text": "Przepraszam, że cię przestraszyłem, to tylko moi s...",
+          "voice": ""
+        },
+        {
+          "text": "Jakich obrońców poszukujesz?",
+          "voice": ""
+        },
+        {
+          "text": "W zasadzie przydałyby mi się latające smoki.  Potr...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 823
+  },
+  {
+    "id": 65,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 162814,
+    "text": "Młody mężczyzna wystąpił przed chatę, by obejrzeć oferowane przez ciebie czarne smoki.\n\n\"Zakładam, że są lojalne i zdrowe?\" pyta cię.\n\n\"Tak, oczywiście!\"\n\n\"Świetnie.  Biorę je.  Czy chcesz teraz dokonać wymiany?\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zakładam, że są lojalne i zdrowe?",
+          "voice": ""
+        },
+        {
+          "text": "Tak, oczywiście!",
+          "voice": ""
+        },
+        {
+          "text": "Świetnie.  Biorę je.  Czy chcesz teraz dokonać wym...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 212
+  },
+  {
+    "id": 66,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 164977,
+    "text": "Olbrzymi cień pada na twoje oddziały.  Gdy spoglądzasz w górę, widzisz pojedynczego błękitnego smoka płynącego pośród niskich, szarych chmur.  Nurkuje, przelatując tuż nad twoją głową i ląduje, wstrząsając ziemią pod twoimi stopami.\n\n\"Słabi nie są godni, by wejść do Doliny!\" ryczy smok i rusza do ataku.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Słabi nie są godni, by wejść do Doliny!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 304
+  },
+  {
+    "id": 67,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 169575,
+    "text": "Ta mała chatka cuchnie zgniłymi jajami tak bardzo, że podchodząc musisz zakryć płaszczem nos i usta.  Kiedy otwierasz drzwi, nawet płaszcz już nie pomaga.\n\nSiedzący za stołem - jedynym meblem w tym pomieszczeniu - stary mężczyzna, waży małe kupki siarki.  Reszta chaty wpełniona jest niezliczonymi sakwami zawierającymi coś, co bez wątpienia przypomina siarkę.  Spogląda na ciebie i uśmiecha się.\n\n\"Witam!\" zwraca się do ciebie.\n\n\"Witaj!\" odpowiadasz.  \"Jakim cudem wytrzymujesz ten zapach?\"\n\n\"Jaki zapach?\" pyta zdziwiony.\n\n\"W porządku.\" wzdychasz. \"Jak ci się udało zdobyć tak wiele siarki?\"\n\n\"Wytwarzam ją.  Jestem alchemikiem i odkryłem sekret przemiany  śniegu w siarkę.  Jest naprawdę doskonałej jakości, niestety przyniosła mi nie lada kłopot.\"\n\n\"Jaki kłopot?\" pytasz.\n\n\"Nie mam pojęcia co z nią zrobić.  Oddałbym ją, ale nie mogę przekazać jej byle komu.  Dlatego zdecydowałem się oddać 50 worków siarki temu, kto osiągnie 22 poziom.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Witam!",
+          "voice": ""
+        },
+        {
+          "text": "Witaj!",
+          "voice": ""
+        },
+        {
+          "text": "Jakim cudem wytrzymujesz ten zapach?",
+          "voice": ""
+        },
+        {
+          "text": "Jaki zapach?",
+          "voice": ""
+        },
+        {
+          "text": "W porządku.",
+          "voice": ""
+        },
+        {
+          "text": "Jak ci się udało zdobyć tak wiele siarki?",
+          "voice": ""
+        },
+        {
+          "text": "Wytwarzam ją.  Jestem alchemikiem i odkryłem sekre...",
+          "voice": ""
+        },
+        {
+          "text": "Jaki kłopot?",
+          "voice": ""
+        },
+        {
+          "text": "Nie mam pojęcia co z nią zrobić.  Oddałbym ją, ale...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 942
+  },
+  {
+    "id": 68,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 170521,
+    "text": "\"Ha!  Nie jesteś jeszcze dostatecznie doświadczony, by spełnić moje żądanie, młody bohaterze.  Wróć, gdy osiągniesz poziom 22.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Ha!  Nie jesteś jeszcze dostatecznie doświadczony,...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 127
+  },
+  {
+    "id": 69,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 170652,
+    "text": "Stary mężczyzna w cuchnącej chacie uśmiecha się na twój widok.  Potwierdza, że jesteś już na tyle doświadczony, że zasługujesz na otrzymanie 50 worków siarki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 158
+  },
+  {
+    "id": 70,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 170867,
+    "text": "Zauważasz starego czarodzieja, pochylonego nad stołem zakrytym niezliczonymi zwojami.  Czekasz, aż cię dostrzeże, zanim się odezwiesz.\n\n\"To są plany wieży, nieprawdaż? pytasz go.\n\n\"Tak właśnie jest.  Marzę o wybudowaniu mojej własnej wieży czarodzieja, niestety nie dysponuję dostateczną ilością materiałów.\"\n\n\"Jakich surowców potrzebujesz?\"\n\n\"Hmm, zobaczmy,\" mówi czarodziej sięgając po jeden ze zwojów.  \"Wieża będzie wymagała 50 wozów drewna, 50 wozów rudy i 3000 sztuk złota na opłacenie budowniczych.\"\n\n\"Rozumiem.  A co mógłbyś mi zaoferować w zamian za dostarczenie ci tych surowców?\" pytasz go, a twój głos pobrzmiewa niczym głos doświadczonego kupca.\n\nCzarodziej rozważa przez chwilę twoje słowa, a potem uśmiecha się szeroko.\n\n\"Przypadkiem dowiedziałem się, że poszukujesz błękitnych smoków, jednakże zanim do ciebie dołączą, będziesz musiał kilka z nich pokonać.  Jedyną istotą, która, jak mi się zdaje, mogłaby cię w tym wspomóc, jest kryształowy smok.  Jego stworzenie nie jest łatwe i wymaga wiele tego cennego surowca.  W zamian za twoje zapasy wręczę ci 60 kryształów.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To są plany wieży, nieprawdaż? pytasz go.\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": " mówi czarodziej sięgając po jeden ze zwojów.  ",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": " pytasz go, a twój głos pobrzmiewa niczym głos doś...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1084
+  },
+  {
+    "id": 71,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 171955,
+    "text": "Ponownie pytasz czarodzieja, jakich dokładnie surowców potrzebuje do budowy swojej wieży.  Tym razem wręcza ci listę.\n\n50 wozów drewna\n50 wozów rudy\n3000 sztuk złota\n\nNie mniej, nie więcej!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 189
+  },
+  {
+    "id": 72,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 172148,
+    "text": "Prowadzisz wozy wypełnione drewnem i rudą do chatki czarodzieja i osobiście wręczasz mu kilka sakiewek ze złotem.\n\n\"Oto surowce, których potrzebujesz do budowy swej wieży,\" oznajmiasz.\n\n\"Dziękuję ci! Czy chciałbyś dokonać teraz wymiany?\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Oto surowce, których potrzebujesz do budowy swej w...",
+          "voice": ""
+        },
+        {
+          "text": "Dziękuję ci! Czy chciałbyś dokonać teraz wymiany?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 237
+  },
+  {
+    "id": 73,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 172425,
+    "text": "Pomogłeś podróżującemu kupcowi naprawić jedno z kół w jego wozie, w zamian za co opowiada ci o magu, mieszkającym niedaleko na południe stąd.  Ów mag powinien być zdolny pokazać ci Błękitną Dolinę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 197
+  },
+  {
+    "id": 74,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 172891,
+    "text": "\"Pokaż nam, pod jaką flagą maszerujesz!\" domaga się stojący na szczycie wieży strażnik.\n\nNakazujesz niosącemu sztandar żołnierzowi, by wystąpił naprzód.\n\n\"Przepuścimy wyłącznie tego, który zdąża pod jasnoniebieską flagą,\" mówi strażnik. \"Zobaczmy, co my tu mamy?\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Pokaż nam, pod jaką flagą maszerujesz!",
+          "voice": ""
+        },
+        {
+          "text": "Przepuścimy wyłącznie tego, który zdąża pod jasnon...",
+          "voice": ""
+        },
+        {
+          "text": "Zobaczmy, co my tu mamy?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 263
+  },
+  {
+    "id": 75,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 173158,
+    "text": "\"Odejdź, głupcze!  Jedynie ktoś dzierżący jasnoniebieską flagę zostanie  przepuszczony!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Odejdź, głupcze!  Jedynie ktoś dzierżący jasnonieb...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 88
+  },
+  {
+    "id": 76,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 173250,
+    "text": "Strażnik, widząc kolor twojej flagi, uśmiecha się i radośnie cię pozdrawia, dając ci znak, że możesz przejść.  Czy chcesz otworzyć bramę?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 137
+  },
+  {
+    "id": 77,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 173827,
+    "text": "Wiedząc, że na tych mroźnych pustkowiach moje zapasy zostaną znacznie uszczuplone, zarządziłem wzmożenie produkcji w pozostawionych za mną lochach.  Będą wysyłać na północ wszystko, co tylko zdołają wyprodukować.  Co dwa tygodnie powinien przybywać olbrzymi transport surowców.\n\nMam nadzieję, że to wystarczy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 309
+  },
+  {
+    "id": 78,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 174201,
+    "text": "Grupa moich zwiadowców odkryła olbrzymi skład wypełniony złotem i rtęcią daleko na północnym zachodzie.  Niestety, skarb ten strzeżony jest przez grupę zielonych smoków.  Zgaduję, że zapasy te należą do Gelu, ukryte tu w razie nagłej potrzeby.  Nie tylko mógłbym skorzystać z tych surowców, lecz także zapobiec ich odzyskaniu przez Gelu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 337
+  },
+  {
+    "id": 79,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 174602,
+    "text": "Potyczki z barbarzyńcami Kiji spowolniły mnie na tyle, że straciłem Gelu z oczu.  Wiedzieliśmy, że kieruje się na północ, jednak teraz, gdy tak bardzo się ode mnie oddalił, boję się, że nie złapiemy go na czas.\n\nMuszę pogodzić się z myślą, że Gelu pokona mnie w wyścigu po Miecz Mrozu.  Czy jednak byłoby to czymś złym?  Tak, Przodkowie zdradzili mi, że jeśli Ostrze Armageddonu i Miecz Mrozu kiedykolwiek się spotkają, sprowadzi to na cały świat zniszczenie.  Czy Gelu mógłby być aż tak nierozsądny, by do tego dopuścić?\n\nJednak bez względu na to, jak dobrymi intencjami by się nie kierował, Gelu nie może przewidzieć nieprzewidzianego.  Obecność Kiji tu, na tak dalekiej północy, jest tego żywym dowodem.  Myśl, że mogłaby wejść w posiadanie Miecza Mrozu, napawa mnie grozą.\n\nOto dlaczego postanowiłem dla wzmocnienia moich sił pozyskać przychylność błękitnych smoków.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 870
+  },
+  {
+    "id": 80,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 175536,
+    "text": "Posłana na zwiady harpia powróciła dziś do obozu ze złymi wieściami.  Barbarzyńcy Kiji są na północy.  W jakiś sposób udało im się okrążyć moją armię i po raz kolejny stoją na mej drodze.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 187
+  },
+  {
+    "id": 81,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 175787,
+    "text": "Mój beholder-szpieg, Neez, doniósł mi, że Kija zostawiła część swoich ludzi na północy.  Jej celem jest spowolnienie mnie na tyle długo, by zdołała dopaść Gelu.  Doskonale wiem, że lepiej nie pytać Neeza, skąd ma te wszystkie informacje.  Jestem pewien, że zdobył je kosztem kilku trupów.\n\n\"Wybadaj, dokąd kierują się Gelu i Kija,\" rozkazałem mu.\n\nZ kolei do Kilkika zwróciłem się tymi słowy, \"Nie możemy tracić czasu na utarczki z tymi barbarzyńcami!\"\n\n\"Oczywiście, bez zwłoki rozpocznę poszukiwania ich słabych punktów.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wybadaj, dokąd kierują się Gelu i Kija,",
+          "voice": ""
+        },
+        {
+          "text": "Nie możemy tracić czasu na utarczki z tymi barbarz...",
+          "voice": ""
+        },
+        {
+          "text": "Oczywiście, bez zwłoki rozpocznę poszukiwania ich ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 522
+  },
+  {
+    "id": 82,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 176374,
+    "text": "Kilkik wsunął się do mojego namiotu i nie czekając na pozwolenie, podetknął mi pod nos swoją cienką mackę ze spoczywającym w niej czerwonym kryształowym odłamkiem.\n\n\"Co to jest?\" spytałem.\n\n\"To jest słabość i zarazem siła naszych przeciwników, Panie\" rzekł Kilkik.\n\n\"Mów.\"\n\n\"Wygląda na to, że ta kobieta, Kija, nie jest bezmyślnym zabijaką.  Jakimś sposobem posiadła umiejętność wytwarzania kryształowych smoków.  Te potężne stworzenia są silniejsze niż jakakolwiek jednostka, którą dysponujemy, jednak ich wytwarzanie wymaga wielu kryształów.  Będą zmuszeni skupić całą swoją produkcję na dostarczaniu złota i kryształów - co oznacza, że jeśli przejmiemy kontrolę nad całym ich kryształem, zdruzgoczemy ich.\"\n\nW zamyśleniu maszerowałem w tę i z powrotem, ściskając w swej dłoni zimny kryształ.  Miałem już okazję mierzyć się z kryształowymi smokami.  Są w stanie bez trudu rozszarpać na kawałki całą armię.  Teraz potrzebuję błękitnych smoków bardziej niż kiedykolwiek!",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co to jest?",
+          "voice": ""
+        },
+        {
+          "text": "To jest słabość i zarazem siła naszych przeciwnikó...",
+          "voice": ""
+        },
+        {
+          "text": "Mów.",
+          "voice": ""
+        },
+        {
+          "text": "Wygląda na to, że ta kobieta, Kija, nie jest bezmy...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 970
+  },
+  {
+    "id": 83,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 177409,
+    "text": "Samotna meduza przestapiła próg mojego namiotu, śledzona bacznym spojrzeniem Neeza i Kilkika.  Padła przede mną na twarz. Odkąd jej siostry próbowały mnie zabić, racje meduz zostały uszczuplone, a ich udział w skarbie zmniejszony.  Ze wszystkich sił starały się zyskać w mych oczach.  A teraz jedna z nich nieomal żebrała o rozmowę ze mną.\n\n\"Czego chcesz?\" spytałem.\n\n\"Ponownie, mój Suwerenie, przepraszam cię za zachowanie moich sióstr i wierzę, że nam przebaczysz.  Mamy dla ciebie pewne wiadomości.  Wiele moich sióstr ryzykowało swe życie i zginęło, aby tylko przynieść ci tę informację,\" powiedziała meduza.\n\nWyciągnąłem rękę i zacisnąłem dłoń na wijących się kosmykach jej wężowych włosów.\n\n\"I za chwilę dołączy do nich kolejna, jeśli zaraz tego z siebie nie wykrztusi!\" wrzasnąłem.\n\n\"Błękitne smoki, Suwerenie!  Znalazłyśmy je!\"\n\n\"Gdzie?\"\n\n\"Za magicznym portalem, jaśniejącym seledynowym blaskiem.  Moje siostry wpadły na jeden z tych smoków.  Zginęły wszystkie, poza mną.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czego chcesz?",
+          "voice": ""
+        },
+        {
+          "text": "Ponownie, mój Suwerenie, przepraszam cię za zachow...",
+          "voice": ""
+        },
+        {
+          "text": "I za chwilę dołączy do nich kolejna, jeśli zaraz t...",
+          "voice": ""
+        },
+        {
+          "text": "Błękitne smoki, Suwerenie!  Znalazłyśmy je!",
+          "voice": ""
+        },
+        {
+          "text": "Gdzie?",
+          "voice": ""
+        },
+        {
+          "text": "Za magicznym portalem, jaśniejącym seledynowym bla...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 980
+  },
+  {
+    "id": 84,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 178454,
+    "text": "\"Nie tylko będziemy musieli zwyciężyć aroganckie błękitne smoki,\" rzekł Neez, zajmujący się kompletowaniem danych na temat różnych istot, \"Skoro tylko zechcą dołaczyć do naszej armii, będziemy musieli oddać na ich utrzymanie niebywałe ilości złota i rtęci.  Powinieneś rozważyć rozpoczęcie ich oszczędzania już teraz.\"\n\n\"Pomyślę o tym,\" skwitowałem, a ponieważ od dłuższego czasu nie dostałem jednego z moich ataków, zdarłem z pleców moją koszulę i cisnąłem nią w beholdera.\n\n\"To boli!\" darłem się, rozdrapując paznokciami moją skórę.\n\nWybiegłem na zewnątrz i półnagi wskoczyłem w śnieg, tarzając się w nim, zupełnie jak gdyby cała ziemia stanęła w ogniu.  Zanim skończyłem, zgromadził się wokół mnie spory tłumek gapiów.  Popatrzyłem na Neeza.\n\n\"Znajdź tego, który rzucił na mnie ten urok,\" zarządziłem.\n\n\"Yyy, jaki urok, mój Władco?\"\n\n\"Ten, który sprawił, że moja koszula zapłonęła, to chyba jasne!  A teraz idź!\"  rozkazałem i powróciłem do mojego namiotu.\n\nKiedy znalazłem się na odosobnieniu, zachichotałem sam do siebie.  Wyraz brzydkiej twarzy Neeza był bezcenny.  Beholder najpewniej poświęca wiele godzin na zastanawianie się, jak wykonać moje obłąkańcze rozkazy.  W końcu i tak do mnie przyjdzie i skłamie mówiąc, że znalazł i zabił delikwenta.\n\nMój chichot przeszedł w śmiech, gdy pomyślałem o mojej replice.\n\n\"Jaki winowajca?  Nie mam pojęcia, o czym ty mówisz,\" tak będzie brzmiała moja odpowiedź.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie tylko będziemy musieli zwyciężyć aroganckie bł...",
+          "voice": ""
+        },
+        {
+          "text": "Skoro tylko zechcą dołaczyć do naszej armii, będzi...",
+          "voice": ""
+        },
+        {
+          "text": "Pomyślę o tym,",
+          "voice": ""
+        },
+        {
+          "text": "To boli!",
+          "voice": ""
+        },
+        {
+          "text": "Znajdź tego, który rzucił na mnie ten urok,",
+          "voice": ""
+        },
+        {
+          "text": "Yyy, jaki urok, mój Władco?",
+          "voice": ""
+        },
+        {
+          "text": "Ten, który sprawił, że moja koszula zapłonęła, to ...",
+          "voice": ""
+        },
+        {
+          "text": "Jaki winowajca?  Nie mam pojęcia, o czym ty mówisz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1410
+  },
+  {
+    "id": 85,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 179929,
+    "text": "Neez doniósł mi dzisiaj, że chociaż nie odnalazł w otoczeniu Gelu nikogo, kto mógłby powiedzieć dokąd zmierza elf, to przynajmniej udało mu się pozyskać nieco informacji na temat oddziałów mojego przeciwnika.\n\nWszystko wskazuje na to, że Gelu zwierza się wyłącznie dwóm swoim towarzyszom.  Obaj są lojalnymi strażnikami, którzy dołączyli do leśnej straży mniej więcej w tym samym czasie co Gelu.  Ta trójka jest nierozłączna, gdyby jednak coś niezwykle narażało misję Gelu, być może jeden z nich próbowałby nas zatrzymać.\n\n\"Jeden z przyjaciół Gelu, krasnolud Ufretin, jest gotów do wielkich aktów odwagi i poświęcenia.  Jestem przekonany, że moglibyśmy go schwytać,\" zakończył Neez.\n\n\"Cóż, najpierw musimy się zająć oddziałami Gelu.  Zacznij wcielać w życie swoje plany.  Gdy tylko pozyskamy błękitne smoki dla naszej sprawy, będzie to na tyle duże zagrożenie, że wywabi krasnoluda,\" skwitowałem.  \n\nW głębi duszy wzdrygnąłem się.  Znałem Ufretina.  Był znamienitym wojownikiem o gołębim sercu.  Nie jestem pewien, czy dozwolę Neezowi i Kilkikowi torturować go, by otrzymać odpowiedzi, których tak bardzo potrzebuję.\n\nPrzeklęci niech będą Przodkowie!  Sądziłem, że przybywam ratować istnienia - nie unicestwiać!",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jeden z przyjaciół Gelu, krasnolud Ufretin, jest g...",
+          "voice": ""
+        },
+        {
+          "text": "Cóż, najpierw musimy się zająć oddziałami Gelu.  Z...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1211
+  },
+  {
+    "id": 86,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 181205,
+    "text": "Neez zaprezentował mi dzisiejszego ranka swój plan schwytania krasnoluda Ufretina.  Zgodziłem się.  Gelu i jego towarzysze nigdy się nie dowiedzą, co zadało im ten cios.\n\nCo więcej, moi dwaj mackowaci doradcy poinformowali mnie, że ich przesłuchania więźniów z barbarzyńskich plemion przyniosły nieco wiadomości.  Kija po prostu podąża za Gelu tak jak i my.  Liczy na wydarcie z rąk elfa Miecza Mrozu, gdy tylko ten go odnajdzie.\n\nTeraz muszę się tylko dowiedzieć, jakie informacje na temat Miecza Mrozu posiada Gelu.  Niestety, zdobycie tej wiedzy zapewne będzie kosztowało życie szlachetnego człowieka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 604
+  },
+  {
+    "id": 87,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 182010,
+    "text": "Tarnum musi schwytać przyjaciela Gelu, Ufretina, by dowiedzieć się, gdzie spoczywa Miecz Mrozu.  Tarnum i jego dwaj najsilniejsi kapitanowie zabiorą do następnego scenariusza czary, umiejętności i doświadczenie.  Wszyscy bohaterowie ograniczeni są do poziomu 26.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 262
+  },
+  {
+    "id": 88,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 200655,
+    "text": "Stary elf Vori żyjący w tym wydrążonym drzewie wyjaśnia ci, że poszukuje łuczników, którzy zgodziliby się go chronić podczas jego ważnej podróży na południe.  Nie zdradza celu swej wędrówki, jest jednak gotów ofiarować 30 kryształów za czasowe najęcie 40 wysokich elfów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 270
+  },
+  {
+    "id": 89,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 200929,
+    "text": "\"Nie, zaufać mogę wyłącznie wysokim elfom.  Tylko one zapewnią mi odpowiednią ochronę,\" mówi stary elf Vori.\n\nPostanawiasz się z nim nie spierać.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie, zaufać mogę wyłącznie wysokim elfom.  Tylko o...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 145
+  },
+  {
+    "id": 90,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 201078,
+    "text": "Stary elf Vori przygląda się prezentowanym przez ciebie elfom i wygląda na ukontentowanego ich zdolnościami.\n\n\"Świetnie!  Mam w środku 30 kryształów, zaczekaj tu chwilę, a zaraz je przyniosę,\" powiada.\n\nCzy chcesz dokonać transkacji?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Świetnie!  Mam w środku 30 kryształów, zaczekaj tu...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 233
+  },
+  {
+    "id": 91,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 203097,
+    "text": "\"Przejdzie tędy jedynie Suweren Tarnum!\"  woła z wieży jeden ze strażników, będący zresztą beholderem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Przejdzie tędy jedynie Suweren Tarnum!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 102
+  },
+  {
+    "id": 92,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 203203,
+    "text": "Strażnicy tej wieży przepuszczą wyłącznie Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 50
+  },
+  {
+    "id": 93,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 203257,
+    "text": "\"Witaj, mój Suwerenie!  Czy życzysz sobie teraz przejść?\" pyta jeden ze strażników.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Witaj, mój Suwerenie!  Czy życzysz sobie teraz prz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 83
+  },
+  {
+    "id": 95,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 203748,
+    "text": "Stary rycerz żyjący w tym rozpadającym się domku zaprasza cię do środka.  Częstuje cię skromnym posiłkiem i życzliwą rozmową, jednak jego mieszkanie stanowi niewielką osłonę przed mroźnym wiatrem dmącym na zewnątrz.\n\nNim odchodzisz, pytasz go, czy nie mógłbyś mu w jakiś sposób pomóc.  Prosi cię jedynie o odnalezienie artefaktu, którego pomimu wielu lat poszukiwań nie udało mu się zdobyć.\n\n\"Jakiż to artefakt?\" dopytujesz.\n\n\"Miecz ognia piekielnego.  Zwodził mnie przez wiele lat i jestem teraz zbyt stary, by za nim podążyć.  Nim umrę, chcę odnaleźć to przepełnione złem ostrze i je zniszczyć,\" powiada rycerz.\n\nKiedy zgadzasz się mu pomóc, rycerz zdradza ci, że nie oczekuje od ciebie uczynienia tego za darmo.  W pobliżu ukryte leży 40 uncji rtęci.  Jeśli przyniesiesz miecz, wymieni go za ten zapas rtęci.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jakiż to artefakt?",
+          "voice": ""
+        },
+        {
+          "text": "Miecz ognia piekielnego.  Zwodził mnie przez wiele...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 811
+  },
+  {
+    "id": 96,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 204563,
+    "text": "Otwierasz drzwi małej, rozsypującej się chatki tylko po to, by odnaleźć starego rycerza chrapiącego głośno na jego prostym łóżku.  Ponieważ nadal nie masz miecza ognia piekielnego, postanawiasz wrócić później.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 209
+  },
+  {
+    "id": 97,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 204776,
+    "text": "W chwili, gdy przynosisz do chaty starego rycerza miecz, niemal natychmiast dostrzegasz zmianę.  Niektóre z sopli wiszących u powały zaczynają topnieć.\n\n\"Czy jesteś pewien, że chcesz zniszczyć tę broń?\" zwracasz się do starego mężczyzny, prezentując mu miecz, \"Przynajmniej mogłaby zapewnić twojemu domowi ciepło.\"\n\n\"Nie.  Poprzysiągłem, że ją zniszczę i obietnicy swojej dotrzymam.  Jeśli mi ją wręczysz, przekażę ci mapę do schowanej w kryjówce rtęci,\" mówi rycerz.\n\nCzy chcesz mu teraz przekazać miecz?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy jesteś pewien, że chcesz zniszczyć tę broń?",
+          "voice": ""
+        },
+        {
+          "text": "Przynajmniej mogłaby zapewnić twojemu domowi ciepł...",
+          "voice": ""
+        },
+        {
+          "text": "Nie.  Poprzysiągłem, że ją zniszczę i obietnicy sw...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 505
+  },
+  {
+    "id": 101,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 205601,
+    "text": "By dogonić Gelu, zmusiłem moje oddziały do bezlitosnego marszu.  Ci, którzy nie mogli nadążyć, zostawali w tyle.  Oto metody Nighonu.  Niestety, popełniłem błąd.  Maszerowaliśmy zbyt szybko, zapuściliśmy się zbyt daleko i nim się obejrzałem, byliśmy otoczeni przez oddziały elfów.\n\nWiedziałem, że był to ryzykowny plan, jednak bez wątpienia było to ryzyko konieczne do wydarcia Gelu informacji na temat Miecza Mrozu.  Tak jak to przewidział Neez, Ufretin został, by ubezpieczyć tyły.  Jednak Neez nie przewidział jego przebiegłości.  Ufretin oczekiwał na moje oddziały w ukryciu, by błyskawicznie zaatakować, gdy tylko będę w pobliżu.\n\nTa pierwsza zasadzka słono mnie kosztowała, nieomal zmiotła moją armię.  Potem dał mi czas, bym się poddał.  To był błąd.  Odstępując, Ufretin dał mi szansę okopać się i przegrupować moje siły.  Pozwolę mu myśleć, że jestem zbyt słaby, by podjąć walkę.  Wkrótce jego miłosierdzie obróci się przeciwko niemu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 943
+  },
+  {
+    "id": 102,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 206608,
+    "text": "Dzisiejszego dnia przybył do mnie posłaniec od Ufretina, żadając mojej bezwarunkowej kapitulacji.\n\n\"Daliśmy ci więcej czasu, niż na to zasługujesz,\" rzekł wysłannik, \"Jeśli nie złożycie swojej broni, wybijemy was co do nogi!\"\n\nSkinąłem i moment później ramię gońca przeszyła strzała.  Stanąłem nad człowiekiem, który uniósł swój wzrok i zrozumiał, że popełnił straszliwy błąd.\n\n\"Kiedy się ockniesz, powiedz swojemu panu, by przy następnym spotkaniu upewnił się, że nie żyję.  To jedyny sposób, by zmusić mnie do złożenia broni!\"\n\nI uderzyłem go z mocą, czując jak pod moim potężnym ciosem pęka jego szczęka.\n\nCzułem się świetnie.  Oto czego najbardziej się obawiałem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Daliśmy ci więcej czasu, niż na to zasługujesz,",
+          "voice": ""
+        },
+        {
+          "text": "Jeśli nie złożycie swojej broni, wybijemy was co d...",
+          "voice": ""
+        },
+        {
+          "text": "Kiedy się ockniesz, powiedz swojemu panu, by przy ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 667
+  },
+  {
+    "id": 103,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 207339,
+    "text": "\"Krasnolud Ufretin dowodzi swą armią zza bramy na południu,\" oznajmił mi dzisiejszego ranka mój doradca, Kilkik.  \"Niestety, nie damy rady jej sforsować.  Będziemy mogli przejść jedynie po odwiedzeniu namiotu zielonego klucznika.\"\n\n\"A gdzież jest ten namiot?\" spytałem.  Jadłem swoje śniadanie tak, jakby nic mnie to nie obchodziło.\n\n\"Kilku moich szpiegów doniosło, że leży na północym zachodzie, otoczony przez wrogie oddziały. Musimy się pośpieszyć.  Będą bronić namiotu do ostatniej kropli krwi,\" rzekł Kilkik.\n\nSkinąłem, odprawiając go machnięciem dłoni.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Krasnolud Ufretin dowodzi swą armią zza bramy na p...",
+          "voice": ""
+        },
+        {
+          "text": "Niestety, nie damy rady jej sforsować.  Będziemy m...",
+          "voice": ""
+        },
+        {
+          "text": "A gdzież jest ten namiot?",
+          "voice": ""
+        },
+        {
+          "text": "Kilku moich szpiegów doniosło, że leży na północym...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 558
+  },
+  {
+    "id": 104,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 207962,
+    "text": "Pomimo że zapamiętałem Ufretina jako osobę słynącą ze śmiałości, postępował jak dotąd z nadzwyczajną ostrożnością.  Odmówił spotkania ze mną w otwartym polu, pomimo wielu wyzwań jakie mu rzucałem.  Pozwoliłem nawet Neezowi i Kilkikowi na sprezentowanie u jego bram zmasakrowanych ciał torturowanych więźniów.  Wszystko na nic.\n\nUfretin nie jest głupi i prawdopodobnie zaczął już podejrzewać, że nie walczę w tej okolicy bez powodu.  W końcu po cóż miałbym tu pozostawać, skoro mogę uciec i kontynuować moją pogoń za Gelu?\n\nNie ma to już teraz żadnego znaczenia.  Ufretin jest związany tą walką.  Wie, że prędzej czy później po niego przyjdę, dlatego bez wątpienia będzie gotowy na moje przybycie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 696
+  },
+  {
+    "id": 105,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 208723,
+    "text": "Neez i Kilkik przyprowadzili dziś przed moje oblicze tuzin troglodytów, oskarżając je o zagubienie 2100 sztuk złota, które mieli przywieźć z jednej z moich kopalni.\n\n\"Potrzebuję całego złota, które tylko może do mnie dotrzeć!  Jakim cudem straciliście go tak dużo?\" darłem się.\n\nTroglodyci nie byli w stanie odpowiedzieć, woleli zamiast tego płaszczyć się przede mną i błagać o zmiłowanie.  Wreszcie Neez przedstawił prawdopodobny scenariusz.\n\n\"Przypuszczam, że położyli się spać i nie wystawili straży.  Elfy są gotowe uciec się do kradzieży, jeśli tylko bardzo tego potrzebują.  Któż inny zabrałby złoto, lecz zostawiłby przy życiu to ścierwo?\" powiedział Neez.\n\n\"Spaliście!\" spoliczkowałem najbliższego troglodytę tak mocno, że ten stracił przytomność.\n\nCo mam teraz zrobić?  Okazanie im miłosierdzia zostanie odebrane jako słabość.  Błędy tego rodzaju zawsze karane są w ten sam sposób.  Śmiercią.\n\nAle nie mogłem wydać ich na tak straszną karę.\n\n\"Jesteście najszczęśliwszymi szumowinami, jakie kiedykolwiek widziałem!\" zawołałem.\n\nNeez rzucił na mnie zaciekawionym okiem i zapytał, \"Szczęśliwi?  Pod jakim względem oni są szczęśliwi?\"\n\nRzuciłem moją broń na ziemię.\n\n\"Ponieważ choćbym nawet nie wiem jak bardzo pragnął ich zabić, nie mogę tego dzisiaj uczynić!  Zeszłej nocy miałem sen, w którym powiedziano mi, że jeśli zabiję dziś choćby jednego z moich podkomendnych, w najbliższej bitwie elfia strzała przeszyje mój kark,\" wyjaśniłem.\n\nWpatrywałem się piorunującym wzrokiem w Neeza i troglodytów, trzymając moje oczy szeroko otwarte.  Miałem nadzieję, że uwierzą, iż właśnie ponownie odezwało się we mnie moje szaleństwo.  Jednak mój beholderowy doradca tylko spojrzał na mnie gniewnie.  Przedstawienie się nie udało.  Tym razem nie zdołam się wyłgać.\n\n\"Mam jednak inny pomysł,\" zagaiłem szybko.  Przemaszerowałem przed nieszczęśliwymi troglodytami i rzekłem do nich, \"Mam dla was zadanie, chłopaki!  Chcę, byście niezwłocznie wyruszyli do bastionu mojego wroga, krasnoluda Ufretina.  Przyprowadzicie go do mnie, żywego.  Muszę mieć pewność, że nie wywiniecie się od zadania, dlatego towarzyszyć wam będzie mój doradca, Neez.\n\nTroglodyci, którzy jeszcze przed chwilą sądzili, że są bezpieczni, teraz byli zupełnie przybici.  Jak taki mały oddział może równać się z hordą elfów i krasnoludów?  To była samobójcza misja.\n\n\"Ale Suwerenie...\" powiedział Neez.  Właśnie zdał sobie sprawę, że jego życie także zawisło na włosku.\n\n\"Och, nie martw się, Neez!  Nie chcę, byś ruszał do ataku na bastion - chcę tylko, byś popilnował tych troglodytów, dopóki nie porwą Ufretina lub zginą próbując.  Obojętnie, co wydarzy się najpierw.  Rób co każę, bo jutrzejszego dnia mogę bez lęku uśmiercać moich podwładnych!\"\n\nPrzynajmniej w ten sposób biedni troglodyci otrzymali pewną szansę - maleńką, ale jednak szansę.  Na nieszczęście, coś trzeba teraz uczynić z Neezem - po jego spojrzeniu wnioskuję, że właśnie zyskałem sobie nowego wroga.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Potrzebuję całego złota, które tylko może do mnie ...",
+          "voice": ""
+        },
+        {
+          "text": "Przypuszczam, że położyli się spać i nie wystawili...",
+          "voice": ""
+        },
+        {
+          "text": "Spaliście!",
+          "voice": ""
+        },
+        {
+          "text": "Jesteście najszczęśliwszymi szumowinami, jakie kie...",
+          "voice": ""
+        },
+        {
+          "text": "Szczęśliwi?  Pod jakim względem oni są szczęśliwi?",
+          "voice": ""
+        },
+        {
+          "text": "Ponieważ choćbym nawet nie wiem jak bardzo pragnął...",
+          "voice": ""
+        },
+        {
+          "text": "Mam jednak inny pomysł,",
+          "voice": ""
+        },
+        {
+          "text": "Mam dla was zadanie, chłopaki!  Chcę, byście niezw...",
+          "voice": "tarnum"
+        },
+        {
+          "text": " powiedział Neez.  Właśnie zdał sobie sprawę, że j...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 2932
+  },
+  {
+    "id": 106,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 211720,
+    "text": "Kilkik wpłynął tego ranka do mojego namiotu ze złowróżbnym wyrazem twarzy.  Wiedziałem, że beholder nie jest na tyle głupi, by zaatakować mnie w pojedynkę, lecz coś w jego ciemnych oczach mówiło mi, że Kilkik przestał być lojalną mi istotą.\n\nDlatego też wstałem i zawołałem do niego, \"Pozwól, że ci kogoś przedstawię, Kilkiku.  Trongar!\"\n\nUkryte w tylnej ścianie mojego namiotu rozcięcie rozdzieliło się na dwoje i potężny, czarny minotaur wkroczył do środka.  Musiał schylić swoją wielką głowę, by uniknąć rozdarcia rogami sklepienia mojego namiotu.\n\n\"Kilkiku, poznaj mojego nowego osobistego obrońcę.  Wynająłem go zeszłej nocy,\" powiedziałem.\n\nKilkik długo stał lustrując minotaura i uświadamiając sobie, że właśnie stałem się dwukrotnie potężniejszy niż wcześniej.\n\n\"A teraz, z czym do mnie przybywasz, Kilkiku?\" spytałem.\n\n\"Przynoszę złe wieści,\" zaczął Kilkik.  \"Troglodyci których posłałeś, by schwytali Ufretina, zostali zabici jeszcze zanim dotarli do jego bastionu.  Elfia zasadzka!  Co gorsza, nasz lojalny towarzysz, Neez, poległ wraz z nimi!\"\n\n\"Och, przykro mi to słyszeć!  Naprawdę,\" powiedziałem. \"Możesz odejść.  Zostaw mnie z moją rozpaczą samego.\"\n\nKiedy zostałem już tylko ja i Trongar, rzuciłem mu pod nogi ciężką torbę wypełnioną złotem.\n\n\"On jest niebezpieczny,\" rzekł Trongar.\n\n\"Tak wiem, ale właśnie stracił swojego największego sprzymierzeńca.  Odzyskanie sił powinno zabrać mu jeszcze trochę czasu.\"\n\nGdy Trongar miał już opuścić namiot, zatrzymałem go jeszcze na chwilę, mówiąc, \"Swoją drogą, dobra robota.  Zakładam, że to meduzy użyły strzał elfów, by inscenizacja wyglądała na robotę naszego wroga.\"\n\n\"Tak.  Wszystkie bardzo chciały ponownie wkupić się w twoje łaski - i przynajmniej częściowo pomścić swoje siostry,\" odpowiedział Trongar.\n\nUśmiechnąłem się, lecz moje wnętrzności skręcały się ze wstydu.  Zdrada ta przyszła mi ze zbyt wielką łatwością.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Pozwól, że ci kogoś przedstawię, Kilkiku.  Trongar...",
+          "voice": ""
+        },
+        {
+          "text": "Kilkiku, poznaj mojego nowego osobistego obrońcę. ...",
+          "voice": ""
+        },
+        {
+          "text": "A teraz, z czym do mnie przybywasz, Kilkiku?",
+          "voice": ""
+        },
+        {
+          "text": "Przynoszę złe wieści,",
+          "voice": ""
+        },
+        {
+          "text": "Troglodyci których posłałeś, by schwytali Ufretina...",
+          "voice": ""
+        },
+        {
+          "text": "Och, przykro mi to słyszeć!  Naprawdę,",
+          "voice": ""
+        },
+        {
+          "text": "Możesz odejść.  Zostaw mnie z moją rozpaczą samego...",
+          "voice": ""
+        },
+        {
+          "text": "On jest niebezpieczny,",
+          "voice": ""
+        },
+        {
+          "text": "Tak wiem, ale właśnie stracił swojego największego...",
+          "voice": ""
+        },
+        {
+          "text": "Swoją drogą, dobra robota.  Zakładam, że to meduzy...",
+          "voice": ""
+        },
+        {
+          "text": "Tak.  Wszystkie bardzo chciały ponownie wkupić się...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1883
+  },
+  {
+    "id": 108,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 213807,
+    "text": "Jeśli Tarnum chce doścignąć Gelu, musi wywalczyć swoją drogę przez wyryte w olbrzymim lodowcu tunele.  Tarnum i jego dwaj najsilniejsi kapitanowie zabiorą do następnego poziomu całe swoje doświadczenie, czary i umiejętności.  Wszyscy bohaterowie są ograniczeni do poziomu 25.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 275
+  },
+  {
+    "id": 109,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 268234,
+    "text": "Zatrzymujesz się w starej chatce i godzinami rozmawiasz z mieszkającą tu schorowaną babuliną.  Co niezwykłe, zdaje się w ogóle nie przejmować, że wkrótce umrze.  Jej jedynym zmartwieniem jest to, że nie ma nikogo, komu mogłaby przekazać swoją jedyną własność.\n\nPoszukuje kogoś, kto osiągnął 28 poziom doświadczenia.  Jedynie ktoś tak doświadczony będzie godzien posiąść bezdenny tygiel rtęci.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 392
+  },
+  {
+    "id": 110,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 268630,
+    "text": "\"Jesteś wspaniały, ale wciąż nie posiadasz dostatecznej ilości doświadczenia, mój drogi,\" mówi stara, umierająca kobieta.\n\n\"Wróć, gdy będziesz na 28 poziomie doświadczenia.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jesteś wspaniały, ale wciąż nie posiadasz dostatec...",
+          "voice": ""
+        },
+        {
+          "text": "Wróć, gdy będziesz na 28 poziomie doświadczenia.",
+          "voice": "npc_f"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 173
+  },
+  {
+    "id": 111,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 268807,
+    "text": "\"Proszę, to dla ciebie,\" mówi stara kobieta sięgając między poły swej szaty po zakorkowaną srebrną butelkę.\n\nCzy przyjmiesz ją od niej teraz?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Proszę, to dla ciebie,",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 141
+  },
+  {
+    "id": 112,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 273240,
+    "text": "Armia Gelu zanurzyła się w niezgłębionych ciemnościach tuneli wykopanych pod olbrzymim lodowcem.  Nie zastanawiając się podążyłem za nimi.  Choć w korytarzach tych jest dość chłodno, moje nighońskie oddziały przywykły do walki w takich warunkach.  Niestety, istnieją poszlaki wskazujące, że Kija i jej barbarzyńcy także dotarli do tego regionu.\n\nCiekawe, z kim przyjdzie mi się zmierzyć najpierw.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 396
+  },
+  {
+    "id": 113,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 273700,
+    "text": "Dziś rano po raz pierwszy odwiedziłem mojego więźnia, Ufretina.  Kazałem mu czekać niemal miesiąc, by złamać jego determinację i ostudzić gniew. Pomijając małe i niezbyt częste przydziały żywności oraz wystawienie go na działanie chłodu, Ufretin powininen już zostać zmiękczony przez przesłuchania.  \n\nKiedy zbliżyłem się do żelaznej klatki Ufretina, znalazłem krasnoluda odartego do pasa z ubrań, posiniaczonego i wychudzonego, lecz nadal dość silnego, by na mój widok dumnie się wyprostować.\n\n\"Nie komplikuj już swojej sytuacji i odpowiadaj na pytania,\" rzekłem mu.\n\n\"Dlaczego nie zdejmiesz tego hełmu i nie pokażesz mi swej prawdziwej twarzy?  Czy jesteś tchórzem?\" odpowiedział Ufretin.\n\nZamierzałem zakładać hełm przy każdym spotkaniu.  Gdybym pokazał mu swoją twarz, ryzykowałem, że rozpozna we mnie tego samego Tarnuma, który przez długie lata żył i walczył wespół z elfami z Avlee.  Zrozumiałem jednak, że winien mu jestem przynajmniej to.\n\nZdjąłem mój hełm i pomimo czarnych wzorów znaczących mą twarz, zdołał mnie rozpoznać.\n\n\"Tarnum Przyjaciel Smoków!\"\n\nTo było imię nadane mi przez elfy.\n\n\"Tak.\"\n\n\"To niemożliwe!\" wykrzyknął Ufretin.\n\n\"Możliwe i jak najbardziej realne,\" powiedziałem.  Rozejrzałem się, by się upewnić, że w zasięgu naszej rozmowy nie znajdują się żadne niepowołane uszy.  Drżałem na myśl, co mogłoby się wydarzyć, gdyby moje nighońskie oddziały odkryły, że niegdyś walczyłem po stronie Avlee.\n\n\"Jestem Tarnum, dlatego możesz mi wierzyć, gdy ci mówię, że nie zamierzam cię skrzywdzić.  Potrzebuję twojej pomocy, Ufretinie.  Być może zdołam uniknąć dalszego rozlewu krwi!\"\n\nUfretin milczał przez długi czas.  Z jego twarzy wyczytałem, że byłem ostatnią osobą, którą spodziewał się zobaczyć za zasłoną mojego hełmu.  W końcu na mnie spojrzał oczami płonącymi nienawiścią.\n\n\"Nie mam ci nic do powiedzenia, zdrajco!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie komplikuj już swojej sytuacji i odpowiadaj na ...",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego nie zdejmiesz tego hełmu i nie pokażesz m...",
+          "voice": ""
+        },
+        {
+          "text": "Tarnum Przyjaciel Smoków!",
+          "voice": ""
+        },
+        {
+          "text": "Tak.",
+          "voice": ""
+        },
+        {
+          "text": "To niemożliwe!",
+          "voice": ""
+        },
+        {
+          "text": "Możliwe i jak najbardziej realne,",
+          "voice": ""
+        },
+        {
+          "text": "Jestem Tarnum, dlatego możesz mi wierzyć, gdy ci m...",
+          "voice": "tarnum"
+        },
+        {
+          "text": "Nie mam ci nic do powiedzenia, zdrajco!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1840
+  },
+  {
+    "id": 114,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 275604,
+    "text": "\"Jeśli nie chce mówić, pozwól mi zastosować bardziej zdecydowane środki perswazji,\" zasugerował Kilkik.\n\nOmyłkowo wspomniałem przy beholderze o mojej frustracji po codziennych odwiedzinach u Ufretina.  Przez ponad tydzień przemawiałem do rozsądku mojego więźnia, jednakże krasnolud zdecydował się milczeć.  Obawiam się, że jeśli niezwłocznie nie dowiem się, gdzie znajduje się Miecz Mrozu, nigdy nie będzie mi dane powstrzymać Gelu.\n\n\"Żadnych tortur!\" odparłem. \"Przynajmniej na razie.\"\n\n\"Nie rozumiem,\" zaczął znów Kilkik.\n\nJego zdziwienie było niebezpodstawne.  Zezwalałem wcześniej na tortury, ale tylko dlatego, że sam w nich nie brałem udziału.  Nie znałem tych ludzi.  Nie musiałem słuchać ich krzyków.  Nie mógłbym jednak dopuścić, by podobny los spotkał Ufretina, dzielnego wojownika, który na to nie zasługiwał.\n\nMoja zwłoka wywołała wśród moich ludzi poruszenie.  Choć nie mam na to dowodu, jestem przekonany, że przynajmniej częściowo za nieposłuszeństwo mojej armii odpowiedzialny jest Kilkik.  Powodzenie mojej misji w całości spoczywa teraz na Ufretinie - który wciąż myśli, że jestem jego wrogiem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jeśli nie chce mówić, pozwól mi zastosować bardzie...",
+          "voice": ""
+        },
+        {
+          "text": "Żadnych tortur!",
+          "voice": ""
+        },
+        {
+          "text": "Przynajmniej na razie.",
+          "voice": ""
+        },
+        {
+          "text": "Nie rozumiem,",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1112
+  },
+  {
+    "id": 115,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 276781,
+    "text": "Mój minotaur strażnik przyprowadził przed me oblicze królową meduz, Zallisę.  \n\"Czego się dowiedziałaś?\" zapytałem ją.\n\n\"Moi zwiadowcy odkryli trzy stojące na naszej drodze twierdze.  Istnieje także kolejne zagrożenie.  Tunele, u wrót których stoimy, przecinają się w wielu miejscach.  Da to naszym wrogom możliwość prześliźnięcia się na tyły naszej armii,\" przekazała Zallisa.\n\n\"Co o tym myślisz, Trongarze?\" spytałem minotaura.\n\nWzruszył ramionami i odrzekł \"Uderz w nich z dostateczną siłą, a te tunele przestaną mieć jakiekolwiek znaczenie.\"\n\n\"Prawda.  Jeśli zajmiemy twierdze, zwyciężymy,\" powiedziałem.  Jednak dla bezpieczeństwa powinienem pozostawić niewielki garnizon dla ochrony tego skrawka ziemi, który już zająłem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czego się dowiedziałaś?",
+          "voice": ""
+        },
+        {
+          "text": "Moi zwiadowcy odkryli trzy stojące na naszej drodz...",
+          "voice": ""
+        },
+        {
+          "text": "Co o tym myślisz, Trongarze?",
+          "voice": ""
+        },
+        {
+          "text": "Uderz w nich z dostateczną siłą, a te tunele przes...",
+          "voice": ""
+        },
+        {
+          "text": "Prawda.  Jeśli zajmiemy twierdze, zwyciężymy,",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 727
+  },
+  {
+    "id": 116,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 277572,
+    "text": "Przywódczyni meduz, Zallisa, zawitała dziś do mnie z wiadomościami, których miałem nadzieję nie usłyszeć.\n\n\"Barbarzyńcy są w tych lodowych tunelach dosłownie wszędzie!\" zdawała raport.\n\nJej zwiadowcy zbadali te jaskinie, bez przerwy natykając się na patrole barbarzyńców.  Oznacza to, że Kija odnalazła inną drogę, by tu wejść.  Zastanawia mnie, którędy mogła przybyć.  Przynajmniej wiem, gdzie jest teraz.\n\n\"Dobra robota,\" powiedziałem, odprawiając meduzę z namiotu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Barbarzyńcy są w tych lodowych tunelach dosłownie ...",
+          "voice": ""
+        },
+        {
+          "text": "Dobra robota,",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 467
+  },
+  {
+    "id": 117,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 278104,
+    "text": "Minęło sporo czasu, odkąd ostatni raz rozmawiałem z Ufretinem, dlatego widok bladego krasnoluda skulonego w kącie klatki był dla mnie szokiem.  Wyglądał na bliskiego śmierci.  Brak pożywienia, ruchu i odpowiedniego ubioru zebrał swoje żniwo.  A ja wciąż starałem się oszczędzić mu tortur.\n\nSzturchnąłem go urękawicznioną dłonią, budząc go.  \n\n\"Walczysz po złej stronie, Ufretinie.  Wiem, że Gelu to twój przyjaciel, jednak teraz pobłądził.  Jest głupcem, skoro podjął się poszukiwań Miecza Mrozu!\"  powiedziałem mu.\n\n\"W przeciwieństwie do ciebie, pragnie go tylko zniszczyć - nie wykorzystać!\"\n\n\"Nie zamierzam go użyć!  Co więcej, chcę, by nadal pozostał w ukryciu.\"\n\nLecz Ufretin nie wierzył mi.  W jego oczach pozostawałem zdrajcą.  Byłem teraz jednym z Nighończyków.  Jak mogłem go przekonać, że jest inaczej?  Czy mogę jeszcze odzyskać jego zaufanie?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Walczysz po złej stronie, Ufretinie.  Wiem, że Gel...",
+          "voice": ""
+        },
+        {
+          "text": "W przeciwieństwie do ciebie, pragnie go tylko znis...",
+          "voice": ""
+        },
+        {
+          "text": "Nie zamierzam go użyć!  Co więcej, chcę, by nadal ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 854
+  },
+  {
+    "id": 118,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 279023,
+    "text": "\"Czy naprawdę wierzysz, że odrobina jedzenia i ciepły płaszcz przekona mnie do rozmowy?\" spytał Ufretin, gdy nadszedłem.\n\nDzięki dodatkowym racjom wyglądał znacznie lepiej, niż gdy widziałem go ostatnim razem.\n\n\"Nie,\" odrzekłem. \"nie chciałem tylko, abyś umarł.\"\n\n\"Dlaczego zatem tu jesteś?  Nie zamierzam ci czegokolwiek zdradzić.\"\n\n\"Przyszedłem, by ci się wytłumaczyć - by wytłumaczyć prawdę o sobie,\" odpowiedziałem.\n\nMusiało w końcu do tego dojść. Nie przychodziło mi do głowy nic innego, co mogłoby przekonać Ufretina do mówienia, oprócz tortur, do których nie zamierzałem się uciekać.  Już czułem, że upadłem zbyt nisko, pociągnięty w dół przez moich ludzi.\n\n\"Co to ma znaczyć?\" spytał podejrzliwie Ufretin, ściągając brwi.\n\nRozejrzałem się, by się upewnić, że nikt nas nie obserwuje.  Potem powoli zdjąłem mój kaftan, odsłaniając nagi tors.\n\n\"Jestem nieśmiertelny, Ufretinie.  Nie jestem tylko długowieczny, jak smoki czy elfy.  Jestem nieśmiertelny - nie można mnie zabić!\"\n\n\"Jesteś głupcem!\"\n\n\"Głupcem, niezwykle okrutnym zresztą, byłem niegdyś.  Aż po dzień dzisiejszy płacę cenę za moją bezduszność.  I pewnie będę ją spłacał aż po kres czasu.  Oto dlaczego tu jestem!  I dlatego muszę powstrzymać Gelu!  Ten elf wkrótce poprowadzi świat na samą krawędź, ku zagładzie.  I nieważne, jak ohydne czyny przyjdzie mi popełnić, nie pozwolę mu na to!\"\n\nZanim Ufretin zdołał odpowiedzieć, zatopiłem skryty dotąd sztylet głęboko w moim sercu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy naprawdę wierzysz, że odrobina jedzenia i ciep...",
+          "voice": ""
+        },
+        {
+          "text": "Nie,",
+          "voice": ""
+        },
+        {
+          "text": "nie chciałem tylko, abyś umarł.",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego zatem tu jesteś?  Nie zamierzam ci czegok...",
+          "voice": ""
+        },
+        {
+          "text": "Przyszedłem, by ci się wytłumaczyć - by wytłumaczy...",
+          "voice": ""
+        },
+        {
+          "text": "Co to ma znaczyć?",
+          "voice": ""
+        },
+        {
+          "text": "Jestem nieśmiertelny, Ufretinie.  Nie jestem tylko...",
+          "voice": ""
+        },
+        {
+          "text": "Jesteś głupcem!",
+          "voice": ""
+        },
+        {
+          "text": "Głupcem, niezwykle okrutnym zresztą, byłem niegdyś...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1444
+  },
+  {
+    "id": 119,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 280532,
+    "text": "Dałem Ufretinowi cały dzień, by ochłonął po tym co zobaczył podczas mojej ostatniej wizyty.\n\n\"Jak się dziś czujesz?\" spytałem go.\n\n\"Pokaż mi swoją pierś,\" odrzekł.\n\nRozpiąłem moją koszulę.  Po moim ciosie nie pozostała na skórze nawet szrama.\n\n\"Odrodziłeś się, zupełnie jak gdyby nigdy nic,\" rzekł krasnolud.  \"Patrzyłem, jak rozcina twoją skórę, widziałem krew, a już po chwili znów stałeś bez najmniejszego draśnięcia.  Jak?\"\n\n\"Jak już mówiłem, jestem nieśmiertelny.\"\n\n\"Jak?  Dlaczego?\" pytał Ufretin.  Już nie widziałem w jego oczach nienawiści, tylko strach.\n\nPrzez następną godzinę opowiadałem mu skróconą historię mojego życia.  Chciałem usprawiedliwić swe czyny, opisując okrucieństwo królów-magów, którzy zniewolili mój lud, lecz dochodząc w opowieści do spalonych przeze mnie wsi i zamęczonych ludzi, moje wytłumaczenie brzmiało nieprzekonująco.  W końcu opowiedziałem mu, jak zginąłem i o tym, jak Przodkowie odmówili mi wstępu do Raju.\n\n\"Wykonuję wszystkie ich rozkazy - dopóki nie odkupię moich win, pozostaję ich pokornym sługą.  Lecz nigdy dotąd nie prosili mnie, bym walczył przeciwko przyjaciołom.  A poza nimi nie ma nikogo, kogo jeszcze mógłbym przekonać do przeciwstawienia się Gelu!\"\n\n\"Sam nie wiem, Tarnumie,\" odparł Ufretin.  \"Dałeś mi dużo do myślenia - a zarazem chcesz, bym w równie wiele uwierzył.\"\n\n\"Zajrzyj w swoje serce i spytaj siebie, dlaczego nikomu nie pozwoliłem cię torturować.  Może wtedy zobaczysz, że mówię prawdę.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jak się dziś czujesz?",
+          "voice": ""
+        },
+        {
+          "text": "Pokaż mi swoją pierś,",
+          "voice": ""
+        },
+        {
+          "text": "Odrodziłeś się, zupełnie jak gdyby nigdy nic,",
+          "voice": ""
+        },
+        {
+          "text": "Patrzyłem, jak rozcina twoją skórę, widziałem krew...",
+          "voice": ""
+        },
+        {
+          "text": "Jak już mówiłem, jestem nieśmiertelny.",
+          "voice": ""
+        },
+        {
+          "text": "Jak?  Dlaczego?",
+          "voice": ""
+        },
+        {
+          "text": "Wykonuję wszystkie ich rozkazy - dopóki nie odkupi...",
+          "voice": ""
+        },
+        {
+          "text": "Sam nie wiem, Tarnumie,",
+          "voice": ""
+        },
+        {
+          "text": "Dałeś mi dużo do myślenia - a zarazem chcesz, bym ...",
+          "voice": ""
+        },
+        {
+          "text": "Zajrzyj w swoje serce i spytaj siebie, dlaczego ni...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1453
+  },
+  {
+    "id": 120,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 282050,
+    "text": "Moja armia była bliska puczu, a wszystko to za sprawą tego jak traktowałem mojego więźnia, Ufretina.  Wiedziałem, że to Kilkik podżega do buntu, jednak nie za wiele mogłem na to poradzić.  Muszę wreszcie pozbyć się przyczyny moich problemów.  Muszę usunąć krasnoluda.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 267
+  },
+  {
+    "id": 121,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 282382,
+    "text": "Z pogrążonego we śnie obozu wynurzyła się samotna postać.  Unosząc się nad lodem, płynęła w stronę czarnej, żelaznej klatki.  Więzień spał w środku, nawet nie drgnąwszy, gdy długa macka wysunęła się i sięgnęła do zamka.  Drzwi klatki otworzyły się gwałtownie, lecz nawet wtedy sterta futer nie poruszyła się.\n\n\"Teraz giń, krasnoludzie!\"  wyszeptał gorączkowo Kilkik.\n\nNagle jedno z futer podskoczyło, na moment zasłaniając beholderowi cały świat.  Tuż spod niego wyłoniła się królewska meduza, Zallisa, błyskawicznie zatapiając w ciele Kilkika prosty, kościany sztylet.\n\n\"Nie!  To ty giń, beholderze!\" wykrzyknęła Zallisa.  Wydarła z jego ciała sztylet i dźgnęła raz jeszcze.  \"A to za moje siostry!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Teraz giń, krasnoludzie!",
+          "voice": ""
+        },
+        {
+          "text": "Nie!  To ty giń, beholderze!",
+          "voice": ""
+        },
+        {
+          "text": "A to za moje siostry!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 700
+  },
+  {
+    "id": 122,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 283149,
+    "text": "Tymczasem w jednym z odległych tuneli Ufretin i ja zsiedliśmy z wierzchowców.  Wręczyłem krasnoludowi topór i zawiniątko z jedzeniem.\n\n\"To powinno wystarczyć, byś mógł powrócić do przyjaciół,\" oznajmiłem mu.\n\n\"Przecież mogłeś mnie wypuścić wysoko na powierzchni ponad nami.   Wtedy przynajmniej nie mógłbym ostrzec Gelu,\" zauważył Ufretin.\n\n\"Liczę, że zdołasz przekonać Gelu do zmiany jego planów.\"\n\n\"Dlaczego w ogóle sądzisz, że mógłbym chcieć to zrobić?\"\n\n\"Nie mam żadnego powodu, by tak myśleć.  A ponieważ nie mam zamiaru wyciągać od ciebie informacji za pomocą tortur, nie mogę cię dłużej zatrzymywać.  Teraz wszystko jest w twoich rękach.\"\n\nWspiąłem się na mojego konia.\n\n\"Co stanie się przy naszym powtórnym spotkaniu?\" spytał Ufretin.\n\n\"Pewnie nadal będziemy wrogami.\" odrzekłem.\n\nJuż zamierzałem odjechać, lecz Ufretin zatrzymał mnie.\n\n\"Miasto Volee - oto gdzie schowany jest Miecz Mrozu.  Gelu poszukuje legendarnego, starożytnego miasta elfów Vori,\" rzekł.\n\n\"Dziękuję ci,\" powiedziałem mu, odwracając się w stronę mrocznych tuneli.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To powinno wystarczyć, byś mógł powrócić do przyja...",
+          "voice": ""
+        },
+        {
+          "text": "Przecież mogłeś mnie wypuścić wysoko na powierzchn...",
+          "voice": ""
+        },
+        {
+          "text": "Liczę, że zdołasz przekonać Gelu do zmiany jego pl...",
+          "voice": ""
+        },
+        {
+          "text": "Dlaczego w ogóle sądzisz, że mógłbym chcieć to zro...",
+          "voice": ""
+        },
+        {
+          "text": "Nie mam żadnego powodu, by tak myśleć.  A ponieważ...",
+          "voice": ""
+        },
+        {
+          "text": "Co stanie się przy naszym powtórnym spotkaniu?",
+          "voice": ""
+        },
+        {
+          "text": "Pewnie nadal będziemy wrogami.",
+          "voice": ""
+        },
+        {
+          "text": "Miasto Volee - oto gdzie schowany jest Miecz Mrozu...",
+          "voice": ""
+        },
+        {
+          "text": "Dziękuję ci,",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1042
+  },
+  {
+    "id": 124,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 284395,
+    "text": "Tarnum roztrzaskał się na mroźnym wybrzeżu Vori, gdzie z goryczą odkrył, że śnieżne elfy dołączyły do sprawy Gelu.  Jego zadaniem jest zdobycie wrogich miast.  Wszystkie zdolności, czary i doświadczenie Tarnum zabierze ze sobą do następnego scenariusza.  Bohaterowie ograniczeni są do poziomu 12.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 296
+  },
+  {
+    "id": 126,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 304764,
+    "text": "Kiedy przemykasz się przez ośnieżone równiny, natrafiasz na grupę krasnoludów i elfów Vori, prowadzących kilka beholderów.  Są skute razem, a ich oczy są zawiązane.  Elfy najpewniej prowadzą je na śmierć, dlatego bez chwili wahania ruszasz im na ratunek.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 127,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 305305,
+    "text": "Pożeglowałem na daleką północ, do zmrożonych ziem wyspy Vori.  Jej mieszkańcy oczekiwali mnie.  Próbowałem przemówić Vorijczykom do rozsądku, opowiedziałem im nawet o proroctwie dotyczącym Miecza Mrozu i Ostrza Armageddonu - wszystko na próżno.\n\nUważają, że Gelu - pół-Vorijczyk - jest ich rodakiem, ponadto oczarowała ich jego charyzma.  Poza tym przypuszczam, że nigdy nie zaufaliby suwerenowi podziemi.\n\nUderzenie Vorijczyków było zdecydowane, w jego wyniku zatopili dwa z trzech moich statków.  Wojska Nighonu są nieprzywykłe do morskich potyczek, dlatego nie za wiele mogły zdziałać podczas starcia.  Z trudem zdołałem uciec, niestety, mój okręt doznał poważnych uszkodzeń i tylko dzięki szczęściu zdołałem dobić do brzegu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 728
+  },
+  {
+    "id": 128,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 306097,
+    "text": "Powiedziano mi, że gdzieś na południu żyje czarodziej, mogący ukazać mi mojego wroga i poczynania oddziałów Vori.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 113
+  },
+  {
+    "id": 129,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 306275,
+    "text": "Kolejna próba porozumienia się z mieszkańcami Vori zakończyła się porażką.\n\nWysłałem emisariusza, by rozpoczął rozmowy z Vorijczykami stojącymi mi na drodze do odnalezienia Gelu.  Błagałem ich, by jeszcze raz rozważyli moje słowa, lecz na próżno.  Teraz już wiem skąd w Gelu tyle ślepego uporu!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 294
+  },
+  {
+    "id": 130,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 306634,
+    "text": "Coś uderzyło mnie w łokieć, zrzucając mnie z siodła.  Ból wystrzelił w dół mojego lewego ramienia.  Gdy podniosłem się na kolana, dostrzegłem tkwiącą w moim ciele strzałę.  Czyżby zasadzka elfów?\n\nNie.  Przyjrzałem się bliżej sterczącemu ze skóry pokrytemu zadziorami grotowi i zrozumiałem, że nie uczyniła go ręka elfa.\n\nOdwracając się powoli, spostrzegłem meduzę, bez pośpiechu sunącą w moim kierunku, z kolejną strzałą spoczywającą w nacięciu jej łuku.  Uśmiechnęła się nikczemnie i zasyczała.  Próba sił.  Zgodnie z nighońskim zwyczajem meduza sprawdzała moje umiejętności lidera i gdybym zawiódł, z radością zajęłaby moją pozycję.\n\n\"Nie jesteś już suwerenem,\" wykrzyknęła Meduza. \"teraz ja tu dowodzę!\"\n\nPróbowałem unieść maczugę i bronić się, lecz moje ramiona opadły bezwładnie.  Mogłem się spodziewać, że meduza nasączy swe strzały trucizną.  Choć śmierć i tak nie mogła mnie dosięgnąć, w oczach moich oddziałów byłbym martwy, a było już za późno na budowę nowej armii.\n\nWtem, magiczne uderzenie rozszczepiło łuk meduzy na pół.  Odwróciła się tylko po to, by trzy kolejne pociski uderzyły ją w pierś.  Legła na ziemi martwa, a ja zwróciłem się w stronę moich wybawców - beholderów.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie jesteś już suwerenem,",
+          "voice": ""
+        },
+        {
+          "text": "teraz ja tu dowodzę!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1189
+  },
+  {
+    "id": 131,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 307889,
+    "text": "Powrót do sił po truciźnie meduzy zajał mi trochę czasu.  W zasadzie to jestem przekonany, że faktycznie przyprawiła mnie ona o śmierć - przynajmniej o tyle, o ile jestem w stanie umrzeć.  Na całe szczęście nikt tego nie zauważył.  Cóż, medyczne umiejętności Nighończyków pozostawiają wiele do życzenia.  Tego ranka podźwignąłem się z pryczy w moim namiocie i odszukałem trzy beholdery, które mnie ocaliły.\n\nChoć mieszkańcy Nighonu szanują wyłącznie siłę i władzę, czasem działa to na twoją korzyść.  Stworzenia takie jak te beholdery nie ochroniły mnie przed meduzą, ponieważ byłem dobrym przywódcą; tym bardziej nie można mówić w ich przypadku o współczuciu czy lojalności.  Nie, to także był element fali i oczekiwały, że za udzieloną mi pomoc odpowiednio je wynagrodzę.\n\n\"Znów chodzisz - to dobrze\" rzekł jeden z beholderów.\n\n\"Chcę wam wszystkim podziękować za uratowanie mnie,\" powiedziałem.  Przyszło mi do głowy, co mógłbym im ofiarować.\n\n\"Potrzebuję osobistych strażników, którzy mogliby również służyć mi od czasu do czasu radą,\" powiedziałem. \"Zostaną oni generałami mojej armii.  Czy znacie kogoś, kto nadawałby się do tej roli?\"\n\nOczywiście beholdery bez cienia namysłu wskazały na siebie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Znów chodzisz - to dobrze",
+          "voice": ""
+        },
+        {
+          "text": "Chcę wam wszystkim podziękować za uratowanie mnie,",
+          "voice": ""
+        },
+        {
+          "text": "Potrzebuję osobistych strażników, którzy mogliby r...",
+          "voice": ""
+        },
+        {
+          "text": "Zostaną oni generałami mojej armii.  Czy znacie ko...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1201
+  },
+  {
+    "id": 132,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 309155,
+    "text": "Gdziekolwiek bym teraz nie poszedł, podążają za mną trzy beholdery - Neez, Zarm i Kilkik.  Wydają się kompletnie ignorować sytuacje, w których zachowuję się nie do końca poczytalnie.  Być może nie przeszkadza im, że ich dowódca wydaje wojnę drzewu i nakazuje połowie armii je zaatakować.  A może po prostu nie jestem pierwszym szaleńcem, który nimi kieruje?\n\nBez wątpienia korzyścią płynącą z posiadania ich zawsze przy sobie, są trzy dodatkowe zestawy oczu, które bacznie obserwują, czy któryś z moich ludzi nie dybie na moje życie.  Nareszcie mogę sobie pozwolić na chwile dodatkowego odpoczynku.  Teraz jedynymi istotami, na które powinienem uważać, są moi własni ochroniarze.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 679
+  },
+  {
+    "id": 133,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 309899,
+    "text": "Zaatakowaliśmy młodsze siostry meduzy akurat w momencie, gdy w sekrecie warzyły porcję trucizny do swych strzał.\n\nWzięliśmy je w krzyżowy ogień: Neez i Zarm przyczaili się z jednej strony, natomiast ja i Kilkik z drugiej.  Sięgnąłem po mój łuk i wykorzystując lata doświadczenia zdobytego pośród elfów, wypuściłem strzałę.  Beholdery na ten sygnał zaatakowały.\n\nCztery meduzy zginęły natychmiast.  Kolejne trzy padły zanim jeszcze dobyły swą broń.  Pozostałe nawiązały niezłą walkę, trafiając dwiema strzałami Zarma w oko, zanim zdołaliśmy powalić je na ziemię.\n\nIdąc pośród pokonanych, upewniłem się, że beholdery dostrzegą zakwitający na moich ustach pełen satysfakcji uśmiech.  Pomimo to nie czułem radości z zabijania moich ludzi.  Tylko wypatrywałem chwili, gdy będę mógł zrzucić z siebie płaszcz suwerena.  Każde podjęte przeze mnie działanie podyktowane było dobrem świata, miałem jednak nieodparte wrażenie, że zacząłem powracać do mojej niechlubnej przeszłości.\n\nBoję się, że pewnego dnia życie suwerena zacznie sprawiać mi przyjemność.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 1045
+  },
+  {
+    "id": 134,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 311009,
+    "text": "Neez, kapitan moich beholderów-strażników przystąpił do mnie podczas marszu.  Starał się mówić cicho i dyskretnie.\n\n\"Czy znasz meduzę, którą zabiliśmy w twojej obronie?\"\n\n\"Oczywiście!  Ten dług został już spłacony.\"\n\n\"Nie, nie to mam na myśli.  Jej towarzyszki spiskują przeciwko nam wszystkim.  Już wkrótce zaatakują,\" rzekł beholder.\n\n\"Ile ich jest?\" spytałem.\n\n\"Dziesięć.  Szanse są niewielkie.\"\n\n\"Jesteś pewien?\" powiedziałem.\n\n\"W zupełności.  Mam pośród meduz szpiega.\"\n\n\"Zatem będziemy musieli coś z tym zrobić, czyż nie?\" oświadczyłem chichocząc obłąkańczo.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy znasz meduzę, którą zabiliśmy w twojej obronie...",
+          "voice": ""
+        },
+        {
+          "text": "Oczywiście!  Ten dług został już spłacony.",
+          "voice": ""
+        },
+        {
+          "text": "Nie, nie to mam na myśli.  Jej towarzyszki spiskuj...",
+          "voice": ""
+        },
+        {
+          "text": "Ile ich jest?",
+          "voice": ""
+        },
+        {
+          "text": "Dziesięć.  Szanse są niewielkie.",
+          "voice": ""
+        },
+        {
+          "text": "Jesteś pewien?",
+          "voice": ""
+        },
+        {
+          "text": "W zupełności.  Mam pośród meduz szpiega.",
+          "voice": ""
+        },
+        {
+          "text": "Zatem będziemy musieli coś z tym zrobić, czyż nie?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 564
+  },
+  {
+    "id": 136,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 311782,
+    "text": "Tarnum musi podbić masto Volee zanim zdoła zrobić to Gelu, aby uniemożliwić elfowi odnalezienie Miecza Mrozu.  Wszyscy bohaterowie ograniczeni są do poziomu 36.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 160
+  },
+  {
+    "id": 137,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 368829,
+    "text": "Mieszkający w tej chacie poważny starszy mężczyzna mówi ci, że jeśli powrócisz do niego osiągnąwszy poziom 34, ofiaruje ci nagrodę w wysokości 7,890 sztuk złota.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 138,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 368994,
+    "text": "W ciągu zaledwie kilku minu starszy mężczyzna spostrzega, że nie jesteś jeszcze dostatecznie doświadczony, by zasłużyć na nagrodę.  Będziesz musiał wrócić do niego później",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 171
+  },
+  {
+    "id": 139,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 369169,
+    "text": "\"W dzisiejszych czasach rzadko widuje się młodych ludzi, którzy poświęcają swój czas i energię na zdobywanie doświadczenia, które tobie udało się osiągnąć,\" mówi ci stary człowiek.\n\nOtwiera skrzynię u nóg jego łóżka, ukazując kilka wypełnionych złotem toreb.\n\n\"Lubię nagradzać poświęcenie i wierzę, że w przyszłości, gdy sam już dożyjesz moich lat, z równą radością będziesz obdarowywał młodych bohaterów.  Oto złoto, które ci przyobiecałem.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "W dzisiejszych czasach rzadko widuje się młodych l...",
+          "voice": ""
+        },
+        {
+          "text": "Lubię nagradzać poświęcenie i wierzę, że w przyszł...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 442
+  },
+  {
+    "id": 140,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 369917,
+    "text": "Poświęcasz kilka godzin, by uciąć pogawędkę z potężnym mężczyzną, rąbiącym przed swoją dziwną chatą drewno na opał.  Przez cały ten czas chełpi się swoimi niezliczonymi wyprawami, a nawet wyzywa cię, byś stanął z nim do walki w zapasach.\n\n\"Zwycięzca otrzyma 8,950 sztuk złota,\" oznajmia.\n\n\"A co, jeśli przegram?\"\n\n\"Nic,\" mówi bohater, uśmiechając się, \"poza tym, że będziesz musiał żyć ze świadomością haniebnej porażki.\"\n\nZgadzasz się stanąć do walki, lecz zostajesz błyskawicznie przyszpilony do ziemi.  Twój przeciwnik zanosi się śmiechem, tłumacząc ci, że byłeś zupełnie bez szans.\n\n\"Nie jesteś jeszcze dość doświadczony.  Wróć, gdy twoje umiejętności przynajmniej dorównają moim.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zwycięzca otrzyma 8,950 sztuk złota,",
+          "voice": ""
+        },
+        {
+          "text": "A co, jeśli przegram?",
+          "voice": ""
+        },
+        {
+          "text": "Nic,",
+          "voice": ""
+        },
+        {
+          "text": "poza tym, że będziesz musiał żyć ze świadomością h...",
+          "voice": ""
+        },
+        {
+          "text": "Nie jesteś jeszcze dość doświadczony.  Wróć, gdy t...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 685
+  },
+  {
+    "id": 141,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 370606,
+    "text": "Wyzywasz mieszkającego tu olbrzymiego bohatera na kolejne zapasy, lecz znów okazuje się, że dopóki nie osiągniesz poziomu 36, każda walka zakończy się bardzo szybko.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 165
+  },
+  {
+    "id": 142,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 370775,
+    "text": "Siłujesz się z bohaterem przez prawie godzinę, lecz w końcu udaje ci się przechylić szalę zwycięstwa na twoją stronę.\n\nBohater wstaje i potrząsa głową, śmiejąc się donośnie.\n\n\"Minęło bardzo wiele czasu, odkąd ostatni raz przegrałem,\" stwierdza.\n\nNiezwłocznie wchodzi do swego mieszkania, by już po chwili wynurzyć się z kilkoma sakwami złota.\n\n\"Twoja nagroda,\" oznajmia, wręczając ci sakiewkę, \"zasłużyłeś na nią!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Minęło bardzo wiele czasu, odkąd ostatni raz przeg...",
+          "voice": ""
+        },
+        {
+          "text": "Twoja nagroda,",
+          "voice": ""
+        },
+        {
+          "text": "zasłużyłeś na nią!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 414
+  },
+  {
+    "id": 143,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 377416,
+    "text": "Ignorując groźby harpii podchodzisz do wieży, jednakże znaczące rozmiary ciskanych kamieni i deszcz innych odpadków zmuszają cię do odejścia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 141
+  },
+  {
+    "id": 144,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 377561,
+    "text": "Od twojego pancerza odbija się kamień, a potem niespodziewanie harpie zaprzestają ostrzeliwania ciebie i twojej armii.\n\nJedna z nich zlatuje na dół i ląduje tuż przed tobą, mądrze trzymając się poza zasięgiem twojej broni.\n\n\"Ty jesteś suweren Tarnum, czyż nie?\" pyta cię.\n\n\"Tak,\" odpowiadasz, pocierając wgniecenie w twojej zbroi.\n\n\"Przechódź śmiało!  Zapraszamy!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Ty jesteś suweren Tarnum, czyż nie?",
+          "voice": ""
+        },
+        {
+          "text": "Tak,",
+          "voice": ""
+        },
+        {
+          "text": "Przechódź śmiało!  Zapraszamy!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 364
+  },
+  {
+    "id": 145,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 378463,
+    "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 140
+  },
+  {
+    "id": 146,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 378714,
+    "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 140
+  },
+  {
+    "id": 147,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 378965,
+    "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 140
+  },
+  {
+    "id": 148,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 379228,
+    "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 140
+  },
+  {
+    "id": 149,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 379479,
+    "text": "Z kryjówek wśród śniegu i kamieni występują kolejni żołnierze Gelu.  Stają na twojej drodze, odmawiając ci przejścia.  Nie masz innego wyboru, jak tylko podjąć z nimi walkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 173
+  },
+  {
+    "id": 150,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 379763,
+    "text": "Twoi zwiadowcy donoszą, że miasto Volee jest strzeżone przez dwa silne garnizony.  Na dodatek miasto samo w sobie jest potężnie ufortyfikowne, dlatego zanim podejmiesz decyzję o ataku, powinieneś się upewnić, że twoja armia jest tak potężna, jak to tylko możliwe.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 263
+  },
+  {
+    "id": 153,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 380243,
+    "text": "Przez kilka ostatnich dni wymieniałem się z Gelu korespondencją, śląc w tę i z powrotem powietrznych wysłanników.  Próbowałem przekonać go, by porzucił swoją misję odnalezienia Miecza Mrozu, lecz nadal pozostaje święcie przekonany, że zniszczenie starożytnego reliktu jest jego przeznaczeniem - że odpowiedzialność za bezpieczeństwo całego świata spoczęła na nim aż po wiek wieków.\n\nCóż za głupiec!\n\nDzisiaj otrzymałem od Gelu ostatnią wiadomość.\n\n\"Tarnumie,\n\nZgodziłem się wstrzymać mój pochód w stronę Volee, póki nie rozwiążemy nurtującej nas kwestii, jednak zgodzisz się ze mną, że doszło między nami do impasu.  Mój lud zwał cię niegdyś Przyjacielem Smoków, dlatego błagam cię, nie stawaj na mojej drodze, jeśli odmawiasz przyłączenia się do mojej sprawy.  Nie spocznę, póki Miecz Mrozu nie zostanie zniszczony.  Jeśli będzie trzeba, nie zawaham się zabić ani ciebie, ani straszliwych istot, z którymi związałeś swój los.\n\nOdejdź stąd, a nie doznasz żadnej krzywdy.  Wiesz przecież, że każdą misję, której się podejmę, doprowadzam do końca - bez względu na to, czy jest nią zabicie nikczemnego suwerena, czy zniszczenie artefaktu.  Nie spocznę.\n\nGelu z Avlee, Leśny Strażnik\"\n\nA zatem przepadło.  Wszystkie moje próby powstrzymania konfliktu spełzły na niczym.  Żałuję dnia, w którym przyjdzie mi skrzyżować z Gelu miecz, lecz najpierw muszę zdobyć Miecz Mrozu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Tarnumie,\n\nZgodziłem się wstrzymać mój pochód w st...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": false
+    },
+    "chars": 1366
+  },
+  {
+    "id": 154,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 381673,
+    "text": "W pobliżu znajduje się mag, który zaoferował mi ukazanie wizji miasta Volee i sąsiednich ziem, jeśli tylko zdołam znaleźć do niego drogę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 137
+  },
+  {
+    "id": 155,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 381874,
+    "text": "Wejścia do żyznej, zielonej krainy otaczającej Volee są zablokowane przez niedostępne dla mojej armii bramy.  Jedynym sposobem na ich otwarcie jest poznanie haseł, znanych wyłącznie klucznikom.\n\nPodczas licznych wypadów moich harpii, podczas których dostarczały Gelu napisane przeze mnie wiadomości, udało im się dostrzec namiot niebieskiego klucznika w pobliżu bastionu Gelu.  Niestety, to jedyny klucznik, który jak dotąd odnaleźli moi zwiadowcy.\n\nWygląda na to, że mimo wszystko przyjdzie mi się zmierzyć z Gelu.  Nie mogę pozwolić, by dotarł do Volee przede mną.  To by oznaczało katastrofę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 595
+  },
+  {
+    "id": 156,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 382534,
+    "text": "Obco wyglądająca harpia wpadła dziś do obozu i niemal została rozszarpana na strzępy przez służące mi skrzydlate kobiety.\n\n\"Stójcie!\" wykrzyknąłem, wpadając między nie i osłaniając wyczerpaną istotę.\n\nDajesz jej wodę i pozwalasz złapać oddech, zanim postanawiasz ją zapytać o cel jej przybycia.\n\n\"Moje siostry pragną ci pomóc,\" powiedziała.  \"Tutejsze elfy polują na nas od stuleci.  W końcu przybył ktoś, kto może nas wesprzeć.\"\n\n\"Gdzie są twoje siostry?\"\n\n\"A, właśnie!  Zdobyłyśmy wieżę, strzegącą przesmyku wiodącego do namiotu białego klucznika!  Teraz, dzięki nam, twoi wrogowie nie mają wstępu do Volee!\" rzekła z uśmiechem.\n\nWspaniałe wieści!  Wciąż muszę zaryzykować wydanie bitwy Gelu, by dostać się do niebieskiego klucznika, ale nie muszę się już dłużej martwić, że jako pierwszy zdobędzie Miecz Mrozu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Stójcie!",
+          "voice": ""
+        },
+        {
+          "text": "Moje siostry pragną ci pomóc,",
+          "voice": ""
+        },
+        {
+          "text": "Tutejsze elfy polują na nas od stuleci.  W końcu p...",
+          "voice": ""
+        },
+        {
+          "text": "Gdzie są twoje siostry?",
+          "voice": ""
+        },
+        {
+          "text": "A, właśnie!  Zdobyłyśmy wieżę, strzegącą przesmyku...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 813
+  },
+  {
+    "id": 157,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 383412,
+    "text": "\"A cóż to ma być?\" spytałem mojego strażnika, minotaura Trongara.\n\nZwykle jechał tuż przy mnie, na samym czele kawalkady, jednak parę minut wcześniej oddalił się na tyły.\n\n\"Chciałem się lepiej przyjrzeć stojącym tam drzewom,\" rzekł Trongar, wskazując dłonią. \"Zdaje mi się, że coś widziałem.\n\n\"To zbyt daleko, nawet dla elfickiego łucznika,\" uspokoiłem go.\n\n\"No, ale to mógł być szpieg.  Znasz elfy.  Kochają zasadzki.  Zastawiają je, gdy tylko tylko mają ku temu okazję,\" odparł Trongar.\n\nZnałem elfy lepiej niż ktokolwiek inny i dlatego zdawałem sobie sprawę, że minotaur ma rację.  Powinienem być czujniejszy.  Taktyka kąsania i ucieczki była bliska sercu każdego członka Leśnej Straży, zaś Gelu był najlepszym, jakiego kiedykolwiek wydało Avlee.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "A cóż to ma być?",
+          "voice": ""
+        },
+        {
+          "text": "Chciałem się lepiej przyjrzeć stojącym tam drzewom...",
+          "voice": ""
+        },
+        {
+          "text": "Zdaje mi się, że coś widziałem.\n\n",
+          "voice": ""
+        },
+        {
+          "text": " uspokoiłem go.\n\n",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 749
+  },
+  {
+    "id": 158,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 384226,
+    "text": "Niestety, elfy Vori żyjące w mieście Volee nie odpowiedzą na ani jedną z licznych wysłanych im wiadomości.  Zaatakowały każdego mojego posłańca, nie czekając na to, co miał im do przekazania.  Jedyną pociechą jest to, że emisariuszy Gelu traktują w podobny sposób.\n\nWygląda na to, że Volee dostrzega wroga w nas obu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 316
+  },
+  {
+    "id": 159,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 384607,
+    "text": "Dzisiejszego dnia przybył do mnie goniec z wieścią o ucieczce żony barbarzyńcy, Kiji, z lochów.  Jest sama.  Jej ludzie są albo martwi, albo w rozsypce.  Tak naprawdę nie ma już teraz znaczenia, co się z nią stanie.  Zapewne wróci do domu, do swego męża, by lizać swoje rany.  Nawet jeśli przekona Kilgora, by udał się po Miecz Mrozu osobiście, będzie już za późno.  \n\nI to bez względu na to, czy jako pierwszy Miecz Mrozu posiądę ja, czy też Gelu doprowadzi do zniszczenia świata.  Wtedy już nic nie będzie miało najmniejszego znaczenia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 538
+  },
+  {
+    "id": 160,
+    "source": "Mie_bmp.lod:ab.h3c",
+    "offset": 385210,
+    "text": "Zeszłej nocy, nim położyłem się do snu, prosiłem Przodków, aby ze mną porozmawiali.  Zwykle nie odpowiadają, lecz tym razem postanowili mi się ukazać.\n\n\"Dziękuję, że przybyliście, by ze mną pomówić,\" zwróciłem się do nich.\n\nWyczuliśmy, że nas potrzebujesz,\" rzekł jeden z nich.\n\n\"Wkrótce powinienem dotrzeć do Volee, jednak nigdy mi nie powiedzieliście, co mam począć z Mieczem Mrozu.  Przecież nie mogę go zatrzymać!  Czy mam go zniszczyć?\" spytałem.\n\n\"Nie.  Miecz Mrozu może zostać zniszczony jedynie przez Ostrze Armageddonu.  Obawiamy się, że Gelu zda sobie z tego sprawę i opacznie to zrozumiawszy, spróbuje skrzyżować ostrza.  Dlatego właśnie musisz odzyskać Miecz Mrozu.\"\n\n\"A potem?\"\n\n\"Przynieś go nam.  Umieścimy go tam, gdzie nikt go nigdy więcej nie odnajdzie,\" odpowiedzieli Przodkowie.\n\nNim Przodkowie zniknęli, zebrałem w sobie całą odwagę, by powiedzieć coś, co dręczyło mnie już od miesięcy.\n\n\"Przepraszam,\" rzekłem.\n\n\"Za co?\"\n\nZawstydzony spuściłem mą głowę i powiedziałem cicho, \"Za wszystko to, czego się dopuściłem poszukując Miecza Mrozu.  Sądziłem, że było to konieczne.\"\n\n\"I miałeś rację.  Tarnumie, robienie tego, co jest dla wszystkich najlepsze - nawet jeśli czyny te wzbudzają w tobie odrazę - to prawdziwy honor!  Nie możemy cię za nic winić,\" rzekli Przodkowie.\n\n\"Nadal czuję się podle,\" nastawałem.\n\n\"I tak być powinno.\"\n\nPrzodkowie zniknęli.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dziękuję, że przybyliście, by ze mną pomówić,",
+          "voice": ""
+        },
+        {
+          "text": " rzekł jeden z nich.\n\n",
+          "voice": ""
+        },
+        {
+          "text": " spytałem.\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": " odpowiedzieli Przodkowie.\n\nNim Przodkowie zniknęl...",
+          "voice": ""
+        },
+        {
+          "text": " rzekłem.\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\nZawstydzony spuściłem mą głowę i powiedziałem ci...",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": " rzekli Przodkowie.\n\n",
+          "voice": ""
+        },
+        {
+          "text": " nastawałem.\n\n",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1371
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "id": 0,
+    "text_original": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles. Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "text_clean": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles. Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "voices": []
+  },
+  {
+    "id": 1,
+    "text_original": "Ten samouczek ma za zadanie zapoznać cię z podstawami gry Heroes Chronicles. Postępuj według instrukcji pojawiających się na ekranie, gdyż zostały one ułożone w taki sposób, aby pokazać wszystkie najważniejsze funkcje gry - poza tym dzięki nim ukończysz swoją pierwszą misję...",
+    "text_clean": "Ten samouczek ma za zadanie zapoznać cię z podstawami gry Heroes Chronicles. Postępuj według instrukcji pojawiających się na ekranie, gdyż zostały one ułożone w taki sposób, aby pokazać wszystkie najważniejsze funkcje gry - poza tym dzięki nim ukończysz swoją pierwszą misję...",
+    "voices": []
+  },
+  {
+    "id": 2,
+    "text_original": "To dwustronny monolit przejścia.  Gdy twój bohater na nim stanie, zostanie przeniesiony do takiego samego monolitu w innej części mapy.  Jeśli po drugiej stronie natkniesz się na stworzenia, z którymi nie masz ochoty walczyć, wystarczy wcisnąć spację, aby się cofnąć do poprzedniej lokacji.  Jeśli chcesz walczyć, po prostu zaatakuj je.",
+    "text_clean": "To dwustronny monolit przejścia. Gdy twój bohater na nim stanie, zostanie przeniesiony do takiego samego monolitu w innej części mapy. Jeśli po drugiej stronie natkniesz się na stworzenia, z którymi nie masz ochoty walczyć, wystarczy wcisnąć spację, aby się cofnąć do poprzedniej lokacji. Jeśli chcesz walczyć, po prostu zaatakuj je.",
+    "voices": []
+  },
+  {
+    "id": 3,
+    "text_original": "Przed nami warsztat, w którym można rekrutować chochliki.  Raz w tygodniu znajdziesz tu darmowy oddział.  Liczebność oddziału co tydzień jest taka sama.",
+    "text_clean": "Przed nami warsztat, w którym można rekrutować chochliki. Raz w tygodniu znajdziesz tu darmowy oddział. Liczebność oddziału co tydzień jest taka sama.",
+    "voices": []
+  },
+  {
+    "id": 4,
+    "text_original": "Zauważ, że gdy odwiedzisz kamieniołomy kolor flagi, którą są oznakowane na minimapie, zmienia się z szarego na niebieski - barwę twojej flagi.  Kamieniołomy będzie wzbogacać zasoby królestwa o dwa wozy kamieni dziennie.  W sumie istnieje siedem typów kopalń - dopilnuj, aby w obrębie twoich włości znalazła się co najmniej jedna kopalnia każdego typu, aby zasilać zapasy wszystkich surowców do wymaganego poziomu.\n\nGdy już oflagujesz kamieniołomy, udaj się do migoczącego na zielono obiektu, a powiem ci co to jest.",
+    "text_clean": "Zauważ, że gdy odwiedzisz kamieniołomy kolor flagi, którą są oznakowane na minimapie, zmienia się z szarego na niebieski - barwę twojej flagi. Kamieniołomy będzie wzbogacać zasoby królestwa o dwa wozy kamieni dziennie. W sumie istnieje siedem typów kopalń - dopilnuj, aby w obrębie twoich włości znalazła się co najmniej jedna kopalnia każdego typu, aby zasilać zapasy wszystkich surowców do wymaganego poziomu. Gdy już oflagujesz kamieniołomy, udaj się do migoczącego na zielono obiektu, a powiem ci co to jest.",
+    "voices": []
+  },
+  {
+    "id": 5,
+    "text_original": "Jak widzisz, ten obszar różni się od zaśnieżonych terenów wokół.  To magiczne chmury, które każdemu użytkownikowi magii dają umiejętności eksperta magii powietrza, dopóki z nich nie zejdzie. W czasie walki zaklęcia magii powietrza, które znasz, będą rzucane na poziomie eksperta.  Występują jeszcze trzy obszary o podobnych właściwościach.  Są to gołoborza, błyszczące stawy i pola ognia.",
+    "text_clean": "Jak widzisz, ten obszar różni się od zaśnieżonych terenów wokół. To magiczne chmury, które każdemu użytkownikowi magii dają umiejętności eksperta magii powietrza, dopóki z nich nie zejdzie. W czasie walki zaklęcia magii powietrza, które znasz, będą rzucane na poziomie eksperta. Występują jeszcze trzy obszary o podobnych właściwościach. Są to gołoborza, błyszczące stawy i pola ognia.",
+    "voices": []
+  },
+  {
+    "id": 6,
+    "text_original": "Niezłym pomysłem jest odwiedzenie fabryki machin wojennych i zakupienie kilku urządzeń, które pomogą pokonać wroga.  Gdy wejdziesz do środka, możesz zakupić balistę (podobną do wielkiej kuszy), namiot medyka (leczący jeden oddział na zakończenie każdej tury walki) oraz wóz z amunicją (dzięki któremu masz pewność, że oddziałom strzeleckim nie zabraknie amunicji w czasie walki).",
+    "text_clean": "Niezłym pomysłem jest odwiedzenie fabryki machin wojennych i zakupienie kilku urządzeń, które pomogą pokonać wroga. Gdy wejdziesz do środka, możesz zakupić balistę (podobną do wielkiej kuszy), namiot medyka (leczący jeden oddział na zakończenie każdej tury walki) oraz wóz z amunicją (dzięki któremu masz pewność, że oddziałom strzeleckim nie zabraknie amunicji w czasie walki).",
+    "voices": []
+  },
+  {
+    "id": 7,
+    "text_original": "Obiekty takie, jak ten kamień wiedzy mogą dać premie w postaci szczęścia, morale i innych cech, w przypadku kamienia wiedzy tą cechą jest doświadczenia.  Gdy wjedziesz na kamień, przekonasz się twój niedoświadczony bohater zyska 1000 punktów doświadczenia.",
+    "text_clean": "Obiekty takie, jak ten kamień wiedzy mogą dać premie w postaci szczęścia, morale i innych cech, w przypadku kamienia wiedzy tą cechą jest doświadczenia. Gdy wjedziesz na kamień, przekonasz się twój niedoświadczony bohater zyska 1000 punktów doświadczenia.",
+    "voices": []
+  },
+  {
+    "id": 8,
+    "text_original": "Witaj, Wasza Wysokość, zwę się Rissa i pomogę ci poznać ten świat.  Najpierw udajmy się do kopalni rudy położonej na wschód stąd.  Gdy już przejmę kontrolę nad kopalnią, udajmy się na południe, aby zająć tartak.  Jeśli zechcesz, zawsze możemy się zatrzymać, aby zebrać surowce leżące luzem na ziemi.",
+    "text_clean": "Witaj, Wasza Wysokość, zwę się Rissa i pomogę ci poznać ten świat. Najpierw udajmy się do kopalni rudy położonej na wschód stąd. Gdy już przejmę kontrolę nad kopalnią, udajmy się na południe, aby zająć tartak. Jeśli zechcesz, zawsze możemy się zatrzymać, aby zebrać surowce leżące luzem na ziemi.",
+    "voices": []
+  },
+  {
+    "id": 9,
+    "text_original": "To, Wasza Wysokość, jest młyn.  Co tydzień młynarz będzie miał dla ciebie nieco zasobów.  Pamiętaj, aby raz w tygodniu wysyłać kogoś do młyna, aby odbierał zyski.",
+    "text_clean": "To, Wasza Wysokość, jest młyn. Co tydzień młynarz będzie miał dla ciebie nieco zasobów. Pamiętaj, aby raz w tygodniu wysyłać kogoś do młyna, aby odbierał zyski.",
+    "voices": []
+  },
+  {
+    "id": 10,
+    "text_original": "Gwiazda to miejsce, w którym możesz podnieść umiejętności z zakresu rzucania zaklęć o 1 punkt.  Dozwolona tylko jedna wizyta na bohatera.",
+    "text_clean": "Gwiazda to miejsce, w którym możesz podnieść umiejętności z zakresu rzucania zaklęć o 1 punkt. Dozwolona tylko jedna wizyta na bohatera.",
+    "voices": []
+  },
+  {
+    "id": 11,
+    "text_original": "To namiot zielonego klucznika.  Odwiedzenie tego miejsca umożliwi ci przejście przez zieloną bramę graniczną.  Zawsze, gdy zobaczysz namiot klucznika, zatrzymaj się i wstąp do niego, aby zapewnić sobie przejście przez bramę graniczną.",
+    "text_clean": "To namiot zielonego klucznika. Odwiedzenie tego miejsca umożliwi ci przejście przez zieloną bramę graniczną. Zawsze, gdy zobaczysz namiot klucznika, zatrzymaj się i wstąp do niego, aby zapewnić sobie przejście przez bramę graniczną.",
+    "voices": []
+  },
+  {
+    "id": 12,
+    "text_original": "To jest tartak, który produkuje dwa wozy drewna dziennie.  Tartak będzie twój, gdy go odwiedzisz, co zostanie odnotowane zmianą koloru flagi.  Od tego miejsca idź na zachód wzdłuż ścieżki, aby kontynuować misję.",
+    "text_clean": "To jest tartak, który produkuje dwa wozy drewna dziennie. Tartak będzie twój, gdy go odwiedzisz, co zostanie odnotowane zmianą koloru flagi. Od tego miejsca idź na zachód wzdłuż ścieżki, aby kontynuować misję.",
+    "voices": []
+  },
+  {
+    "id": 13,
+    "text_original": "Dziwnie wyglądający obiekt na wschodzie to chata czarownicy.  Nie rezygnuj z wysłania chociaż jednego bohatera do wiedźmy, aby dowiedzieć się, czego może nauczyć.  Nauka jest tu bezpłatna.  Każda wiedźma uczy tylko jednej umiejętności, ale mogą wybierać je z szerokiego wachlarza dostępnych umiejętności.  Jeśli bohater zna już daną umiejętność lub nie może poznać ich więcej, czarownica może być nieco zirytowana, ale nie zrobi nikomu krzywdy.",
+    "text_clean": "Dziwnie wyglądający obiekt na wschodzie to chata czarownicy. Nie rezygnuj z wysłania chociaż jednego bohatera do wiedźmy, aby dowiedzieć się, czego może nauczyć. Nauka jest tu bezpłatna. Każda wiedźma uczy tylko jednej umiejętności, ale mogą wybierać je z szerokiego wachlarza dostępnych umiejętności. Jeśli bohater zna już daną umiejętność lub nie może poznać ich więcej, czarownica może być nieco zirytowana, ale nie zrobi nikomu krzywdy.",
+    "voices": []
+  },
+  {
+    "id": 14,
+    "text_original": "To jest kaplica magii.  Kaplice magii mają trzy poziomy i uczą każdego wyposażonego w księgę zaklęć bohatera zaklęć poziomu pierwszego, drugiego lub trzeciego.  W każdej kaplicy można nauczyć się tylko jednego zaklęcia, ale istnieje duży wachlarz zaklęć, które mogą występować w kaplicach.  Często znajdziesz tu bardzo użyteczne zaklęcia, których nie ma w wieży magów.  Należy co najmniej raz odwiedzić każdą kaplicę i sprawdzić, czy nie można nauczyć się w niej nowych czarów.",
+    "text_clean": "To jest kaplica magii. Kaplice magii mają trzy poziomy i uczą każdego wyposażonego w księgę zaklęć bohatera zaklęć poziomu pierwszego, drugiego lub trzeciego. W każdej kaplicy można nauczyć się tylko jednego zaklęcia, ale istnieje duży wachlarz zaklęć, które mogą występować w kaplicach. Często znajdziesz tu bardzo użyteczne zaklęcia, których nie ma w wieży magów. Należy co najmniej raz odwiedzić każdą kaplicę i sprawdzić, czy nie można nauczyć się w niej nowych czarów.",
+    "voices": []
+  },
+  {
+    "id": 15,
+    "text_original": "To miejsce powinien odwiedzić każdy bohater.  Ogród objawienia podbuduje wiedzę każdego, kto go odwiedzi.  Jego działanie jest jednorazowe, a więc ponowna wizyta w ogrodzie nie da żadnego efektu.  Gdy wzrośnie wiedza bohatera, wzrośnie także jego liczba punktów magii.",
+    "text_clean": "To miejsce powinien odwiedzić każdy bohater. Ogród objawienia podbuduje wiedzę każdego, kto go odwiedzi. Jego działanie jest jednorazowe, a więc ponowna wizyta w ogrodzie nie da żadnego efektu. Gdy wzrośnie wiedza bohatera, wzrośnie także jego liczba punktów magii.",
+    "voices": []
+  },
+  {
+    "id": 16,
+    "text_original": "Tego dziwnego miejsca strzegą diabliki.  Gromadzą tu zapasy siarki i złota, ale nie oddadzą ich bez walki.  Zanim wdasz się w potyczkę, upewnij się, czy masz wystarczająco silną armię.  Skarbu może bronić od 100 do 300 diablików.  Znajdziesz też inne miejsca bronione przez grupy różnych stworzeń - zanim je zaatakujesz, przygotuj się dobrze, aby wygrać bitwę.",
+    "text_clean": "Tego dziwnego miejsca strzegą diabliki. Gromadzą tu zapasy siarki i złota, ale nie oddadzą ich bez walki. Zanim wdasz się w potyczkę, upewnij się, czy masz wystarczająco silną armię. Skarbu może bronić od 100 do 300 diablików. Znajdziesz też inne miejsca bronione przez grupy różnych stworzeń - zanim je zaatakujesz, przygotuj się dobrze, aby wygrać bitwę.",
+    "voices": []
+  },
+  {
+    "id": 17,
+    "text_original": "Przed nami zielona brama graniczna.  Możesz przez nią przejść dopiero po odwiedzeniu namiotu zielonego klucznika.  Odszukanie właściwego klucznika często nie jest łatwe, ale zawsze jest warte wysiłku.",
+    "text_clean": "Przed nami zielona brama graniczna. Możesz przez nią przejść dopiero po odwiedzeniu namiotu zielonego klucznika. Odszukanie właściwego klucznika często nie jest łatwe, ale zawsze jest warte wysiłku.",
+    "voices": []
+  },
+  {
+    "id": 18,
+    "text_original": "W niektórych miejscach musisz uiścić opłatę za podniesienie umiejętności bohatera.  To właśnie jedno z takich miejsc.  W szkole magii można podnieść poziom wiedzy lub magii - według uznania.  Jeśli jednak nie wniesiesz opłaty, niczego się nie nauczysz.",
+    "text_clean": "W niektórych miejscach musisz uiścić opłatę za podniesienie umiejętności bohatera. To właśnie jedno z takich miejsc. W szkole magii można podnieść poziom wiedzy lub magii - według uznania. Jeśli jednak nie wniesiesz opłaty, niczego się nie nauczysz.",
+    "voices": []
+  },
+  {
+    "id": 19,
+    "text_original": "Zbliżasz się do magicznej studni.  Zawsze należy się z niej napić, jeśli to tylko możliwe, a szczególnie po bitwach, w których twój bohater rzucił szczególnie dużo zaklęć.  Magiczna studnia odnawia wszystkie punkty magii.  Skuteczna jest tylko jedna wizyta dziennie.",
+    "text_clean": "Zbliżasz się do magicznej studni. Zawsze należy się z niej napić, jeśli to tylko możliwe, a szczególnie po bitwach, w których twój bohater rzucił szczególnie dużo zaklęć. Magiczna studnia odnawia wszystkie punkty magii. Skuteczna jest tylko jedna wizyta dziennie.",
+    "voices": []
+  },
+  {
+    "id": 20,
+    "text_original": "Gdy klikniesz na garnizonie prawym przyciskiem myszy, zauważysz, że stacjonuje w nim wiele różnych oddziałów.  Najwyraźniej władca podziemi z tej prowincji nie życzy sobie żadnych niespodziewanych gości.  Jeśli chcesz go pokonać, najpierw musisz zwyciężyć jednostki z garnizonu.",
+    "text_clean": "Gdy klikniesz na garnizonie prawym przyciskiem myszy, zauważysz, że stacjonuje w nim wiele różnych oddziałów. Najwyraźniej władca podziemi z tej prowincji nie życzy sobie żadnych niespodziewanych gości. Jeśli chcesz go pokonać, najpierw musisz zwyciężyć jednostki z garnizonu.",
+    "voices": []
+  },
+  {
+    "id": 21,
+    "text_original": "Na zachód stąd znajduje się odkrywka siarki.  Mimo że masz już jedną, druga też się przyda.  Dzięki ty będziesz mieć więcej surowców, a twój wróg mniej.  Spójrz na mini-mapę - flaga zmieni się z koloru czerwonego, czyli koloru twojego wroga, na niebieski, czyli twój.",
+    "text_clean": "Na zachód stąd znajduje się odkrywka siarki. Mimo że masz już jedną, druga też się przyda. Dzięki ty będziesz mieć więcej surowców, a twój wróg mniej. Spójrz na mini-mapę - flaga zmieni się z koloru czerwonego, czyli koloru twojego wroga, na niebieski, czyli twój.",
+    "voices": []
+  },
+  {
+    "id": 22,
+    "text_original": "Oto arena.  Tu możesz poprawić swoją obronę lub atak, ale nie jedno i drugie.  Każdy bohater jest upoważniony do jednej wizyty, która nie obciąża budżetu królestwa.",
+    "text_clean": "Oto arena. Tu możesz poprawić swoją obronę lub atak, ale nie jedno i drugie. Każdy bohater jest upoważniony do jednej wizyty, która nie obciąża budżetu królestwa.",
+    "voices": []
+  },
+  {
+    "id": 23,
+    "text_original": "Teraz możesz zobaczyć wrota żywiołów, gdzie urzędują źli władcy żywiołów.  Gdy będziesz dysponować wystarczająco silną armią, by zaatakować stacjonującego w tym mieście bohatera, powinieneś uderzyć na wrota żywiołów.\n\nPamiętaj, że miasto jest otoczone murem, ma wieże strzelnicze oraz fosę.  Wdarcie się do środka może wymagać znacznie więcej oddziałów, niż zwycięstwo w każdej innej bitwie.",
+    "text_clean": "Teraz możesz zobaczyć wrota żywiołów, gdzie urzędują źli władcy żywiołów. Gdy będziesz dysponować wystarczająco silną armią, by zaatakować stacjonującego w tym mieście bohatera, powinieneś uderzyć na wrota żywiołów. Pamiętaj, że miasto jest otoczone murem, ma wieże strzelnicze oraz fosę. Wdarcie się do środka może wymagać znacznie więcej oddziałów, niż zwycięstwo w każdej innej bitwie.",
+    "voices": []
+  },
+  {
+    "id": 24,
+    "text_original": "W pobliżu rośnie drzewo wiedzy, które podniesie poziom bohatera w zamian za kilka sztuk złota, klejnotów, a czasem nawet za darmo.",
+    "text_clean": "W pobliżu rośnie drzewo wiedzy, które podniesie poziom bohatera w zamian za kilka sztuk złota, klejnotów, a czasem nawet za darmo.",
+    "voices": []
+  },
+  {
+    "id": 25,
+    "text_original": "Oto świątynia obłoków, w której mieszkają potężne giganty.  Aby móc je werbować, musisz najpierw kilka pokonać, ale warto podjąć ten trud i poświęcić trochę czasu.",
+    "text_clean": "Oto świątynia obłoków, w której mieszkają potężne giganty. Aby móc je werbować, musisz najpierw kilka pokonać, ale warto podjąć ten trud i poświęcić trochę czasu.",
+    "voices": []
+  },
+  {
+    "id": 26,
+    "text_original": "Przed nami siedlisko przeraz.  Podobnie jak w przypadku ołtarza życzeń i fabryki golemów, aby werbować mieszkające tu stworzenia, najpierw musisz kilka pokonać.",
+    "text_clean": "Przed nami siedlisko przeraz. Podobnie jak w przypadku ołtarza życzeń i fabryki golemów, aby werbować mieszkające tu stworzenia, najpierw musisz kilka pokonać.",
+    "voices": []
+  },
+  {
+    "id": 27,
+    "text_original": "To jest kaplica.  Podobnie jak w warsztacie, możesz tu werbować gargulce.  Jednak gargulce nie dołączą do ciebie tak po prostu - musisz zapłacić im żołd.  Potem będą już twoje.",
+    "text_clean": "To jest kaplica. Podobnie jak w warsztacie, możesz tu werbować gargulce. Jednak gargulce nie dołączą do ciebie tak po prostu - musisz zapłacić im żołd. Potem będą już twoje.",
+    "voices": []
+  },
+  {
+    "id": 28,
+    "text_original": "Fabryka golemów nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu golemy, musisz najpierw pokonać kilka z nich w walce.  Ponadto, znajdziesz tu nie jeden, ale cztery typy golemów.  W fabryce można rekrutować bardzo rzadkie, złote i diamentowe golemy, a także zwykłe, kamienne i żelazne.  Warto tu co jakiś czas zaglądać.",
+    "text_clean": "Fabryka golemów nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu golemy, musisz najpierw pokonać kilka z nich w walce. Ponadto, znajdziesz tu nie jeden, ale cztery typy golemów. W fabryce można rekrutować bardzo rzadkie, złote i diamentowe golemy, a także zwykłe, kamienne i żelazne. Warto tu co jakiś czas zaglądać.",
+    "voices": []
+  },
+  {
+    "id": 29,
+    "text_original": "Ołtarz życzeń nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu geniusze, musisz najpierw pokonać kilka z nich w walce.  Przypuszczam, że muszą upewnić się, czy jesteś dobrym dowódcą, nim staną po twojej stronie.",
+    "text_clean": "Ołtarz życzeń nieco różni się od pozostałych budynków, w których można prowadzić werbunek; aby móc rekrutować tu geniusze, musisz najpierw pokonać kilka z nich w walce. Przypuszczam, że muszą upewnić się, czy jesteś dobrym dowódcą, nim staną po twojej stronie.",
+    "voices": []
+  },
+  {
+    "id": 30,
+    "text_original": "W wieży magów szkolą się magowie.  Świetnie potrafią posługiwać się zaklęciami, rzucają na wrogów potężne kule energii.  Zawsze warto mieć ich w swojej armii.",
+    "text_clean": "W wieży magów szkolą się magowie. Świetnie potrafią posługiwać się zaklęciami, rzucają na wrogów potężne kule energii. Zawsze warto mieć ich w swojej armii.",
+    "voices": []
+  },
+  {
+    "id": 31,
+    "text_original": "Zanim zbadasz ten połyskujący, zielony obiekt, wstąp do kamieniołomów.  Wkrótce będziemy koło nich przechodzić.",
+    "text_clean": "Zanim zbadasz ten połyskujący, zielony obiekt, wstąp do kamieniołomów. Wkrótce będziemy koło nich przechodzić.",
+    "voices": []
+  },
+  {
+    "id": 32,
+    "text_original": "Dostępu do tych kopalni broni kilka stworzeń.  Jednak wydobywane tu zasoby są nam niezbędne do rozbudowy.  Jeśli uważasz, że Rissa ma zbyt mało oddziałów, wyślij ją do miasta, aby zwerbowała dodatkowe jednostki.  Jeśli sądzisz, że armia Rissy jest wystarczająco silna, zaatakuj!",
+    "text_clean": "Dostępu do tych kopalni broni kilka stworzeń. Jednak wydobywane tu zasoby są nam niezbędne do rozbudowy. Jeśli uważasz, że Rissa ma zbyt mało oddziałów, wyślij ją do miasta, aby zwerbowała dodatkowe jednostki. Jeśli sądzisz, że armia Rissy jest wystarczająco silna, zaatakuj!",
+    "voices": []
+  },
+  {
+    "id": 33,
+    "text_original": "To młyn wodny, w którym raz w tygodniu można pobierać podatek.  Jeśli nie będziesz wstępować tu co tydzień, młynarz wyda pieniądze i następnym tygodniu nie dostaniesz ani grosza więcej.  Warto zatrudnić kogoś, by co tydzień odwiedzał młyny i wiatraki, aby zbierać należne ci podatki.",
+    "text_clean": "To młyn wodny, w którym raz w tygodniu można pobierać podatek. Jeśli nie będziesz wstępować tu co tydzień, młynarz wyda pieniądze i następnym tygodniu nie dostaniesz ani grosza więcej. Warto zatrudnić kogoś, by co tydzień odwiedzał młyny i wiatraki, aby zbierać należne ci podatki.",
+    "voices": []
+  },
+  {
+    "id": 34,
+    "text_original": "To jest laboratorium, które może dostarczać królestwu jeden tygiel rtęci dziennie.  Należy zadbać, aby co najmniej jedno z nich znalazło się pod twoją kontrolą.  Jednak najpierw musimy pozbyć się stąd żywiołaków powietrza.",
+    "text_clean": "To jest laboratorium, które może dostarczać królestwu jeden tygiel rtęci dziennie. Należy zadbać, aby co najmniej jedno z nich znalazło się pod twoją kontrolą. Jednak najpierw musimy pozbyć się stąd żywiołaków powietrza.",
+    "voices": []
+  },
+  {
+    "id": 35,
+    "text_original": "Stworzenia, które spotykasz mogą do ciebie dołączyć, zaatakować cię lub po prostu uciec.  To co zrobią, zależy od wielkości armii bohatera, stronie, po której walczy dany rodzaj stworzeń, umiejętności dyplomatycznych oraz tego, czy są w nastroju do walki.  Wygląda na to, że te driady nie są nastawione zbyt przyjaźnie, więc chyba będziemy musieli z nimi walczyć.",
+    "text_clean": "Stworzenia, które spotykasz mogą do ciebie dołączyć, zaatakować cię lub po prostu uciec. To co zrobią, zależy od wielkości armii bohatera, stronie, po której walczy dany rodzaj stworzeń, umiejętności dyplomatycznych oraz tego, czy są w nastroju do walki. Wygląda na to, że te driady nie są nastawione zbyt przyjaźnie, więc chyba będziemy musieli z nimi walczyć.",
+    "voices": []
+  },
+  {
+    "id": 36,
+    "text_original": "Witaj, jesteś w chacie jasnowidza.  Tu będziesz otrzymywać pomniejsze zadania, które czasem są integralną częścią całej misji.  Jasnowidz może zażądać od ciebie wielu rzeczy - od oddziałów, poprzez surowca, aż po wykonanie jakiegoś zadania.\n\nJa chcę ci po prostu pomóc, więc wezmę od ciebie 30 magów i zamienię ich w 30 czarodziejów.  Czarodzieje to znawcy magii potężniejsi od magów i arcymagów.  Spodobają ci się ich zaklecia.",
+    "text_clean": "Witaj, jesteś w chacie jasnowidza. Tu będziesz otrzymywać pomniejsze zadania, które czasem są integralną częścią całej misji. Jasnowidz może zażądać od ciebie wielu rzeczy - od oddziałów, poprzez surowca, aż po wykonanie jakiegoś zadania. Ja chcę ci po prostu pomóc, więc wezmę od ciebie 30 magów i zamienię ich w 30 czarodziejów. Czarodzieje to znawcy magii potężniejsi od magów i arcymagów. Spodobają ci się ich zaklecia.",
+    "voices": []
+  },
+  {
+    "id": 37,
+    "text_original": "Wróć proszę, gdy będziesz miał 30 magów, a ja zamienię ich na czarodziejów.",
+    "text_clean": "Wróć proszę, gdy będziesz miał 30 magów, a ja zamienię ich na czarodziejów.",
+    "voices": []
+  },
+  {
+    "id": 38,
+    "text_original": "Skoro masz 30 magów, pozwolisz mi chyba zamienić ich w 30 czarodziejów?",
+    "text_clean": "Skoro masz 30 magów, pozwolisz mi chyba zamienić ich w 30 czarodziejów?",
+    "voices": []
+  },
+  {
+    "id": 39,
+    "text_original": "Witam, Wasza Wysokość.  Jestem twoim doradcą, zwę się Marantea.  Właśnie przekazano ci podstawowy zestaw obowiązków osoby zarządzającej królestwem.  Każdego dnia będę udzielać ci nowych rad, a ty wykaż nieco cierpliwości i zapoznaj się z nimi.  Gdy nauczysz się wszystkiego, co ci pokażę, będziesz w stanie sprawnie zarządzać królestwem.",
+    "text_clean": "Witam, Wasza Wysokość. Jestem twoim doradcą, zwę się Marantea. Właśnie przekazano ci podstawowy zestaw obowiązków osoby zarządzającej królestwem. Każdego dnia będę udzielać ci nowych rad, a ty wykaż nieco cierpliwości i zapoznaj się z nimi. Gdy nauczysz się wszystkiego, co ci pokażę, będziesz w stanie sprawnie zarządzać królestwem.",
+    "voices": []
+  },
+  {
+    "id": 40,
+    "text_original": "KAŻDY dzień należy rozpocząć od skonstruowania jakiegoś budynku.  Aby zacząć budowę, przejedź do miasta klikając na nim lub na małej ikonie miasta z prawej strony ekranu.\n\nNa ekranie miasta - z prawej strony - znajdź budynek o nazwie \"Dom Rady Miasta\".  Kliknij na nim, aby wyświetlić ekran domu Rady.  Znajdziesz tu wszystkie typy budynków.  Gdy klikniesz prawym przyciskiem myszy na budynku, dowiesz się, jakie są jego funkcje oraz ile kosztuje jego budowa. \n\nZacznij od budowy kaplicy.  Budynek ten pozwala rekrutować gargulce.",
+    "text_clean": "KAŻDY dzień należy rozpocząć od skonstruowania jakiegoś budynku. Aby zacząć budowę, przejedź do miasta klikając na nim lub na małej ikonie miasta z prawej strony ekranu. Na ekranie miasta - z prawej strony - znajdź budynek o nazwie \"Dom Rady Miasta\". Kliknij na nim, aby wyświetlić ekran domu Rady. Znajdziesz tu wszystkie typy budynków. Gdy klikniesz prawym przyciskiem myszy na budynku, dowiesz się, jakie są jego funkcje oraz ile kosztuje jego budowa. Zacznij od budowy kaplicy. Budynek ten pozwala rekrutować gargulce.",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 41,
+    "text_original": "Dziś zbuduj fabrykę golemów, w której powstają kamienne golemy.  Później, gdy postawisz inne budynki, będzie można ją zmodernizować.  Gdy skończysz wybierać budynki, przespaceruj się po okolicy swoim pierwszym bohaterem, Rissą, aby dowiedzieć się więcej o swoim otoczeniu.",
+    "text_clean": "Dziś zbuduj fabrykę golemów, w której powstają kamienne golemy. Później, gdy postawisz inne budynki, będzie można ją zmodernizować. Gdy skończysz wybierać budynki, przespaceruj się po okolicy swoim pierwszym bohaterem, Rissą, aby dowiedzieć się więcej o swoim otoczeniu.",
+    "voices": []
+  },
+  {
+    "id": 42,
+    "text_original": "Dziś jest doskonały dzień na zajęcie się budynkiem gildii magów.  Możesz oczywiście zbudować, co tylko chcesz, ale budując w określonej kolejności, najlepiej wykorzystasz funkcje budowli.  Gildia magów zaopatruje twoich bohaterów w cenne zaklęcia, których mogą używać w czasie bitwy oraz w trakcie wędrówki po mapie.",
+    "text_clean": "Dziś jest doskonały dzień na zajęcie się budynkiem gildii magów. Możesz oczywiście zbudować, co tylko chcesz, ale budując w określonej kolejności, najlepiej wykorzystasz funkcje budowli. Gildia magów zaopatruje twoich bohaterów w cenne zaklęcia, których mogą używać w czasie bitwy oraz w trakcie wędrówki po mapie.",
+    "voices": []
+  },
+  {
+    "id": 43,
+    "text_original": "Dziś zajmiemy się budową wieży magów.  Wieża ma zupełnie inną funkcję niż gildia magów, gdyż w przeciwieństwie do niej nie dostarcza zaklęć, ale szkoli samych magów.  Magowie potrafią w trakcie bitwy rzucać w kierunku wrogów potężne kule energii - to wspaniałe uzupełnienie możliwość twojej armii.",
+    "text_clean": "Dziś zajmiemy się budową wieży magów. Wieża ma zupełnie inną funkcję niż gildia magów, gdyż w przeciwieństwie do niej nie dostarcza zaklęć, ale szkoli samych magów. Magowie potrafią w trakcie bitwy rzucać w kierunku wrogów potężne kule energii - to wspaniałe uzupełnienie możliwość twojej armii.",
+    "voices": []
+  },
+  {
+    "id": 44,
+    "text_original": "Teraz możemy wybudować ołtarz życzeń, który pozwala rekrutować geniuszy.\n\n\nNie zapominaj co jakiś czas skierować Rissy do miasta, aby mogła uzupełnić oddziały.  Jej początkowe siły szybko zostaną uszczuplone, a musisz zdobyć niemały szmat ziemi.",
+    "text_clean": "Teraz możemy wybudować ołtarz życzeń, który pozwala rekrutować geniuszy. Nie zapominaj co jakiś czas skierować Rissy do miasta, aby mogła uzupełnić oddziały. Jej początkowe siły szybko zostaną uszczuplone, a musisz zdobyć niemały szmat ziemi.",
+    "voices": []
+  },
+  {
+    "id": 45,
+    "text_original": "Jeśli Rissa nie odwiedzała ostatnio miasta, powinna do niego wstąpić, aby nauczyć się nowych zaklęć i zwerbować kolejne oddziały.  Jej oddziały nie są jeszcze zbyt liczne.\n\nDziś zajmiemy się budową złotego pawilony, w którym mieszkają potężne przerazy.  Te uzbrojone po zęby stworzenia są fantastycznymi wojownikami.",
+    "text_clean": "Jeśli Rissa nie odwiedzała ostatnio miasta, powinna do niego wstąpić, aby nauczyć się nowych zaklęć i zwerbować kolejne oddziały. Jej oddziały nie są jeszcze zbyt liczne. Dziś zajmiemy się budową złotego pawilony, w którym mieszkają potężne przerazy. Te uzbrojone po zęby stworzenia są fantastycznymi wojownikami.",
+    "voices": []
+  },
+  {
+    "id": 46,
+    "text_original": "Budynki takie jak cytadela staraj się budować przed końcem tygodnia.  Liczba oddziałów, które mogą jutro przybyć, zwiększy się dzięki temu o 50%.  Miasto zostanie też opatrzone wieżami strzelniczymi oraz fosą.  Nie sądzę, żeby ktoś nas teraz zaatakował, ale w zwykłej grze nie można wykluczyć takiej możliwości.  Obrona miasta jest trudna, ale cytadela, a potem zamek znacznie ułatwiają to zadanie.\n\nZbuduj teraz cytadelę.",
+    "text_clean": "Budynki takie jak cytadela staraj się budować przed końcem tygodnia. Liczba oddziałów, które mogą jutro przybyć, zwiększy się dzięki temu o 50%. Miasto zostanie też opatrzone wieżami strzelniczymi oraz fosą. Nie sądzę, żeby ktoś nas teraz zaatakował, ale w zwykłej grze nie można wykluczyć takiej możliwości. Obrona miasta jest trudna, ale cytadela, a potem zamek znacznie ułatwiają to zadanie. Zbuduj teraz cytadelę.",
+    "voices": []
+  },
+  {
+    "id": 47,
+    "text_original": "Cudowanie - nowy tydzień!  Na początku każdego tygodnia ma miejsce bardzo ważne wydarzenie.  W każdym budynku werbującym oddziały pojawiają się nowe jednostki - zarówno w mieście, jak i poza nim.  Aby zwerbować oddziały znajdujące się w budynkach poza miastem, musisz wysłać do nich bohatera.  Aby wynająć bohatera, musisz przejść do tawerny.  Kliknij na tawernie i wynajmij jednego z dwóch bohaterów.  Wyślij go poza miasto, aby zwerbował jednostki.",
+    "text_clean": "Cudowanie - nowy tydzień! Na początku każdego tygodnia ma miejsce bardzo ważne wydarzenie. W każdym budynku werbującym oddziały pojawiają się nowe jednostki - zarówno w mieście, jak i poza nim. Aby zwerbować oddziały znajdujące się w budynkach poza miastem, musisz wysłać do nich bohatera. Aby wynająć bohatera, musisz przejść do tawerny. Kliknij na tawernie i wynajmij jednego z dwóch bohaterów. Wyślij go poza miasto, aby zwerbował jednostki.",
+    "voices": []
+  },
+  {
+    "id": 48,
+    "text_original": "Dziś zajmiemy się budową targowiska.  Dzięki niemu można zamieniać nadwyżki zgromadzonych zasobów na inne brakujące towary.  Gdy masz na przykład za dużo drewna, na targowisku możesz zamienić je na złoto.  Im więcej masz targowisk, tym lepsze ceny uzyskasz przy wymianie.",
+    "text_clean": "Dziś zajmiemy się budową targowiska. Dzięki niemu można zamieniać nadwyżki zgromadzonych zasobów na inne brakujące towary. Gdy masz na przykład za dużo drewna, na targowisku możesz zamienić je na złoto. Im więcej masz targowisk, tym lepsze ceny uzyskasz przy wymianie.",
+    "voices": []
+  },
+  {
+    "id": 49,
+    "text_original": "Aby zbudować ratusz, musisz mieć kuźnię.  Gdy zbudujesz kuźnię, sprawdź, co też ma ona do zaoferowania twojemu bohaterowi.  Pamiętaj, że tylko bohater może robić zakupy w kuźni, oddziały nie mają do niej dostępu.",
+    "text_clean": "Aby zbudować ratusz, musisz mieć kuźnię. Gdy zbudujesz kuźnię, sprawdź, co też ma ona do zaoferowania twojemu bohaterowi. Pamiętaj, że tylko bohater może robić zakupy w kuźni, oddziały nie mają do niej dostępu.",
+    "voices": []
+  },
+  {
+    "id": 50,
+    "text_original": "Teraz możesz już zbudować ratusz, który pozwoli podnieść dochody z królestwa. Będzie przynosić ci 2000 sztuk złota dziennie.  Dzięki temu zgromadzisz fundusze na opłacenie wszystkich oddziałów, które pojawią się na początku przyszłego miesiąca.",
+    "text_clean": "Teraz możesz już zbudować ratusz, który pozwoli podnieść dochody z królestwa. Będzie przynosić ci 2000 sztuk złota dziennie. Dzięki temu zgromadzisz fundusze na opłacenie wszystkich oddziałów, które pojawią się na początku przyszłego miesiąca.",
+    "voices": []
+  },
+  {
+    "id": 51,
+    "text_original": "Teraz masz już zapewne wystarczająco dużo złota, aby zbudować świątynie obłoków i zwerbować kilka gigantów do armii Rissy.  Giganty mimo swej wielkości bardzo szybko poruszają się - to wspaniały nabytek.",
+    "text_clean": "Teraz masz już zapewne wystarczająco dużo złota, aby zbudować świątynie obłoków i zwerbować kilka gigantów do armii Rissy. Giganty mimo swej wielkości bardzo szybko poruszają się - to wspaniały nabytek.",
+    "voices": []
+  },
+  {
+    "id": 52,
+    "text_original": "Twoja forteca jest kiepsko broniona, należałoby postawić zamek.  To nalepszy sposób zabezpieczenia miasta przed napastnikami, a poza tym umożliwia budowę kapitolu.  Zamek zwiększy też cotygodniowy przyrost oddziałów o 50%.",
+    "text_clean": "Twoja forteca jest kiepsko broniona, należałoby postawić zamek. To nalepszy sposób zabezpieczenia miasta przed napastnikami, a poza tym umożliwia budowę kapitolu. Zamek zwiększy też cotygodniowy przyrost oddziałów o 50%.",
+    "voices": []
+  },
+  {
+    "id": 53,
+    "text_original": "Jak widzisz, możesz teraz zbudować kapitol i zarabiać 4000 sztuk złota dziennie - marzenie każdego władcy!  Zarządź budowę, a już od jutra zaczniesz czerpać z niej zyski.",
+    "text_clean": "Jak widzisz, możesz teraz zbudować kapitol i zarabiać 4000 sztuk złota dziennie - marzenie każdego władcy! Zarządź budowę, a już od jutra zaczniesz czerpać z niej zyski.",
+    "voices": []
+  },
+  {
+    "id": 54,
+    "text_original": "W fortecy można umieścić bardzo interesującą strukturę o nazwie ściana wiedzy.  Gdy ją zbudujesz, sprowadź do miasta Rissę i innych bohaterów.  Wszyscy otrzymają dodatkowy punkt wiedzy - to cenna premia!  Ale pamiętaj, że każdy bohater dostanie ją tylko raz.",
+    "text_clean": "W fortecy można umieścić bardzo interesującą strukturę o nazwie ściana wiedzy. Gdy ją zbudujesz, sprowadź do miasta Rissę i innych bohaterów. Wszyscy otrzymają dodatkowy punkt wiedzy - to cenna premia! Ale pamiętaj, że każdy bohater dostanie ją tylko raz.",
+    "voices": []
+  },
+  {
+    "id": 55,
+    "text_original": "Kolejnym specjalnym budynkiem jest biblioteka, która dostarcza dodatkowych zaklęć każdego poziomu.  Koszt budowy to niewielka cena za dodatkowe czary.",
+    "text_clean": "Kolejnym specjalnym budynkiem jest biblioteka, która dostarcza dodatkowych zaklęć każdego poziomu. Koszt budowy to niewielka cena za dodatkowe czary.",
+    "voices": []
+  },
+  {
+    "id": 56,
+    "text_original": "Aby zwiększyć cotygodniowy kontyngent gargulców, zbuduj obiekt o nazwie Skrzydła Stwórcy.  Dodatkowe oddziały zawsze się przydadzą.",
+    "text_clean": "Aby zwiększyć cotygodniowy kontyngent gargulców, zbuduj obiekt o nazwie Skrzydła Stwórcy. Dodatkowe oddziały zawsze się przydadzą.",
+    "voices": []
+  },
+  {
+    "id": 57,
+    "text_original": "Nie raz już mówiłam o modernizacji budynków, to dotyczy też budynków, w których można werbować oddziały.  Modernizacja pozwala werbować bardziej doświadczone, szybsze i lepsze oddziały.  Zawsze warto modernizować znajdujące się w mieście budynki, jeśli tylko masz na to surowce.  Jednak dużo ważniejsze niż modernizowanie istniejących budynków jest werbowanie jednostek i konstruowanie nowych budynków.\n\nDo tej pory masz już zapewne wszystkie budynki podstawowego poziomu, w których można prowadzić werbunek.  A więc zabierz się za modernizację tych, które najbardziej ci się przydają.  Jeśli zwerbowałeś jakieś oddziały przed zmodernizowaniem budynku, nie martw się - możesz je ulepszyć.  Po prostu kliknij na ikonie oddziału, a następnie skorzystaj ze strzałki w górę, która pojawi się w ramce.  Trzeba będzie wydać trochę złota, ale ulepszone oddziały są tego warte.",
+    "text_clean": "Nie raz już mówiłam o modernizacji budynków, to dotyczy też budynków, w których można werbować oddziały. Modernizacja pozwala werbować bardziej doświadczone, szybsze i lepsze oddziały. Zawsze warto modernizować znajdujące się w mieście budynki, jeśli tylko masz na to surowce. Jednak dużo ważniejsze niż modernizowanie istniejących budynków jest werbowanie jednostek i konstruowanie nowych budynków. Do tej pory masz już zapewne wszystkie budynki podstawowego poziomu, w których można prowadzić werbunek. A więc zabierz się za modernizację tych, które najbardziej ci się przydają. Jeśli zwerbowałeś jakieś oddziały przed zmodernizowaniem budynku, nie martw się - możesz je ulepszyć. Po prostu kliknij na ikonie oddziału, a następnie skorzystaj ze strzałki w górę, która pojawi się w ramce. Trzeba będzie wydać trochę złota, ale ulepszone oddziały są tego warte.",
+    "voices": []
+  },
+  {
+    "id": 58,
+    "text_original": "Sądzę, że wiesz już co trzeba, panie.  Wiem, że Rissa ma dla ciebie jeszcze parę informacji, ale ja przekazałam ci już wszystko.  Po prostu buduj kolejne budynki, modernizuj je i werbuj jednostki.  Jeśli będziesz mieć jakieś problemy, zajrzyj do elektronicznego przewodnika, gdyż zawiera on wiele ważnych informacji.",
+    "text_clean": "Sądzę, że wiesz już co trzeba, panie. Wiem, że Rissa ma dla ciebie jeszcze parę informacji, ale ja przekazałam ci już wszystko. Po prostu buduj kolejne budynki, modernizuj je i werbuj jednostki. Jeśli będziesz mieć jakieś problemy, zajrzyj do elektronicznego przewodnika, gdyż zawiera on wiele ważnych informacji.",
+    "voices": []
+  },
+  {
+    "id": 59,
+    "text_original": "Gdy skończysz (to znaczy, gdy żaden z twoich bohaterów nie będzie miał już punktów ruchu i skonstruujesz wybrane budynki), zamknij kolejkę klikając na przycisku klepsydry umieszczonym z prawej strony ekranu.",
+    "text_clean": "Gdy skończysz (to znaczy, gdy żaden z twoich bohaterów nie będzie miał już punktów ruchu i skonstruujesz wybrane budynki), zamknij kolejkę klikając na przycisku klepsydry umieszczonym z prawej strony ekranu.",
+    "voices": []
+  },
+  {
+    "id": 60,
+    "text_original": "Aby zapłacić za jednostki, musisz zwiększyć swoje dochody.  Najlepszym sposobem jest rozbudowa domu Rady Miasta.  Gdy zmodernizujesz tę budowlę, twoje dzienne dochody wzrosną.  Wybuduj więc dom Rady Miasta, a zamiast 500 sztuk złota dziennie będziesz otrzymywać 1000.  Nawet jeśli kusi cię, by zbudować świątynię obłoków, powstrzymaj się na razie z jej budową; werbunek gigantów jest bardzo kosztowny, a nie chcesz chyba zbyt szybko pozbyć się zapasu złota.",
+    "text_clean": "Aby zapłacić za jednostki, musisz zwiększyć swoje dochody. Najlepszym sposobem jest rozbudowa domu Rady Miasta. Gdy zmodernizujesz tę budowlę, twoje dzienne dochody wzrosną. Wybuduj więc dom Rady Miasta, a zamiast 500 sztuk złota dziennie będziesz otrzymywać 1000. Nawet jeśli kusi cię, by zbudować świątynię obłoków, powstrzymaj się na razie z jej budową; werbunek gigantów jest bardzo kosztowny, a nie chcesz chyba zbyt szybko pozbyć się zapasu złota.",
+    "voices": []
+  }
+]

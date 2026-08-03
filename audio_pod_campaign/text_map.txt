@@ -1,0 +1,306 @@
+# text_map.txt (bez filtra mapy)
+# Format: pod_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Pod_bmp_campaign_texts_ab_edit.txt
+
+pod_001|Przodkowie wysłali Tarnuma, by pomógł kr
+pod_002|Misja: Pokonaj Arcydiabły, nie tracąc pr
+pod_003|Gdy Przodkowie odesłali Tarnuma, by chro
+pod_004|Misja: Zdobądź Ducha opresji, nie tracąc
+pod_005|Każda armia, która wkroczyła do świata P
+pod_006|Misja: Pokonaj wszystkich przeciwników, 
+pod_007|Odzyskawszy wzrok dzięki amuletowi magic
+pod_008|Misja: Pokonaj wszystkich przeciwników, 
+pod_009|W końcu jednak Tarnum poznał imię tego, 
+pod_010|Misja: Znajdź kulę przeciwstawienia, nie
+pod_011|Udawanie rycerza okazało się łatwiejsze,
+pod_012|Misja: Zdobądź Amulet magicznej wizji, n
+pod_013|Jedynie kilku z tych, którzy spotkali Ni
+pod_014|Misja: Pokonaj Sandro, nie tracąc przy t
+pod_015|Kazamaty Podziemi karzą tych, którzy je 
+pod_016|Misja: Pokonaj Deezeliska, nie tracąc pr
+pod_017|Nigdy nie ufaj demonowi. Tarnum wiedział
+pod_018|Tego rześkiego, wietrznego poranka, gdy 
+pod_020|Tarnum musi dotrzeć do bramy Podziemi i 
+pod_021|Uznany przez Przodków za niegodnego prze
+pod_022|Nie czujemy się tu bezpieczni; gdybyś wr
+pod_023|Nie wydaje mi się, byś miał jedenaście k
+pod_024|Co za cudowna nowina!  Teraz możemy bezp
+pod_025|Instynkt barbarzyńcy podpowiada ci, że d
+pod_026|Przedzierając się przez góry, zauważasz 
+pod_027|Ledwie wierzysz oczom podchodząc do kopa
+pod_028|Co?  Myślałeś, że zamierzamy tak po pros
+pod_029|To moja kopalnia!  To moje złoto!  Odejd
+pod_030|Potrzebujemy dowodu, że rzeczywiście wal
+pod_031|Daj nam te zjawy, a my zapewnimy ich dus
+pod_032|"Nikt tędy nie przejdzie!"
+pod_033|Przepraszam, ale wciąż nie mam szczęścia
+pod_034|Hej!  Znalazłeś ją dla mnie.  To cudowni
+pod_035|Nie jesteś jeszcze wart, by przejść.  St
+pod_036|Strażnicy doceniają twe wysiłki i osiągn
+pod_037|Patrzysz z niechęcią na niegościnny kraj
+pod_038|Przykro nam chłopaki, ale mamy rozkaz ni
+pod_039|He, he, he!  Mamy obserwować to miejsce 
+pod_040|"Świetnie, panie!  Właśnie zdążaliśmy do
+pod_041|Odejdź!  Ta rtęć jest dla naszego pana, 
+pod_042|Zatrzymawszy się na krótki postój, zapus
+pod_043|Przed wymarszem przypominasz sobie obiet
+pod_044|Przodkowie wezwali mnie do królestwa Era
+pod_045|Stosy skarbów i surowców po prostu walaj
+pod_046|"Mądrze będzie zignorować stosy skarbów 
+pod_047|Tu, na granicy Podziemi, okolica jest ni
+pod_048|Przybył posłaniec królowej Allison i wrę
+pod_049|Moja odpowiedź do królowej Allison może 
+pod_050|Ostatnio nie mogę przestać myśleć o Rion
+pod_051|Przyszła kolejna wiadomość od królowej A
+pod_052|Allison przysyła listy niemal codziennie
+pod_053|Udawanie rycerza niewiele różni się od b
+pod_054|Ostatniej nocy słyszałem rozmowę prowadz
+pod_055|Zabijanie złych potworów zamieszkujących
+pod_056|Brama do Podziemi jest już blisko.  Cały
+pod_057|Rion Gryphonheart był moim zajadłym wrog
+pod_058|Dziś jest rocznica mojej śmierci i wynik
+pod_060|Tarnum musi dostać się do ducha opresji,
+pod_061|Młody człowiek, który powiedział ci o sa
+pod_062|Nasz król chce zatrudnić sześć demonów. 
+pod_063|"Nikt nie spotka się klucznikiem, dopóki
+pod_064|"Panie!  Poczekaj!"\n\nZatrzymujesz się 
+pod_065|Ziemia rozstępuje się przed tobą wyrzuca
+pod_066|Stara jasnowidzka wychodzi z chaty i uśm
+pod_067|Jak na kogoś tak młodego, masz kiepską p
+pod_068|Och, właśnie o to chodziło! Oto nagroda,
+pod_069|Nasz król chce kilka piekielnych ogarów 
+pod_070|Przykro mi, ale król chce dziewięć pieki
+pod_071|Wspaniale!  Przyprowadziłeś dziewięć pie
+pod_072|Próbując podejść do ducha opresji, zdaje
+pod_073|Próbując podejść do ducha opresji, zdaje
+pod_074|Wiele lat temu fanatycy z sekty zelotów 
+pod_077|To jest duch opresji, potrzebny, by otwo
+pod_078|"Ha!", krzyknął z wieży poorany zmarszcz
+pod_079|"Nie ma sakiewki, nie ma przejścia! odej
+pod_080|"W porządku!  Dawaj sakiewkę, a więcej m
+pod_081|Znak mówi:\n\n"Módl się lub odejdź!"\n\n
+pod_082|Nie wiem, czy kiedykolwiek przyzwyczaję 
+pod_083|Klerycy odkryli, że następna część aniel
+pod_084|Demony powiewające liliowym sztandarem u
+pod_085|Zwiadowcy wrócili z interesującymi infor
+pod_086|Kolejny raport.  Moja niechęć do ich pis
+pod_087|Zmęczeni ludzie łatwiej popełniają pomył
+pod_088|Przybył goniec z Worthington z wieściami
+pod_089|Przez kilka ostatnich nocy demony były s
+pod_090|Ku mojemu zaskoczeniu ani jeden człowiek
+pod_091|Walki w obrębie oddziałów niemal ustały,
+pod_092|Noc za nocą wrogowie nas szarpią.  Ukryc
+pod_093|Rozmawiałem z mnichami o ich odporności 
+pod_094|Wreszcie odkryłem, czego chce Deezelisk.
+pod_096|Tarnum musi pokonać wszystkich wrogów.  
+pod_097|Jorm jest pomniejszym demonem, który pra
+pod_098|Jorm jest blisko.  Wkrótce dusza Riona G
+pod_099|Grupa diablików opuściła naszych wrogów,
+pod_100|Wygląda na to, że Deezelisk naprawdę pró
+pod_101|"Za sakwę złota powiem ci, co jest za br
+pod_102|"Sakwa złota odświeżyłaby mi pamięć, szl
+pod_103|Allison jest królową Erathii, młodego kr
+pod_104|Budowa zamku to długotrwały proces, a du
+pod_105|Mensor, jeden z niewielu, którzy towarzy
+pod_106|Jorm jeszcze się nie pojawił.  Jednak je
+pod_107|Ostatniego wieczoru jadłem kolację z kró
+pod_108|Mensor znalazł Jorma.\n\nNajpierw musimy
+pod_109|W ręce zwiadowców wpadły kolejne informa
+pod_110|Królowa Allison zdobyła lojalność demonó
+pod_111|Mensor nie wraca i zaczynam się o niego 
+pod_112|Kraina pełna wyziewów siarki jest kiepsk
+pod_114|Tarnum musi pokonać władców Podziemia, b
+pod_116|Strażnik wystąpił naprzód i powiedział: 
+pod_117|Pilnujemy szarfy ambasadora dla lorda Ta
+pod_118|Nie wyglądasz na lorda Tarnuma.
+pod_119|Bądź pozdrowiony lordzie Tarnumie!  Czy 
+pod_120|Przestraszona i wątła harpia wiedźma lec
+pod_121|Wpadłeś w zasadzkę!  Kilka harpii nadlat
+pod_122|W tych krętych i wietrznych korytarzach 
+pod_123|Ci władcy Podziemi nie są głupcami.  Por
+pod_124|"Wiele wiem o tych tunelach, być może mo
+pod_125|To jest zasadzka na gracza komputerowego
+pod_126|Piekielni troglodyci wynurzają się zza s
+pod_127|I znów zostajesz otoczony przez wstrętne
+pod_128|Szermierz raportuje: "Panie!  Kilku zwia
+pod_129|Królowa Allison chciała włączyć się do w
+pod_130|To miejsce to labirynt, gorszy jeszcze n
+pod_131|Kampania królowej Allison przeciw niedob
+pod_132|Oto moja spowiedź.  Ostatnie koszmary od
+pod_133|Trudno pisać to wyznanie, więc robię to 
+pod_134|Oto dalszy ciąg mego wyznania.\n\nNie pa
+pod_135|Spisywanie tego wyznania musiało wywołać
+pod_136|Zakopałem moją spowiedź w tych tunelach,
+pod_137|"Panie, znaleźliśmy tę starą kobietę w l
+pod_138|Już nie błądzimy bezcelowo po tych jaski
+pod_139|Królowa Allison niespodziewanie pojawiła
+pod_140|Jestem pewien, że królowa Allison sprawd
+pod_141|Po kilku dniach milczenia przyszedł list
+pod_142|Z własnych źródeł dowiedziałem się, że A
+pod_143|Odpowiedź królowej Allison na mój brutal
+pod_144|Znajdź kulę przeciwstawienia, aby zapłac
+pod_145|Oddziały królowej Allison przybyły i są 
+pod_146|Zszedłem tu wiele lat temu, aby badać ró
+pod_147|I co, nic?  Jestem pewien, że wkrótce zn
+pod_148|Wygląda na to, że zawrzemy transakcję.  
+pod_149|Moja rodzina i ja chcemy się stąd wydost
+pod_150|Przykro mi, ale potrzebuję archanioła, a
+pod_151|Daj nam archanioła i możesz zająć się sw
+pod_152|Zgodzę się odstąpić kajdany wojny, ale b
+pod_153|Po co mi przeszkadzasz, skoro nie masz 5
+pod_154|Przyniosłeś mi pieniądze, więc ja dam ci
+pod_155|Znam twoje plany.  Pochwalam to, co robi
+pod_156|Do tej pory nie przyniosłeś mi hełmu cha
+pod_157|A więc naprawdę doceniasz wiedzę, którą 
+pod_158|Potrzebuję opończy przeciwstawienia.  Je
+pod_159|Bez opończy przeciwstawienia nie przejdz
+pod_160|Skoro masz opończę przeciwstawienia, moż
+pod_161|Nie masz pojęcia, co ten podstarzały ryc
+pod_162|Przykro mi, ale inne rzeczy mnie nie int
+pod_163|Cóż, ponieważ wiem, jak zależy ci na zna
+pod_164|Bardzo mi przykro, ale musimy być przeko
+pod_165|Wygląda na to, że nie masz tu nic do rob
+pod_166|Wygląda na to, że masz tu jakieś ważne s
+pod_167|Zza najbliższego zakrętu tunelu dobiega 
+pod_168|Banda chowańców pląsa wokół wejścia do j
+pod_169|Zwiadowca wrócił z informacjami.\n\n"Zab
+pod_170|Diabelska mgła wije się pod stopami, jak
+pod_171|Diabelska mgła wije się pod stopami, jak
+pod_172|Diabelska mgła wije się pod stopami, jak
+pod_173|Lepka, zielona pacyna nadleciała dosłown
+pod_174|Najwyraźniej piekielne ogary mają wiele 
+pod_175|Przy drodze siedzi staruszek żebrząc o m
+pod_176|Podchodząc do kopalni złota, widzisz obo
+pod_177|Ten mały zakątek zdecydowanie musiał być
+pod_178|Odkrycie tego fantastycznego artefaktu s
+pod_179|Zupełnie znikąd pojawia się oszalały cho
+pod_180|Istota o szczurzym wyglądzie mówi :"Odwi
+pod_181|Ziemia przed tobą pokryta jest kośćmi po
+pod_182|Przez całą wieczność można krążyć po pie
+pod_183|Moi doradcy przeprowadzili się już do no
+pod_184|Dziś dotarła do mnie wiadomość zawierają
+pod_185|"Radzimy", mówi przedstawiciel moich dor
+pod_186|Szlaki komunikacyjne już działają i król
+pod_187|Kilka dni zajęło mi ułożenie odpowiedzi 
+pod_188|Przybył jeździec, członek jednej z grup 
+pod_189|Nie da się tego uniknąć.  Muszę spotkać 
+pod_190|Instrukcje dotyczące zdobycia kuli przec
+pod_191|Przyszła wiadomość od królowej Allison.\
+pod_192|Jeden z moich doradców napomknął, że moj
+pod_193|Moje kwieciste słowa i fałszywa poza szl
+pod_194|Atakując z ukrycia przez ostatnie miesią
+pod_195|Sprawy układały się całkiem dobrze, dopó
+pod_196|Dziki atak piekielnych ogarów zaskoczył 
+pod_197|Zastanawiając się nad różnicami między b
+pod_198|Po długim, ciężkim dniu postanowiłem por
+pod_199|Królowa Allison przybyła do bramy Podzie
+pod_200|Informacje przekazane przez zwiadowcę są
+pod_202|Tarnum musi znaleźć amulet magicznej wiz
+pod_203|Nasi ojcowie zeszli na dół wiele lat tem
+pod_204|Nie masz 40 harpich wiedźm, co świadczy 
+pod_205|Daj nam 40 harpich wiedźm, jako dowód, ż
+pod_206|Na twojej drodze stoi grupa władców mrok
+pod_207|Znajdujesz amulet magicznej wizji!  Może
+pod_208|Jestem tu już od tak dawna, minęły dzies
+pod_210|"Wreszcie patrzę w twarz Tarnuma.  Mam d
+pod_211|Te sandały to przedostatnia rzecz, które
+pod_212|Zwiadowca wrócił ze wspaniałymi nowinami
+pod_213|Nie uda ci się zburzyć tej bramy strażni
+pod_214|Myślałeś, że tego nie policzę, co?  Powi
+pod_215|50000!  Nigdy nie widziałem tyle złota n
+pod_216|Zza skał wyłania się grupa ludzi w łachm
+pod_217|Te sandały do nas należą i ani tobie, an
+pod_218|Nowi rekruci zakończyli szkolenie.
+pod_219|Mam teraz trzech przeciwników, wszyscy s
+pod_220|Potrzebuję więcej kapitanów, jeśli mam z
+pod_221|Mój kapitan informacyjny, Mensor, jest w
+pod_222|Szpiedzy Mensora wrócili z niepokojącymi
+pod_223|Niepokoiłem się, że Deezelisk może dowie
+pod_224|Przybył posłaniec od królowej Allison i 
+pod_225|Mensor zachowuje się ostatnio dość dziwn
+pod_226|Dotarło do nas kilka przypadkowych infor
+pod_227|Kilku szpiegów Mensora próbowało zbudowa
+pod_228|Wiele razy spędzałem miłe wieczory z moi
+pod_229|Odłożyłem najświeższy list od królowej A
+pod_230|Mensor złapał trzech ludzi próbujących p
+pod_231|Mensorowi udało się wydostać nieco infor
+pod_232|Kolejny wieczór przy ognisku obozowym i 
+pod_233|Mensor musi podejrzewać, że nie jestem t
+pod_234|Często wymykam się sam, by pomyśleć.  Ta
+pod_235|A więc Mensor wie, że jestem kłamcą, ale
+pod_236|Okazuje się, że nie byliśmy tak dokładni
+pod_237|Byłem tak pochłonięty podejrzeniami Mens
+pod_238|Szpiedzy Mensora odkryli położenie amule
+pod_239|"Panie Tarnum, chciałbym zamienić słówko
+pod_240|Dałem sobie i Mensorowi kilka dni na usp
+pod_241|Mensor jest wobec mnie wciąż tak samo oz
+pod_242|Tej nocy do obozu wpadły czarty.  Spalił
+pod_243|"Tarnum, dlaczego mnie uratowałeś?",  to
+pod_244|Wreszcie.  Ostatniej nocy Mensor pojawił
+pod_245|Minęło kilka dni, odkąd opowiedziałem Me
+pod_246|Jeśli moja siostra mogła wybaczyć mi moj
+pod_248|"Powszechnie wiadomo, że Rion Gryphonhea
+pod_250|Tarnum musi zabić Sandro, aby zdobyć klu
+pod_251|Widzisz szkielet jakiegoś nieszczęśliwca
+pod_252|Sprawiający wrażenie rozwścieczonego, gr
+pod_253|Ludzie są zdenerwowani tym, że muszą bro
+pod_254|Strażnicy doceniają twe wysiłki i osiągn
+pod_255|Stary człowiek z trudem wychodzi z ciemn
+pod_256|"Mówi się, że płacisz za informacje", mó
+pod_257|To musi być monolit, o którym mówiła kob
+pod_258|Zbiegły niewolnik dotarł do naszego oboz
+pod_259|Na drodze stoi niewidoma kobieta i, co d
+pod_260|"Moje informacje to raczej wnioski, niż 
+pod_261|"Chcesz rady, panie?"\n\nGłos przeraża c
+pod_262|Teraz muszę zmierzyć się z Sandro, nekro
+pod_263|W marzeniach wróciłem do dni, gdy odbudo
+pod_264|W snach wciąż słyszę szczęk broni oznajm
+pod_265|W dzisiejszym śnie wróciłem do dnia, gdy
+pod_266|Choć te sny przypominały wspomnienia, to
+pod_267|W niektóre noce moje sny są dzikie i nie
+pod_268|Początkowo ten sen niczym nie różnił się
+pod_269|Na szczęście królowa Allison trzyma się 
+pod_270|Gdy polerowałem dziś rano zbroję, zobacz
+pod_271|Znów śniłem, że jestem na bagnach próbuj
+pod_272|Zeszłej nocy zraniłem człowieka, przypad
+pod_273|Zorientowałem się, że to sen, gdy zdałem
+pod_274|Kolejny sen.\n\nWbiliśmy się poprzez Bla
+pod_275|Znów śniłem.\n\nPo tym wszystkim, co wyw
+pod_276|Jak to może być?  Nie pamiętam, bym szed
+pod_277|Wiedziałem, że coś jest nie tak, gdy wzb
+pod_278|Królowa Allison pozostała z moją jednost
+pod_279|Znów sypiam i koszmary oczywiście wrócił
+pod_280|Oto ona, królowa Allison, ubrana w mocny
+pod_281|Dziś, gdy królowa Allison przygotowywała
+pod_282|Koszmary wciąż nawiedzają mnie nocami, a
+pod_283|Postanowiłem nie mówić Allison, kim jest
+pod_284|Mam już hełm boskich mocy.  Raporty potw
+pod_285|Królowa Allison przeprowadziła się do za
+pod_287|Tarnum musi pokonać Deezeliska i wszystk
+pod_289|Posiłki przybyły szybko.  Oddziały, któr
+pod_290|Przybyło więcej posiłków, wszyscy palą s
+pod_291|Strażnicy doceniają twe wysiłki i osiągn
+pod_292|W młodości Mensor walczył u boku króla R
+pod_293|Początkowo wydaje ci się, że to porzucon
+pod_294|Nasz władca zakazał nam przepuszczać kog
+pod_295|Strażnicy doceniają twe wysiłki i osiągn
+pod_296|Dla gracza komputerowego.
+pod_297|Będąc księciem lochów, Deezelisk jest na
+pod_300|Trynn była jeszcze młodym rycerzem Erath
+pod_301|Przed tobą widać wiele krytych strzechą 
+pod_302|Widzisz, że wieśniakom udało się wyhodow
+pod_303|Norvan był obiecującym klerykiem z dużym
+pod_304|Od pokoleń twoi ludzie żyli w tych ciemn
+pod_305|Zdrada!\n\nCo gorsza, przez cały czas sp
+pod_306|Nie mogę uwierzyć, Mensor żyje!  Jeden z
+pod_307|Tej nocy Rion Gryphonheart powrócił ze ł
+pod_308|Moje noce wypełnione są koszmarami, ale 
+pod_309|W załomie jaskini zobaczyliśmy zablokowa
+pod_310|Przeprowadzone przez Mensora przesłuchan
+pod_311|Dziś przypomniałem sobie, że Przodkowie 
+pod_312|W czasie tych krótkich momentów, gdy był
+pod_313|Wysłałem posłańca do lordów Erathii, aby
+pod_314|Otrzymałem dziś wiadomość, że posiłki wk
+pod_315|Deezelisk miał aż nadto czasu, by przygo
+pod_316|Odchyliłem połę namiotu i zamarłem.\n\nS
+pod_317|Ostatniej nocy Rion Gryphonheart znów po

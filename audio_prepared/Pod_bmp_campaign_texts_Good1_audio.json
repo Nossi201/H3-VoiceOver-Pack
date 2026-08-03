@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 34,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles. Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 192
+  },
+  {
+    "id": 2,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 573,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami gry Heroes Chronicles. Postępuj według instrukcji pojawiających się na ekranie, gdyż zostały one ułożone w taki sposób, aby pokazać wszystkie najważniejsze funkcje gry - poza tym dzięki nim ukończysz swoją pierwszą misję...",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 277
+  },
+  {
+    "id": 3,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 30624,
+    "text": "Zbieranie leżących na ziemi zasobów jest bardzo rozważnym posunięciem z dwóch powodów.  Po pierwsze nawet najmniejszy zastrzyk zasobów jest cenny dla królestwa.  Po drugie jeśli ty nie weźmiesz tych zasobów, może znaleźć je wróg i poprawić dzięki nim swoją sytuację.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 266
+  },
+  {
+    "id": 4,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 30922,
+    "text": "Przed tobą strażnica zajmowana przez pikinierów.  Tu możesz raz w tygodniu rekrutować pikinierów bez żadnych dodatkowych opłat.  Pierwszego dnia każdego nowego tygodnia pojawia się tu nowy oddział pikinierów i możesz znów przeprowadzić werbunek.  Nowy oddział pikinierów przybywa tylko raz w tygodniu, ale jeśli zaniechasz werbunku, po dwóch tygodniach ich liczba będzie taka sama jak po tygodniu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 397
+  },
+  {
+    "id": 5,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 31427,
+    "text": "Przed tobą monolit wyjścia.  Te magiczne bramy pozwalają bohaterom i ich armiom błyskawicznie pokonywać wielkie dystanse - w zależności od rozmieszczenia monolitów.  Monolit wyjścia to miejsce, w którym bohater wychodzi.  Warto mieć oko na te miejsca, gdyż wrogowie korzystają z nich co najmniej równie często.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 310
+  },
+  {
+    "id": 6,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 31862,
+    "text": "Zauważ, że gdy odwiedzisz kamieniołom, jego kolor na minimapie zmienia się z szarego na zielony - pamiętasz, że zielony, to twój kolor?.  Kamieniołomy będą wzbogacać zasoby królestwa o dwa wozy kamieni dziennie.  W sumie istnieje siedem typów kopalń - dopilnuj, aby w obrębie twoich włości znalazła się co najmniej jedna kopalnia każdego typu, która uzupełniać będzie zapasy danego rodzaju surowca do wymaganego poziomu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 420
+  },
+  {
+    "id": 7,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 32366,
+    "text": "Witaj, Wasza Wysokość, zwę się Rissa i pomogę ci poznać ten świat.  Najpierw udajmy się do kopalni rudy położonej na wschód stąd.  Gdy już przejmę kontrolę nad kopalnią, udajmy się jeszcze dalej na wschód, do strażnicy.  Musisz zwerbować trochę oddziałów, by poradzić sobie z grasującymi na południu troglodytami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 313
+  },
+  {
+    "id": 8,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 32846,
+    "text": "To, Wasza Wysokość, jest młyn.  Co tydzień młynarz będzie miał dla ciebie nieco zasobów.  Pamiętaj, aby raz w tygodniu wysyłać kogoś do młyna, aby odbierał zyski.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 162
+  },
+  {
+    "id": 9,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 33263,
+    "text": "To jest tartak, który produkuje dwa wozy drewna dziennie.  Tartak będzie twój, gdy go odwiedzisz, co zostanie odnotowane zmianą koloru flagi.  Od tego miejsca idź na zachód wzdłuż ścieżki, aby dotrzeć do wieży łuczników.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 220
+  },
+  {
+    "id": 10,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 33630,
+    "text": "Atakuj, jeśli masz pewność zwycięstwa.  Wróg ucieknie tylko wówczas, gdy znacznie przewyższasz go liczbą żołnierzy. Czasem grupy jednostek mogą zdecydować się na przyłączenie do twojej armii, ale zdarza się to raczej rzadko i nie należy na to liczyć.  Wygląda, że żołnierzom bardziej zależy na samej walce.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 306
+  },
+  {
+    "id": 11,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 34133,
+    "text": "To jest wieża łuczników.  Funkcjonuje na podobnych zasadach, co strażnica, z jednym wyjątkiem: łucznicy dołączą do ciebie tylko wówczas, gdy im zapłacisz żołd.  Jeśli im zapłacisz, będą twoi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 191
+  },
+  {
+    "id": 12,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 34432,
+    "text": "Niewielkie ilości zasobów, takie jak te, często leżą w różnych punktach mapy.  Warto wysłać bohatera, aby je zbierał, gdyż w ten sposób wzbogacisz zapasy królestwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 164
+  },
+  {
+    "id": 13,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 34686,
+    "text": "Od tego miejsca idź na południe i odwiedź kryształową grotę.  Gdy oflagujesz to miejsce, kryształy zaczną zasilać zasoby królestwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 131
+  },
+  {
+    "id": 14,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 34912,
+    "text": "Gdy już oflagujesz kryształową grotę, wróć na wschód i udaj się do wieży gryfów.  Będziesz mógł zwerbować gryfy na tych samych zasadach, co łuczników.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 150
+  },
+  {
+    "id": 15,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 35178,
+    "text": "Przed nami zielona brama graniczna.  Możesz przez nią przejść dopiero po odwiedzeniu namiotu zielonego klucznika.  Odszukanie właściwego klucznika często nie jest łatwe, ale zawsze jest warte wysiłku.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 200
+  },
+  {
+    "id": 16,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 35497,
+    "text": "Przed tobą brama graniczna.  Przez czerwoną bramę graniczną możesz przejść dopiero po odwiedzeniu namiotu czerwonego klucznika.  Ta budowla zniknie, gdy postanowisz przez nią przejść.  Bądź jednak ostrożny, przechodząc bramę graniczną możesz spotkać liczne oddziały wrogów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 273
+  },
+  {
+    "id": 17,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 35853,
+    "text": "To jest kaplica.  Kaplice mają trzy poziomy i uczą każdego wyposażonego w księgę zaklęć bohatera zaklęć poziomu pierwszego, drugiego lub trzeciego.  W każdej kaplicy można nauczyć się tylko jednego zaklęcia, ale istnieje duży wachlarz zaklęć, które mogą występować w kaplicach.  Często znajdziesz tu bardzo użyteczne zaklęcia, których nie ma w wieży magów.  Należy co najmniej raz odwiedzić każdą kaplicę i sprawdzić, czy nie można nauczyć się w niej nowych czarów",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 464
+  },
+  {
+    "id": 18,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 36452,
+    "text": "Klasztor nieco różni się od innych budynków umożliwiających rekrutację.  Aby werbować mnichów, najpierw musisz ich pokonać.  Ta zasada odnosi się do wszystkich budynków wyższego poziomu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 186
+  },
+  {
+    "id": 19,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 36723,
+    "text": "To namiot zielonego klucznika.  Odwiedzenie tego miejsca umożliwi ci przejście przez zieloną bramę graniczną.  Zawsze, gdy zobaczysz namiot klucznika, zatrzymaj się i wstąp do niego, aby zapewnić sobie przejście przez bramę graniczną.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 234
+  },
+  {
+    "id": 20,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 37109,
+    "text": "To miejsce powinien odwiedzić każdy bohater.  Ogród objawienia podbuduje wiedzę każdego, kto go odwiedzi.  Jego działanie jest jednorazowe, a więc ponowna wizyta w ogrodzie nie da żadnego efektu.  Gdy wzrośnie wiedza bohatera, wzrośnie także jego liczba punktów magii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 268
+  },
+  {
+    "id": 21,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 37460,
+    "text": "W niektórych miejscach musisz uiścić opłatę za podniesienie umiejętności bohatera.  To właśnie jedno z takich miejsc.  W szkole magii można podnieść poziom wiedzy lub magii - według uznania.  Jeśli jednak nie wniesiesz opłaty, niczego się nie nauczysz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 252
+  },
+  {
+    "id": 22,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 37797,
+    "text": "Dziwnie wyglądający obiekt na wschodzie to chata czarownicy.  Nie rezygnuj z wysłania chociaż jednego bohatera do wiedźmy, aby dowiedzieć się, czego może nauczyć.  Nauka jest tu bezpłatna.  Każda wiedźma uczy tylko jednej umiejętności, ale mogą wybierać je z szerokiego wachlarza dostępnych umiejętności.  Jeśli bohater zna już daną umiejętność lub nie może poznać ich więcej, czarownica może być nieco zirytowana, ale nie zrobi nikomu krzywdy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 444
+  },
+  {
+    "id": 23,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 38336,
+    "text": "Ten iskrzący się obiekt na południu to monolit wejścia.  Pozwala przejść bohaterowi i jego armii do miejsca, w którym znajduje się monolit wyjścia.  Jak widzisz, kolory na boku odpowiadają kolorom na monolicie wyjścia znajdującym się niedaleko zamku.  Oznacza to, że bohater wchodząc do monolitu wyjdzie obok zamku.  Jeśli jednak nie wiesz, gdzie znajduje się wyjście, należy z rozwagą wysyłać bohaterów w nieznane każąc im przechodzić przez \"jednokierunkowe\" monolity.  Teraz jednak warto wrócić do zamku i zwerbować dodatkowe oddziały.\n\nNie zapomnij też o odwiedzeniu czerwonego namiotu klucznika.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "jednokierunkowe",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 599
+  },
+  {
+    "id": 24,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 39043,
+    "text": "To dziwne miejsce jest bronione przez meduzy.  Gromadzą tu zapasy siarki i złota, ale nie oddadzą ich bez walki.  Zanim wdasz się w potyczkę, upewnij się, czy masz wystarczająco silną armię.  Skarbu może bronić od 20 do 50 meduz.  Znajdziesz też inne miejsca bronione przez grupy różnych stworzeń - zanim je zaatakujesz, przygotuj się dobrze, aby wygrać bitwę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 360
+  },
+  {
+    "id": 25,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 39486,
+    "text": "Przed nami siedlisko aniołów i budynki zajmowane przez kawalerzystów.  Podobnie jak w przypadku klasztoru, aby werbować mieszkające tu stworzenia, najpierw musisz kilka pokonać.  \n\nA skoro już tu dotarliśmy, odwiedźmy zielony namiot klucznika i rozejrzyjmy się po okolicy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 272
+  },
+  {
+    "id": 26,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 39892,
+    "text": "Niekiedy, Wasza Wysokość, takie stworzenia bronią małych skrzyń ze skarbami.  Jeśli masz pewność zwycięstwa, warto poświęcić trochę czasu na walkę, aby przejąć skarb..",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 167
+  },
+  {
+    "id": 27,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 40206,
+    "text": "Często natkniesz się na artefakty leżące luzem na ziemi.  Czasem widać obok strażników, czasem pojawiają się dopiero, gdy sięgniesz po przedmiot.  Artefaktu leżącego przed nami strzeże kilka minotaurów.  Czy chcesz z nimi walczyć?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 230
+  },
+  {
+    "id": 28,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 41006,
+    "text": "Te stworzenia mogą atakować na odległość.  Oznacza to, że nie będą szarżować na twoje oddziały.  Gdy walczysz z takimi przeciwnikami, musisz mieć więcej oddziałów niż zwykle, aby pod ogniem ostrzału przejść pole bitwy i zaatakować wręcz..",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 238
+  },
+  {
+    "id": 29,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 41484,
+    "text": "To brama do Podziemi - każdy bohater wraz z armią przejściu tym portalem znajdzie się na niższym poziomie.  A ponieważ można nią przechodzić w obie strony, warto wysłać kogoś na zwiady.  Lepiej nie iść na ślepo w paszczę lwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 225
+  },
+  {
+    "id": 30,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 41960,
+    "text": "Niezłym pomysłem jest odwiedzenie fabryki machin wojennych i zakupienie kilku urządzeń, które pomogą pokonać wroga.  Gdy wejdziesz do środka, możesz zakupić balistę (podobną do wielkiej kuszy), namiot medyka (leczący jeden oddział na zakończenie każdej tury walki) oraz wóz z amunicją (dzięki któremu masz pewność, że oddziałom strzeleckim nie zabraknie amunicji w czasie walki).",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 379
+  },
+  {
+    "id": 31,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 42619,
+    "text": "Woła cię pewien człowiek opiekujący się rodziną.  Chce ci coś powiedzieć.  \"Próbowałem stąd wyprowadzić swych bliskich, ale meduzy blokowały nam drogę.  Jestem bardzo wdzięczny, że je usunąłeś.  Jako dowód mojej wdzięczności dam ci sandały świętego.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Próbowałem stąd wyprowadzić swych bliskich, ale me...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 250
+  },
+  {
+    "id": 32,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 42879,
+    "text": "\"Czy chcesz sandały świętego?\"\n\nSir Christian mówi: \"Radziłbym przyjąć ten prezent, panie.  Nie powodu odmawiać.  W takich miejscach można dostać inne nagrody, po wykonaniu określonych zadań - zawsze warto sprawdzić, jaką przysługę można komuś wyświadczyć.  Jasnowidze, zamieszkujący takie chaty, często mają wartościowe przedmioty, których potrzebujesz, by wykonać zadanie lub zakończyć kampanię.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czy chcesz sandały świętego?",
+          "voice": ""
+        },
+        {
+          "text": "Radziłbym przyjąć ten prezent, panie.  Nie powodu ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 398
+  },
+  {
+    "id": 33,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 45518,
+    "text": "Jak widać, ten teren różni się od innych połaci podziemia.  To jest przeklęta ziemia - nie można tu rzucać żadnych zaklęć na poziomie wyższym niż pierwszy.  Jeśli nie masz zbyt licznych sił, nie wdawaj się w walkę na tym terenie, gdyż nie możesz polegać tu na magii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 266
+  },
+  {
+    "id": 34,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 45946,
+    "text": "Aby dostać się do dwustronnego monolitu, musimy pokonać meduzy.  Gdy już pozbędziemy się tych oślizgłych stworzeń, opowiem ci więcej o tym miejscu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 147
+  },
+  {
+    "id": 35,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 46144,
+    "text": "Dwustronny monolit przejścia pozwala wrócić bohaterowi tą samą drogą.  Gdy znajdziesz taki monolit, wyślij jednego z mniej doświadczonych bohaterów, aby go zbadać.  Jeśli tego nie zrobisz, możesz sam wpaść w zasadzkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 217
+  },
+  {
+    "id": 36,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 46468,
+    "text": "Gdy klikniesz na garnizonie prawym przyciskiem myszy, zauważysz, że stacjonuje w nim wiele różnych oddziałów.  Najwyraźniej władca podziemi z tej prowincji nie życzy sobie żadnych niespodziewanych gości.  Jeśli chcesz go pokonać, najpierw musisz zwyciężyć jednostki z garnizonu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 37,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 46829,
+    "text": "Przed nami kopalnia złota.  Nawet jeśli masz już jedną, warto i tę przyłączyć do zasobów królestwa.  Dzięki temu masz więcej surowców, a wróg mniej.  Zerknij na minimapę - kopalnia zmieni kolor z barwy wroga - fioletowej - na twoją - czerwoną.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 243
+  },
+  {
+    "id": 38,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 47183,
+    "text": "Chociaż te smoki nie mieszkają w naszych miastach, warto przejść ich siedziby.  Korzyści będą podwójne.  Po pierwsze będziemy mogli werbować mieszkające tu czerwone smoki, które świetnie uzupełnią twoją armię.  Szczególnie w czasie dłuższych kampanii odczujesz, że są nieocenionymi wojownikami.  Po drugie uniemożliwiasz zwerbowanie ich przez wroga.  Jeśli zechce odzyskać ich siedziby, będzie musiał o nie walczyć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 415
+  },
+  {
+    "id": 39,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 47864,
+    "text": "W pobliżu rośnie drzewo wiedzy, które podniesie poziom bohatera w zamian za kilka sztuk złota, klejnotów, a czasem nawet za darmo.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 130
+  },
+  {
+    "id": 40,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 48077,
+    "text": "Zbliżasz się do magicznej studni.  Zawsze odwiedzaj studnie, szczególnie jeśli w czasie walki często używasz zaklęć.  Magicznie studnie podnoszą liczbę punktów magii do maksymalnego poziomu.  Dozwolona jest jedna wizyta dziennie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 229
+  },
+  {
+    "id": 41,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 48389,
+    "text": "Obóz najemników to miejsce, w którym można podnieść umiejętność ataku o 1 punkt.  Każdy bohater powinien odwiedzić obóz i potrenować z najemnikami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 147
+  },
+  {
+    "id": 42,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 48643,
+    "text": "Obiekty takie, jak ten kamień wiedzy mogą dać premie w postaci szczęścia, morale i innych cech, w przypadku kamienia wiedzy tą cechą jest doświadczenia.  Gdy wjedziesz na kamień, przekonasz się twój niedoświadczony bohater zyska 1000 punktów doświadczenia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 256
+  },
+  {
+    "id": 43,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 49393,
+    "text": "Witam, Wasza Wysokość.  Jestem twoim doradcą, zwę się Marantea.  Właśnie przekazano ci podstawowy zestaw obowiązków osoby zarządzającej królestwem.  Każdego dnia będę udzielać ci nowych rad, a ty wykaż nieco cierpliwości i zapoznaj się z nimi.  Gdy nauczysz się wszystkiego, co ci pokażę, będziesz w stanie sprawnie zarządzać królestwem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 337
+  },
+  {
+    "id": 44,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 49794,
+    "text": "KAŻDY dzień należy rozpocząć od skonstruowania jakiegoś budynku.  Aby zacząć budowę, przejedź do miasta klikając na nim lub na małej ikonie miasta z prawej strony ekranu.\n\nNa ekranie miasta - z prawej strony - znajdź budynek o nazwie \"Dom Rady Miasta\".  Kliknij na nim, aby wyświetlić ekran domu Rady.  Znajdziesz tu wszystkie typy budynków.  Gdy klikniesz prawym przyciskiem myszy na budynku, dowiesz się, jakie są jego funkcje oraz ile kosztuje jego budowa.  Najpierw zbuduj fort.  Pozwoli on budować różne rodzaje koszar, w których można rekrutować jednostki.\n\nGdy skończysz (to znaczy, gdy żaden z twoich bohaterów nie będzie miał już punktów ruchu i skonstruujesz wybrane budynki), zamknij kolejkę klikając na przycisku klepsydry umieszczonym z prawej strony ekranu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dom Rady Miasta",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 771
+  },
+  {
+    "id": 45,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 50629,
+    "text": "Dziś zbuduj strażnicę, w której można rekrutować pikinierów.  Później, gdy postawisz inne budynki, będzie można ją zmodernizować.  Gdy skończysz wybierać budynki, przespaceruj się po okolicy swoim pierwszym bohaterem, Sir Christianem, aby dowiedzieć się więcej o swoim otoczeniu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 279
+  },
+  {
+    "id": 46,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 50972,
+    "text": "Dziś jest doskonały dzień na zajęcie się strażnicą.  Możesz oczywiście zbudować, co tylko chcesz, ale budując w określonej kolejności, najlepiej wykorzystasz funkcje budowli.  W pierwszym tygodniu warto zbudować jak najwięcej budynków, w których można werbować oddziały, aby w przyszłym tygodniu móc maksymalnie zwiększyć liczebność armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 339
+  },
+  {
+    "id": 47,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 51375,
+    "text": "Nie zbudujesz więcej budynków, dopóki nie postawisz kuźni.  Zajmij się tym dziś.\n\nZauważyłam, że Sir Christian bardzo pracowicie kręcił się po okolicy i oflagował kilka kopalni i innych obiektów twoimi flagami.  Jeśli chcesz zobaczyć wszystko, co posiadasz, wybierz opcję status królestwa.  To mały przycisk pomiędzy przyciskami bohatera i miasta - wygląda jak mały zamek.  Kliknij na tym przycisku, aby sprawdzić ile masz kopalń, bohaterów i budynków, w których można rekrutować nowe oddziały w mieście oraz wiele innych informacji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 533
+  },
+  {
+    "id": 48,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 51974,
+    "text": "Dziś będę się streszczać - skoro możemy już zbudować koszary, należy skorzystać z tej możliwości.  W koszarach można rekrutować mieczników, którzy są cennym nabytkiem dla każdej armii.\nNie są zbyt szybcy, ale gdy ulepszysz ich, staną się krzyżowcami, którzy mogą atakować dwa razy na turę - to bardzo ważna umiejętność.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 319
+  },
+  {
+    "id": 49,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 52357,
+    "text": "Wieża gryfów zwabi do twego zamku potężne gryfy, tworzą wyśmienite oddziały.  Budowa wieży to mądra decyzja - dzięki temu już w przyszłym tygodniu będzie można werbować gryfy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 175
+  },
+  {
+    "id": 50,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 52598,
+    "text": "Jak widzisz, znów nie można wybudować żadnego budynku umożliwiającego werbunek.  Chwilowo nie będziemy się tym martwić.  Zanim zbudujesz jakikolwiek inny budynek, postaw cytadelę.  Liczba oddziałów, które mogą jutro przybyć, zwiększy się dzięki temu o 50%.  Miasto zostanie też opatrzone wieżami strzelniczymi oraz fosą.  Nie sądzę, żeby ktoś nas teraz zaatakował, ale w zwykłej grze nie można wykluczyć takiej możliwości.  Obrona miasta jest trudna, ale cytadela, a potem zamek znacznie ułatwiają to zadanie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 509
+  },
+  {
+    "id": 51,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 53171,
+    "text": "Cudownie - nowy tydzień!  Na początku każdego tygodnia ma miejsce bardzo ważne wydarzenie.  W każdym budynku werbującym oddziały pojawiają się nowe jednostki - zarówno w mieście, jak i poza nim.  Aby zwerbować oddziały znajdujące się w budynkach poza miastem, musisz wysłać do nich bohatera.  Aby wynająć bohatera, musisz przejść do tawerny.  Kliknij na tawernie i wynajmij jednego z dwóch bohaterów.  Wyślij go poza miasto, aby zwerbował jednostki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 449
+  },
+  {
+    "id": 52,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 53686,
+    "text": "Teraz możesz zbudować dom rady miasta.  Dzięki temu budynkowi zwiększy dzienny przyrost złota w królestwie.  Gromadzenie złota jest bardzo ważnym aspektem gry, gdyż zarządzanie królestwem jest raczej kosztowne.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 210
+  },
+  {
+    "id": 53,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 53961,
+    "text": "Budowa gildii magów pozwoli bohaterowi nauczyć się zaklęć.  Rzucanie zaklęć jest bardzo ważna częścią walki - szybko przekonasz się, że bohaterowie korzystający z magii radzą sobie znacznie lepiej niż ci, którzy od niej stronią.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 228
+  },
+  {
+    "id": 54,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 54254,
+    "text": "Zamiast zajmować się dalej gildią magów, zbuduj targowisko.  Umożliwia ono wymianę nadwyżek zasobów na złoto lub surowce, których ci brakuje.  Często zdarza się, że masz nadmiar jakiegoś surowca (np. drewna) - niewykorzystaną nadwyżkę możesz na targowisku sprzedać i powiększyć zapasy innego surowca (np. złota).  Im więcej masz targowisk, tym lepsze ceny uzyskasz przy wymianie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 379
+  },
+  {
+    "id": 55,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 54698,
+    "text": "Teraz możesz zbudować ratusz, który dodatkowo zwiększy dochód królestwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 72
+  },
+  {
+    "id": 56,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 54836,
+    "text": "Dziś należałoby zająć się budową zamku.  Dzięki niemu, w następnym tygodniu zwiększy się liczba rekrutów, których można zwerbować, a ponad to otworzy drogę do budowy kapitolu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 175
+  },
+  {
+    "id": 57,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 55078,
+    "text": "Po zbudowaniu kapitolu dzienne dochody królestwa wzrosną do 4000 sztuk złota - więcej miasto nie będzie już zarabiać.  Kapitol zapewnia płynność finansową, umożliwiając dalsze kupowanie budynków i werbowanie oddziałów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 218
+  },
+  {
+    "id": 58,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 55361,
+    "text": "Teraz należałoby wrócić do budynków umożliwiających werbunek.  Proponuję zacząć od klasztoru.  W klasztorze można werbować mnichów, którzy tworzą wspaniałe oddziały, zaciekle atakujące na polu bitwy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 199
+  },
+  {
+    "id": 59,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 55625,
+    "text": "Nie buduj jeszcze portalu chwały, chociaż tak ponętnie wygląda.  Jest bardzo kosztowny, a ty wciąż musisz werbować nowe jednostki.  Nie możesz jeszcze werbować kawalerzystów, gdyż nie ma stajni, w której mogliby trzymać konie.  A więc wybuduj stajnie, a już niedługo będziemy mogli werbować kawalerzystów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 305
+  },
+  {
+    "id": 60,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 55995,
+    "text": "Teraz możesz wybudować arenę walk i rozpocząć werbunek kawalerzystów.  Wspaniale szarżują - zadbaj, by zawsze uderzali na wroga z rozpędu.  Jeśli w pierwszym ruchu nie są w stanie dotrzeć do wroga, rozkaż im zaczekać, aż wróg zbliży się na tyle, by mogli uderzyć w jednej turze.  Jeśli to nie jest możliwe, niech wysuną się nieco do przodu, a dopiero w następnej kolejce zaszarżują z pełnym impetem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 399
+  },
+  {
+    "id": 61,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 56459,
+    "text": "Do tego momentu na pewno masz już wystarczająco dużo zasobów, by rozpocząć budowę portalu chwały - a więc do dzieła, portal umożliwia werbunek potężnych aniołów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 62,
+    "source": "Pod_bmp.lod:Good1.h3c",
+    "offset": 56685,
+    "text": "Sądzę, że wiesz już dość, panie.  Sir Christian chce przekazać ci jeszcze kilka uwag, ale ja już skończyłam.  Po prostu buduj kolejne budynki i modernizuj je w dowolnej kolejności.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 180
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "id": 0,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 5,
+    "text": "Niech żyje król",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 15
+  },
+  {
+    "id": 1,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 24,
+    "text": "Wojna w Erathii to najlepsza rzecz, jaka mogła spotkać ludność krainy Deyja.  Wojna na taką skalę to niekończące się żniwa dla naszej armii nieumarłych. Dziś świętujemy, jutro podbijemy Erathię.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 194
+  },
+  {
+    "id": 2,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 249,
+    "text": "Król Gryphonheart, człowiek, który wygnał nas z Erathii, nie żyje. Inwazja Nighonu i Eeofolu ofiarowała nam dar śmierci. Nareszcie możemy zbudować własną armię i sami najechać Erathię. By zapewnić sobie sukces potrzebujemy tylko dobrego taktyka. Musisz więc odnaleźć grobowiec króla Gryphonhearta.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 297
+  },
+  {
+    "id": 3,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 553,
+    "text": "Naszym celem było zabicie człowieka, który wygnał nas z Erathii. Jednak inwazja wojsk Nighonu i Eofolu była dla nas niespodziewanym prezentem. Pola Erathii usiane są ciałami jej obrońców. Dla nekromantów to okres zbiorów, okres wojny. Królowa Katarzyna jest godnym przeciwnikiem. Aby pokonać pozostałą część wojsk Erathii, potrzebujemy kogoś, kto dorówna jej zdolnościami taktycznymi. Mamy plan... diaboliczny plan. Wykorzystując fakt, że Katarzyna będzie zajęta wojną z królestwem Nighonu, prześlizgniesz się z małym oddziałem do miejsca, gdzie pochowany został król Gryphonheart. Uważaj jednak. Teren ten zajęty jest przez rozproszone, ale dość silne oddziały armii erathiańskiej. Kiedy już odnajdziesz grób króla, wskrześ go i spraw, by stanął na czele naszych wojsk. Jeśli król Gryphonheart będzie dowodził naszą armią, szybko podbijemy jego królestwo i zmienimy je w krainę zmarłych.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 888
+  },
+  {
+    "id": 4,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 1448,
+    "text": "Podczas prac nad wskrzeszeniem Gryphonhearta, naszemu królowi\nVilmarowi przydarzył się niefortunny wypadek. Król Gryphonheart \nprzejął pełną władzę nad armią... a także całym królestwem. \nJego umiejętność kontrolowania umarłych przerasta wszystko co do \ntej pory widzieliśmy. To dobrze rokuje planom naszej przyszłej inwazji.\nJednak nasi pozostali lordowie bacznie przypatrują się nowemu królowi, \nszukając oznak jego słabości.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 427
+  },
+  {
+    "id": 5,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 1954,
+    "text": "Przy granicy Erathii znaleźliśmy wspaniałą bazę wypadową dla pozyskiwania stworzeń do naszej armii bez zwracania na siebie uwagi przeciwnika. Zbuduj potężną armię - ale śpiesz się! Potrzebujemy tych oddziałów jak najszybciej!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 225
+  },
+  {
+    "id": 6,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 2187,
+    "text": "Zanim rozpoczniemy inwazję na szeroką skalę, musimy zdobyć\nwystarczającą ilość wojsk. Ludność Erathii będzie dobrym materiałem na rekrutów. Dokonaj szybkiego wypadu na okoliczne miasta. Potrzebne nam posiłki uzyskasz wskrzeszając poległych.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 240
+  },
+  {
+    "id": 7,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 2503,
+    "text": "Zbuntowany Rycerz Śmierci nie zamierza uczestniczyć w naszej chwalebnej inwazji na Erathię. Uważa, że nie biorąc udziału w walce ocali swą ziemię przed kontratakiem Erathian. Czas nauczyć go posłuszeństwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 205
+  },
+  {
+    "id": 8,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 2715,
+    "text": "Rycerz Śmierci imieniem Mot odmawia poddania się rozkazom króla Gryphonhearta. Musi on zostać przykładnie ukarany, aby wszyscy ujrzeli, że podobne akty zdrady nie będą tolerowane. Mot szczelnie otoczył się swoimi wojskami. Pokonaj je i przejmij nad nimi kontrolę. Kiedy już zabijesz Mota, wskrześ go, aby zasilił szeregi naszej armii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 334
+  },
+  {
+    "id": 9,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 3132,
+    "text": "Nadszedł czas. Król-Lisz Gryphonheart zdecydował, że atak rozpocznie się właśnie teraz. Z całej Deyji nadciągną wojska, które zaleją Erathię. Cel naszego ataku został wybrany przez samego króla. Przysięgasz, że go nie zawiedziesz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 230
+  },
+  {
+    "id": 10,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 3369,
+    "text": "Na naszej drodze stoi armia Erathii. Nadszedł czas decydującej bitwy. Król Gryphonheart szkolił generałów armii erathiańskiej i zna ich taktykę. Morale nie gra roli u nieumarłych. Gdy wzmocnimy nasze oddziały ciałami rycerzy wroga, morale naszych przeciwników podupadnie. Wtedy zalejemy ich naszymi wojskami i zadamy decydujący cios. Król Gryphonheart wkrótce ponownie zasiądzie na tronie Erathii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 397
+  },
+  {
+    "id": 11,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 3837,
+    "text": "Grób Króla",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 10
+  },
+  {
+    "id": 12,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 3851,
+    "text": "Masz trzy miesiące na dostarczenie Ducha Opresji do Stonecastle. Szukaj mędrca - wypełnienie jego misji pozwoli ci przenieść nagrodę do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 159
+  },
+  {
+    "id": 13,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 43818,
+    "text": "Intro part 1",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 14,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 43834,
+    "text": "Szpiedzy donieśli, że grób króla Gryphonhearta znajduje się w Stonecastle, niedaleko północnej granicy Erathii. Te obszary ominęły zawieruchy wojny z Nighonem i Eofolem. Szybko przeszukaj teren, odnajdź zwłoki króla, a wtedy my będziemy mogli tchnąć w nie życie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 262
+  },
+  {
+    "id": 15,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 44150,
+    "text": "Intro part 2",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 16,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 44166,
+    "text": "Jednym z przedmiotów potrzebnych do rytuału ożywienia Króla jest Duch Opresji. Musisz odnaleźć ten artefakt i zanieść go do Stonecastle. Trzeba tego dokonać bardzo szybko - jeżeli duch króla opuści ciało wszystko będzie stracone.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 229
+  },
+  {
+    "id": 17,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 44583,
+    "text": "Sezon zbiorów",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 13
+  },
+  {
+    "id": 18,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 44600,
+    "text": "Aby wygrać, musisz zebrać 2500 szkieletów we wszystkich twoich armiach. Niektóre posterunki graniczne można pokonać tylko wtedy, gdy bohater posiada artefakt z poprzedniego scenariusza. Artefakt ukryty poza granicą będzie dostępny również w następnym scenariuszu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 263
+  },
+  {
+    "id": 19,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118157,
+    "text": "Intro part 1",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 20,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118173,
+    "text": "Aby wykorzystać element zaskoczenia, musisz w przeciągu miesiąca zaatakować Erathię. Niestety nasze siły nie są wystarczająco mocne, aby zaatakować na całym froncie. Potrzebujemy twojej pomocy przy zwerbowaniu żołnierzy wzdłuż granicy. Zebranie wystarczającej ilości nieumarłych pozwoli nam wygrać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 298
+  },
+  {
+    "id": 21,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118525,
+    "text": "Intro part 2",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 22,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118541,
+    "text": "Tak jak poprzednio musisz działać bardzo szybko. Ponieważ podstawowym warunkiem zaskoczenia jest szybkość ataku, musisz zdążyć z natarciem w przeciągu trzech miesięcy. W tym czasie musisz zebrać armię przynajmniej 2500 szkieletów. Jeżeli nas zawiedziesz, nie będziemy mieć żadnej szansy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 287
+  },
+  {
+    "id": 23,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118882,
+    "text": "Warning 3 weeks left",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 24,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 118906,
+    "text": "Otrzymujesz list od swoich zwierzchników. \"Postępy jakie czynisz są zadowalające, ale masz jeszcze tylko trzy tygodnie na wykonanie zadania.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Postępy jakie czynisz są zadowalające, ale masz je...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 141
+  },
+  {
+    "id": 25,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119101,
+    "text": "Warning 2 weeks left",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 26,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119125,
+    "text": "Otrzymujesz list od swoich zwierzchników. \"Cieszymy się z twoich postępów. Pamiętaj jednak, że potrzebujemy przynajmniej 2500 szkieletów, a zostały tylko dwa tygodnie do rozpoczęcia natarcia.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Cieszymy się z twoich postępów. Pamiętaj jednak, ż...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 192
+  },
+  {
+    "id": 27,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119371,
+    "text": "Warning 1 week left",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 19
+  },
+  {
+    "id": 28,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119394,
+    "text": "Otrzymujesz list od swoich zwierzchników. \"Za tydzień od dzisiaj zaatakujemy Erathię. Twoja armia 2500 szkieletów jest kluczem do sukcesu. Mamy nadzieję, że zdajesz sobie sprawę z tego, że porażka nie wchodzi rachubę.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Za tydzień od dzisiaj zaatakujemy Erathię. Twoja a...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 218
+  },
+  {
+    "id": 29,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119666,
+    "text": "News of Sandro",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 14
+  },
+  {
+    "id": 30,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 119684,
+    "text": "Podchodzi jeden z twoich doradców. \"Właśnie dowiedzieliśmy się, że w okolicy uwięziony jest Sandro wraz ze swoją armią. Jeżeli uda ci się go odnaleźć i oswobodzić, będzie dużym wzmocnieniem dla naszych sił.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Właśnie dowiedzieliśmy się, że w okolicy uwięziony...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 207
+  },
+  {
+    "id": 31,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 120079,
+    "text": "Należna kara",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 32,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 120095,
+    "text": "Musisz pokonać Mota - Rycerza Śmierci. Niektórzy strażnicy przepuszczą cię tylko jeżeli będziesz posiadać artefakt zdobyty podczas poprzedniej misji. Artefakt ukryty po drugiej stronie granicy zostanie przeniesiony do następnej misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 234
+  },
+  {
+    "id": 33,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 120552,
+    "text": "Whirlpool hint",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 14
+  },
+  {
+    "id": 34,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 120570,
+    "text": "Wir jest bramą do Świata Zmarłych, ale Kluczem jest Naszyjnik Przyzwania.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 73
+  },
+  {
+    "id": 35,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 226855,
+    "text": "Intro part 1",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 36,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 226871,
+    "text": "Otrzymujesz list od Króla Gryphonhearta. \"Dowódco, jeden z moich generałów, Mot, nie wykonuje moich rozkazów, twierdząc że nie powinniśmy atakować Erathii. Nie potrzebujemy go do realizacji naszych planów\".",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dowódco, jeden z moich generałów, Mot, nie wykonuj...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 206
+  },
+  {
+    "id": 37,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227131,
+    "text": "Intro part 2",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 38,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227147,
+    "text": "\"Potrzebujemy jednak jego armii. Nie mogę pozwolić na niesubordynację. Twoim zadaniem jest znalezienie Mota i zniszczenie go. Gdy tego dokonasz, wskrzesimy go i poddamy naszym rozkazom. Wykonaj to zadanie, a zostaniesz moim nowym generałem.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Potrzebujemy jednak jego armii. Nie mogę pozwolić ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 241
+  },
+  {
+    "id": 39,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227443,
+    "text": "Intro part 3",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 40,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227459,
+    "text": "Sam widok nieumarłego króla powoduje, że ciarki chodzą ci po plecach. Musisz jednak wykonać zadanie. Rozumiesz, że nie możesz pozwolić sobie na luksus porażki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 159
+  },
+  {
+    "id": 41,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227806,
+    "text": "Dzień i noc",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 11
+  },
+  {
+    "id": 42,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 227821,
+    "text": "Aby zwyciężyć, musisz zdobyć wszystkie miasta i zamki wroga, oraz pokonać wszystkich wrogich bohaterów. Niektóre posterunki graniczne można przejść tylko wtedy, gdy bohater posiada artefakt z poprzedniego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 217
+  },
+  {
+    "id": 43,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 446992,
+    "text": "Oto Gladius Tytanów który, jak twierdził mędrzec, jest ci podobno przeznaczony. Czy chcesz posiąść go na swoją własność?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 120
+  },
+  {
+    "id": 44,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 447163,
+    "text": "Oto Gladius Tytanów który, jak twierdził mędrzec, jest ci podobno przeznaczony. Czy chcesz posiąść go na swoją własność?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 120
+  },
+  {
+    "id": 45,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 458254,
+    "text": "Intro part 1",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 46,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 458270,
+    "text": "Otrzymujesz bezpośrednie rozkazy od Króla Gryphonhearta. Atak masz rozpocząć z trzech twierdz przy granicy z Erathią. Na początku opór powinien być słaby, ale musisz szybko zabezpieczyć teren, zanim wróg otrzyma wsparcie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 221
+  },
+  {
+    "id": 47,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 458545,
+    "text": "Intro part 2",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 12
+  },
+  {
+    "id": 48,
+    "source": "H3bitmap.lod:Evil2.h3c",
+    "offset": 458561,
+    "text": "Oczywistym jest iż Król Gryphonheart chce odzyskać tron Erathii, ale tym razem zamierza zdobyć go siłą. Ruszaj, nadszedł czas.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 126
+  }
+]

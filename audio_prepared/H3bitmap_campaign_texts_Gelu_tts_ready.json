@@ -1,0 +1,324 @@
+[
+  {
+    "id": 1,
+    "text_original": "Gelu trenował wiele miesięcy, by zostać członkiem elitarnego oddziału Erathii, Leśnej Straży. Jego ostatnim sprawdzianem jest stworzenie artefaktu, zwanego Eliksirem Życia. Musi więc szybko odnaleźć cztery elementy składające się na ten magiczny przedmiot, aby uchronić je przed nekromantami.",
+    "text_clean": "Gelu trenował wiele miesięcy, by zostać członkiem elitarnego oddziału Erathii, Leśnej Straży. Jego ostatnim sprawdzianem jest stworzenie artefaktu, zwanego Eliksirem Życia. Musi więc szybko odnaleźć cztery elementy składające się na ten magiczny przedmiot, aby uchronić je przed nekromantami.",
+    "voices": []
+  },
+  {
+    "id": 2,
+    "text_original": "To specjalny obszar treningowy, na którym odbędzie się twój końcowy egzamin. Wielu nie przeszło tego sprawdzianu, choć większość go zdała. Powodzenia.",
+    "text_clean": "To specjalny obszar treningowy, na którym odbędzie się twój końcowy egzamin. Wielu nie przeszło tego sprawdzianu, choć większość go zdała. Powodzenia.",
+    "voices": []
+  },
+  {
+    "id": 3,
+    "text_original": "Leśna Straż to oczy i uszy Erathii. Idziemy zawsze tam, gdzie najbardziej\nnas potrzebują, a są to zwykle miejsca, w które trudno dotrzeć zwykłym\noddziałom bojowym. Jesteśmy duchami lasu, które widzą wszystko\ni niosą cichą śmierć jednym, niedostrzegalnym strzałem. Dobrze\nspisywałeś się podczas treningu, Gelu. Teraz przyszedł czas na \nostateczny sprawdzian. Odbędzie się w małej kotlince obok \nGaia's Crest. Oczyść ten rejon z wrogów, aby umocnić swą pozycję \nw szeregach Leśnej Straży. Powodzenia.",
+    "text_clean": "Leśna Straż to oczy i uszy Erathii. Idziemy zawsze tam, gdzie najbardziej nas potrzebują, a są to zwykle miejsca, w które trudno dotrzeć zwykłym oddziałom bojowym. Jesteśmy duchami lasu, które widzą wszystko i niosą cichą śmierć jednym, niedostrzegalnym strzałem. Dobrze spisywałeś się podczas treningu, Gelu. Teraz przyszedł czas na ostateczny sprawdzian. Odbędzie się w małej kotlince obok Gaia's Crest. Oczyść ten rejon z wrogów, aby umocnić swą pozycję w szeregach Leśnej Straży. Powodzenia.",
+    "voices": []
+  },
+  {
+    "id": 4,
+    "text_original": "Ten rejon jest zajęty przez bandytów. Jeśli to tylko możliwe, korzystaj z pomocy gildii złodziei, gdyż mają oni wiele użytecznych informacji.",
+    "text_clean": "Ten rejon jest zajęty przez bandytów. Jeśli to tylko możliwe, korzystaj z pomocy gildii złodziei, gdyż mają oni wiele użytecznych informacji.",
+    "voices": []
+  },
+  {
+    "id": 5,
+    "text_original": "Plotki głoszą, że Pierścień Żywotności, najważniejszy składnik\nEliksiru Życia, znajduje się w rejonie Shantanna na południu AvLee.\nW tej misji kluczową rolę gra czas: widziano jak Rycerz Śmierci\nspotkał się z bandytami, którzy od dawna terroryzują ten rejon.\nSądzimy, że wynajął ich, by ubiegli nas w poszukiwaniach.",
+    "text_clean": "Plotki głoszą, że Pierścień Żywotności, najważniejszy składnik Eliksiru Życia, znajduje się w rejonie Shantanna na południu AvLee. W tej misji kluczową rolę gra czas: widziano jak Rycerz Śmierci spotkał się z bandytami, którzy od dawna terroryzują ten rejon. Sądzimy, że wynajął ich, by ubiegli nas w poszukiwaniach.",
+    "voices": []
+  },
+  {
+    "id": 6,
+    "text_original": "Smoczy Panowie znani są z braku rozsądku, ale może uda ci się ich nakłonić do oddania pierścienia bez rozlewu krwi.",
+    "text_clean": "Smoczy Panowie znani są z braku rozsądku, ale może uda ci się ich nakłonić do oddania pierścienia bez rozlewu krwi.",
+    "voices": []
+  },
+  {
+    "id": 7,
+    "text_original": "Pierścień Życia, drugi składnik eliksiru, jest ukryty w dolinie Dagrond.\nMieszka tam elfickiej szlachty, dysponująca wielką władzą. Są owi \nelfowie opiekunami kilku stad złotych i zielonych smoków.\nCi Smoczy Panowie zawsze byli lojalni wobec AvLee, lecz obawiamy\nsię, że jeden z nich został przekupiony przez nekromantów. Jeśli ten\nzdrajca dostanie pierścień przed tobą, stanie się zbyt potężnym\nprzeciwnikiem.",
+    "text_clean": "Pierścień Życia, drugi składnik eliksiru, jest ukryty w dolinie Dagrond. Mieszka tam elfickiej szlachty, dysponująca wielką władzą. Są owi elfowie opiekunami kilku stad złotych i zielonych smoków. Ci Smoczy Panowie zawsze byli lojalni wobec AvLee, lecz obawiamy się, że jeden z nich został przekupiony przez nekromantów. Jeśli ten zdrajca dostanie pierścień przed tobą, stanie się zbyt potężnym przeciwnikiem.",
+    "voices": []
+  },
+  {
+    "id": 8,
+    "text_original": "Wampir, lord Vokial, używa Fiolki Żywej Krwi, by sycić swój głód. Odbierz mu ją, a będzie musiał cierpieć niewygody dawnego sposobu zdobywania pożywienia. Kradnąc tę Fiolkę, wyrządzisz mu wielką szkodę i przysporzysz kłopotów.",
+    "text_clean": "Wampir, lord Vokial, używa Fiolki Żywej Krwi, by sycić swój głód. Odbierz mu ją, a będzie musiał cierpieć niewygody dawnego sposobu zdobywania pożywienia. Kradnąc tę Fiolkę, wyrządzisz mu wielką szkodę i przysporzysz kłopotów.",
+    "voices": []
+  },
+  {
+    "id": 9,
+    "text_original": "Ostatni artefakt potrzebny do stworzenia Eliksiru Życia znajduje się\nw zmartwiałych rękach Władcy Wampirów Vokiala. \nMówi się, że Fiolka Żywej Krwi pozwala mu wyżywić się bez\nkonieczności uciekania się do bardziej drastycznych sposobów \npozyskiwania świeżej krwi. Można by rzec, że ten artefakt utrzymuje \nzło na wodzy, ale mimo to - musimy go zdobyć. Musisz odebrać fiolkę\nwampirowi. I pamiętaj, że nie każde zadanie należy wykonywać przy \nużyciu bezpośrednich środków. Mądrze wykorzystaj to, czego \nnauczyłeś się w czasie treningu. Bądź czujny.",
+    "text_clean": "Ostatni artefakt potrzebny do stworzenia Eliksiru Życia znajduje się w zmartwiałych rękach Władcy Wampirów Vokiala. Mówi się, że Fiolka Żywej Krwi pozwala mu wyżywić się bez konieczności uciekania się do bardziej drastycznych sposobów pozyskiwania świeżej krwi. Można by rzec, że ten artefakt utrzymuje zło na wodzy, ale mimo to - musimy go zdobyć. Musisz odebrać fiolkę wampirowi. I pamiętaj, że nie każde zadanie należy wykonywać przy użyciu bezpośrednich środków. Mądrze wykorzystaj to, czego nauczyłeś się w czasie treningu. Bądź czujny.",
+    "voices": []
+  },
+  {
+    "id": 10,
+    "text_original": "Stworzyłem Eliksir Życia i ocaliłem AvLee przed nekromantami z Deyji, zasługując tym sobie na wysoką pozycję w Leśnej Straży. Mam nadzieję, że również w przyszłości będę miał zaszczyt bronić tej przepięknej krainy, którą tak bardzo pokochałem.",
+    "text_clean": "Stworzyłem Eliksir Życia i ocaliłem AvLee przed nekromantami z Deyji, zasługując tym sobie na wysoką pozycję w Leśnej Straży. Mam nadzieję, że również w przyszłości będę miał zaszczyt bronić tej przepięknej krainy, którą tak bardzo pokochałem.",
+    "voices": []
+  },
+  {
+    "id": 11,
+    "text_original": "Pokonaj wszystkich wrogów Gelu. Jeśli Gelu zostanie pokonany w czasie walki, przegrasz. Twoi bohaterowie nie mogą awansować powyżej 10 poziomu, ale Gelu i dwóch najlepszych bohaterów zabiorą swoje doświadczenie, umiejętności i zaklęcia do następnego scenariusza.",
+    "text_clean": "Pokonaj wszystkich wrogów Gelu. Jeśli Gelu zostanie pokonany w czasie walki, przegrasz. Twoi bohaterowie nie mogą awansować powyżej 10 poziomu, ale Gelu i dwóch najlepszych bohaterów zabiorą swoje doświadczenie, umiejętności i zaklęcia do następnego scenariusza.",
+    "voices": []
+  },
+  {
+    "id": 12,
+    "text_original": "\"Melduję się. Czekam na rozkazy.\"",
+    "text_clean": "\"Melduję się. Czekam na rozkazy.\"",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 13,
+    "text_original": "\"Według rozkazu.\"",
+    "text_clean": "\"Według rozkazu.\"",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 14,
+    "text_original": "Ciemny i budzący podejrzenia szlak jest dziwnie spokojny i cichy. Nagle słyszysz syk tysiąca węży. Zanim zdążyłeś się obrócić, wyrosły przed tobą dwa tuziny meduz i ruszyły do ataku.",
+    "text_clean": "Ciemny i budzący podejrzenia szlak jest dziwnie spokojny i cichy. Nagle słyszysz syk tysiąca węży. Zanim zdążyłeś się obrócić, wyrosły przed tobą dwa tuziny meduz i ruszyły do ataku.",
+    "voices": []
+  },
+  {
+    "id": 15,
+    "text_original": "Stojąca przed tobą skrzynka budzi dziwny niepokój. Nagle światło wokół niej zaczyna pulsować, a ze szczelin wydobywa się dziwnej barwy mgła.",
+    "text_clean": "Stojąca przed tobą skrzynka budzi dziwny niepokój. Nagle światło wokół niej zaczyna pulsować, a ze szczelin wydobywa się dziwnej barwy mgła.",
+    "voices": []
+  },
+  {
+    "id": 16,
+    "text_original": "To miasto może być świetną bazą wypadową dla dalszych operacji. Przejmij je i szybko rozbuduj. Ale zachowaj ostrożność! Przeciwnicy mogą się tu podkraść pod twoją nieobecność i odbić miasto. Zostaw kilka oddziałów na straży, najlepiej pod dowództwem jakiegoś sierżanta, aby miasto nie było bezbronne w razie ataku.",
+    "text_clean": "To miasto może być świetną bazą wypadową dla dalszych operacji. Przejmij je i szybko rozbuduj. Ale zachowaj ostrożność! Przeciwnicy mogą się tu podkraść pod twoją nieobecność i odbić miasto. Zostaw kilka oddziałów na straży, najlepiej pod dowództwem jakiegoś sierżanta, aby miasto nie było bezbronne w razie ataku.",
+    "voices": []
+  },
+  {
+    "id": 17,
+    "text_original": "Gratulacje, kadecie. Przed tobą ostatni test. Jeśli go zaliczysz, dołączysz do szeregów osławionej Leśnej Straży. Musisz podbić nizinny region Gaia's Crest. Zamieszkuje go wiele potworów, jest kilka miast oraz kilka oddziałów Leśnej Straży pozorujących wrogów. To często odwiedzana prowincja, więc nie powinieneś mieć problemu z odnalezieniem drogi. Aby zaliczyć ten test, musisz pokonać wszystkich wrogów wszelkimi dostępnymi środkami. Powodzenia, kadecie. I niech Światło opromienia twoją drogę.",
+    "text_clean": "Gratulacje, kadecie. Przed tobą ostatni test. Jeśli go zaliczysz, dołączysz do szeregów osławionej Leśnej Straży. Musisz podbić nizinny region Gaia's Crest. Zamieszkuje go wiele potworów, jest kilka miast oraz kilka oddziałów Leśnej Straży pozorujących wrogów. To często odwiedzana prowincja, więc nie powinieneś mieć problemu z odnalezieniem drogi. Aby zaliczyć ten test, musisz pokonać wszystkich wrogów wszelkimi dostępnymi środkami. Powodzenia, kadecie. I niech Światło opromienia twoją drogę.",
+    "voices": []
+  },
+  {
+    "id": 19,
+    "text_original": "Minęło 30 dni od rozpoczęcia misji. Działasz zbyt wolno. Jako członek Leśnej Straży musisz szybciej przemieszczać swoje oddziały, by atakować nieprzyjaciela, gdy jest słaby i nieprzygotowany. Im mniej wie o naszych działaniach na danym obszarze, tym mniej prawdopodobne, że przygotuje się na atak. Pospiesz się. Zaatakuj i zabezpiecz ten rejon. Od sprawnego przeprowadzenia ataku może zależeć twoje życie.",
+    "text_clean": "Minęło 30 dni od rozpoczęcia misji. Działasz zbyt wolno. Jako członek Leśnej Straży musisz szybciej przemieszczać swoje oddziały, by atakować nieprzyjaciela, gdy jest słaby i nieprzygotowany. Im mniej wie o naszych działaniach na danym obszarze, tym mniej prawdopodobne, że przygotuje się na atak. Pospiesz się. Zaatakuj i zabezpiecz ten rejon. Od sprawnego przeprowadzenia ataku może zależeć twoje życie.",
+    "voices": []
+  },
+  {
+    "id": 21,
+    "text_original": "Kadecie, to staje się farsą! Tej wielkości rejon powinien być do tej pory oczyszczony z wrogów. Misje Leśnej Straży wymagają szybkości, niezawodności i nieuchwytności. Chyba przeceniliśmy twoje zdolności i należy cofnąć cię do treningu podstawowego. Pospiesz się i oczyść ten obszar!",
+    "text_clean": "Kadecie, to staje się farsą! Tej wielkości rejon powinien być do tej pory oczyszczony z wrogów. Misje Leśnej Straży wymagają szybkości, niezawodności i nieuchwytności. Chyba przeceniliśmy twoje zdolności i należy cofnąć cię do treningu podstawowego. Pospiesz się i oczyść ten obszar!",
+    "voices": []
+  },
+  {
+    "id": 23,
+    "text_original": "Zwiadowcy z Leśnej Straży muszą radzić sobie w wielu nieoczekiwanych sytuacjach. Przyjdzie czas, gdy coś pójdzie nie tak lub nie da się wcześniej zaplanować. Oto właśnie jedna z takich sytuacji. Kilka wozów dostawczych dostało się w ręce rabusiów, a ich zawartość znikła. Musisz sobie z tym jakoś poradzić.",
+    "text_clean": "Zwiadowcy z Leśnej Straży muszą radzić sobie w wielu nieoczekiwanych sytuacjach. Przyjdzie czas, gdy coś pójdzie nie tak lub nie da się wcześniej zaplanować. Oto właśnie jedna z takich sytuacji. Kilka wozów dostawczych dostało się w ręce rabusiów, a ich zawartość znikła. Musisz sobie z tym jakoś poradzić.",
+    "voices": []
+  },
+  {
+    "id": 24,
+    "text_original": "Powstrzymaj grupę zbuntowanych lordów AvLee przed sprzedaniem Pierścienia Żywotności Rycerzom Śmierci z Deyji. Pamiętaj, że Gelu nie może przegrać żadnej bitwy. Gelu nie może awansować powyżej 15 poziomu, a jego doświadczenie, umiejętności i zaklęcia przejdą do następnego scenariusza.",
+    "text_clean": "Powstrzymaj grupę zbuntowanych lordów AvLee przed sprzedaniem Pierścienia Żywotności Rycerzom Śmierci z Deyji. Pamiętaj, że Gelu nie może przegrać żadnej bitwy. Gelu nie może awansować powyżej 15 poziomu, a jego doświadczenie, umiejętności i zaklęcia przejdą do następnego scenariusza.",
+    "voices": []
+  },
+  {
+    "id": 25,
+    "text_original": "Mój przyjaciel, Phelan, powiedział mi, że mogę spodziewać się odwiedzin bladolicego gościa o imieniu Gelu. Czy to ty?",
+    "text_clean": "Mój przyjaciel, Phelan, powiedział mi, że mogę spodziewać się odwiedzin bladolicego gościa o imieniu Gelu. Czy to ty?",
+    "voices": []
+  },
+  {
+    "id": 26,
+    "text_original": "Powiedziano mi, że mam czekać na Gelu. Jeśli zdarzy ci się spotkać go w czasie wędrówki, powiedz mu, gdzie mnie szukać.",
+    "text_clean": "Powiedziano mi, że mam czekać na Gelu. Jeśli zdarzy ci się spotkać go w czasie wędrówki, powiedz mu, gdzie mnie szukać.",
+    "voices": []
+  },
+  {
+    "id": 27,
+    "text_original": "Zanim powiem ci, gdzie jest pierścień, musisz udowodnić, że jesteś go wart, przynosząc mi Order Męstwa. Nie wracaj bez tego artefaktu.",
+    "text_clean": "Zanim powiem ci, gdzie jest pierścień, musisz udowodnić, że jesteś go wart, przynosząc mi Order Męstwa. Nie wracaj bez tego artefaktu.",
+    "voices": []
+  },
+  {
+    "id": 28,
+    "text_original": "Nie znalazłeś Orderu Męstwa? Tsk, tsk. Sądziłem, żeś z twardszej ulepiony gliny.  Idź i szukaj.  To jedyny sposób, by poznać miejsce, w którym ukryto pierścień.",
+    "text_clean": "Nie znalazłeś Orderu Męstwa? Tsk, tsk. Sądziłem, żeś z twardszej ulepiony gliny. Idź i szukaj. To jedyny sposób, by poznać miejsce, w którym ukryto pierścień.",
+    "voices": []
+  },
+  {
+    "id": 29,
+    "text_original": "Udowodniłeś swoją wartość. Pokażę ci, gdzie znajduje się Pierścień Żywotności.   Człowiek, który go posiada, mieszka w chacie na południowy zachód stąd. Ukrywa pierścień i odda go tylko temu, kogo ja uznam za wartego tego zaszczytu. Powiadomię go o twoim przybyciu. Weź te Skrzydła Anioła. Pozwolą ci szybciej do niego dotrzeć. Na miejscu dostaniesz to, czego szukasz.",
+    "text_clean": "Udowodniłeś swoją wartość. Pokażę ci, gdzie znajduje się Pierścień Żywotności. Człowiek, który go posiada, mieszka w chacie na południowy zachód stąd. Ukrywa pierścień i odda go tylko temu, kogo ja uznam za wartego tego zaszczytu. Powiadomię go o twoim przybyciu. Weź te Skrzydła Anioła. Pozwolą ci szybciej do niego dotrzeć. Na miejscu dostaniesz to, czego szukasz.",
+    "voices": []
+  },
+  {
+    "id": 30,
+    "text_original": "Leśnej Straży powierzono zadanie odzyskania kilku artefaktów niezbędnych do stworzenia Eliksiru Życia. Jeśli ta magiczna mikstura dostanie się w ręce nekromantów z Deyji, wykorzystają jej potężną moc dla swych niecnych celów. \n\nGelu został mianowany dowódcą ekspedycji, która ma wyruszyć na teren tych odszczepieńców. Mówi się, że mają Pierścień Żywotności, a przynajmniej wiedzą, gdzie się znajduje i planują sprzedać go nekromantom. Musisz ich powstrzymać i przejąć pierścień. Nie zawiedź nas, pamiętaj, że nie chodzi tylko o twoje życie. Powodzenia.",
+    "text_clean": "Leśnej Straży powierzono zadanie odzyskania kilku artefaktów niezbędnych do stworzenia Eliksiru Życia. Jeśli ta magiczna mikstura dostanie się w ręce nekromantów z Deyji, wykorzystają jej potężną moc dla swych niecnych celów. Gelu został mianowany dowódcą ekspedycji, która ma wyruszyć na teren tych odszczepieńców. Mówi się, że mają Pierścień Żywotności, a przynajmniej wiedzą, gdzie się znajduje i planują sprzedać go nekromantom. Musisz ich powstrzymać i przejąć pierścień. Nie zawiedź nas, pamiętaj, że nie chodzi tylko o twoje życie. Powodzenia.",
+    "voices": []
+  },
+  {
+    "id": 32,
+    "text_original": "Szpiedzy donoszą o jasnowidzu z północnego wschodu, który zna ponoć miejsce ukrycia Pierścienia Żywotności. Odszukaj jasnowidza, zlokalizuj pierścień i odzyskaj go. Bądź ostrożny! Nekromanci też poszukują pierścienia.",
+    "text_clean": "Szpiedzy donoszą o jasnowidzu z północnego wschodu, który zna ponoć miejsce ukrycia Pierścienia Żywotności. Odszukaj jasnowidza, zlokalizuj pierścień i odzyskaj go. Bądź ostrożny! Nekromanci też poszukują pierścienia.",
+    "voices": []
+  },
+  {
+    "id": 33,
+    "text_original": "Władcy tych terenów to bandyci i szaleńcy. Napadają na karawany, wyrzynają wsie i garnizony nie zastanawiając się, czym może się to skończyć dla ich ojczyzny. Z głupoty są w stanie sprzedać Pierścień Żywotności nekromantom i zdradzić swych rodaków tylko po to, by wypełnić kufry złotem. Takim zdrajcom nie można ufać. Nie można też okazywać im litości.",
+    "text_clean": "Władcy tych terenów to bandyci i szaleńcy. Napadają na karawany, wyrzynają wsie i garnizony nie zastanawiając się, czym może się to skończyć dla ich ojczyzny. Z głupoty są w stanie sprzedać Pierścień Żywotności nekromantom i zdradzić swych rodaków tylko po to, by wypełnić kufry złotem. Takim zdrajcom nie można ufać. Nie można też okazywać im litości.",
+    "voices": []
+  },
+  {
+    "id": 35,
+    "text_original": "Zwiadowcy donoszą, że jeden z miejscowych zabijaków skontaktował się z nekromantami i ma zamiar wkrótce się z nimi spotkać. Nie ma czasu do stracenia. Jeśli pierścień wpadnie w ręce nekromantów, będziesz musiał wydrzeć im go siłą. Za wszelką cenę zadbaj, by pierścień znalazł się w bezpiecznym miejscu. Pamiętaj, że najlepszą obroną jest atak: oczyść rejon z zamieszkujących go bandytów, nim się zorganizują i spróbują przejąć artefakt. W ostateczności, możesz najechać Deyję.",
+    "text_clean": "Zwiadowcy donoszą, że jeden z miejscowych zabijaków skontaktował się z nekromantami i ma zamiar wkrótce się z nimi spotkać. Nie ma czasu do stracenia. Jeśli pierścień wpadnie w ręce nekromantów, będziesz musiał wydrzeć im go siłą. Za wszelką cenę zadbaj, by pierścień znalazł się w bezpiecznym miejscu. Pamiętaj, że najlepszą obroną jest atak: oczyść rejon z zamieszkujących go bandytów, nim się zorganizują i spróbują przejąć artefakt. W ostateczności, możesz najechać Deyję.",
+    "voices": []
+  },
+  {
+    "id": 36,
+    "text_original": "Jasnowidz z północnego wschodu to mądry starzec o imieniu Feredor. Udaj się do niego, ale pamiętaj, że nie da ci od razu pierścienia. Mówi się, że poddaje poszukiwaczy artefaktu specjalnemu testowi. Wypełnij każde zadanie, które ci zleci - musisz mieć ten pierścień!",
+    "text_clean": "Jasnowidz z północnego wschodu to mądry starzec o imieniu Feredor. Udaj się do niego, ale pamiętaj, że nie da ci od razu pierścienia. Mówi się, że poddaje poszukiwaczy artefaktu specjalnemu testowi. Wypełnij każde zadanie, które ci zleci - musisz mieć ten pierścień!",
+    "voices": []
+  },
+  {
+    "id": 38,
+    "text_original": "Ostatniej nocy dręczyły cię potworne koszmary, wizje nadciągających potworności. Nawiedzały cię spowite w szczątki szat postaci, wyciągające kościste szpony w kierunku zielonych łąk, pozostawiające za sobą spopielone pogorzelisko pełne żywych trupów. Upiorny śmiech odbił się echem w twej głowie i duszy. Obudziłeś się przerażony i roztrzęsiony, lecz wciąż zdecydowany odzyskać Pierścień Żywotności.",
+    "text_clean": "Ostatniej nocy dręczyły cię potworne koszmary, wizje nadciągających potworności. Nawiedzały cię spowite w szczątki szat postaci, wyciągające kościste szpony w kierunku zielonych łąk, pozostawiające za sobą spopielone pogorzelisko pełne żywych trupów. Upiorny śmiech odbił się echem w twej głowie i duszy. Obudziłeś się przerażony i roztrzęsiony, lecz wciąż zdecydowany odzyskać Pierścień Żywotności.",
+    "voices": []
+  },
+  {
+    "id": 39,
+    "text_original": "Ostrożnie, ten region - niegdyś miejsce chwalebnej bitwy - jest obecnie świętą ziemią. Uważaj, by jej nie zbezcześcić.",
+    "text_clean": "Ostrożnie, ten region - niegdyś miejsce chwalebnej bitwy - jest obecnie świętą ziemią. Uważaj, by jej nie zbezcześcić.",
+    "voices": []
+  },
+  {
+    "id": 41,
+    "text_original": "Bandyci napadli na twoje wozy aprowizacyjne i przejęli wartościowe zasoby.",
+    "text_clean": "Bandyci napadli na twoje wozy aprowizacyjne i przejęli wartościowe zasoby.",
+    "voices": []
+  },
+  {
+    "id": 43,
+    "text_original": "Ta dolina należy do smoczych panów. Trzeba ich pokonać i zdobyć Pierścień Życia. Jeśli Gelu zostanie pokonany w walce, przegrasz. Gelu nie może awansować powyżej 20 poziomu, ale zabierze doświadczenie, umiejętności i zaklęcia do następnego scenariusza.",
+    "text_clean": "Ta dolina należy do smoczych panów. Trzeba ich pokonać i zdobyć Pierścień Życia. Jeśli Gelu zostanie pokonany w walce, przegrasz. Gelu nie może awansować powyżej 20 poziomu, ale zabierze doświadczenie, umiejętności i zaklęcia do następnego scenariusza.",
+    "voices": []
+  },
+  {
+    "id": 44,
+    "text_original": "Gdzieś w dolinie Dagrond ukryty jest Pierścień Życia, drugi składnik potrzebny do stworzenia eliksiru życia. Doliną tą władają Smoczy Panowie. Opiekują się oni zielonymi i złotymi smokami żyjącymi w AvLee. Niestety, jeden z nich został przekupiony i knuje przeciw AvLee. Jesteśmy przekonani, że działa w porozumieniu z nekromantami z Deyji. \nDowiedział się, że pierścień ukryty jest w dolinie i zapewne zechce go przejąć. Musisz temu zapobiec. Zdobądź pierścień, abyśmy zdążyli stworzyć Eliksir Życia nim nekromanci zagarną dla siebie ten potężny artefakt.",
+    "text_clean": "Gdzieś w dolinie Dagrond ukryty jest Pierścień Życia, drugi składnik potrzebny do stworzenia eliksiru życia. Doliną tą władają Smoczy Panowie. Opiekują się oni zielonymi i złotymi smokami żyjącymi w AvLee. Niestety, jeden z nich został przekupiony i knuje przeciw AvLee. Jesteśmy przekonani, że działa w porozumieniu z nekromantami z Deyji. Dowiedział się, że pierścień ukryty jest w dolinie i zapewne zechce go przejąć. Musisz temu zapobiec. Zdobądź pierścień, abyśmy zdążyli stworzyć Eliksir Życia nim nekromanci zagarną dla siebie ten potężny artefakt.",
+    "voices": []
+  },
+  {
+    "id": 46,
+    "text_original": "Wiemy już z całą pewnością, że Smoczy Pan działa na szkodę AvLee i jego mieszkańców. Zjednoczył się z siłami zła, istotami tak pokrętnymi, że mogą cię przekonać, iż zdrajca jest szlachetnym mieszkańcem AvLee, a nie groźnym mordercą. Smoczy Pan sprawia wrażenie szacownego elfickiego lorda, ale po kryjomu pozwala nekromantom pozyskiwać ludność AvLee do ich ohydnej armii. Niszcząc jego samego i tych, którzy idą za nim, oddasz AvLee wielką przysługę. Czyn ten zostanie sowicie wynagrodzony i na zawsze zapisze twoje imię we wdzięcznej pamięci narodu elfów.",
+    "text_clean": "Wiemy już z całą pewnością, że Smoczy Pan działa na szkodę AvLee i jego mieszkańców. Zjednoczył się z siłami zła, istotami tak pokrętnymi, że mogą cię przekonać, iż zdrajca jest szlachetnym mieszkańcem AvLee, a nie groźnym mordercą. Smoczy Pan sprawia wrażenie szacownego elfickiego lorda, ale po kryjomu pozwala nekromantom pozyskiwać ludność AvLee do ich ohydnej armii. Niszcząc jego samego i tych, którzy idą za nim, oddasz AvLee wielką przysługę. Czyn ten zostanie sowicie wynagrodzony i na zawsze zapisze twoje imię we wdzięcznej pamięci narodu elfów.",
+    "voices": []
+  },
+  {
+    "id": 48,
+    "text_original": "To wprost wymarzone zadanie, by doskonalić twoje umiejętności. Od opuszczenia Akademii Rekrutów Leśnej Straży nie brałeś udziału w tak szybkiej akcji. Chociaż martwią cię czarne chmury zbierające się nad horyzontem, czujesz, że uczestniczysz w czymś... ważnym. Eliksir Życia może uleczyć wiele bolączek AvLee.",
+    "text_clean": "To wprost wymarzone zadanie, by doskonalić twoje umiejętności. Od opuszczenia Akademii Rekrutów Leśnej Straży nie brałeś udziału w tak szybkiej akcji. Chociaż martwią cię czarne chmury zbierające się nad horyzontem, czujesz, że uczestniczysz w czymś... ważnym. Eliksir Życia może uleczyć wiele bolączek AvLee.",
+    "voices": []
+  },
+  {
+    "id": 50,
+    "text_original": "Zapach dymu niesiony przez poranny wiatr podpowiada ci, że jezioro ognia, którego szukasz, znajduje się gdzieś na południe stąd.",
+    "text_clean": "Zapach dymu niesiony przez poranny wiatr podpowiada ci, że jezioro ognia, którego szukasz, znajduje się gdzieś na południe stąd.",
+    "voices": []
+  },
+  {
+    "id": 52,
+    "text_original": "Aby wygrać kampanię, musisz wykraść wampirzemu lordowi, Vokialowi, jego Fiolkę Żywej Krwi, przy czym Gelu nie może zostać pokonany w bitwie. Gelu nie może awansować powyżej 25 poziomu, ale swoje doświadczenie, zaklęcia i umiejętności będzie mógł wykorzystać w następnej kampanii.",
+    "text_clean": "Aby wygrać kampanię, musisz wykraść wampirzemu lordowi, Vokialowi, jego Fiolkę Żywej Krwi, przy czym Gelu nie może zostać pokonany w bitwie. Gelu nie może awansować powyżej 25 poziomu, ale swoje doświadczenie, zaklęcia i umiejętności będzie mógł wykorzystać w następnej kampanii.",
+    "voices": []
+  },
+  {
+    "id": 53,
+    "text_original": "\"Pst. Hej. Tutaj. Słyszeliśmy, że poszukujesz fiolki, którą ma pewien wampirzy lord. My, gildia złodziei, też szukamy paru rzeczy. Wyświadcz nam przysługę, a odpłacimy ci tym samym. Jeśli przyniesiesz nam Gladius Tytanów i Tarczę Strażnika Niebios, możemy wykraść rzeczoną fiolkę z domu wampira. Umowa stoi? Tak myślałem.\"",
+    "text_clean": "\"Pst. Hej. Tutaj. Słyszeliśmy, że poszukujesz fiolki, którą ma pewien wampirzy lord. My, gildia złodziei, też szukamy paru rzeczy. Wyświadcz nam przysługę, a odpłacimy ci tym samym. Jeśli przyniesiesz nam Gladius Tytanów i Tarczę Strażnika Niebios, możemy wykraść rzeczoną fiolkę z domu wampira. Umowa stoi? Tak myślałem.\"",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 54,
+    "text_original": "\"Jeszcze nie znalazłeś, hę? Jeśli naprawdę zależy ci na tej fiolce, zawróć i poszukaj trochę dokładniej, kapewu?\"",
+    "text_clean": "\"Jeszcze nie znalazłeś, hę? Jeśli naprawdę zależy ci na tej fiolce, zawróć i poszukaj trochę dokładniej, kapewu?\"",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 55,
+    "text_original": "\"W porządku! Teraz możemy pohandlować. Sprawa wygląda tak: ty dajesz nam Gladius Tytanów i Tarczę Strażnika Niebios, a mój towarzysz przekaże ci Fiolkę Żywej Krwi. Umowa stoi?\"",
+    "text_clean": "\"W porządku! Teraz możemy pohandlować. Sprawa wygląda tak: ty dajesz nam Gladius Tytanów i Tarczę Strażnika Niebios, a mój towarzysz przekaże ci Fiolkę Żywej Krwi. Umowa stoi?\"",
+    "voices": [
+      ""
+    ]
+  },
+  {
+    "id": 56,
+    "text_original": "Jak śmiesz nachodzić moje królestwo, i próbować mnie okraść!? Urządzimy sobie ucztę na twoich szczątkach.",
+    "text_clean": "Jak śmiesz nachodzić moje królestwo, i próbować mnie okraść!? Urządzimy sobie ucztę na twoich szczątkach.",
+    "voices": []
+  },
+  {
+    "id": 57,
+    "text_original": "Złodzieje! Budźcie się moje dzieci, przyszedł obiadek!",
+    "text_clean": "Złodzieje! Budźcie się moje dzieci, przyszedł obiadek!",
+    "voices": []
+  },
+  {
+    "id": 58,
+    "text_original": "Przyszedł czas, by zdobyć ostatni składnik eliksiru życia: Fiolkę Żywej Krwi. Od długiego czasu znajduje się ona w posiadaniu lorda wampirów, Vokiala. Pozwala mu bezkrwawo zaspokajać jego nieposkromiony, wampirzy apetyt. Mówi się, że uznał zwykły sposób pożywiania się wampirów za obrzydliwy, prymitywny i poniżej jego godności. Odebranie mu tego artefaktu załatwi za jednym zamachem dwie sprawy: pozwoli nam stworzyć eliksir, a Vokialowi przysporzy paru zmartwień i problemów. Może nawet doprowadzi go do śmierci głodowej, choć na to ostatnie nie należy raczej liczyć.",
+    "text_clean": "Przyszedł czas, by zdobyć ostatni składnik eliksiru życia: Fiolkę Żywej Krwi. Od długiego czasu znajduje się ona w posiadaniu lorda wampirów, Vokiala. Pozwala mu bezkrwawo zaspokajać jego nieposkromiony, wampirzy apetyt. Mówi się, że uznał zwykły sposób pożywiania się wampirów za obrzydliwy, prymitywny i poniżej jego godności. Odebranie mu tego artefaktu załatwi za jednym zamachem dwie sprawy: pozwoli nam stworzyć eliksir, a Vokialowi przysporzy paru zmartwień i problemów. Może nawet doprowadzi go do śmierci głodowej, choć na to ostatnie nie należy raczej liczyć.",
+    "voices": []
+  },
+  {
+    "id": 60,
+    "text_original": "Jak dotąd służyłeś mi wiernie, Gelu. Ja, lord Falorel, jestem wielce rad z twoich usług i nie omieszkam poinformować o tym twych zwierzchników z Leśnej Straży. Współpraca z Erathią dobrze służy naszym wspólnym interesom i być może, podążając tą drogą, naprawimy szkody wyrządzone podczas Drewnianej Wojny. Chcę wynagrodzić twoją lojalność. Przyjmij proszę to złoto jako wyraz wdzięczności za twój wkład w ratowanie AvLee i jego mieszkańców.",
+    "text_clean": "Jak dotąd służyłeś mi wiernie, Gelu. Ja, lord Falorel, jestem wielce rad z twoich usług i nie omieszkam poinformować o tym twych zwierzchników z Leśnej Straży. Współpraca z Erathią dobrze służy naszym wspólnym interesom i być może, podążając tą drogą, naprawimy szkody wyrządzone podczas Drewnianej Wojny. Chcę wynagrodzić twoją lojalność. Przyjmij proszę to złoto jako wyraz wdzięczności za twój wkład w ratowanie AvLee i jego mieszkańców.",
+    "voices": []
+  },
+  {
+    "id": 61,
+    "text_original": "Vokial jest potężnym lordem wampirów i będzie silnie strzeżony. Na teren Deyji wkraczaj ostrożnie, gdyż Vokial dobrze pilnuje się przed złodziejami.",
+    "text_clean": "Vokial jest potężnym lordem wampirów i będzie silnie strzeżony. Na teren Deyji wkraczaj ostrożnie, gdyż Vokial dobrze pilnuje się przed złodziejami.",
+    "voices": []
+  },
+  {
+    "id": 63,
+    "text_original": "Chodzą słuchy, że Miecz Tytanów, pilnowany przez czarne smoki, jest gdzieś na południowym zachodzie doliny.",
+    "text_clean": "Chodzą słuchy, że Miecz Tytanów, pilnowany przez czarne smoki, jest gdzieś na południowym zachodzie doliny.",
+    "voices": []
+  },
+  {
+    "id": 65,
+    "text_original": "Przypadkowo napotkany wędrowiec opowiedział ci o błyszczącej tarczy, którą widział na południowym wschodzie. Wziąłby ją, gdyby nie napadły go rozwścieczone czerwone smoki.",
+    "text_clean": "Przypadkowo napotkany wędrowiec opowiedział ci o błyszczącej tarczy, którą widział na południowym wschodzie. Wziąłby ją, gdyby nie napadły go rozwścieczone czerwone smoki.",
+    "voices": []
+  },
+  {
+    "id": 67,
+    "text_original": "Uważaj na gildię złodziei - jej członkowie są groźni i podstępni. Dobrze sprawdź, czy masz to, czego szukają. A zanim dokonasz wymiany, każ pokazać sobie to, co mają ci dać.",
+    "text_clean": "Uważaj na gildię złodziei - jej członkowie są groźni i podstępni. Dobrze sprawdź, czy masz to, czego szukają. A zanim dokonasz wymiany, każ pokazać sobie to, co mają ci dać.",
+    "voices": []
+  },
+  {
+    "id": 68,
+    "text_original": "Gdy już zdobędziesz Fiolkę Żywej Krwi, połącz ją z Pierścieniem Życia i Pierścieniem Żywotności, a uzyskasz Eliksir Życia. Musisz mieć wszystkie trzy elementy, aby stworzyć eliksir i nie możesz ich rozdzielać, aby eliksir nie stracił stabilności. \n\nProcedura jest prosta. Umieść pierścienie w fiolce i trzykrotnie wypowiedz słowa wypisane na zwoju, który dostałeś. Gdy wypowiesz je po raz trzeci, pojawi się eliksir. Przynieś go do mnie natychmiast.",
+    "text_clean": "Gdy już zdobędziesz Fiolkę Żywej Krwi, połącz ją z Pierścieniem Życia i Pierścieniem Żywotności, a uzyskasz Eliksir Życia. Musisz mieć wszystkie trzy elementy, aby stworzyć eliksir i nie możesz ich rozdzielać, aby eliksir nie stracił stabilności. Procedura jest prosta. Umieść pierścienie w fiolce i trzykrotnie wypowiedz słowa wypisane na zwoju, który dostałeś. Gdy wypowiesz je po raz trzeci, pojawi się eliksir. Przynieś go do mnie natychmiast.",
+    "voices": []
+  }
+]

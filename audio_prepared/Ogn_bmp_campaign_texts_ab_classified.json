@@ -1,0 +1,1963 @@
+[
+  {
+    "id": 0,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 24,
+    "text": "Przodkowie zostali porwani przez Vorra, Przodka, który zwariował przez swoją moc. Tarnum musi uratować Przodków i powstrzymać Vorra, zanim ten zniszczy świat.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 158
+  },
+  {
+    "id": 1,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 208,
+    "text": "Misja: Zdobądź Inferno, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 52
+  },
+  {
+    "id": 2,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 267,
+    "text": "Tarnum opuścił upojne podziemne tunele Drzewa Świata, nie wiedząc dokąd zaprowadzą go poszukiwania Vorra. Jak rozdzielone strumienie wody, poczuł niewytłumaczalną siłę ciągnącą go na północny-wschód, poprzez niegościnną pustynię.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 229
+  },
+  {
+    "id": 3,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 579,
+    "text": "Misja: Zdobądź Inferno Blackdome, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 62
+  },
+  {
+    "id": 4,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 648,
+    "text": "Piaski pustyni zmieniły się w pagórki, a pagórki w góry. Tarnum maszerował naprzód, wiedząc, że nowy wróg czekał na niego, sprawiając, że musi walczyć o każdy krok. Jakoś wiedział, że te demony i diabły muszą być sprzymierzone z Vorrem, ale dlaczego i w jakim celu?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 265
+  },
+  {
+    "id": 5,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 994,
+    "text": "Misja: Zdobądź pierścień wędrowca, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 63
+  },
+  {
+    "id": 6,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 1064,
+    "text": "Teraz Tarnum wie, że Vorr uciekł z tego świata, by zebrać siły. Jedyna droga prowadząca do niego przechodzi przez Iskrzący Most, portal do dowolnej lokacji we wszechświecie. Niestety, żywiołakowi strażnicy Iskrzącego Mostu nie pozwalają każdemu przez niego przechodzić.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 269
+  },
+  {
+    "id": 7,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 1415,
+    "text": "Misja: Pokonaj Xyrona, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 51
+  },
+  {
+    "id": 8,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 1473,
+    "text": "Vorr, uwięził pozostałych Przodków gdzieś na odizolowanym Ognistym Księżycu. Tarnum, jak tylko postawił nogę na spalonej ziemi, poczuł ból Przodków. Umierali, a z wraz nimi umarłby i on.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 186
+  },
+  {
+    "id": 9,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 1742,
+    "text": "Misja: Pokonaj Vorra, nie tracąc przy tym Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 50
+  },
+  {
+    "id": 10,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 2071,
+    "text": "Kiedy Vorr leżał umierający na polu bitwy, Tarnum wlał fiolkę soku z Drzewa Życia w usta Przodka. Powoli nowe życie wlało się w Vorra. Jego rany się zaleczyły i powstał. Łzy popłynęły z oczu Vorra, kiedy obejmował Tarnuma. Drzewo Życia nie tylko uleczyło jego rany, ale także nienawiść, która nim kierowała. Łzy popłynęły także z oczu Tarnuma, gdyż po raz pierwszy uwierzył, że mógł się zmienić.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 395
+  },
+  {
+    "id": 11,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 2536,
+    "text": "Bezkresne piaski",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 16
+  },
+  {
+    "id": 12,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 2556,
+    "text": "Tarnum musi przebyć nieprzyjazne piaski pustyni, ale ma nowego wroga. Musi pokonać Inferno, ale sam nie może zginąć. Wszyscy bohaterowie ograniczeni są do 6 poziomu, ale całe doświadczenie, zaklęcia, zdolności i artefakty Tarnum przeniesie do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 266
+  },
+  {
+    "id": 13,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 40497,
+    "text": "\"Oo-tee-dee!\" wrzeszczą zakapturzeni bandyci, kiedy spadają z klifów.\n\nNie widzisz ich twarzy, ale ich mordercze oczy błyszczą w ciemnościach pod kapturami.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Oo-tee-dee!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 156
+  },
+  {
+    "id": 14,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 41140,
+    "text": "Kości podróżnika i jego konia leżą w piasku. Dziwne, ale jedyną rzeczą jaka nie sczezła na tym gorącym słońcu jest para rękawic jeździeckich na kościstych dłoniach.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 164
+  },
+  {
+    "id": 15,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 41326,
+    "text": "Kości niezliczonych nieszczęsnych dusz zaśmiecają piaski w tym rejonie. To są pozostałości po głupich podróżnikach, którzy sądzili, że mogą zabrać Niszczycielską Maczugę Ogrów tym trzem Behemotom. Twoja czaszka byłaby miłym dodatkiem do kolekcji. Czy chcesz zaatakować?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 269
+  },
+  {
+    "id": 16,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 42201,
+    "text": "Mija chwila zanim twoje oczy przyzwyczajają się do światła dnia, czegoś czego nie widziałeś od miesięcy. Powietrze jest gorące i suche, a słońce piecze twoją skórę. Czujesz się dobrze.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 184
+  },
+  {
+    "id": 17,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 42504,
+    "text": "\"Zasadzka!\" krzyczysz, gdy tuzin strzał wylatuje zza skał powyżej.\n\nTwoi ludzie kryją się, kiedy nadciąga druga fala. Potem rozkazujesz swoim ludziom wspiąć się na wzgórze.\n\n\"Poszukajcie tych tchórzy!\" rozkazujesz.\n\nTwoi ludzie jednak powracają po godzinie. Po bandytach ani śladu.\n\nPóźniej orientujesz się, że strzały były przeznaczone nie dla twoich ludzi, ale ich manierki z wodą. Połowa wody zniknęła.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zasadzka!",
+          "voice": ""
+        },
+        {
+          "text": "Poszukajcie tych tchórzy!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 405
+  },
+  {
+    "id": 18,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 42999,
+    "text": "Wycie dobiegające od klifów brzmi jakby setki tysięcy wilków otaczało cię. Ty i twoi ludzie stają w kole gotowi na spotkanie z zagrożeniem. W końcu widzisz je - horda wielkich czarnych psów pędzą w waszą stronę, a dym z ich nozdrzy znaczą drogę.\n\"Piekielne ogary\" mruczysz, zaciskając dłoń na mieczu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Piekielne ogary",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 300
+  },
+  {
+    "id": 19,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 43588,
+    "text": "Ziemie przed tobą wznoszą się nieznacznie, nadymając jak czarna rozpacz na powierzchnię pustyni. Piasek jest zwęglony, a z daleka widać dym unoszący się nad aktywnym wulkanem.\n\nMasz przeczucie, że ta spopielona ziemia nie była tu od zawsze. Właściwie może być całkiem świeża.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 275
+  },
+  {
+    "id": 20,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 45424,
+    "text": "Grupka Goblinów twierdzi, że były kiedyś częścią twojej armii. Zgubiły się w tunelach, a teraz chcą się przyłączyć do ciebie ponownie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 134
+  },
+  {
+    "id": 21,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 45657,
+    "text": "Widzisz orkowego leśnika wraz z jego synem na ścieżce przed tobą, a wielkie wiązki drewna leżą na ich barkach. Kiedy cię zauważają, oddają tobie pokłon.\n\nOjciec mówi: \"Nie ma potrzeby jechać tą drogą. Jest zablokowana.\"\n\n\"Zablokowana? Jak?\" spytałeś.\n\n\"Zapadła się miesiące temu. To dziwne. Tu były kiedyś silne tunele.\"\n\n\"Czy jest jakaś inna droga na powierzchnię?\" pytasz.\n\n\"Taa... Słyszałem, że ci magiczni Nekromanci postawili monolit gdzieś tutaj. Może jeszcze działa\" odpowiada ork.\n\nDziękujesz mu, pozwalając jemu oraz jego synowi wrócić do pracy.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie ma potrzeby jechać tą drogą. Jest zablokowana.",
+          "voice": ""
+        },
+        {
+          "text": "Zablokowana? Jak?",
+          "voice": ""
+        },
+        {
+          "text": "Zapadła się miesiące temu. To dziwne. Tu były kied...",
+          "voice": ""
+        },
+        {
+          "text": "Czy jest jakaś inna droga na powierzchnię?",
+          "voice": ""
+        },
+        {
+          "text": "Taa... Słyszałem, że ci magiczni Nekromanci postaw...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 554
+  },
+  {
+    "id": 22,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 46347,
+    "text": "Ktoś przykuł grupę cerberów do skał w tym rejonie. Ich smycze są na tyle długie, aby zapolować i zaatakować ciebie, ale na tyle krótkie, aby utrzymać je na straży przejścia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 173
+  },
+  {
+    "id": 23,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 46578,
+    "text": "Widzisz kilka żółtych świateł z daleka jakby wiele obozowych ognisk. Co to jest? Armia?\n\nZaciskając zęby, maszerujesz w stronę swego przeznaczenia. Spotykasz jednak mnóstwo magogów czekających na ciebie i gotowych do walki na śmierć i życie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 241
+  },
+  {
+    "id": 24,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 46925,
+    "text": "Słyszysz brzęczenie metalowych narzędzi o skały i ostroznie podchodzisz, orientując się, że kilka demonów pracuje w jaskini przed tobą. Najwyraźniej próbują zawalić strop, aby pogrzebać cię tu na zawsze.\n\nKiedy cię spotykają, odkładają narzędzia i atakują.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 256
+  },
+  {
+    "id": 25,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 47232,
+    "text": "Strumienia światła przebijają się przez przejście w odległej jaskini. Nareszcie, znalazłeś wyjście na powierzchnię! Niestety nie zauważyłeś czarno odzianych ludzi kryjących się w cieniu. Podskoczyli do twoich ludzi i zaatakowali.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 229
+  },
+  {
+    "id": 26,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 47593,
+    "text": "Grupa ogrzych magów stoi w kręgu wokół tarczy wiszącej nad wielim ogniskiem. Zgadujesz z ich rytuału, że nadal czczą Vorra Szaleńca. Czy chcesz teraz ich zaatakować i ocalić magiczną tarcze od zniszczenia w imię Vorra?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 218
+  },
+  {
+    "id": 27,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 47949,
+    "text": "Osądzony przez Przodków jako niegodny wkroczenia do Raju, Tarnum przemierza ziemię w poszukiwaniu odkupienia za przestępstwa z  przeszłości. Jest Nieśmiertelnym Bohaterem, ponadczasowym obrońcą, ale sam wątpi, czy kiedykolwiek uda mu się wynagrodzić straszliwe błędy ze swojej młodości.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 286
+  },
+  {
+    "id": 28,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 48340,
+    "text": "Drzewo Świata jest teraz bezpieczne, kiedy nie ma już nekromantów, a barbarzyńskie plemię, które kiedyś czciło Vorra, przyrzekło chronić go swoim życiem. Podziwiam ich, na zawsze rezygnując z ciepła i słońca powierzchni, aby chronić coś, o czym większość ludzi nie ma nawet pojęcia.\n\nPozostał jednak honor w barbarzyńskich sercach, co upewnia mnie, że nadal mogę naprawić szkody, jakie uczyniłem.\n\nJeszcze raz muszę opuścić miejsce i ludzi, których pokochałem. Mam nadzieję, że będę mógł pozostać pośród nich, ale Vorr ciągle żyje, a Przodkowie są ciągle dziwnie milczący. Wzywam ich co noc, ale bezskutecznie. Czasami mam wrażenie, że słyszę z oddali krzyk bólu. Nie ma sposobu, aby się przekonać, że jest on realny.\n\nMoją jedyną szansą jest odnalezienie Vorra. Opuścił ten świat kiedy pokonałem Nekromantów, a mam przeczucie, że kiedy znajdę go, znajdę i Przodków.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 866
+  },
+  {
+    "id": 29,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 49270,
+    "text": "Musi być przejście na powierzchnię. Są dowody na to, że jestem coraz bliżej - korzenie wyrastające ze stropu, martwe tunele zbyt odległe od życiodajnego wpływu Drzewa Świata i przysięgam, że jest tu cieplej.\n\nZabrałem ze sobą kilku barbarzyńców, aby mi pomogli w moim zadaniu. Nie mogę samodzielnie zmierzyć się z Vorrem. Właściwie to nie jestem pewien, czy mam wystarczająco sił, aby pokonać Przodka, zwłaszcza tak szalonego jak Vorr.\n\nCzy możliwe jest zabicie Przodka?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 470
+  },
+  {
+    "id": 30,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 49804,
+    "text": "Obudziłem się dzisiejszego poranka chory po raz pierwszy od wielu stuleci. Wybiegłem z namiotu, upadłem na kolana i wymiotowałem przez prawie godzinę. Nawet teraz ledwo siedzę w siodle. Pot spływał po mojej twarzy, jak gdyby tylko na mnie spadł deszcz. Czuję także jak ciepło emanuje z mojej skóry.\n\nJak to możliwe?\n\nPotem stało się dla mnie jasne, że jestem jakoś połączony z Przodkami. Może moja nieśmiertelność pochodzi od nich jakbym był jednym z nich. Jeśli tak, to co się stanie, jeżeli Vorr zniszczy pozostałych Przodków? Zginę, a może znów będę śmiertelny?\n\nJakkolwiek by nie było, mnie to nie przeraża. Jest to wszakże to, o co walczyłem przez tyle lat - stać się znów normalny.\n\nAle potem zacząłem się zastanawiać, jakie jeszcze zmiany przyniesie śmierć Przodków. Są naszymi duchowymi przewodnikami. Są jak latarnia dla barbarzyńskiego ludu.\n\nCzy bez nich rozbijemy się o skały przeznaczenia?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 902
+  },
+  {
+    "id": 31,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 50771,
+    "text": "Wszystkie moje dolegliwości zdały się odejść, ale jestem wciąż mocno osłabiony. Nadal nie wiem, czy mój nagły napad nie jest jakoś powiązany z cierpieniami Przodków. Porozmawiam z szamanem, jednak nie wyjawię jak zostałem Nieśmiertelnym Bohaterem. Lepiej, żeby tego nie wiedział.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 279
+  },
+  {
+    "id": 32,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 51115,
+    "text": "Zaproponowałem pytanie do mojego najmędrszego szamana, Werna, dzisiejszego poranka.\n\n\"Wyczułem, ze Vorr uciekł na północny-wschód, ale nie potrafię go nadal wyczuwać. Gdzie mógł się udać?\" spytałem,\n\nMędrzec milczał przez jakiś czasu, a potem się spytał: \"Co mi przyniesiesz?\"\n\nTo metoda Werna. Prawdę mówiąc, każdy szaman tak postępuje. Odkąd szamani nie obsiewają własnego pola i nie hodują własnych owiec, żyją tylko z hojności tych, którzy korzystają z ich mądrości. Sięgnąłem do sakwy, wyjmując z niej ceramiczną miskę i wyciągnąłem korek z ust.\n\n\"Spróbuj\" powiedziałem.\n\nWern wziął ostrożnie łyk. Jego brwi uniosły się, kiedy poczuł wewnątrz siłę ducha, a potem wziął kolejny chaust.\n\n\"Pomyślę nad tą sprawą, Tarnumie\" rzekł Wern. Wziął kolejny chaust. Jego policzki już zdążyły się zarumienić.\n\n\"Wróć później\" rzekł.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wyczułem, ze Vorr uciekł na północny-wschód, ale n...",
+          "voice": ""
+        },
+        {
+          "text": "Co mi przyniesiesz?",
+          "voice": ""
+        },
+        {
+          "text": "Spróbuj",
+          "voice": ""
+        },
+        {
+          "text": "Pomyślę nad tą sprawą, Tarnumie",
+          "voice": ""
+        },
+        {
+          "text": "Wróć później",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 823
+  },
+  {
+    "id": 33,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 52003,
+    "text": "\"Co mi przyniosłeś?\" spytał szaman Wern kiedy wszedłem do namiotu.\n\n\"Już ci coś przyniosłem. Butelka? Trzy dni temu?\"\n\nAle szaman najwyraźniej nie pamiętał jej. Z westchnieniem wyszedłem na moment i przyniosłem beczkę gorzałki z własnego namiotu.\n\n\"Dobrze! Wróć za kilka dni i pozwól mi pomedytować nad...\"\n\nWern nigdy nie dokończył zdania, gdyż moja ręka zacisnęła się na jego chudym gardle.\n\n\"Nie, odpowiesz mi teraz, starcze!\" rzekłem.\n\nKiedy go wypuściłem, był bardzie chętny do współpracy. Wern jest znany z tego, że będzie kazał czekać ludziom na odpowiedź miesiącami. Jeślibym mu nie pokazał, że mówię serio, nigdy by mi nie odpowiedział.\n\n\"Ach, tak, chciałeś wiedzieć, gdzie szalony Przodek mógł uciec. Próbowałem rozmawiać z duchami, ale milczą. Dziwne. Martwi mnie to!\"\n\n\"Tak, wiem już o tym, ale gdzie mógł zniknąć Vorr?\"\n\n\"Bez przewodnictwa Przodków, nie mogę odpowiedzieć\" odparł Wern.\n\nMówiąc prawdę, żaden z nas nie był pełny bez Przodków.\n\n\"Dziękuję\" powiedziałem stojąc. Zanim odszedłem dodałem \"Będziesz próbował, prawda?\"\n\n\"Oczywiście\" odrzekł cicho Wern.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co mi przyniosłeś?",
+          "voice": ""
+        },
+        {
+          "text": "Już ci coś przyniosłem. Butelka? Trzy dni temu?",
+          "voice": ""
+        },
+        {
+          "text": "Dobrze! Wróć za kilka dni i pozwól mi pomedytować ...",
+          "voice": ""
+        },
+        {
+          "text": "Nie, odpowiesz mi teraz, starcze!",
+          "voice": ""
+        },
+        {
+          "text": "Ach, tak, chciałeś wiedzieć, gdzie szalony Przodek...",
+          "voice": ""
+        },
+        {
+          "text": "Tak, wiem już o tym, ale gdzie mógł zniknąć Vorr?",
+          "voice": ""
+        },
+        {
+          "text": "Bez przewodnictwa Przodków, nie mogę odpowiedzieć",
+          "voice": ""
+        },
+        {
+          "text": "Dziękuję",
+          "voice": ""
+        },
+        {
+          "text": "Będziesz próbował, prawda?",
+          "voice": ""
+        },
+        {
+          "text": "Oczywiście",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1074
+  },
+  {
+    "id": 34,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 53142,
+    "text": "Ostatniej nocy obóz został zaatakowany przez mrowie chochlików. Latały pomiędzy ludźmi, drapiąc ich i zrzucając z koni. Rozdarły namioty i podpaliły je, kiedy moje wojska wciąż były w nich. Na szczęście nikt nie zginął podczas tego chaosu, chociaż było wiele rannych.\n\nKiedy było po wszystkim, odkryłem prawdziwe zamiary napastników. Te małe potwory ukradły trochę naszych zapasów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 381
+  },
+  {
+    "id": 35,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 53588,
+    "text": "Większość poranka spędziliśmy szukając zaginionych goblinów. Ostatniej nocy poszli zebrać trochę drewna na opał i nikt nie zwrócił uwagi na to, że nie wrócili. Niestety znaleźliśmy ich przy wetkniętych w mrowiska martwych od wielu godzin.\n\nTo z pewnością sprawka jednego z tych pokręconych demonów. Rozpoznaję ich taktyki bitewne. Lubują się w straszeniu przeciwnika zanim zaatakują. Ludzie nie walczą tak dobrze jak zwykle, gdy są przerażeni, a moje wojską boją się teraz demonów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 481
+  },
+  {
+    "id": 36,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 54134,
+    "text": "Dzisiaj jeden z moich zwiadowców znalazł ukryty obóz demonów, które zabiły moje gobliny. Jeśli kiedykolwiek miałbym pokonać te kreatury, muszę udowodnić moim żołnierzom, że nie warto się ich bać.\n\nZabrałem więc czterech moich ludzi do obozu demonów. Kiedy oni obserwowali sytuację z krzaków, podszedłem do demonów samotnie. Zmierzyłem się z chochlikami, gogami i pojedynczym demonem samotnie. Jeślibym ich nie wziął z zaskoczenia, byłbym pewnie martwym. Przeszedłem za to między nimi jak wściekły huragan.\n\nNajpierw wziąłem się za gogi, potem ich demonicznego przywódcę. Większość chochlików uciekła. Niestety wpadły na moich ludzi, którzy przyłączyli się do pogromu ostatnich kreatur.\n\nPodnosząc jednego z chochlików powiedziałem: \"To jest to, czego się baliście. Teraz wracajcie i powiedzcie innym, że nasz wróg jest słaby!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To jest to, czego się baliście. Teraz wracajcie i ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 826
+  },
+  {
+    "id": 37,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 55149,
+    "text": "Bezimienne ziemie",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 17
+  },
+  {
+    "id": 38,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 55170,
+    "text": "Podbij piekielne miasto zwane Blackdome. Nie strać Tarnuma. Wszyscy są ograniczeni do 12 poziomu, a wszystkie zaklęcia, umiejętności, artefakty i doświadczenie Tarnum i jego najlepszy kapitan przeniosą dalej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 208
+  },
+  {
+    "id": 39,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 83724,
+    "text": "Na pierwszy rzut oka ta mała dolinka jest idealnym miejscem na obóz, ale jak tylko wszedłeś do niej, znalazłeś grupę diabłów pracującą w jakiejś masywnej kuźni. Pracują tak zaciekle, jakby wkrótce mijał termin oddania tworu szalonemu królowi, w końcu wykuwając Miecz Ognia Piekielnego.\n\nCzy chcesz walczyć z diabłami o ten miecz?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 329
+  },
+  {
+    "id": 40,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 84116,
+    "text": "W oddali zauważasz odbłysk światła i podjeżdżaj w jego pobliże. Ptaki gromu zbudowały gniazda w tych górach, a ty odkryłeś, że migot pochodzi z magicznego amuletu zwisającego z jednego z olbrzymich gniazd.\n\nCzy zawalczysz z jego mieszkańcami o ten artefakt?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 257
+  },
+  {
+    "id": 41,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 84759,
+    "text": "Na wpół zagłodzona banda rabusiów zbiegła ze wzgórza. Nie masz wyboru, musisz walczyć z tymi zdesperowanymi stworzeniami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 121
+  },
+  {
+    "id": 42,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 85121,
+    "text": "Przybyliśmy do oddalonej krainy z kilkoma budynkami. Przed nami bezimienna góra blokuje przejście. Większość szczytów skrywa się w chmurach, a ja czuję dreszcz przechodzący po ciele, gdyż w głębi serca wiem, że muszę iść poza te chmury.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 236
+  },
+  {
+    "id": 43,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 85421,
+    "text": "Odkryłem, że ten region nie jest całkowicie opuszczony. Więcej budynków tych przebrzydłych demonów stoi tutaj. Także barbarzyńskie plemiona żyją tutaj. Myślę, że ich przywódca jest wyznawcą Vorra, więc mogą stanowić problem.\n\nDzisiejszego poranka otrzymałem wiadomość z miejsca zwanego Blackdome wypaloną w korze drzewa koło obozu. Napis głosił:\n\nZAWRÓĆ LUB GIŃ - Blackdome",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 373
+  },
+  {
+    "id": 44,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 85859,
+    "text": "Z początku myślałem, że te demony stanęły na mojej drodze z czystego przypadku, ale zmieniłem zdanie. Wydają się być zbyt zorganizowane, jakby próbowały celowo zajść mi drogę albo wiedziały gdzie idę. I jeszcze to ostrzeżenie.\n\nZAWRÓĆ LUB GIŃ!\n\nNie zdziwiłbym się gdyby pracowały dla Vorra - wszyscy wydają się palić i niszczyć wszystko na swojej drodze. Te Inferna są tutaj nowe. Lokalni mieszkańcy twierdzą, że dwa z płomiennych twierdz wyrosły tutaj miesiąc temu.\n\nPytanie brzmi: dlaczego tu przybyły?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 504
+  },
+  {
+    "id": 45,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 86429,
+    "text": "Dziś kilkoro z moich ludzi złapało chowańca czatującego w krzakach na zewnątrz obozu. Wyglądał tak słabo i był zakrwawiony, że obawiałem się, że jego obrażenia powstały podczas złapania, ale moi ludzie przyrzekli, że nigdy go nie tknęli oprócz dostarczenia go do mnie. Przekazałem więc chowańca jednemu z moich uzdrowicieli.\n\n\"Zróbcie co możecie\" rozkazałem dając do zrozumienia głosem, że nie będę rozczarowany jeśli nie przeżyje. Byłbym zaskoczony, gdyby przeżył.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Zróbcie co możecie",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 465
+  },
+  {
+    "id": 46,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 86960,
+    "text": "Zostałem dzisiejszego poranka przywołany do namiotu uzdrowiciela, gdzie znalazłem złapanego chowańca zabandażowanego, ale przebudzonego. Brakowało mu jednego z wielkich uszu i skrzydeł. Według uzdrowiciela jedno z jego ramion było złamane. Miał szczęście, że przeżył i przez moment byłem wściekły na myśl, że mogli to zrobić moi ludzie.\n\n\"Masz jakieś imię?\" spytałem.\n\n\"Tak. Pewnie. Oczywiście\" odpowiedział. Jego oczy rozbiegły się jakby szukały wroga.\n\nPoczekałem chwilę i rzekłem: \"Cóż, jakie ono jest?\"\n\n\"Skizzik moje imię\"\n\n\"Jestem Tarnum. Przewodzę tym ludziom\" ogłosiłem.\n\n\"Tak, tak. Moja wiedzieć. Wszyscy wiedzieć, ty Tarnum, Nieśmiertelny Bohater.\"\n\nSłowa Skizzika wstrząsnęły mną. Skąd wiedział, że jestem Nieśmiertelnym Bohaterem? Nie mógł chyba, że Vorr mu powiedział.\"\n\n\"Więc współpracujesz z Vorrem?\"\n\n\"Moja? Nie, nie. Moja umrzeć, dawno na dobre, wygnaniec,  umrzyk, nieboszczyk na zawsze! Łapać?\"\n\n\"Tak, zrozumiałem, ale Twój naród pracuje dla Vorra?\"\n\nSkizzik skinął głową niechętnie.\n\n\"Moja umrzeć teraz\" jęknął chowaniec, zamykając swoje oczy.\n\nOczywiście Skizzik nie umarł, ale zasnął, więc zostawiłem go w spokoju, na razie...",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Masz jakieś imię?",
+          "voice": ""
+        },
+        {
+          "text": "Tak. Pewnie. Oczywiście",
+          "voice": ""
+        },
+        {
+          "text": "Cóż, jakie ono jest?",
+          "voice": ""
+        },
+        {
+          "text": "Skizzik moje imię",
+          "voice": ""
+        },
+        {
+          "text": "Jestem Tarnum. Przewodzę tym ludziom",
+          "voice": "tarnum"
+        },
+        {
+          "text": "Tak, tak. Moja wiedzieć. Wszyscy wiedzieć, ty Tarn...",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\n",
+          "voice": ""
+        },
+        {
+          "text": "\n\nSkizzik skinął głową niechętnie.\n\n",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1148
+  },
+  {
+    "id": 47,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 88174,
+    "text": "Tym razem to ja przywołałem chowańca do swojego namiotu po tym,  jak miał szansę wyzdrowieć. Dwóch gwardzistów wepchnęło go do środka i czekało, ale ich odprawiłem. Dzień, w którym nie poradzę sobie z pojedynczym, na wpół sparaliżowanym chowańcem to dzień, w którym wczołgam się do jakiejś dziury i skryję na zawsze.\n\n\"Głodny, Skizzik?\" spytałem, wskazując chleb leżący na stoliku.\n\nBez słowa \"dziękuję\", chowaniec wziął cały bochenek i wpakował go całego do gęby.\n\n\"Jesz dużo jak na zwłoki\" stwierdziłem.\n\n\"Moja umrzyk, racja!\" Skizzik rzekł, rozsypując wszędzie okruszki.\n\"Zdajesz sobie sprawę, że mówiąc, że jesteś martwy, nie robisz z siebie takiego?\"\n\n\"Oczywiście! Ale ty nie znać problemu Skizzika. Nie wiedzieć, że ja wkurzyć wielu ludzi. Wszystko przez to, że ja zostawić głupie drzwi otwarte! Ja głupiec, tak!\"\n\n\"Jakie drzwi?\"\n\n\"Do celi, gdzie duży facet trzymać błyszczących ludzi\" powiedział chowanie. Zajęło mi troche czasu zanim zorientowałem się, że mówi o Vorze i Przodkach.\n\nSzybko złapałem zdrowe ramię Skizzika i rzekłem: \"Teraz słuchaj uważnie! Wiesz gdzie są Przodkowie?\"\n\n\"Moja wiedzieć.\"\n\nZnowu zaczekałem, ale kiedy już byłem pewien, że Skizzik nie odpowie, otwarłem usta, by przemówić.\n\n\"Moja wiedzieć, moja wiedzieć\" Skizzik przerwał. \"Twoja chcieć wiedzieć, prawda!\"\n\n\"Tak!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Głodny, Skizzik?",
+          "voice": ""
+        },
+        {
+          "text": "dziękuję",
+          "voice": ""
+        },
+        {
+          "text": "Jesz dużo jak na zwłoki",
+          "voice": ""
+        },
+        {
+          "text": "Moja umrzyk, racja!",
+          "voice": ""
+        },
+        {
+          "text": "Zdajesz sobie sprawę, że mówiąc, że jesteś martwy,...",
+          "voice": ""
+        },
+        {
+          "text": "Oczywiście! Ale ty nie znać problemu Skizzika. Nie...",
+          "voice": ""
+        },
+        {
+          "text": "Jakie drzwi?",
+          "voice": ""
+        },
+        {
+          "text": "Do celi, gdzie duży facet trzymać błyszczących lud...",
+          "voice": ""
+        },
+        {
+          "text": "Teraz słuchaj uważnie! Wiesz gdzie są Przodkowie?",
+          "voice": ""
+        },
+        {
+          "text": "Moja wiedzieć.",
+          "voice": ""
+        },
+        {
+          "text": "Moja wiedzieć, moja wiedzieć",
+          "voice": ""
+        },
+        {
+          "text": "Twoja chcieć wiedzieć, prawda!",
+          "voice": ""
+        },
+        {
+          "text": "Tak!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1300
+  },
+  {
+    "id": 48,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 89540,
+    "text": "Nie wiem co począć ze Skizzikiem. Chowaniec twierdzi, że Vorr zabrał Przodków na Płomienny Księżyc, więżąc ich w magicznym więzieniu do czasu załatwienia innych spraw. To wtedy Skizzik po raz pierwszy widział Przodków. Był jednym z pracowników więzienia - roznosicielem wody. Krótko po przybyciu Przodków zostawił na krótko drzwi otwarte. Przodkowie nie uciekli, ale demony i inne potwory byli wściekli na niego. Coś stamtąd wołało o pomoc, ale Skizzik przysięga, że na Płomiennym Księżycu nie ma niczego oprócz Demonów i innych potworów.\n\nMożliwe, że wołanie, które wezwało mnie do ratowania Drzewa Świata było krzykiem, o którym mówiły demony. Jeśli tak było, to w końcu wiem dlaczego Przodkowie sa tacy milczący.\n\nWięc kiedy demony dowiedziały się o przeoczeniu Skizzika, próbowały go zabić, ale chowańcowi udało się uciec. Opuścił Płomienny Księżyc przez coś, co nazywa się Migotliwym Mostem i pomimo wielu obrażeń udało mu się dotrzeć tak daleko. Odważna istota, musze przyznać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 983
+  },
+  {
+    "id": 49,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 90589,
+    "text": "Spotkałem się dziś z Grumbą, moim ogrzym kapitanem, i szamanem, Wernem, ponieważ byli zaniepokojeni sprawą Skizzika.\n\n\"Wiesz, że to coś to szpieg\" rzekł Grumba z niesmakiem.\n\n\"Nie jestem tego pewien\" rzekłem. \"Prawie umarła, prawda Wern?\"\n\nZ niechęcią szaman skinął głową.\n\n\"Ranny dezerter to stara sztuczka szpiegowska\" stwierdził Grumba.\n\n\"Tak, wiem, ale nie krzywdzisz szpiega na tyle, by mógł umrzeć!\"\n\n\"Ale...\"\n\n\"Żadnych ale! Nie sądzę, że to szpieg, ale nie jestem głupi, Grumba! Nie zamierzam ufać stworzeniu żadnych ważnych informacji, a w razie gdyby chciał opuścić obóz, ma zostać zabity.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wiesz, że to coś to szpieg",
+          "voice": ""
+        },
+        {
+          "text": "Nie jestem tego pewien",
+          "voice": ""
+        },
+        {
+          "text": "Prawie umarła, prawda Wern?",
+          "voice": ""
+        },
+        {
+          "text": "Ranny dezerter to stara sztuczka szpiegowska",
+          "voice": ""
+        },
+        {
+          "text": "Tak, wiem, ale nie krzywdzisz szpiega na tyle, by ...",
+          "voice": ""
+        },
+        {
+          "text": "Ale...",
+          "voice": ""
+        },
+        {
+          "text": "Żadnych ale! Nie sądzę, że to szpieg, ale nie jest...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 599
+  },
+  {
+    "id": 50,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 91254,
+    "text": "Właśnie jechaliśmy, gdy Skizzik biegł w moją stronę. Grumba musiał mieć oko na chowańca, bo ogr chwycił Skizzika zanim ten mógł go dosięgnąć.\n\nMasywne ręce Grumby zamknęły się wokół wychudzonej szyi chowańca. Jednym ściśnięciem mógł pozbawić Skizzika życia.\n\n\"Nie! Odstaw go Grumba!\" rozkazłem.\n\nOgr niechętnie postawił Skizzika na ziemię.\n\n\"Czym byłeś taki podniecony?\" spytałem chowańca.\n\nSkizzik wskazał odległy pagórek i rzekł: \"Moja widzieć demony kopać złoto, które oni ukraść. Moja widzieć ich na tych wzgórzach, wrócić zanim moja stać się umrzyk - schować się w zimnych krzakach i widzieć ich!\"\n\n\"Złoto?\" rzekłem z powątpiewaniem. Czy to może być pułapka? Czy mogę się mylić co do Skizzika?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie! Odstaw go Grumba!",
+          "voice": ""
+        },
+        {
+          "text": "Czym byłeś taki podniecony?",
+          "voice": ""
+        },
+        {
+          "text": "Moja widzieć demony kopać złoto, które oni ukraść....",
+          "voice": ""
+        },
+        {
+          "text": "Złoto?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 698
+  },
+  {
+    "id": 51,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 92018,
+    "text": "Wbrew prośbom Grumby i moim instynktom, Zdecydowałem się, aby Skizzik poprowadził mnie do ukrytego skarbu. Moglibyśmy wykorzystać całe złoto jakie teraz jesteśmy w stanie zdobyć.\n\nPrzez cały czas spodziewałem się armii demonów, która wyskoczy zza skał. Ale Skizzik przeszedł. Wziął nas na sam środek otwartego pola i kazał kopać. Było ciężko przekopać się przez zamarzniętą ziemię, ale w końcu znaleźliśmy sakwy złota, o których Skizzik mówił.\n\n\"Jak znalazłeś to miejsce? Jest po środku pustki\" rzekłem.\n\n\"Moja wyczuwać złoto\" odparł chowaniec. To przydatna zdolność.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Jak znalazłeś to miejsce? Jest po środku pustki",
+          "voice": ""
+        },
+        {
+          "text": "Moja wyczuwać złoto",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 567
+  },
+  {
+    "id": 52,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 92775,
+    "text": "Iskrzący most",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 13
+  },
+  {
+    "id": 53,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 92792,
+    "text": "Aktywuj Iskrzący Most, aby Tarnum mógł podążyć za Vorrem. Wszyscy są ograniczeni do 18 poziomu, ale Tarnum zachowa swoje doświadczenie, zaklęcia, umiejętności i artefakty. Dwóch najlepszych kapitanów Tarnuma podąży za nim.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 222
+  },
+  {
+    "id": 54,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 126399,
+    "text": "Potężna armia żywiołów stoi na twojej drodze do pierścienia, który pozwoli Ci na przejście przez Iskrzący Most. Czy chcesz je teraz zaatakować?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 143
+  },
+  {
+    "id": 55,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 126591,
+    "text": "Iskrzący Most",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 13
+  },
+  {
+    "id": 56,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 130928,
+    "text": "Żywiołaki ognia i energii latają ponad puszką Pandory, chroniąc potężne zaklęcie w jej środku. Czy chcesz z nimi walczyć o to zaklęcie?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 135
+  },
+  {
+    "id": 57,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 132277,
+    "text": "Z gęstymi lasami z obu stron Twojej armii, wiedziałeś, że to doskonałe miejsce na zasadzkę. Wysłałeś zwiadowców, aby zbadali linię drzew, ale nic nie znaleźli.\n\nAle w mgnieniu oka grupa żywiołaków energii pojawiła się przed Tobą. Skąd się wzięli - tego nie wiesz...",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 265
+  },
+  {
+    "id": 58,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 133242,
+    "text": "Horda żywiołaków burzy kręci się wokół puszki Pandory, strzegąc jej potężnego zaklęcia. Czy chcesz z nimi walczyć o to zaklęcie?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 128
+  },
+  {
+    "id": 59,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 137484,
+    "text": "day 1 - for computer",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 60,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 137508,
+    "text": "Computer Stuff - DO NOT TRANSLATE",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 61,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 137605,
+    "text": "Powietrze jest tutaj cienkie, a mroźne powietrze tnie skórę niczym ostrze. To musi być szczyt świata. Nikt przy zdrowych zmysłach nie zamieszkałby na tych nieprzyjaznych zboczach, ale szybko zrozumiałem, że byłem w błędzie. Żywiołaki - istoty czystego ognia, wody, czegokolwiek - żyły tutaj od zarania dziejów, strzegąc Iskrzącego Mostu, a teraz musze się przebić przez ich armie, jeżeli chcę dotrzeć na Płomienny Księżyc.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 422
+  },
+  {
+    "id": 62,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 138091,
+    "text": "Skizzik stał się moim przewodnikiem. Nie jest tak dobry jak myślał. Albo był w delirium kiedy przechodził przez ten region, albo ma słabą pamięć. Czasami zauważa charakterystyczny punkt i prowadzi nas tam zanim orientuje się, że nigdy nie widział go wcześniej. Całe to łażenie denerwuje żołnierzy, więc trzymam Skizzika przy sobie cały czas. Jeżeli spotkałby teraz Grumbę, to z pewnością imp nie przetrwałby tego.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 413
+  },
+  {
+    "id": 63,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 138569,
+    "text": "Wkroczyliśmy do gaju dzisiejszego poranka i, chociaż zwiadowcy sprawdzili teren w poszukiwaniu śladów zasadzki, zostałem trafiony śnieżkami. Kiedy odwróciłem się w kierunku drzew, ujrzałem kilka nimf wzlatujących w niebo, śmiejąc się i wskazując na mnie.\n\n\"Naprzód, orki!\" krzyknąłem. \"Gotować topory!\"\n\nNimfy jednak uniosły ręce na znak poddania się.\n\n\"Przepraszamy!\" rzekły z szacunkiem.\n\nWytrząsnąłem śnieg z włosów i mruknąłem \"Czego chcecie?\"\n\n\"Szukasz Iskrzącego Mostu, prawda? Znamy pewien sekret\" zaśpiewały.\n\nPociągnąłem nosem.\n\n\"Czego chcecie?\"\n\n\"Złota i trochę ładnych klejnotów, jeżeli macie!\"\n\n\"Dobrze\" powiedziałem. Moi ludzie przynieśli nagrodę, ale trzymałem ją dopóki nie upewniłem się, że sekret jest warty tego.\n\n\"Nie możesz wejść od tak na Iskrzący Most. Mógłbyś wyjść gdziekolwiek. To magiczny portal do każdego świata we wszechświecie - dlatego pilnują go żywiołaki\" rzekły nimfy.\n\n\"Więc jak mam trafić do miejsca, którego szukam?\" spytałem.\n\n\"Potrzebujesz Pierścień Wędrowca. Znajdź go, a będziesz mógł iść gdziekolwiek chcesz!\"\n\nNimfy zleciały, zabrały nagrodę i odleciały na północ.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Naprzód, orki!",
+          "voice": ""
+        },
+        {
+          "text": "Gotować topory!",
+          "voice": ""
+        },
+        {
+          "text": "Przepraszamy!",
+          "voice": ""
+        },
+        {
+          "text": "Czego chcecie?",
+          "voice": ""
+        },
+        {
+          "text": "Szukasz Iskrzącego Mostu, prawda? Znamy pewien sek...",
+          "voice": ""
+        },
+        {
+          "text": "Czego chcecie?",
+          "voice": ""
+        },
+        {
+          "text": "Złota i trochę ładnych klejnotów, jeżeli macie!",
+          "voice": ""
+        },
+        {
+          "text": "Dobrze",
+          "voice": ""
+        },
+        {
+          "text": "Nie możesz wejść od tak na Iskrzący Most. Mógłbyś ...",
+          "voice": ""
+        },
+        {
+          "text": "Więc jak mam trafić do miejsca, którego szukam?",
+          "voice": ""
+        },
+        {
+          "text": "Potrzebujesz Pierścień Wędrowca. Znajdź go, a będz...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1107
+  },
+  {
+    "id": 64,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 139742,
+    "text": "Prawie zginąłem tego poranka. Tylko dzięki Skizzikowi jeszcze żyję.\n\nZostaliśmy oślepieni przez zamieć, a potem żywiołaki powietrza napadły na nas. Zazwyczaj poradziłbym sobie z nimi, ale ból przeszedł przez mój brzuch jakbym został ugodzony lodowatym ostrzem. Spadłem z konia, słaby z bólu i zapomniany przez żywiołaka, który uznał, że mnie zabił.\n\nNie widziałem co się stało, ale później jeden z goblinów powiedział, że Skizzik wskoczył na plecy żywiołaka. Imp wbił zęby w jego kark, który to wił się, aby zrzucić napastnika. Grumba dotarł do mnie po tym, jak żywiołak powietrza posłał Skizzika w zaspę. Tuż po tym bitwa szybko się skończyła, a ja zostałem zaciągnięty do namiotu medyka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 689
+  },
+  {
+    "id": 65,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 140499,
+    "text": "Oczywiście medyk nie znalazł żadnych ran i nie mógł powiedzieć co spowodowało mój stan agonalny. Ale ja wiedziałem.\n\nTo był ból głębokiej, śmiertelnej rany - tej samej, która zakończyła mój żywot dawno temu i sprowadziła przed osąd Przodków. Minęło tyle czasu, że zapomniałem jakie to uczucie. Ale czemu wspomnienia wróciły? Czy to było jak moja wcześniejsza choroba? Czy było to jakoś związane ze zniknięciem Przodków?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 419
+  },
+  {
+    "id": 66,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 140983,
+    "text": "Skizzik wpadł do mojego namiotu z miną jakby coś przeskrobał.\n\n\"Nie bój się\" powiedziałem. \"Chciałem podziękować tobie za uratowanie mi życia.\"\n\n\"Nie chciałem, byś także był trupem. Jesteś tym, który trzyma wielkiego brzydkiego faceta z dala od Skizzika.\"\n\n\"Cóż, to było odważne z twojej strony. Wiem, że nie jesteś przyzwyczajony do tego jak barbarzyńcy postępują, ale jeśli będziesz trzymał się naszych zasad, Skizziku, przysięgam, że zawsze znajdziesz dom pośród nas.\n\n\"Imp i barbarzyńca przyjaciółmi? To niemożliwe!\" rzekł Skizzik. Wydłubał coś spomiędzy swoich ostrych zębów i uśmiechnął się. \"Dobra rzecz, że ja być martwy, co? Może teraz być barbarzyńcą też.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie bój się",
+          "voice": ""
+        },
+        {
+          "text": "Chciałem podziękować tobie za uratowanie mi życia.",
+          "voice": ""
+        },
+        {
+          "text": "Nie chciałem, byś także był trupem. Jesteś tym, kt...",
+          "voice": ""
+        },
+        {
+          "text": "Cóż, to było odważne z twojej strony. Wiem, że nie...",
+          "voice": "tarnum"
+        },
+        {
+          "text": " rzekł Skizzik. Wydłubał coś spomiędzy swoich ostr...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 666
+  },
+  {
+    "id": 67,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 141715,
+    "text": "Skizzik, który był przyzwyczajony do wysokich temperatur miast piekielnych, drżał cały czas. Próbowałem go ubrać ciepło, ale nalegał, aby nosić tylko wełniany kapok i hełm ze śmiesznie wielkimi baranimi rogami. Imp myśli, że jest teraz barbarzyńcą i nawet nosi ze sobą motykę, która w jego rękach wyglądał jak topór bitewny. Kiedy wskazałem, że nawet ja noszę grubsze ubranie w śniegu, Skizzik roześmiał się.\n\n\"To znaczy, ze jestem twardszy niż ty!\" powiedział mi, szczerząc zęby.\n\nJuż nawet  nie próbowałem więcej. Niech zamarznie, jeżeli jest tak głupi, żeby nie założyć ubrań!|",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To znaczy, ze jestem twardszy niż ty!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 580
+  },
+  {
+    "id": 68,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 142361,
+    "text": "Wysłałem zwiadowców na poszukiwania Iskrzącego Mostu, ale wrócili z pustymi rękoma. Jeden z nich uważa, że jest w odległej dolinie daleko na północny-wschód.  Jedynym problemem jest brak możliwo dostania się tam z tej strony. Szczyty okalające dolinę są zbyt wysokie, aby przejść.\n\nMożemy mieć jednak trochę szczęścia.  Inny zwiadowca spędził trochę czasu szpiegując w spalonych ziemiach północy i zauważył wejście do podziemi. Wydaje się, ze jest duża aktywność wokół jej - zbyt duża jak na zwykłą grotę.\n\nCzy to możliwe, aby to było podziemne przejście do Iskrzącego Mostu?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 575
+  },
+  {
+    "id": 69,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 143002,
+    "text": "Znalazłem dzisiaj Skizzika wąchającego ziemię. Chwycił ziemię między palce i polizał ją swoim długim, czarnym językiem.\n\n\"Co się dzieje? \"spytałem. Nie mogliśmy ruszyć zanim nie wsiądzie na swego kuca.\n\n\"Ja chyba przypomnieć sobie coś. Tak, ja pamiętać wrota blokujące drogę - wielkie drzwi, ale ja mały i martwy. Nie zobaczyli małego trupa, którym byłem, więc prześlizgnąłem się\" odpowiedział Skizzik.\n\n\"Wrota?\"\n\n\"Ja zbyt duży teraz, wielki barbarzyńca zauważony teraz, musimy znaleźć klucznika!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Co się dzieje? ",
+          "voice": ""
+        },
+        {
+          "text": "Ja chyba przypomnieć sobie coś. Tak, ja pamiętać w...",
+          "voice": ""
+        },
+        {
+          "text": "Wrota?",
+          "voice": ""
+        },
+        {
+          "text": "Ja zbyt duży teraz, wielki barbarzyńca zauważony t...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 497
+  },
+  {
+    "id": 70,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 143565,
+    "text": "Ostatniej nocy Skizzik miał okazję sprawdzić swoją motykę w bitwie zamiast na każdym drzewie i krzaku po drodze. Złapaliśmy kilka żywiołaków ognia próbujących podpalić nasze wozy z zaopatrzeniem. Imp wpadł na nie, krzycząc i wymachując bronią. Niestety jego oczy były zamknięte. Trafił orka, jednego z moich żołnierzy, w kolano zanim dotarł do przeciwnika.\n\nNiestety, żywiołaki ognia nie były przestraszone. Jeden spalił broń w ręku Skizzika i spopieliłby go, gdybym nie przybył na czas,\n\nPo wszystkim wezwałem płatnerza i rozkazałem wykuć topór, który nie połamałby się tak szybko. Jeżeli Skizzik ma być barbarzyńcą, to niech przynajmniej ma odpowiednią broń.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 660
+  },
+  {
+    "id": 71,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 144434,
+    "text": "Tarnum musi pokonać Xyrona, strażnika, aby uwolnić Przodków z ich magicznego więzienia. Wszyscy bohaterowie są ograniczeni do poziomu 24, ale Tarnum i dwóch najlepszych kapitanów przejdzie do następnej mapy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 207
+  },
+  {
+    "id": 72,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 174497,
+    "text": "Złowrogi skowyt ostrzega cię przed atakiem Piekielnych Ogarów, na chwilę przed tym, jak wyłaniają się zza zwęglonych kikutów drzew.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 131
+  },
+  {
+    "id": 73,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 174679,
+    "text": "Świetliste chmury Iskrzącego Mostu kończą się tutaj. poza nimi kraina jest spalona i popękaka niczym kosmiczny krajobraz. Nie ma nigdzie śladów życia.\n\nJedziesz naprzód, mając nadzieję, że Iskrzący Most pozostanie tutaj na tyle długo, abyś mógł wrócić. Wściekłbyś się, gdybyś musiał żyć w tej zapomnianej krainie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 313
+  },
+  {
+    "id": 74,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 175368,
+    "text": "Powietrze tutaj jest tak gęste, że konie odmawiają dalszej jazdy. Schodzisz więc i podchodzisz do egzotycznego domu zbudowanego w pniu wielkiego, dawno martwego drzewa. Z jego gałęzi zwisają dziesiątki demonów, gogów i innych kreatur.\n\nWyciągasz miecz i stawiasz kolejny krok. Drzwi otwierają się, ukazując czarno odzianą starą kobietę. Jej twarz jest ukryta w skupisku białych włosów. Wszystko co widzisz to skrzywiony uśmiech.\n\n\"Nie mam zbyt wielu gości ostatnimi czasy\" mówi.\n\n\"Może to przez dekoracje na twoim domy\" rzekłeś, wskazując na szkielety kołyszące się powoli na gorącym wietrze.\n\n\"Możliwe\" odparła z szerokim uśmiechem. \"Widzę, że macie konie. Wyczuwam, że szukacie czegoś. Albo kogoś. Cóż, także szukam czegoś, ale nie jestem w stanie opuścić mojego domu. Pomożecie mi?\"\n\n\"To zależy.\"\n\n\"Tak, będziecie chcieli zapłaty bez wątpienia. Nie mam nic wartościowego prócz mojej wiedzy. Jeśli znajdziecie i zwrócicie mój płaszcz przeciwstawienia, nauczę cię wszystkiego co wiem. Umowa stoi?\"\n\n\"Tak\" odpowiadasz.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie mam zbyt wielu gości ostatnimi czasy",
+          "voice": ""
+        },
+        {
+          "text": "Może to przez dekoracje na twoim domy",
+          "voice": ""
+        },
+        {
+          "text": "Możliwe",
+          "voice": ""
+        },
+        {
+          "text": "Widzę, że macie konie. Wyczuwam, że szukacie czego...",
+          "voice": ""
+        },
+        {
+          "text": "To zależy.",
+          "voice": ""
+        },
+        {
+          "text": "Tak, będziecie chcieli zapłaty bez wątpienia. Nie ...",
+          "voice": ""
+        },
+        {
+          "text": "Tak",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1018
+  },
+  {
+    "id": 75,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 176391,
+    "text": "Podchodzisz do chatki proroka, ale brak odpowiedzi na pukanie. Może wie, że nie masz jeszcze płaszcza odwrócenia. Jeśli chcesz z nią porozmawiać, musisz wpierw go znaleźć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 171
+  },
+  {
+    "id": 76,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 176566,
+    "text": "Prorokini spotyka się z tobą w progu, natychmiast zabierając płaszcz odwrócenia, zakladając go na swoje barki.\n\n\"Imp zabrał mi go z domu, kiedy zabijałam tamtą parkę\" powiedziała, wskazując grupkę demonów zwisającą z jednej z najwyższych gałęzi.\n\n\"Powiedziałaś, że nauczysz mnie wszystkiego co wiesz, prawda?\"\n\n\"Tak, wejdź. Napijemy się czarnej herbaty i porozmawiamy\" odpowiedziała.\n\nWchodzisz do jej domu, mając nadzieję, że wiedza, którą tobie przekaże, jest warta zostania w tym mrocznym miejscu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Imp zabrał mi go z domu, kiedy zabijałam tamtą par...",
+          "voice": ""
+        },
+        {
+          "text": "Powiedziałaś, że nauczysz mnie wszystkiego co wies...",
+          "voice": ""
+        },
+        {
+          "text": "Tak, wejdź. Napijemy się czarnej herbaty i porozma...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 500
+  },
+  {
+    "id": 77,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 178056,
+    "text": "W oddali widzisz spalone ruiny pradawnego miasta. Nie wiesz kto kiedyś zamieszkiwał je, ale teraz jest okupowane przez bandę renegatów - gogów i impów. Jeżeli chcesz znaleźć miejsce do trenowania swoich żołnierzy, to miasto wygląda na jedyny wybór.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 248
+  },
+  {
+    "id": 78,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 178556,
+    "text": "Zszedłem z Iskrzącego Mostu w duszący gorąc zaciemnionego krajobrazu. Niebo ponad mną jest czarne niczym węgiel. Chaotyczne kłębowisko burzy rozświetla tereny przypadkowymi fioletowymi iskrami piorunów.\n\nGdzieś tam Przodkowie czekają na mnie.\n\n\"Wiem co czujesz!\" powiedziałem, gdy koń parsknął zdegustowany zapylonym powietrzem.\n\nW głębi czułem, że to jest samotne, pełne boleści miejsce. Potrząsnąłem głową, zastanawiając się dlaczego ktokolwiek mógłby żyć w tej parzącej krainie.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Wiem co czujesz!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 481
+  },
+  {
+    "id": 79,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 179102,
+    "text": "\"Ah, pamiętam dobrze. Tu żyłem zanim umarłem\" powiedział Skizzik dzisiejszego poranka, gdy wspinaliśmy się na poszarpaną czarną grań i wpatrywaliśmy się w horyzont. Imp uronił łzę.\n\n\"To był dom.\"\n\n\"Nie wygląda na takowy!\" orzekł ogr Grumba.\n\nNagle Skizzik zeskoczył ze skały i stanął naprzeciw ogra z założonymi na biodrach rękoma. Grumba był przynajmniej pięć razy większy.\n\n\"Odszczekaj to, brzydalu! Co? Myślisz, że twój dom lepszy - nic poza pyłem, kamieniami i krowim łajnem! To ma być dom?\"\n\nStanąłem pomiędzy nimi, bojąc się, że Grumba zmiażdży Skizzika, ale ogr wydawał się zaskoczony i pełen podziwu, że mały odważył się stanąć naprzeciw niego.\n\n\"W porządku\" rzekł Grumba. \"Powiedz nam jednak, przewodniku, gdzie Vorr trzymałby Przodków?\"\n\nSkizzik wziął kilka głębokich oddechów, aby się uspokoić, a potem wspiął się ponownie na grań. Wpatrywał się w horyzont, dłubiąc w zębach i drapiąc się.\n\n\"Tylko jeden demon może trzymać naszych Przodków - Xyron dozorca!\"\n\n\"Albo sam Vorr\" dodałem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Ah, pamiętam dobrze. Tu żyłem zanim umarłem",
+          "voice": ""
+        },
+        {
+          "text": "To był dom.",
+          "voice": ""
+        },
+        {
+          "text": "Nie wygląda na takowy!",
+          "voice": ""
+        },
+        {
+          "text": "Odszczekaj to, brzydalu! Co? Myślisz, że twój dom ...",
+          "voice": ""
+        },
+        {
+          "text": "W porządku",
+          "voice": ""
+        },
+        {
+          "text": "Powiedz nam jednak, przewodniku, gdzie Vorr trzyma...",
+          "voice": ""
+        },
+        {
+          "text": "Tylko jeden demon może trzymać naszych Przodków - ...",
+          "voice": ""
+        },
+        {
+          "text": "Albo sam Vorr",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 994
+  },
+  {
+    "id": 80,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 180161,
+    "text": "Dziś, podczas zbierania tak potrzebnego chrustu na ognisko, aby móc gotować, Skizzik zaginął. Wyprawiłem grupę poszukiwawczą, która wkrótce usłyszała jego krzyki. Zbliżyliśmy się i znaleźliśmy go z głową w dziurze.\n\n\"To grobowiec!\" krzyczał w strachu. \"Brzydki trup tutaj!\"\n\nWskoczył w ciemność z pochodnią w ręku. Istotnie to było dawne miejsce pochówku wypełnione przez pół tuzina kamiennych stołów, wspierających szczątki jakiś wojowników.\n\n\"To niepodobne do demonów, aby chować swoich w ten sposób\" stwierdziłem.\n\n\"Oh, to nie demony! To ci co żyli wcześniej\" Skizzik sprostował.\n\n\"Co?\"\n\n\"Zanim przybyły demony, byli inni\" Skizzik powiedział. Wydawało się, że chciał odejść, jakby się obawiał duchów czy czegoś takiego.\n\n\"Co się stało z tymi innymi?\" spytałem.\n\n\"Są głęboko - trupy jak ci. Zabiliśmy wszystkich! No może nie ja. To przed Skizzikiem. Wszystko co widziałem to czarna i gorąca ziemia jak ta - żadnych zielonych drzew dla mnie do zobaczenia.\"\n\nSpojrzałem smutno na martwych wojowników, którzy prawdopodobnie polegli  walcząc z demonami. Jacy bylli? Czy wiedzieli, że są przeznaczeni, aby przegrać i nadal walczyli? Zacisnąłem pięść w gniewie. Tak odważne dusze nie powinny spocząć zapomniane w dziurze w tym martwym świecie!\n\nTe demony nie wierzą w nic poza destrukcją. Honor nic dla niech nie znaczy. Gdziekolwiek pójdę, lud Skizzika zmieni każdy świat w kopię tego Ognistego Księżyca.\n\nMój świat był prawdopodobnie następny. Apetyt Vorra na zniszczenie był niezwykły, może nawet większy niż demonów, a teraz przyciągnął te demony do mojego świata.\n\nUniosłem miecz ponad tymi zapomnianymi wojownikami i przysiągłem \"Jak długo krew płynie mi w żyłach, przysięgam, że mój świat nie stanie się taki jak ten!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "To grobowiec!",
+          "voice": ""
+        },
+        {
+          "text": "Brzydki trup tutaj!",
+          "voice": ""
+        },
+        {
+          "text": "To niepodobne do demonów, aby chować swoich w ten ...",
+          "voice": ""
+        },
+        {
+          "text": "Oh, to nie demony! To ci co żyli wcześniej",
+          "voice": ""
+        },
+        {
+          "text": "Co?",
+          "voice": ""
+        },
+        {
+          "text": "Zanim przybyły demony, byli inni",
+          "voice": ""
+        },
+        {
+          "text": "Co się stało z tymi innymi?",
+          "voice": ""
+        },
+        {
+          "text": "Są głęboko - trupy jak ci. Zabiliśmy wszystkich! N...",
+          "voice": ""
+        },
+        {
+          "text": "Jak długo krew płynie mi w żyłach, przysięgam, że ...",
+          "voice": "tarnum"
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1721
+  },
+  {
+    "id": 81,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 181948,
+    "text": "\"Chroń dobrze twierdzę\" zaproponował Grumba.\n\nOgr niemal został zabity kiedy wróg nagle pojawił się w pobliskim wyjściu z monolitu. Udało mu się uciec, ale gdyby moi żołnierze byli zbyt daleko, aby bronić miasta, przeciwnik z łatwością by je podbił.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Chroń dobrze twierdzę",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 249
+  },
+  {
+    "id": 82,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 182263,
+    "text": "Skizzik opowiada historie ze swojego 'dawnego życia', więc mogę poznać mojego przeciwnika lepiej. Te demony to idealni sprzymierzeńcy dla Szalonego Przodka, Vorra. Obu podnieca zniszczenie. Im dłużej maszeruję przez posępny świat, tym dłużej zastanawiam się jak wyglądał kiedyś. Jakie piękno zostało stracone pod kopytami demonów?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 330
+  },
+  {
+    "id": 83,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 182658,
+    "text": "Dzisiejszego poranka ledwo wyszedłem z łóżka zmożony chorobą. Siły mnie opuszczają z każdym dniem.\n\nSkizzik jednak zauważył, ze mam znacznie większy problem.\n\n\"Nieźle wyglądasz\" rzekł Skizzik, wskazując moje włosy. \"Sprawia, że wyglądasz jak mądry wódz.\"\n\nZłapałem dobrze wypolerowany topór impa. \n\n\"Hej! To moje!\" zaprotestował Skizzik, ale to zignorowałem.\n\nWpatrywałem się w moje nieco zniekształcone odbicie w ostrzu i zmarszczyłem mocno brwi. Pojawiło się wiele linii wokół moich oczu, a włosy przy skroniach stały się całkowicie siwe.\n\nStarzałem się. I to szybko! Nic dziwnego, że moje stawy mnie bolały bez przerwy i prawie nie miałem sił, aby wyjść z namiotu rano. Czas mnie doganiał. Czy byłem nadal nieśmiertelny? Jak mocno się jeszcze zestarzeję zanim umrę?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nieźle wyglądasz",
+          "voice": ""
+        },
+        {
+          "text": "Sprawia, że wyglądasz jak mądry wódz.",
+          "voice": ""
+        },
+        {
+          "text": "Hej! To moje!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 768
+  },
+  {
+    "id": 84,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 183491,
+    "text": "Zazwyczaj ćwiczę z mieczem przez godzinę każdego poranka zanim obóz się przebudzi, ale tego dnia moje ramię zmęczyło się w połowie tego czasu. Ledwo wróciłem do namiotu i padłem na kilka godzin. Grumba musiał mnie obudzić.\n\n\"Dobrze się czujesz?\" spytał ogr.\n\n\"Tak, świetnie\" powiedziałem i zarządziłem wymarsz. Ale nie czułem się dobrze. Moje stawy bolały mnie po raz pierwszy w moim życiu. Co się ze mną działo?",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Dobrze się czujesz?",
+          "voice": ""
+        },
+        {
+          "text": "Tak, świetnie",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 412
+  },
+  {
+    "id": 85,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 183969,
+    "text": "Zwiadowcy donoszą, że Xyron Dozorca jest poza czerwonym strażnikiem granicznym, gdzieś na Ognistych Polach.\n\nWidziałem te Ogniste Pola, żywy ogień stworzony przez żywiołaki, aby zwiększyć ich moc. Chociaż to wbrew logice, ogień nie pali ciała - nawet ubrań. Płomienie liżą twoją skórę jak gorąca bryza, ale nie parzą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 317
+  },
+  {
+    "id": 86,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 184352,
+    "text": "Potrzebowałem dziś pomocy, aby wsiąść na konia. Moje mięśnie są osłabione, a włosy niemal w całości siwe. Wyglądałem na osiemdziesięciolatka.\n\nOstatnio myślałem nawet nad zakończeniem tego wszystkiego. Zapomnienie musi być lepsze od wstydu proszenia grupy ogrów, aby pomogli tobie wsiąść na twojego własnego konia.\n\nMyślę, ze mój szaman, Wern, zauważył moje spojrzenie samobójcy.\n\n\"Musisz kontynuować, Tarnumie\" rzekł Wern. \"Bez Przodków nikt z nas nie będzie mógł wejść do Raju. Wszyscy barbarzyńcy będą skazani na zapomnienie!\"\n\nWzdychając wiedziałem, że ma rację. Możliwe, że mógłbym zaakceptować pustkę zapomnienia, ale byłoby sprawiedliwe, gdybym skazał innych na to samo. Muszę kontynuować, chociaż nie wiem jak pokonam Dozorcę, Xyrona.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Musisz kontynuować, Tarnumie",
+          "voice": ""
+        },
+        {
+          "text": "Bez Przodków nikt z nas nie będzie mógł wejść do R...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 742
+  },
+  {
+    "id": 87,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 185301,
+    "text": "Tarnum musi pokonać szalonego Przodka, Vorra, łapiąc go, aby Przodkowie dali mu napój z soku Drzewa Życia.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 106
+  },
+  {
+    "id": 88,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 244589,
+    "text": "Pukasz do wrót, ale jedyne co słyszysz to echo słów ze środka.\n\n\"Odejdź albo poznaj mój gniew! Jeżeli chcesz przejść, musisz przynieść mi ptaka ognia!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Odejdź albo poznaj mój gniew! Jeżeli chcesz przejś...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 151
+  },
+  {
+    "id": 89,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 244744,
+    "text": "Pukasz do drzwi, ale w jakiś sposób szaleniec musi wiedzieć, że nie masz feniksa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 81
+  },
+  {
+    "id": 90,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 244829,
+    "text": "Wysyłasz feniksa na szczyt wieży. Natychmiast drzwi się otwierają i dziko wyglądający, mały człowiek wychodzi z łzami w oczach.\n\n\"Proszę, pozwól mi ją zatrzymać! Mogę?\" błaga.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Proszę, pozwól mi ją zatrzymać! Mogę?",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 175
+  },
+  {
+    "id": 91,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 245028,
+    "text": "\"Witaj, kochanie\" powiedziała stara wizjonerka. Chociaż była okryta obdartymi szatami, zauważyłeś, że jej ręce i twarz poryte były różowymi bliznami - dowodem na szpecące oparzenia.\n\n\"Tak się składa, że wiem, iż na południu jest wieża z obłąkańcem. Nie pozwoli ci przejść chyba, ze przyniesiesz mu oswojonego feniksa. Tak się składa, że mam jednego, ale jeżeli chcesz go, to musisz mi przynieść coś co straciłam.\"\n\n\"Chętnie. Co to jest?\" pytasz.\n\n\"Ach, tak szybko się zgodziłeś. Lubię to! Po prostu przynieś moje patrzałko, mój teleskop, a ja dam ci feniksa\" mówi.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Witaj, kochanie",
+          "voice": ""
+        },
+        {
+          "text": "Tak się składa, że wiem, iż na południu jest wieża...",
+          "voice": ""
+        },
+        {
+          "text": "Chętnie. Co to jest?",
+          "voice": ""
+        },
+        {
+          "text": "Ach, tak szybko się zgodziłeś. Lubię to! Po prostu...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 564
+  },
+  {
+    "id": 92,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 245597,
+    "text": "\"Próbujesz mnie oszukać? Cóż, nie dam ci feniksa dopóki nie przyniesiesz mi mojego teleskopu!\"\n\nI stara kobieta zatrzaskuje ci drzwi przed nosem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Próbujesz mnie oszukać? Cóż, nie dam ci feniksa do...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 145
+  },
+  {
+    "id": 93,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 245746,
+    "text": "\"Widzę, że masz mój teleskop. Jeżeli mi oddasz go, to nie tylko pozwolę zabrać ci feniksa, ale także dam listę komend, abyś mógł go kontrolować. Nie chcialbyś się poparzyć, prawda? Pamiętaj, kochanie, bez feniksa nie przejdziesz przez wieżę szaleńca na południu!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Widzę, że masz mój teleskop. Jeżeli mi oddasz go, ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 263
+  },
+  {
+    "id": 94,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 249113,
+    "text": "Jak tylko masz zamiar zapukać do drzwi wieży, słyszysz głos ze środka.\n\n\"Tylko Tarnum przejdzie!\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Tylko Tarnum przejdzie!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 97
+  },
+  {
+    "id": 95,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 249215,
+    "text": "Brak reakcji na pukanie utwierdza cię tylko w przekonaniu, że przepuszczą tylko Tarnuma.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 88
+  },
+  {
+    "id": 96,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 249307,
+    "text": "Drzwi otwierają się jak tylko Tarnum podjeżdza. Czy chcesz przejść?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 67
+  },
+  {
+    "id": 97,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 253715,
+    "text": "Niegdyś jeden z bezimiennych Przodków, Vorr pozwolił, aby brutalność i nienawiść barbadzyńskiego plemieniaszukającego boga wojna skorumpowała go. Teraz jest obłakańcem, mającym obsesję na punkcie zniszczenia świata.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 215
+  },
+  {
+    "id": 98,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 259100,
+    "text": "Grupa ognistych ptaków krąży ponad terenem. Pod nimi stoją porzucone przez kierowców wozy. Zauważyłeś, że jeden z nich to samonapełniający się wóz drewna. Kiedy się zbliżasz, ogniste ptaki atakują!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 197
+  },
+  {
+    "id": 99,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 264298,
+    "text": "Ku twojemu zdziwieniu, spalona ziemia ustępuje miejsca zieleni. A więc demony nie zniszczyły całego świata, ale zastanawiasz się jak długo ten skrawek życia przetrwa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 166
+  },
+  {
+    "id": 100,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 264596,
+    "text": "Już widziałeś kiedyś podobne Ramiona legionisty. Jeśli przekażesz je któremuś dowódcy i zostawisz go w Twierdzy na noc pod koniec tygodnia, otrzymasz dodatkowych żołnierzy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 172
+  },
+  {
+    "id": 101,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 266394,
+    "text": "Maszerowaliśmy przez jałowy Ognisty Księżyc do tego odległego miejsca za Skizzikiem, który był naszym przewodnikiem, gotowi do walki z Vorrem. A przynajmniej tak sadziliśmy.\n\nTym razem Vorr przyszedł do nas i rzucił wszystko co miał na nas. Jego magia jest niebywała! Kule ognia i łańcuch piorunów zmiotły wielu z moich ludzi z powierzchni w ciągu pierwszych minut bitwy. Próbowałem się wspiąć po trupach moich żołnierzy, aby sięgnąć przeciwnika, ale przestałem kiedy ręka trafiła na martwą twarz mojego szamana, Werna.\n\nGrumba padł na moich oczach w błysku tak gorącym, że stopiłby stal. Wkrótce ognie dosięgły i mnie.\n\nPrzegraliśmy!\n\nKiedy się obudziłem, większość mojego ubrania i zbroi były wypalone ze mnie. Powinienem być martwy jak większość mojej armii. Odnalazłem kilku niedobitków, którzy uciekli z tej zatrważającej walki. Straciliśmy przyjaciół, braci, wszystko i nadal musieliśmy zatrzymać Vorra.\n\nTeraz chcę śmierci Vorra!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 936
+  },
+  {
+    "id": 102,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 267395,
+    "text": "Przynajmniej moja mała grupa nie była jedynymi ocalałymi. Kilkoro moich kapitanów także przetrwało, choć są rozsypani po okolicy. Przynajmniej mam miasto, aby odbudować armię.\n\nNiestety Skizzik jest pośród zaginionych. Tych, o których wierzy się, że są tak mocno spalonych magią Vorra, że nie pozostało nic do identyfikacji. Co za katastrofa!\n\nNastępnym razem będę przygotowany na Vorra. Nie przegram ponownie!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 410
+  },
+  {
+    "id": 103,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 267869,
+    "text": "Wszedłem do namiotu ostatniej nocy i ujrzałem parę świetlistych postaci - Przodków.\n\n\"Czego chcecie?\" spytałem ostro. Najwyższa pory, aby sie pojawili.\n\n\"Przynieśliśmy ci więcej wyciągu z Drzewa Życia\" rzekł jeden z Przodków. Podążyłem za ich wzrokiem do mojego stołu wieczerzalnego, gdzie leżała fosforyzująca butelka napoju.\n\n\"Przeliczyliśmy się co do mocy Vorra\" rzekli wspólnie. Czyżby to były ich przeprosiny?\n\n\"Ja też, ale nie popełnię tego błędu ponownie\" odparłem.\n\n\"Poza tym, Tarnumie, przychodzimy powiedzieć, abyś poszukał chatki maga. Pokaże Ci on miejsce ukrycia kilku artefaktów, które przydadzą się w walce z Vorrem.\"\n\nPo kilku minutach ciszy i podejrzanych spojrzeniach Przodków, zniknęli.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czego chcecie?",
+          "voice": ""
+        },
+        {
+          "text": "Przynieśliśmy ci więcej wyciągu z Drzewa Życia",
+          "voice": ""
+        },
+        {
+          "text": "Przeliczyliśmy się co do mocy Vorra",
+          "voice": ""
+        },
+        {
+          "text": "Ja też, ale nie popełnię tego błędu ponownie",
+          "voice": ""
+        },
+        {
+          "text": "Poza tym, Tarnumie, przychodzimy powiedzieć, abyś ...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 705
+  },
+  {
+    "id": 104,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 268640,
+    "text": "Dziś przebudziłem się, patrząc w oczy zatroskanego Przodka. Powoli wyciągnął dłoń i wytworzył butelkę wyciągu z Drzewa Życia.\n\n\"Czemu to zostawiłeś?\" spytał.\n\n\"Nie będę tego potrzebował\" odparłem. Skoro już nie śpię to przynajmniej wykorzystam ten czas na dodatkowe ćwiczenia. Sięgnąłem po miecz.\n\n\"Nie, Tarnumie, wręcz przeciwnie!\" sprzeciwił się Przodek.\n\nPrzypiąłem miecz do pasa, nie zakładając nawet tuniki. Na tym Ognistym Księżycu było gorąco całą dobę.\n\n\"Próbowałem waszą metodą\" rzekłem twardo. \"Teraz Vorr musi zginąć zanim przemieni mój świat w kopię tego przeklętego miejsca!\"\n\nWybiegłem z namiotu.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czemu to zostawiłeś?",
+          "voice": ""
+        },
+        {
+          "text": "Nie będę tego potrzebował",
+          "voice": ""
+        },
+        {
+          "text": "Nie, Tarnumie, wręcz przeciwnie!",
+          "voice": ""
+        },
+        {
+          "text": "Próbowałem waszą metodą",
+          "voice": ""
+        },
+        {
+          "text": "Teraz Vorr musi zginąć zanim przemieni mój świat w...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 610
+  },
+  {
+    "id": 105,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 269316,
+    "text": "Ostatnio spotykam się z Skizzikiem co noc jakby był moim zastępcą. W pewnym sensie nim jest. Sposób w jaki chowaniec wszystkich traktuje świadczy, że za takiego się uważa.\n\nNiestety Skizzik nie był w stanie rozwiązać dylematu wyciągu z Drzewa Życia.\n\n\"Odciąć mu łeb!\" krzyknął Skizzik. \"To to co my barbarzyńcy robić najlepiej!\"\n\nCzyżby? Czy tym właśnie jesteśmy i zawsze będziemy? Czy moja nienawiść i gniew skaziły linię barbarzyńców na zawsze?\n\nPodniosłem butelkę wyciągu i potrząsnąłem głową. Jak ta fiolka miała zmienić stan rzeczy? Żyw czy martwy, Vorr nie zmieni barbarzyńców.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Odciąć mu łeb!",
+          "voice": ""
+        },
+        {
+          "text": "To to co my barbarzyńcy robić najlepiej!",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 583
+  },
+  {
+    "id": 106,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 269965,
+    "text": "Ostatniej nocy nawiedził mnie w snach Vorr.\n\nNa początku myślałem, że znowu mnie odwiedzają Przodkowie, ale potem zobaczyłem mściwe oczy Vorra. Chwycił mnie za gardło i ścisnął, miażdżąc mi szyję aż usłyszałem pękanie kości.\n\n\"Czemu ze mną walczysz, Tarnumie?\" rzekł Vorr. \"Nie pamiętasz jak to jest mieć taką siłę? Nie tęsknisz za tym? Był czas kiedy jednym ruchem odbierałeś życie człowiekowi. Teraz to moc, której nawet Przodkowie nie mają!\"\n\n\"Co to ma wspólnego ze mną?\" spytałem.\n\n\"Mogę zwrócić ci tę moc. Pomyśl! Przyłącz się do mnie i razem będziemy żyć wiecznie. Nic nie stanie nam na drodze\" przekonywał Vorr.\n\n\"Tylko... jedna... rzecz.\"\n\nVorr urwał, rozluźniając uchwyt. Czułem, że się boi, że o czymś zapomniał. A więc nie był do końca pewien wygranej. To był dobry znak.\n\n\"Co takiego?\" zapytał Vorr.\n\n\"Ja!\" wyrwałem się. \"Zabiję Cię!\"\n\n\"Zabijając mnie, zabijesz siebie!\"\n\nObudziłem się zachłystując się powietrzem. Prawie się udusiłem we śnie.\n\nKiedy doszedłem do siebie, szepnąłem: \"Tak, wiem. Zabiję siebie.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Czemu ze mną walczysz, Tarnumie?",
+          "voice": ""
+        },
+        {
+          "text": "Nie pamiętasz jak to jest mieć taką siłę? Nie tęsk...",
+          "voice": ""
+        },
+        {
+          "text": "Co to ma wspólnego ze mną?",
+          "voice": ""
+        },
+        {
+          "text": "Mogę zwrócić ci tę moc. Pomyśl! Przyłącz się do mn...",
+          "voice": ""
+        },
+        {
+          "text": "Tylko... jedna... rzecz.",
+          "voice": ""
+        },
+        {
+          "text": "Co takiego?",
+          "voice": ""
+        },
+        {
+          "text": "Ja!",
+          "voice": ""
+        },
+        {
+          "text": "Zabiję Cię!",
+          "voice": ""
+        },
+        {
+          "text": "Zabijając mnie, zabijesz siebie!",
+          "voice": ""
+        },
+        {
+          "text": "Tak, wiem. Zabiję siebie.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 1022
+  },
+  {
+    "id": 107,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 271053,
+    "text": "Ale szczęście!\n\nLudzie, którzy żyli na tej planecie zanim stała się Ognistym Księżycem ciągle walczą przeciw demonom. Dziś podczas zwiadu w poszukiwaniu pułapek, Skizzik odkrył ukrytą jaskinię. Wewnątrz znalazł sakwy wysuszonego jedzenia i inne zasoby, w tym złoto.\n\nNie mogło nam się to trafić w lepszym momencie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 314
+  },
+  {
+    "id": 108,
+    "source": "Ogn_bmp.lod:ab.h3c",
+    "offset": 271432,
+    "text": "Jakby wiedzieli, że chcę z nimi porozmawiać, Przodkowie przybyli na krótko po moim przebudzeniu. Nie czułem się na siłach, aby wdawać się w dyskusję, więc po prostu spytałem się o to co mi zaprzątało myśli.\n\n\"Umrę jeśli zabiję Vorra?\"\n\n\"Tak\" odparli Przodkowie.\n\nTeraz ma to sens. Nie tak dawno temu szybko się starzałem jakby moje ciało próbowało nadrobić stracony czas. Kiedy uwolniłem Przodków z ich więzienia, odzyskałem siły, choć Przodkowie wydawali się być osłabieni po miesiącach magicznych tortur.\n\nJakoś moja nieśmiertelność była związana z Przodkami - cała trójką. Więc jeśli zniszczę Vorra, sam umrę.\n\n\"Teraz widzisz? Nie tylko to, ale jeśli Vorr umrze, my także!\" dodali Przodkowie.\n\nSkinąłem głową i rzekłem łagodnie: \"Może czas barbarzyńców już przeminął.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Umrę jeśli zabiję Vorra?",
+          "voice": ""
+        },
+        {
+          "text": "Tak",
+          "voice": ""
+        },
+        {
+          "text": "Teraz widzisz? Nie tylko to, ale jeśli Vorr umrze,...",
+          "voice": ""
+        },
+        {
+          "text": "Może czas barbarzyńców już przeminął.",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 771
+  }
+]

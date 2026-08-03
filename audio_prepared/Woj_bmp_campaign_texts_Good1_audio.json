@@ -1,0 +1,766 @@
+[
+  {
+    "id": 1,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 38,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles. Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 192
+  },
+  {
+    "id": 2,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 577,
+    "text": "Ten samouczek ma za zadanie zapoznać cię z podstawami budowy miasta, walki i odkrywania okolicy w grze Heroes Chronicles.  Czytaj pojawiające się na ekranie wskazówki i postępuj zgodnie z nimi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 193
+  },
+  {
+    "id": 3,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 19430,
+    "text": "A więc uważasz się za barbarzyńcę?  No to po ci  przewodnik?  Prawdziwy barbarzyńca nie potrzebuje pomocy!\n\nNo dobrze, odłóż ten topór!  Pomogę ci.  Niepotrzebnie się denerwujesz.  Lepiej będzie, jeśli zachowam głowę - dzięki temu, będę mogła pokazać ci, jak zarządzać królestwem w Heroes Chronicles.  Zostaną twoim doradcą i pomogę ci zapoznać się z opcjami gry.  Bądź cierpliwy i uważnie czytaj moje instrukcje.\n\nAby poruszać jeźdźca, który reprezentuje bohatera o imieniu Tarnum, po prostu wskaż myszą wybrane miejsce na mapie przygody.  Jeśli kursor zmieni się w \"idącego\" konia, możesz tam dojść.  A jeśli kursor zmieni się w konia stojącego na dwóch tylnych nogach, możesz nawet odwiedzić dane miejsce i wykonać tam jakąś czynność.\n\nTeraz kliknij na znaku potwierdzenia poniżej tekstu, aby kontynuować.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "idącego",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 808
+  },
+  {
+    "id": 4,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 20329,
+    "text": "Gdy już przeczytasz poniższy tekst i klikniesz na znaku potwierdzenia, kliknij dwukrotnie na ikonie miasta znajdującej się w prawym krańcu ekranu.  Po wyświetleniu ekranu miasta zobaczysz, że jest on niemal pusty.  Trzeba więc zająć się budową.\n\nNajpierw kliknij na domu zebrań rady, aby zobaczyć listę wszystkich obiektów, które można zbudować.  Jeśli nazwa budynku wyświetlana jest na szarym tle, nie będziesz mógł wybudować tego obiektu w danym mieście.  Jeśli nazwa budynku wyświetlana jest na czerwonym tle, będziesz mógł zbudować dany obiekt dopiero po spełnieniu pewnych warunków.  Jeśli tło nazwy jest zielone, tak jak w przypadku fortu, możesz od razu zająć się budową obiektu.\n\nZacznij od budowy fortu.  Ponieważ zgromadziłam bardzo dużo zasobów, nie będziesz musiał się martwić o to, czy stać cię na wybudowanie lub kupno jakiegoś obiektu.  Jednak w prawdziwej grze, nie będę cię niańczyć, a już z całą pewnością nie użyczę ci mojego złota, nawet nie proś!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 967
+  },
+  {
+    "id": 5,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 21388,
+    "text": "Do tej pory powinieneś już oflagować tartak.  Pamiętaj, że obiekty z flagami można przejąć na własność.  Kopalnie i tartaki będą dostarczać ci zasobów, dopóki ich flagi będą miały twoje barwy (fioletowe).\n\nTeraz odwiedź kamieniołomy znajdujące się z twojej lewej strony i oflaguj je.  Nie omieszkaj też kliknąć na leżącym w pobliżu stosie kamieni.  Mogą się przydać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 366
+  },
+  {
+    "id": 6,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 21844,
+    "text": "Kliknij na domu zebrań rady, aby przejść do ekranu budynków.  Wybuduj koszary.\n\nGdy klikniesz na koszarach, będziesz mógł zwerbować do swojej armii oddział goblinów.  Twój nowy bohater powinien być teraz w mieście.\n\nJeśli klikniesz na ikonie goblinów, których właśnie zwerbowałeś, a następnie klikniesz na jednej z pustych przegródek obok portretu bohatera, gobliny, które po zwerbowaniu zasiliły automatycznie garnizon miejski, zostaną przeniesione do armii bohatera.  W ten sposób można przenosić jednostki pomiędzy bohaterami lub pomiędzy garnizonem a bohaterem.  Możesz też połączyć dwa oddziały jednego typu tworząc liczniejszą jednostkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 643
+  },
+  {
+    "id": 7,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 22578,
+    "text": "Dziś zbudujemy wilczy wybieg.  Jeśli na mapie widzisz wiele wrogich jednostek, powinieneś jak najszybciej zbudować wiele budynków, w których można werbować jednostki.  Jeśli natomiast potrzebujesz złota, zajmij się budową domu rady miejskiej i targowiska.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 255
+  },
+  {
+    "id": 8,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 22919,
+    "text": "Dziś zajmij się budową wieży orków.  Orkowie władają bronią miotaną, co oznacza, że mogą atakować wroga z dystansu.  Ten typ oddziałów zawsze powinien stanowić ważną część twojej armii.\n\nGdy skończysz budowę, udaj się do fortu.  Zobaczysz listę wszystkich oddziałów, które można werbować w mieście oraz liczbę oddziałów danego typu, które można jeszcze zwerbować.  Zauważ, że dostępnych jest 0 jednostek goblinów (ponieważ już je zwerbowałeś) oraz kilka jednostek wilczych jeźdźców i orków.  Jeśli klikniesz teraz na tych jednostkach, będziesz mógł zwerbować je za pomocą tego ekranu - dzięki temu werbunek przebiega dużo sprawniej, niż przy odwiedzaniu każdego z budynków z osobna.  Zwerbuj orków i wilczych jeźdźców i wciel ich do armii bohatera, który wciąż powinien być w mieście.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 784
+  },
+  {
+    "id": 9,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 23792,
+    "text": "Otwórz ekran budynków klikając na domu zebrań rady.  Dziś zajmiemy się budową tawerny.  W tawernie możesz najmować nowych bohaterów, którzy będą pomocą dla twojego pierwszego bohatera.  Wybierz jednego z bohaterów i wynajmij ją lub jego.  Portret nowego bohatera pojawi się u dołu ekranu miasta wraz z kilkoma jednostkami, które mu towarzyszą.  Zauważ, że nie możesz nająć nowego bohatera, jeśli Tarnum (lub innych bohater) jest w mieście.\n\nNa razie pozwól, by nowy bohater pozostał w mieście.  Będzie musiał dołączyć do swej armii klika nowych oddziałów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 555
+  },
+  {
+    "id": 10,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 24434,
+    "text": "Teraz zbuduj ogrzy fort.  Ogry są wolne, ale za to bardzo silne.\n\nJeśli jeszcze tego nie zrobiłeś, sprowadź Tarnuma do miasta.  Wkrótce będziesz go potrzebować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 160
+  },
+  {
+    "id": 11,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 24685,
+    "text": "Właśnie rozpoczął się nowy tydzień.  Otwórz ekran miasta i przejdź do fortu.  Zauważ, że dostępne są oddziały wszystkich typów, nawet takie, które zwerbowałeś w zeszłym tygodniu.  W pierwszym dniu każdego nowego tygodnia w budynkach umożliwiających werbunek pojawiają się nowe oddziały.  Śledząc uważnie kalendarz gry szybko się zorientujesz, kiedy można się spodziewać napływu nowych oddziałów.\n\nTeraz zbuduj gniazdo na urwisku.  Zwerbuj wszystkie dostępne oddziały i przekaż je nowemu bohaterowi.  Tarnum też powinien znajdować się gdzieś w pobliżu, aby przejąć część oddziałów od nowego bohatera.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 599
+  },
+  {
+    "id": 12,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 25374,
+    "text": "Przez kilka następnych dni zbadaj tereny położone po lewej stronie miasta - Tarnum powinien odwiedzić wilczy wybieg, młyn, odkrywkę siarki, szkołę magii, kryształową grotę, a przede wszystkim niebieski namiot klucznika.\n\nPamiętaj, że powinien wrócić do miasta pod koniec tygodnia (7 dnia).",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 289
+  },
+  {
+    "id": 13,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 25753,
+    "text": "Dziś zmodernizujemy koszary goblinów.  Kliknij na domu zebrań rady, aby przejeść do ekranu budynków.  Po modernizacji w koszarach będziesz mógł werbować hobgobliny.  Można w ten sposób zmodernizować wszystkie budynki umożliwiające werbunek znajdujące się w mieście - poza miastem modernizacja nie jest możliwa.\n\nSprowadź Tarnuma do miasta.  Teraz kliknij dwukrotnie na goblinach wchodzących w skład jego armii.  Pojawi się okienko przedstawiające gobliny.  U dołu tego okienka zobaczysz przyciski.\n\nJeden powoduje rozwiązanie jednostki (nie dotykaj go!).  Drugi - klika strzałek skierowanych w górę - pozwala zmienić gobliny w hobgobliny.  Ulepszanie jednostek jest możliwe dopiero po modernizacji odpowiedniego budynku.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 720
+  },
+  {
+    "id": 15,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 26573,
+    "text": "Przyszedł czas na wymianę jednostek.  Jeśli Tarnum nie jest jeszcze w pobliżu miasta, sprawdź go najbliżej, jak możesz.  Następnie podświetl nowego bohatera klikając raz na jego portrecie znajdującym się z prawej strony mapy.  Teraz możesz przemieszczać postać nowego bohatera po mapie.  Umieść kursor na figurce jeźdźca symbolizującej Tarnuma, a gdy kursor zamieni się w dwie strzałki skierowane w przeciwnych kierunkach, kliknij lewym przyciskiem myszy.\n\nPojawi się nowy ekran umożliwiający przenoszenie oddziałów (i artefaktów, jeśli je mają) między bohaterami.  Daj Tarnumowi wszystkie - poza jednym - oddziały nowego bohatera.  Aby to zrobić, kliknij na oddziale należącym do nowego bohatera, a następnie na jednej z wolnych przegródek pod postacią Tarnuma.\n\nKliknięcie na ikonie podziału umożliwia rozdzielenie jednej dużej jednostki na klika mniejszych.  Będziesz musiał to zrobić z jedną pozostałą jednostką nowego bohatera.  Kliknij na goblinach, podziel ich i daj Tarnumowi wszystkich, zostawiając nowemu bohaterowi tylko jednego.\n\nPamiętaj, że każdy bohater musi mieć co najmniej jeden oddział.  Gdy skończysz, zamknij ekran i zacznij nową kolejkę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 1159
+  },
+  {
+    "id": 17,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 27830,
+    "text": "Po zakończeniu modernizacji, zbadaj mapę za pomocą figurki Tarnuma.  Znajdź położone blisko miasta budynki, w których można werbować oddziały i koniecznie odwiedzaj raz w tygodniu młyn.  Badanie okolicy słabszym bohaterem jest niezłą taktyką podczas prawdziwej gry.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 265
+  },
+  {
+    "id": 18,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 28185,
+    "text": "Dziś zbuduj cytadelę.  Cytadela nie tylko wzmocni obronę miasta, ale też zwiększy liczbę oddziałów, które można co tydzień werbować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 132
+  },
+  {
+    "id": 19,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 28409,
+    "text": "Dziś zbuduj dom rady miasta.  Dom rady miasta zwiększa dzienny dochód miasta (w sztukach złota).  Gdy zaczniesz mieć kłopoty finansowe, koniecznie postaw budynki ponoszące dochody miasta.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 187
+  },
+  {
+    "id": 20,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 28690,
+    "text": "Dziś zbuduj targowisko.  Umożliwia ono wymianę nadwyżek surowców (np. drewna) na takie, których ci brakuje (np. złoto).  Obowiązuje wymiana \"surowiec za surowiec\".  Im więcej masz targowisk, tym lepsze ceny uzyskasz za swoje towary.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "surowiec za surowiec",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 232
+  },
+  {
+    "id": 22,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 29015,
+    "text": "Gildię magów można porównać do biblioteki zaklęć.  A im wyższy poziom gildii zbudujesz, tym więcej zaklęć (i tym potężniejszych) będziesz mógł zaoferować swoim bohaterom.  Zbuduj dziś gildię magów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 197
+  },
+  {
+    "id": 23,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 29304,
+    "text": "Dziś zajmij się budową ratusza.  Jest podobny do domu rady miasta, ale zwiększa dzienne dochody do 2000 sztuk złota!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 116
+  },
+  {
+    "id": 24,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 29509,
+    "text": "Dziś zbuduj zamek.  Poprawi możliwości obronne miasta, a ponadto zwiększy liczbę oddziałów, które można werbować.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 113
+  },
+  {
+    "id": 25,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 29712,
+    "text": "Choć ratusz zapewnia duży dochód, budowa Kapitolu przyniesie ci jeszcze więcej złota!  Aż 4000 sztuk dziennie!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 110
+  },
+  {
+    "id": 26,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 29915,
+    "text": "Teraz zbuduj kuźnię.  W niej będziesz mógł kupować wozy z amunicją (mając wozy z amunicją bohater może być pewien, że jednostkom strzeleckim nigdy nie zbraknie pocisków), a ponad kuźnia pozwali zmodernizować kolejne budynki, na przykład wieżę orków.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 249
+  },
+  {
+    "id": 28,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 30259,
+    "text": "Dziś zbudujemy grotę cyklopów.  Pozwala ona werbować oddziały miotające potężne głazy powodujące wielkie zniszczenia.  Możesz mi wierzyć na słowo.  Kiedyś przypadkowo rozzłościłem cyklopa i zniszczył mój dom ciskając zaledwie jednym głazem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 240
+  },
+  {
+    "id": 29,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 30587,
+    "text": "Nadszedł czas, bym pozwoliła ci samemu wybierać kolejne budynki.  Teraz jesteś już prawdziwym barbarzyńcą - musisz okazać więc nieco niezależności!  Możesz skupić się na modernizacji istniejących budynków lub też zająć budową obiektów takich, jak Świątynia Valhali.  Wybór należy do ciebie.  Jeśli nie znasz funkcji jakiegoś budynku, przeczytaj informacje podane na ekranie Kapitolu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 383
+  },
+  {
+    "id": 30,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 31810,
+    "text": "Uznany przez Przodków za niegodnego przekroczenia bram Raju, Tarnum przemierza świat poszukując pokuty za dawne zbrodnie.  Jest nieśmiertelnym bohaterem, ponadczasowym obrońcą, ale wewnątrz duszy wciąż nękają go wątpliwości, czy zdoła kiedykolwiek odkupić straszne grzechy młodości",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 281
+  },
+  {
+    "id": 31,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 32139,
+    "text": "Skrzynie skarbów pozwalają uzupełnić zapasy złota lub zdobyć doświadczenie - możesz dokonać wyboru w zależności od bieżących potrzeb.  Niekiedy skrzynie zawierają też magiczne artefakty.  Zanim dokonasz wyboru, dobrze rozważ swoją sytuację.  Złota nigdy za dużo - mając je możesz werbować więcej jednostek i budować nowe obiekty.  Jednak uzupełnienie punktów doświadczenia pozwala bohaterowi przejść na wyższy poziom i zdobyć nowe umiejętności.\n\nTym razem radzę wybrać złoto.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 475
+  },
+  {
+    "id": 32,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 32697,
+    "text": "Miejsca takie jak tartak co dzień dostarczają nowej partii surowców.  Im więcej tartaków i kopalń posiadasz, tym lepiej.  Wystarczy wprowadzić bohatera do tartaku, a flaga zmieni kolor (na fioletowy) informując, że to miejsce należy od chwili do ciebie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 253
+  },
+  {
+    "id": 33,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 33213,
+    "text": "W przeciwieństwie do oddziałów werbowanych w bardziej zaawansowanych budynkach, gobliny zamieszkujące w koszarach przyłączą się do ciebie za darmo.  Koszary wystarczy odwiedzać raz w tygodniu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 192
+  },
+  {
+    "id": 34,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 33692,
+    "text": "To jest dwustronny monolit przejścia, który umożliwia magiczną podróż do drugiego identycznego monolitu i z powrotem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 117
+  },
+  {
+    "id": 35,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 34116,
+    "text": "Obiekty takie, jak ten kamień wiedzy mogą dać premię w postaci szczęścia, morale i innych cech, w przypadku kamienia wiedzy tą cechą jest doświadczenie.  Gdy wjedziesz na kamień, przekonasz się, żę twój niedoświadczony bohater zyska wystarczającą liczbę punktów, by przejść na wyższy poziom.\n\nGdy tak się stanie, będziesz miał możliwość wyboru nowej umiejętności lub ulepszenia wcześniej zdobytych.  Tak będzie działo się przy każdym przejściu na wyższy poziom, dopóki nie wyczerpią się możliwości ulepszania.  Nie martw się jednak, osiągnięcie tak wysokiego poziomu trwa bardzo długo.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 585
+  },
+  {
+    "id": 36,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 34844,
+    "text": "Wilczy wybieg pozwala zwerbować co tydzień określoną liczbę wilczych jeźdźców.  Gdy wrócisz tu za tydzień, znów będziesz mógł zwerbować dodatkowe oddziały.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 155
+  },
+  {
+    "id": 37,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 35082,
+    "text": "Raz na tydzień pewne obiekty wytwarzają nową pulę zasobów - na przykład we młynie każdego tygodnia znajdziesz niewielką ilość losowo wybranego surowca.  Niekiedy nawet taki mały zastrzyk surowców jest bardzo przydatny, więc dbaj, by jeden z bohaterów zaglądał tu raz w tygodniu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 38,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 35711,
+    "text": "Nigdy nie rezygnuj z okazji odwiedzenia namiotu klucznika.  Nie możesz przewidzieć, kiedy będziesz zmuszony przekroczyć bramę graniczną w danym kolorze.  No dalej, odwiedź czerwony namiot klucznika, nim ruszysz badać okolicę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 225
+  },
+  {
+    "id": 39,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 36067,
+    "text": "Te kamieniołomy zapewnią codzienne dostawy kamienia.  Podobnie funkcjonują tartaki i stawy z klejnotami.  Wprowadź do środka swojego bohatera, aby flaga zmieniła kolor (na twój, czyli fioletowy).",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 195
+  },
+  {
+    "id": 40,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 37245,
+    "text": "Po długiej podróży znów dotarłeś w pobliże swego miasta i orientujesz się, że musisz przekroczyć czerwoną bramę graniczną.\n\nZanim jednak ruszysz na południa i zaatakujesz wroga, odwiedź miasto i uzupełnij oddziały.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 214
+  },
+  {
+    "id": 41,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 38118,
+    "text": "Czasem znajdziesz leżące na ziemi sterty surowców.  Nigdy nie omijaj ich obojętnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 83
+  },
+  {
+    "id": 42,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 38291,
+    "text": "Jeśli nie odwiedziłeś jeszcze niebieskiego namiotu klucznika, lepiej szybko go poszukaj.  Dopóki nie odwiedzisz niebieskiego namiotu klucznika, nie przejdziesz przez niebieską bramę graniczną.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 192
+  },
+  {
+    "id": 43,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 38566,
+    "text": "Przed tobą monolit wejścia.  Magicznie przeniesie cię do monolitu wyjścia, znajdującego się w innym miejscu mapy.  Pamiętaj, że monolity wejścia i wyjścia działają tylko w jedną stroną - nie można nimi wrócić w to samo miejsce.  No dalej, na przód.  Ten monolit jest bezpieczny.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 44,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 39471,
+    "text": "Przed tobą kilka miejsc, w których można coś znaleźć (na przykład obozowisko) lub zdobyć (na przykład ogród zadumy).  Sprawdź, co można w nich zyskać.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 150
+  },
+  {
+    "id": 45,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 39833,
+    "text": "Zauważyłeś, że nad laboratorium alchemika powiewa niebieska flaga?  To kolor twojego wroga.  Odwiedź laboratorium, a zobaczysz jak flaga zmienia kolor z niebieskiego na fioletowy (czyli twój).  Teraz ty, a nie twój wróg, będziesz odbierać produkowaną tu rtęć.  To się zawsze opłaca.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 282
+  },
+  {
+    "id": 46,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 40296,
+    "text": "Pozostał nam już tylko jeden wróg do pokonania.  Jeździec przed tobą z niebieską flagą to twój wróg.  Wrogowie zwykle poruszą się po okolicy tak jak ty, zajmując kopalnie i zbierając zasoby.  Mogą cię też atakować, jeśli sądzą, że mają szansę na zwycięstwo.  A więc pokażmy wrogom, kto tu rządzi - jeśli wygrasz tę bitwę, zakończysz misję.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 339
+  },
+  {
+    "id": 47,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 40790,
+    "text": "Młyn wodny działa na takich samych zasadach, jak młyn znajdujący się w pobliżu twego miasta.  Z tym, że poza pewną sumką złota nie dostaniesz tu innych surowców.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 48,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 41058,
+    "text": "W czasie gry znajdziesz leżące na ziemi sterty surowców, jak na przykład to drewno.  Przejedź przez nie, aby je zebrać - natychmiast zostanie dodane do ogólnej sumy twoich zasobów.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 180
+  },
+  {
+    "id": 49,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 41488,
+    "text": "Niezłym pomysłem jest odwiedzenie fabryki machin wojennych i zakupienie kilku urządzeń, które pomogą pokonać wroga.  Gdy wejdziesz do środka, możesz zakupić balistę (podobną do wielkiej kuszy), namiot medyka (leczący jeden oddział na zakończenie każdej tury walki) oraz wóz z amunicją (dzięki któremu masz pewność, że oddziałom strzeleckim nie zabraknie amunicji w czasie walki).",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 379
+  },
+  {
+    "id": 50,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 41950,
+    "text": "W przeciwieństwie do zasobów, artefakty są strzeżone przez różne stworzenia, które zwykle nie są skłonne rozstawać się z nimi.  Musisz więc o nie walczyć.  Nie obawiaj się tej bitwy, z łatwością zwyciężysz.  Czy chcesz rozpocząć walkę?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 235
+  },
+  {
+    "id": 51,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 42259,
+    "text": "W pobliżu leży artefakt.  Podnieś go tak samo, jak pozostałe zasoby.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 68
+  },
+  {
+    "id": 52,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 42410,
+    "text": "Przed tobą miasto należące do wroga.  To nie będzie łatwe, ale rusz naprzód i zaatakuj.  Zdobywanie miasta jest nieco trudniejsze, niż walka w otwartym polu, gdyż w mieście wroga chronią mury obronne.  Jednak gdy zdobędziesz miasto, będzie ono zwiększało twój dzienny dochód oraz umożliwiało werbowanie dodatkowych jednostek.\n\nPowodzenia!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 338
+  },
+  {
+    "id": 53,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 42919,
+    "text": "Gdy umieścisz kursor nad stojącą przed tobą grupą hobgoblinów, zmieni się on w miecz.  Oznacza to, że możesz zaatakować.  Zauważ, że nie możesz pójść dalej w tym kierunku i zająć kopalni złota, dopóki nie pokonasz hobgoblinów.  Zwróć też uwagę, że u dołu ekranu podana jest ilość hobgoblinów.  W tym przypadku jest to \"pack\" hobgoblinów, czyli od 10 do 19 żołnierzy.\n\nZaatakuj i daj nauczkę tym hobgoblinom!\n\nNie powinieneś mieć problemu z ich pokonaniem.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "pack",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 455
+  },
+  {
+    "id": 54,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 43543,
+    "text": "Ostrzeżenie!  Budynki, w których można werbować ulepszone oddziały, są zwykle strzeżone, a więc aby je przejąć, musisz najpierw pokonać strażników.\n\nGdy zwyciężysz stworzenia strzegące budynków, będziesz mógł w nich raz w tygodniu werbować nowe oddziały.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 254
+  },
+  {
+    "id": 55,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 43892,
+    "text": "Pamiętaj, by odwiedzić grotę cyklopów.  Czeka cię tam interesująca lekcja.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 74
+  },
+  {
+    "id": 56,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 44073,
+    "text": "Gdy już podbijesz 'niebieskie' miasto, odwiedź i przejmij wszystkie miejsca wokół niego oznaczone niebieska flagą, zanim zaatakujesz wrogiego bohatera.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 151
+  },
+  {
+    "id": 57,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 44335,
+    "text": "Niektóre obiekty, na przykład szkoła magii, pozwalają zdobyć premię w postaci punktów podstawowych umiejętności, takich jak atak, obrona, magia i wiedza.  W szkole magii możesz zyskać dodatkową wiedzę lub siłę magii, ale musisz za to zapłacić.  Każda z tych umiejętności powiększy liczbę punktów magii twojego bohatera.  Każdy bohater tylko raz może się czegoś nauczyć w szkole magii, ale i tak warto skorzystać z tej możliwości.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 429
+  },
+  {
+    "id": 58,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 44854,
+    "text": "Napotkane stworzenia nie zawsze będą chciały cię zabić.  Niekiedy uważają cię za przyjaciela (albo po prostu są przerażone siłą twojej armii).  Tak czy inaczej, orkowie chcą dołączyć do twojej armii.  Pozwól im na to.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 217
+  },
+  {
+    "id": 59,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 45231,
+    "text": "Koniecznie trzeba odwiedzać kolorowe namioty kluczników, takie jak ten niebieski, aby uzyskać pozwolenie na przejście przez bramę graniczną w danym kolorze.  Niebieska brama graniczna znajduje się na wschodnim krańcu mapy.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 222
+  },
+  {
+    "id": 60,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 45564,
+    "text": "W niektórych miejscach, na przykład w chacie czarownicy, którą widzisz przed sobą, można się czegoś za darmo nauczyć.  Już po jednej wizycie każdy bohater będzie umiał wszystko, czego czarownica może nauczyć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 208
+  },
+  {
+    "id": 62,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 45954,
+    "text": "Witaj w chacie jasnowidza.  W tych chatach często będą ci zlecane rozmaite zadania, a gdy je wypełnisz, w nagrodę dostaniesz artefakt, zasoby, oddziały lub informacje.\n\nZnajdź niewyczerpaną sakiewkę złota i przynieś ją tu, aby dostać nagrodę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 242
+  },
+  {
+    "id": 63,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 46201,
+    "text": "Nie znalazłeś jeszcze niewyczerpanej sakiewki złota.  I co ja mam z tobą zrobić ?!!  Jeśli masz problem ze znalezieniem jej, idź na południe.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 141
+  },
+  {
+    "id": 64,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 46346,
+    "text": "Wspaniale!  Nie wszystkie zadania są tak proste, ale zawsze, gdy zobaczysz chatę jasnowidza, powinieneś dowiedzieć się, jakie zadanie jest do wykonania.  Zwykle oferowane tu nagrody są konieczne do zakończenia misji.\n\nJako nagrodę za niewyczerpaną sakiewkę złota dam ci 9 ognistych ptaków.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 289
+  },
+  {
+    "id": 65,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 46695,
+    "text": "Przed tobą obiekt nazywany chatką magika.  Gdy ją odwiedzisz, dwa obszary mapy zostaną przed tobą magicznie odsłonięte.  Dzięki temu łatwiej będziesz mógł kontrolować poczynania wroga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 184
+  },
+  {
+    "id": 66,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 47058,
+    "text": "Zbliżasz się do magicznej studni.  Zawsze należy napić się z niej wody, a szczególnie wówczas, gdy w czasie walki używasz wielu zaklęć.  Woda ze studni odnawia cały zapas punktów magii.  Jednak skuteczna jest tylko jedna wizyta dziennie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 237
+  },
+  {
+    "id": 67,
+    "source": "Woj_bmp.lod:Good1.h3c",
+    "offset": 47652,
+    "text": "Idź drogą prowadzącą w lewo, a następnie skieruj się do lasu.  Zobaczysz tam tartak.  Umieść kursor na tartaku i zwróć uwagę, że \"idący\" koń zmienił się w konia stojącego na dwóch tylnych nogach.  To oznacza, że możesz wejść do środka.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "idący",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 235
+  }
+]

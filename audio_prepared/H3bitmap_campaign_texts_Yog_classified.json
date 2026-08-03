@@ -1,0 +1,1161 @@
+[
+  {
+    "id": 0,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 5,
+    "text": "Narodziny barbarzyńcy",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 21
+  },
+  {
+    "id": 1,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 31,
+    "text": "Yog studiował magię w Bracadzie, ale w końcu wzięło w nim górę barbarzyńskie dziedzictwo i wybrał drogę wojownika. Yog przyjmuje zaproszenie diuka Winstona Boragusa, aby dołączyć do jego sił w Krewlod. Na nieszczęście czarownicy z Bracady użyją całej swej mocy, by do tego nie dopuścić.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 286
+  },
+  {
+    "id": 2,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 343,
+    "text": "Właściwie nigdy nie byłeś dobry w magii. Nawet krew dżinów ze strony matki niewiele pomagała. Lecz mimo to, życie nie było takie złe. Do momentu, gdy kilka miesięcy temu twoja ukochana, Vidomina, nie przeszła na stronę zła. Magia pochłonęła ją i zwróciła w stronę nekromancji. Od tamtego czasu coraz bardziej nienawidzisz magii. Wreszcie podejmujesz decyzję, by porzucić życie czarownika, i kierując się głosem serca... zostać barbarzyńcą.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 439
+  },
+  {
+    "id": 3,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 789,
+    "text": "Przez całe życie studiowałem magię pod nadzorem czarowników z Bracady, ponieważ tak chciała moja matka. Ale wreszcie odezwała się we mnie krew ojca, barbarzyńcy, i poczułem, że moje dłonie lepiej pasują do miecza, niźli do czarodziejskiego kostura. Los zdaje się mi sprzyjać, gdyż otrzymałem właśnie zaproszenie do armii księcia Winstona Boragusa z Krewlod. Przyszedł czas, by opuścić to miejsce, choć wiem, że moi dotychczasowi mentorzy nie pozwolą mi odejść bez walki.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 470
+  },
+  {
+    "id": 4,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 1343,
+    "text": "Niedługo po tym, jak podbiłeś miasto Groa, przybył posłaniec z Ulgak, stolicy Krewlodu. Ku twojemu zaskoczeniu wiadomość pochodziła od samego księcia. Czytając list dowiedziałeś się, że barbarzyńcy z Krewlod są zainteresowani twoimi umiejętnościami.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 249
+  },
+  {
+    "id": 5,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 1599,
+    "text": "Odkąd uciekłem z Bracady, zadziwiająco często atakowały mnie oddziały należące do Krewlod. Nie wiem, czemu tak na mnie nastają, przecież zaprosił mnie sam książę! Muszę dostać się do stolicy, aby dowiedzieć się, dlaczego Winston Boragus i wszystkie jego siły zwróciły się przeciw mnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 285
+  },
+  {
+    "id": 6,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 1960,
+    "text": "Spotkanie z Boragusem wprawiło cię w świetny nastrój. Pragnąc jak najszybciej dowieść swej wartości, spieszysz do Tatalii, aby dostarczyć dwa z elementów Anielskiego Przymierza. Początkowo sądziłeś, że to będzie łatwe zadanie: wejdziesz do miasta i oddasz dwa artefakty Alendorze. Po kilku dniach jazdy od granicy okazało się, że Tatalianie nie zamierzają ułatwiać ci tego zadania.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 381
+  },
+  {
+    "id": 7,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 2348,
+    "text": "Gdy stanąłem przed Winstonem Boragusem, przyznał, że wysłał przeciw mnie armie Krewlodu - aby sprawdzić mą waleczność. Początkowo byłem na niego wściekły. Lecz książę przypomniał mi, że przecież sam pragnąłem walki. Spojrzawszy na sprawę z punktu widzenia barbarzyńcy, musiałem przyznać mu rację. Boragus przygotował specjalny test, by sprawdzić, czy jestem gotowy stanąć przeciw czarownikom z Bracady. Muszę wziąć magiczny miecz Anielskiego Przymierza, podzielić go na części i ukryć na ziemiach Tatalii, Erathii i Bracady.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 524
+  },
+  {
+    "id": 8,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 2955,
+    "text": "Po krótkim pobycie w Tatalii, szybko ruszasz ku Erathii, by odnaleźć Falora i Terwena. Przy odrobinie szczęścia Erathianie mogą okazać się mniej wrodzy, niż mieszkańcy Tatalii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 176
+  },
+  {
+    "id": 9,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 3139,
+    "text": "Oddałem pierwszy element miecza, chociaż z całych sił musiałem walczyć ze wszystkim, czego się do tej pory uczyłem jako czarownik. Teraz muszę znaleźć chatę jasnowidza, zwanego Falor, i oddać mu dwa kolejne elementy: naszyjnik boskiej mocy i tarczę lwiej odwagi. To nie będzie łatwe zadanie, gdyż Erathiańczycy nie przepadają za wielkimi armiami przemierzającymi ich terytorium.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 378
+  },
+  {
+    "id": 10,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 3603,
+    "text": "Ostatni etap wędrówki poprowadzi cię z powrotem do Bracady. Zdajesz sobie sprawę, że Aine będzie zapewne na ciebie czekać. Mimo to, a właściwie nie mając wyboru, zwijasz obóz i ruszasz na poszukiwanie Belega i Orruka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 217
+  },
+  {
+    "id": 11,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 3828,
+    "text": "Ostatni test Winstona Boragusa poprowadzi mnie z powrotem do Bracady - ojczyzny, którą porzuciłem. Mam odszukać parę o imionach Beleg i Orruk - oni mają otrzymać dwie najpotężniejsze części Anielskiego Sojuszu: miecz sprawiedliwości i hełm boskich mocy. Biorąc pod uwagę, że na dobre zdecydowałem się porzucić magię, będzie to dość łatwe zadanie. Zdecydowanie trudniejsze będzie przedarcie się przez armie czarowników z Bracady, gdyż oni nie pogodzili się jeszcze z moim odejściem.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 481
+  },
+  {
+    "id": 12,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 4317,
+    "text": "Zaliczyłem wszystkie sprawdziany księcia i udowodniłem, że na zawsze porzuciłem magię. Dzięki temu zostałem zaakceptowany w hordzie barbarzyńców! Matka z pewnością będzie rozczarowana, ale moja nowa krewlodzka rodzina przyjęła mnie gorąco i kusi obietnicami wielu przyszłych przygód!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 283
+  },
+  {
+    "id": 13,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 4686,
+    "text": "Aby wygrać scenariusz, musisz uciec z Bracady i zająć krewlodzkie miasto Groa. Jeśli Yog zostanie pokonany w walce lub nie zajmie Groa w ciągu 5 miesięcy, przegrasz. Yog jest ograniczony do 9 poziomu, ale zabierze doświadczenie i umiejętności do następnego etapu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 263
+  },
+  {
+    "id": 14,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 71581,
+    "text": "\"Od wielu lat żyliśmy spokojnie w tej dolinie. A ty nadciągnąłeś tu ze swoją armią, by z nami walczyć. Nie będziemy tolerować tej agresji!\" Zanim zdążyłeś wyjaśnić starożytnym behemotom, że przybywasz w pokojowych zamiarach, pierwsze ruszyły do ataku.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Od wielu lat żyliśmy spokojnie w tej dolinie. A ty...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 251
+  },
+  {
+    "id": 15,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 71883,
+    "text": "Siódmy wpis do dziennika: Można było uniknąć tej bitwy. Chciałem tylko przyczaić się tu, dopóki nie ustanie pierwsza fala poszukiwań; nie chciałem rozlewu krwi. Mieszkańcy miasta muszą być nieźle przestraszeni, skoro wysłali tyle starożytnych behemotów. Cóż, gdyby w kierunku mojego domu maszerowała armia, też próbowałbym się bronić, z tym, że miasto nie może się już skutecznie opierać, skoro większość starożytnych behemotów zginęła. Gdy tylko moje oddziały odpoczną, zaatakuję Groa - kto wie, jakie jeszcze bestie wyślą przeciwko mnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 539
+  },
+  {
+    "id": 16,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 72506,
+    "text": "Czwarty wpis do dziennika: Dam moim oddziałom trochę odsapnąć, nim ruszymy w kierunku granicy. Jak doniósł zwiadowca, garnizon jest bardzo silny. Chociaż moje oddziały wyglądają na przestraszone, sądzę że w grupie dadzą sobie radę. Jeśli... gdy przekroczymy granicę, ich morale powinno wzrosnąć.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 295
+  },
+  {
+    "id": 17,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 72896,
+    "text": "Czwarty wpis do dziennika (ciąg dalszy): Bitwa była rzeczywiście gorąca. Nie przypuszczałem, że stracę tylu żołnierzy. Następnym razem muszę być ostrożniejszy. Ale stało się; przekroczyłem granicę. Mam tylko nadzieję, że siły akademii nie zrobią tego samego. Mam nadzieję, że jeszcze na mnie tam nie czekają.. Ten obszar nie jest tak licznie odwiedzany i prawdopodobnie książę Krewlod nieprędko dowiedziałby się, że Aine najechała jego ziemie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 443
+  },
+  {
+    "id": 18,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 73423,
+    "text": "Piąty wpis do dziennika: Zwiadowcy doradzili mi, bym podążał na południe, gdyż armia tych rozmiarów nie przedrze się przez góry. Dwa do czterech dni marszu na południe zajmie dotarcie do wejścia do doliny prowadzącej do miasta Groa.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 232
+  },
+  {
+    "id": 19,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 73738,
+    "text": "Szósty wpis do dziennika: Już prawie koniec. Według mapy zwiadowców tu jest wejście do doliny miasta Groa. Zbiorę generałów i wkroczę do mojego nowego domu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 156
+  },
+  {
+    "id": 20,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 74566,
+    "text": "Ci strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 36
+  },
+  {
+    "id": 21,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 74607,
+    "text": "Nareszcie jesteś, Yog. Chcesz przejść?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 38
+  },
+  {
+    "id": 22,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 76589,
+    "text": "Przez wiele lat Yog studiował z czarownikami z Bracady, choć wolał spędzać czas na fechtunku niż na studiowaniu magii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 118
+  },
+  {
+    "id": 23,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 76768,
+    "text": "Będąc synem barbarzyńskiego wodza i natchnionej dżinki, nigdy nie mogłeś pogodzić pragnień umysłu z porywami serca. Gdy byłeś jeszcze dzieckiem matka zapisała cię do akademii magów, lecz chociaż z całych sił starałeś się wypełnić jej wolę, nuda uczelnianego życia okazała się od ciebie silniejsza. Wrodziłeś się raczej w swego ojca i podobnie jak on lekcje fechtunku przedkładałeś nad studiowanie magicznych ksiąg. Ku rozpaczy nauczycieli zdobywanie wiedzy magicznej zawsze przegrywało z szermierką, a im bardziej próbowano cię zdyscyplinować, tym mocniej nienawidziłeś magii i tęskniłeś za życiem pełnym przygód. \n\nLecz ten tryb życia zawsze wydawał się leżeć poza twoim zasięgiem, aż do ostatniego tygodnia, gdy otrzymałeś od Winstona Boragusa, księcia Krewlod, zaproszenie do jego armii. Twoja reputacja znakomitego szermierza dotarła do sąsiedniego Krewlod, a książę, który rozpaczliwie potrzebuje nowych żołnierzy, aktywnie szuka rekrutów za granicą. Uznałeś to za znak, że czas skończyć z magią i zacząć nowe życie.\n\nWiedząc, jak zazdrośnie akademia strzeże swych sekretów, masz niemal pewność, że tuż po twojej ucieczce granice prowincji zostaną zamknięte, a w ślad za tobą ruszy pościg. Nie bacząc na przeciwności, wysłałeś swych przyjaciół na poszukiwanie miasta, w którym mógłbyś zwerbować oddziały potrzebne, by siłą utorować sobie drogę do Krewlod. Ostatniej nocy jeden z nich przysłał wieści o mieście położonym niedaleko Calarnen. Wystarczy, że będziesz podążać drogą na południe, a za kilka dni bezpiecznie tam dotrzesz.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 1535
+  },
+  {
+    "id": 24,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 78359,
+    "text": "Wpis 1 - Dzień 4",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 16
+  },
+  {
+    "id": 25,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 78379,
+    "text": "Pierwszy wpis do dziennika: Uciekam już od 4 dni, ale nie dotarłem jeszcze do miasta, o którym wspominał mój przyjaciel. Nie mam już odwrotu, muszę podążać na południe, gdyż akademia wysłała w pościg za mną armię dowodzoną przez jednego z jej najzdolniejszych adeptów, czarodziejkę Aine. Mam tylko nadzieję, że wreszcie znajdę to znikające miasto, co pozwoli mi skryć się przed Aine i stworzyć własną armię, która pomoże mi przedrzeć się przez granicę.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 452
+  },
+  {
+    "id": 26,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 78886,
+    "text": "Wpis 2 - Dzień 8",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 16
+  },
+  {
+    "id": 27,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 78906,
+    "text": "Drugi wpis do dziennika: Niedawno przybyliśmy do Padon. Jak do tej pory, wszystko idzie dobrze, chociaż tworzenie armii trwa dłużej, niżbym sobie tego życzył. Boję się też, że brama graniczna nie powstrzyma Aine zbyt długo. Niewątpliwie znajdzie sposób, by się przez nią przedostać. Dziś rano wysłałem zwiadowców na teren Krewlod, by wyszukali samotne miasto, które mogłoby stać się moją kolejną kryjówką do czasu, aż Aine zaprzestanie poszukiwań. Im szybciej opuszczę Bracadę, tym lepiej dla mnie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 498
+  },
+  {
+    "id": 28,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 79459,
+    "text": "Wpis 3 - Dzień 14",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 17
+  },
+  {
+    "id": 29,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 79480,
+    "text": "Trzeci wpis do dziennika: Wczoraj późnym wieczorem zwiadowcy wrócili z nowiną, że na wschód od granicy Krewlod leży miasto zwane Groa. Ostrzegli mnie też, że granica jest silnie chroniona. Chociaż zwiadowcy nie byli w stanie rozpoznać wszystkich oddziałów stacjonujących w garnizonie, widzieli tytanów, skorpeny i arcymagów. Muszę się dobrze przygotować do zaatakowania garnizonu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 380
+  },
+  {
+    "id": 30,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 79916,
+    "text": "Spróbuj tego!!!!!",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 17
+  },
+  {
+    "id": 31,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 80006,
+    "text": "Odnalazłeś starożytny tekst magiczny dotyczący czarnej sztuki nekromancji. Nie pierwszy raz zetknąłeś się z taką księgą. \n\nW czasie studiów na akademii magii zakochałeś się w swojej koleżance, Vidominie. Opinia, że przeciwności przyciągają się, musi być prawdziwa, gdyż ona, w przeciwieństwie do ciebie, z zapałem studiowała i czytała księgi. A jak uwielbiała ślęczeć nad magią! Magia była jej życiem lub raczej byłaby, gdyby nie zrujnowała jej życia. Cały wolny czas Vidomina poświęcała wertowaniu grubych tomów traktujących o arkanach magii, aż wreszcie natknęła się na rękopis podobny do tego. Wbrew zaleceniom nauczycieli zagłębiła się w tę księgę, aż złowróżbne hieroglify zamieniły ją w nekromantkę. Przeniosła się do Deyji, gdzie spędzi resztę swego życia. \n\nNie marnując więcej czasu, sprzedajesz księgę. W zamian dostajesz złoto i inne dobra.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 851
+  },
+  {
+    "id": 32,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 80912,
+    "text": "Spróbuj też tego!!!!",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 33,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 81138,
+    "text": "Poprowadź Yoga do Ulgak, stolicy Krewlod, aby mógł zaoferować swe usługi księciu Winstonowi Boragusowi. Jeśli pozwolisz, by Yog został pokonany w bitwie, przegrasz. Yog nie może przekroczyć 15 poziomu, ale zabierze zdobyte doświadczenie i umiejętności do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 34,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 115340,
+    "text": "Jedenasty wpis do dziennika: Uważam, że dłuższy postój tak blisko stolicy zwróciłby na mnie uwagę Winstona Boragusa. Nie zamierzam siedzieć tu z założonymi rękoma dając mu czas na przygotowanie ataku. Ten barbarzyńca zapłaci mi za swój podstęp!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 244
+  },
+  {
+    "id": 35,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 120771,
+    "text": "Dziesiąty wpis do dziennika: Próbowałem przemknąć się między garnizonami, ale barbarzyńcy rozmieścili je bardzo gęsto. Rozważałem też ponownie podróż przez góry, jednak moja armia jest zbyt duża, by bezpiecznie odbyć taką wspinaczkę. Na szczęście odkryłem jaskinie prowadzące do podziemnych tuneli. Chyba szczęście znów się do mnie uśmiechnęło, gdyż ta droga wydaje się nie być strzeżona.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 388
+  },
+  {
+    "id": 36,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 121383,
+    "text": "Aine przerwała poszukiwania wcześniej niż oczekiwałeś. Nie chcąc wszczynać wojny między Bracadą a Krewlod, odstąpiła wkrótce po tym, jak przekroczyłeś granicę. Aby zapewnić sobie maksymalne bezpieczeństwo, postanawiasz jeszcze przez kilka tygodni poczekać w ukryciu, nim ruszysz w drogę do Ulgak, stolicy Krewlod, gdzie zaoferujesz swoje usługi księciu Winstonowi Boragusowi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 375
+  },
+  {
+    "id": 37,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 121815,
+    "text": "Wpis 8 - Dzień 2",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 16
+  },
+  {
+    "id": 38,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 121835,
+    "text": "Ósmy wpis do dziennika: Zwiadowcy donoszą, że do Ulgak można dostać się kilkoma trasami, choć wszystkie strzeżone są przez silne garnizony. Krewlod musi spodziewać się ataku, skoro wszystkie siły stoją w gotowości! Muszę szybko dotrzeć do stolicy, by służyć pomocą w potrzebie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 277
+  },
+  {
+    "id": 39,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 122167,
+    "text": "Wpis 9 - Dzień 4",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 16
+  },
+  {
+    "id": 40,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 122187,
+    "text": "Dziewiąty wpis do dziennika: Zwiadowcy wrócili z bardzo niepokojącymi nowinami. Krewlod przygotowuje swe armie do walki ze mną i moimi siłami. Zostałem oszukany! Książę Winston Boragus zwabił mnie tu swoim zaproszeniem, a teraz znalazłem się na obcej ziemi otoczony przez wrogie wojska. Nie wiem, czemu stałem się przedmiotem tej dziwnej intrygi, ale się dowiem. Tak czy inaczej, dotrę do Winstona Boragusa i poderżnę jego kłamliwe gardło!",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 439
+  },
+  {
+    "id": 41,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 122815,
+    "text": "Trudne początki",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 15
+  },
+  {
+    "id": 42,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 122834,
+    "text": "Musisz zanieść sandały świętego i zbroję cudów do Alendory. Jeśli Yog zostanie pokonany w czasie walki lub zgubi któryś z elementów Anielskiego Przymierza, przegrasz. Yog nie może przekroczyć 18 poziomu, ale zdobyte doświadczenie i umiejętności będzie mógł wykorzystać w następnym scenariuszu.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 293
+  },
+  {
+    "id": 43,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 216449,
+    "text": "Hydry dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 19
+  },
+  {
+    "id": 44,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 216551,
+    "text": "Ulepszone hydry dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 29
+  },
+  {
+    "id": 45,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 216663,
+    "text": "Stworzenia dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 24
+  },
+  {
+    "id": 46,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 220242,
+    "text": "Poszukuję kuli firmamentów, kuli żywiołu ziemi, kuli płonącego ognia oraz kuli burz. Jeśli przyniesiesz mi te cztery rzeczy, dam ci kulę przeciwstawienia. Będzie ci potrzebna, by zdobyć miecz ognia piekielnego. A słyszałem, że tego właśnie potrzebujesz, by zakończyć tę misję.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 276
+  },
+  {
+    "id": 47,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 220527,
+    "text": "Interesy z tobą to sama przyjemność. Daj mi te cztery kule, a ja dam ci kulę przeciwstawienia.  Nie zgub jej tylko, bo nie zdobędziesz miecza ognia piekielnego i nie wypełnisz swej misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 187
+  },
+  {
+    "id": 48,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 222379,
+    "text": "Potrzebuję kuli przeciwstawienia, chętnie wymienię na nią miecz ognia piekielnego. Będziesz go potrzebował, by otworzyć portal, który broni dostępu do bramy podziemi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 166
+  },
+  {
+    "id": 49,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 222554,
+    "text": "Wspaniale! Daj mi kulę, a ja dam ci miecz. Dzięki niemu otworzysz portal, który strzeże bramy podziemi. Pamiętaj, że jeśli zgubisz miecz, nie dostaniesz się do podziemi i nie ukończysz misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 191
+  },
+  {
+    "id": 50,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 232501,
+    "text": "Znalazłeś kulę płonącego ognia. Jeśli zgubisz ten artefakt, nie będziesz w stanie ukończyć misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 97
+  },
+  {
+    "id": 51,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 232718,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 52,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 232756,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 53,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 232804,
+    "text": "Znalazłeś kulę żywiołu ziemi. Jeśli zgubisz ten artefakt, nie będziesz w stanie ukończyć misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 95
+  },
+  {
+    "id": 54,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 232985,
+    "text": "Znalazłeś kulę sztormów. Jeśli zgubisz ten artefakt, nie będziesz w stanie ukończyć misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 90
+  },
+  {
+    "id": 55,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 233566,
+    "text": "Znalazłeś kulę firmamentów. Jeśli zgubisz ten artefakt, nie będziesz w stanie ukończyć misji.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 93
+  },
+  {
+    "id": 56,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 233883,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 57,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 233921,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 58,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234038,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 59,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234076,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 60,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234193,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 61,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234231,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 62,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234684,
+    "text": "A, tu jesteś! Czekam na ciebie. Jestem Alendora. Winston Boragus powiadomił mnie o twoim przybyciu. Powiedziano mi też, że masz dla mnie zbroję cudów i sandały świętego.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 169
+  },
+  {
+    "id": 63,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 234861,
+    "text": "Oto naszyjnik odwagi. Zanieś go Winstonowi Boragusowi, aby wiedział, że wypełniłeś pierwszą część zadania.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 106
+  },
+  {
+    "id": 64,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 235178,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 65,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 235216,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 66,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 235264,
+    "text": "Po kilku dniach wędrówki w głąb Tatalii orientujesz się, że mieszkańcy nie życzą sobie twojej obecności w ich kraju. A ponieważ odszukanie Alendory zajmie ci zapewne trochę czasu, przed rozpoczęciem poszukiwań fortyfikujesz się w małej dolince.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 244
+  },
+  {
+    "id": 67,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 235574,
+    "text": "Dwunasty wpis do dziennika: Wczoraj wysłałem zwiadowców w teren, a sam przeszukałem miasto, ale nikt z nas nie znalazł śladu Alendory.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 134
+  },
+  {
+    "id": 68,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 235775,
+    "text": "Trzynasty wpis do dziennika: Zwiadowcy - wszyscy, poza jednym - wrócili nie odnalazłszy Alendory. Miejmy nadzieję, że ostatni spóźnia się, gdyż trafił na jakiś ślad.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 165
+  },
+  {
+    "id": 69,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 236007,
+    "text": "Czternasty wpis do dziennika: Gdy już myślałem, że ostatni zwiadowca został zabity, pojawił się z informacją, że odnalazł Alendorę. Niestety biedak był tak wyczerpany, że ledwie zdołał wyjąkać coś o jaskini, po czym zemdlał. Rozkazałem, by na razie pozwolono mu wypocząć. Raport złoży jutro z samego rana.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 305
+  },
+  {
+    "id": 70,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 236379,
+    "text": "Piętnasty wpis do dziennika: Wypocząwszy, zwiadowca, który odnalazł Alendorę, pojawił się przede mną. Dowiedzieliśmy się, że należy szukać jaskini na północ od głównej drogi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 174
+  },
+  {
+    "id": 71,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 236608,
+    "text": "Zasoby dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 72,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 236821,
+    "text": "Falor i Terwen",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 14
+  },
+  {
+    "id": 73,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 236839,
+    "text": "Aby wygrać, Yog musi dostarczyć Falorowi i Terwenowi naszyjnik boskiej mocy oraz tarczę lwiej odwagi. Yog nie może przegrać żadnej bitwy ani zgubić żadnego z artefaktów. Jest ograniczony do 21 poziomu, ale zdobyte doświadczenie i umiejętności zabierze do następnego scenariusza.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 278
+  },
+  {
+    "id": 74,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 270558,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 75,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 270596,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 76,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 271254,
+    "text": "\"Witaj. Jestem Falor, a to jest Terwen. Książę Winston Boragus przesłał nam wiadomość o twoim przybyciu. Z tego, co wiem, masz nam przekazać tarczę lwiej odwagi i naszyjnik boskiej mocy.\"",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Witaj. Jestem Falor, a to jest Terwen. Książę Wins...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 187
+  },
+  {
+    "id": 77,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 271449,
+    "text": "\"Nie stój jak słup soli! Daj nam tarczę i naszyjnik, i idź w swoją stronę! Aha, zaczekaj! Weź to i daj księciu, aby wiedział, że tu byłeś i zrobiłeś, co do ciebie należało.\" \n\n   Gdy zbliżasz się do drzwi, podchodzi Falor i przeprasza za grubiańskie zachowanie Terwena. \n\n  \"Wybacz proszę Terwenowi. Czasem wpada w ten swój dziwny nastrój. Życzę ci powodzenia.\"\n\n Mówiąc to, Falor ściska ci rękę. Teraz musisz ruszyć na poszukiwanie Belega i Orruka, aby zakończyć swą misję.",
+    "classification": {
+      "type": "mixed",
+      "quotes": [
+        {
+          "text": "Nie stój jak słup soli! Daj nam tarczę i naszyjnik...",
+          "voice": ""
+        },
+        {
+          "text": "Wybacz proszę Terwenowi. Czasem wpada w ten swój d...",
+          "voice": ""
+        }
+      ],
+      "needs_manual": true
+    },
+    "chars": 474
+  },
+  {
+    "id": 78,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 271948,
+    "text": "Siedemnasty wpis do dziennika: Trochę czasu upłynęło od ostatniego razu, gdy wypełniałem te karty, lecz byłem bardzo zajęty. Armia Erathii zaatakowała szybciej, niż myślałem. Ale wygląda na to, że szczęście znów zaczyna się do mnie uśmiechać. Znalazłem jaskinię położoną pośrodku jeziora. Co ważniejsze, gdzieś tam na dole są Falor i Terwen.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 341
+  },
+  {
+    "id": 79,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 272421,
+    "text": "Przed opuszczeniem Tatalii wysłałeś naszyjnik odwagi Winstonowi Boragusowi, aby wiedział, że wypełniłeś pierwszą część zadania. Po odprawieniu posłańca odmaszerowałeś z armią do Erathii, by wypełnić drugą jego część. Jesteś w Erathii już od kilku dni, lecz nie udało ci się jeszcze zlokalizować Falora i Terwena. Jedyna wskazówka, jaką masz, to mgliste informacje pochodzące od jakichś wieśniaków, wedle których Falor i Terwen mieszkają gdzieś pod ziemią.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 455
+  },
+  {
+    "id": 80,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 272943,
+    "text": "Szesnasty wpis do dziennika: Ufortyfikowanie pozycji w tym górzystym terenie nie było trudne. Jednak informacje, które przynieśli zwiadowcy, wskazują, że dalsza część mojego zadania nie będzie prosta: aby przedostać się do podziemnej kryjówki Falora i Terwena, muszę dostać się do klucznika, który rozbił namiot głęboko na terytorium wroga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 340
+  },
+  {
+    "id": 81,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 273472,
+    "text": "Powrót do Bracady",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 17
+  },
+  {
+    "id": 82,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 273493,
+    "text": "Yog musi dostarczyć hełm boskich mocy i miecz sprawiedliwości Belegowi i Orrukowi. Jeśli Yog zostanie pokonany w bitwie lub zgubi artefakty, przegrasz. Yog jest ograniczony do 25 poziomu, ale zabierze doświadczenie i umiejętności do następnej kampanii.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 252
+  },
+  {
+    "id": 83,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 304711,
+    "text": "Zapasy dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  },
+  {
+    "id": 84,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 305853,
+    "text": "Nareszcie! Jestem Orruk. Obawiałem się, że przytrafiła ci się jakaś nieprzyjemna przygoda. Czy masz dla mnie miecz sprawiedliwości?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 131
+  },
+  {
+    "id": 85,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 305992,
+    "text": "Wspaniale. Weź to dla Winstona Boragusa jako dowód, że wypełniłeś zadanie.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 74
+  },
+  {
+    "id": 86,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 306095,
+    "text": "Jestem Beleg. Powiedziano mi, że przyjdziesz. Czy zgodnie z obietnicą masz hełm boskich mocy?",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 93
+  },
+  {
+    "id": 87,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 306196,
+    "text": "Dobra robota. Zanieś, proszę, miecz sprawiedliwości do Orruka. W zamian da ci odznakę odwagi, którą należy oddać księciu. Powodzenia i szerokiej drogi.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 151
+  },
+  {
+    "id": 88,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 311653,
+    "text": "Strażnicy przepuszczą tylko Yoga.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 33
+  },
+  {
+    "id": 89,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 311691,
+    "text": "Yog, nareszcie! Chcesz przejść?",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 31
+  },
+  {
+    "id": 90,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 311751,
+    "text": "Natychmiast po oddaniu naszyjnika boskiej mocy i tarczy lwiej odwagi Falorowi i Terwenowi, wysyłasz posłańca z wiadomością do Winstona Boragusa. Posłaniec szybko wraca ze szczegółowymi instrukcjami od księcia: udaj się do Bracady i daj hełm boskich mocy Belegowi, a miecz sprawiedliwości - Orrukowi; potwierdzenie wykonania każdego z tych zadań wyślij do stolicy. Zdajesz sobie sprawę, że Aine bez wątpienia czyha, by cię pochwycić, gdy tylko postawisz stopę w Bracadzie, więc musisz być niezwykle ostrożny.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 507
+  },
+  {
+    "id": 91,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 312325,
+    "text": "Osiemnasty wpis do dziennika: Wysłałem moich zwiadowców do Bracady, by dowiedzieli się, gdzie jest Aine i co planuje. Czekając na ich powrót, wzmocnię swą armię.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 161
+  },
+  {
+    "id": 92,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 312553,
+    "text": "Dziewiętnasty wpis do dziennika: Zwiadowcy wrócili kilka godzin temu, jednak żaden z nich nie przyniósł wieści o Aine. Najwyraźniej wiedziała, że próbuję zebrać o niej informacje i użyła magii, by się ukryć. Jedyna pożyteczna wiadomość, jaką przynieśli zwiadowcy, to informacja że wszystkie miasta Bracady gotują się do wojny. Nie chcę spędzić w mojej byłej ojczyźnie więcej czasu niż to absolutnie niezbędne, więc ponownie wysłałem zwiadowców - tym razem na poszukiwanie Belega i Orruka.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 488
+  },
+  {
+    "id": 93,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 313108,
+    "text": "Dwudziesty wpis do dziennika: Zwiadowcy znaleźli Belega i Orruka: są na południe od mojego miasta. To prawdziwe szczęście, że znalazłem ich tak szybko. Im szybciej zniknę z zasięgu Aine, tym lepiej.",
+    "classification": {
+      "type": "narrator_only",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 198
+  },
+  {
+    "id": 94,
+    "source": "H3bitmap.lod:Yog.h3c",
+    "offset": 313362,
+    "text": "Zapasy dla komputera",
+    "classification": {
+      "type": "skip",
+      "quotes": [],
+      "needs_manual": false
+    },
+    "chars": 20
+  }
+]

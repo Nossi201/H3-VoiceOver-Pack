@@ -1,0 +1,109 @@
+# PLIK DO RĘCZNEJ EDYCJI GŁOSÓW
+#=====================================================================
+# Format: ID | [głosy] | TEKST
+#
+# Głosy dla cytatów: tarnum, npc_m, npc_f
+# Pusta tablica [] = tylko narrator (brak dialogów)
+# Tablica z "" = wymaga ręcznego przypisania głosu
+#
+# Przykłady:
+#   5|[]|Tekst bez dialogów - tylko narrator
+#   6|["npc_m"]|Narrator mówi: "cytat jednego NPC"
+#   7|["npc_m","npc_f"]|Ona: "cześć" On: "witaj"
+#   8|[""]|Tekst z cytatem - WYMAGA EDYCJI!
+#
+# SKIP - pomijane w generowaniu audio
+#=====================================================================
+
+# SKIP: 0|[]|Tnij i rąb...
+1|[]|Świeżo przybyły do Erathii w poszukiwaniu przygód, Crag Hack spotyka młodego czarownika imieniem Sandro, który wynajmuje go, by odszukał cztery elementy Zbroi Przeklętego. Po ich zdobyciu, Sandro będzie mógł zniszczyć ten złowrogi artefakt. W zamian za pomoc, Crag otrzyma wysoką nagrodę.
+2|[]|Ta stosunkowo górzysta część Avauntnell od wieków była domem dla wielu plemion barbarzyńców (zapewne dlatego, że leży w pobliżu Krewlod). Podejmowane przez Erathiańczyków próby osiedlania się w tej okolicy zazwyczaj spełzały na niczym, głównie ze względu na niegościnne ukształtowanie terenu oraz najazdy rdzennych mieszkańców krainy. Jednak można tu znaleźć jedno lub dwa miasta...
+3|[]|Widząc, jak gołymi rękoma wyrzucam z gospody bandę goblinów, czarownik imieniem Sandro zaprosił mnie do swojego stolika. Obiecał godziwą nagrodę za odnalezienie czegoś, co nazwał Czaszkowym Hełmem. Żeby zdobyć ten skarb trzeba będzie zapewne obciąć komuś głowę. Zapowiada się pyszna zabawa!
+4|[]|Ta część Avauntnell była niegdyś domem wędrownych plemion barbarzyńców, ale w ostatnich czasach żyzne łąki oraz lasy (przedzielone nielicznymi bagnami) zwabiły tu nowych osadników. Osadnicy ci, zmuszeni do obrony przed najazdami barbarzyńców i atakami rabusiów, zorganizowali oddziały wojskowe pod patronatem Erathii. Każdy, kto nie jest obywatelem tego królestwa, powinien mieć się na baczności wkraczając na te ziemie.
+5|[]|Wróciłem do tawerny, aby oddać Sandro ten paskudny hełm, którego tak bardzo pragnął. Teraz chce, bym przyniósł mu jakiś miecz należący do Rycerza Śmierci. Ponoć ten opancerzony chuderlak chowa się gdzieś w bagnach, więc będę musiał przedrzeć się przez mile błota, nim będę miał szansę wydrzeć miecz z jego zimnych, martwych rąk!
+6|["npc_m"]|Tę cześć Avauntnell zamieszkuje niewielka grupa nekromantów, zwąca siebie "Hebanową Dłonią". Erathia nie zajęła się nimi do tej pory, gdyż obozują na bagnistych pustkowiach i organizowanie kampanii przeciw nim wydaje się stratą czasu i pieniędzy. Mówi się, że oddają boską cześć jednej z nieśmiertelnych ras, której przedstawicieli trzymają pod kluczem, by modlić się do nich dzień i noc.
+7|[]|Przyniosłem Sandro jego przeklęty miecz, a on zażądał, bym stanął do walki z jakimś nekromantą i odebrał mu coś, co ma być zbroją zrobioną z kości. Ha! Już ja mu te kości porachuję!
+8|["npc_m"]|W tej części Avauntnell żyje kolejna grupa nekromantów oraz pewna liczba erathiańskich żołnierzy, którzy za łapówki przymykają oczy na czarną magię. Nekromanci, zwani "Dłonią Śmierci", są stosunkowo spokojni, więc władca Erathii nie ma pojęcia, że królewskie wojsko zostało przekupione i nekromanci panoszą się tu bez przeszkód od dziesiątek lat.
+9|[]|Sandro każe mi znowu walczyć z nekromantami, tym razem\no jakąś tarczę. Kolejni śmierdzący nieumarli do zgładzenia!\nTo nie jest tak zabawne, jak mi się z początku wydawało.\nGrrr! Na szczęście to już ostatnia rzecz, którą muszę znaleźć\nnim ten chciwy czarownik wypłaci mi nagrodę.
+10|[]|Oszukano mnie! Ten złodziej zabrał wszystkie artefakty i nie dał mi złamanego grosza! Niech ja tylko znajdę Sandro, a odrąbię mu ramiona i wepchnę je do jego kłamliwej gardzieli! Argggggh!
+# SKIP: 11|[]|Rozbijanie głów...
+12|[]|Pierwszy artefakt, Czaszkowy Hełm, Crag Hack musi wydrzeć Barshonowi, barbarzyńcy, nie przegrywając żadnej bitwy. Crag nie może awansować powyżej 10 poziomu, ale nabyte doświadczenie, umiejętności i zaklęcia będą mu służyć w następnym scenariuszu.
+13|[]|Mała grupa barbarzyńskich strażników pozwoli ci przejść, jeśli pokonasz nękające okoliczne tereny trolle. Niektórzy z barbarzyńców sądzą, że trolle mogą ukrywać się pod ziemią.
+14|[]|Barbarzyńcy nie przepuszczą cię, bo nie oczyściłeś jeszcze podziemi z trolli.
+15|[]|Wieść o twoim zwycięstwie nad trollami zamieszkującymi podziemia szybko rozeszła się po okolicy. Czy chcesz przejść, o waleczny barbarzyńco?
+16|["npc_m"]|Otrzymałeś wiadomość od Barshona: "Wiem, że chcesz odebrać mi Czaszkowy Hełm, ale nie oddam go bez walki. To pamiątka przekazywana w mojej rodzinie z pokolenia na pokolenie. Jeśli chcesz ją mieć, będziesz musiał wydrzeć ją z moich zimnych, martwych rąk."\n\nDrąc pergamin, przypominasz sobie Sandro, który twierdził, że Barshon znalazł hełm.  Wzruszasz ramionami. Barshon to ponoć przebiegły wąż. Czas odciąć mu jego kłamliwy jęzor!
+17|[]|Stary czarownik twierdzi, że z jego chaty zobaczysz, gdzie jest Barshon. Domaga się za to 2000 sztuk złota.
+18|[]|Nie masz 2000 sztuk złota, więc chciwy czarownik nie wpuści cię do środka.
+19|[]|Stary czarownik znacząco spojrzał na wypchane złotem sakiewki przytroczone do twojego pasa. Zgadza się, byś wszedł do jego chaty za 2000 sztuk złota. Czy zamierzasz mu zapłacić?
+20|[]|Miasto Timintal. Wejście tylko dla Erathiańczyków.
+21|["npc_m"]|Młody barbarzyńca na koniu krzyczy: "Ja, Gurnis barbarzyńca, żądam, byś wycofał się z tej ziemi. Odejdź albo zginiesz!"
+22|["npc_m"]|Trolle wyją: "Wynoś się z naszego domu!"
+23|[]|Kości tworzą coś, co wygląda na podziemne leże trolli.
+24|[]|Sandro meeting.
+25|["npc_m", "tarnum", "npc_m", "tarnum", "npc_m", "tarnum", "npc_m", "npc_m", "tarnum"]|"Wydajesz się być odpowiednim człowiekiem do zadań, które chcę ci zlecić, panie Hack", powiedział Sandro, gładko uczesany człowiek o przenikliwym spojrzeniu, siedzący naprzeciw ciebie w tawernie Wingtail. Z aprobatą pokiwał głową, patrząc na twoją słuszną posturę, imponującą nawet jak na barbarzyńcę. \n\n"CRAG Hack", warknąłeś. Czarodzieje! Zdaje im się, że są tacy przebiegli. A nawet nie potrafią dobrze spamiętać prostego imienia! \n\n"Poszukuję czterech przedmiotów zagrabionych przez złych ludzi. Pojedynczo są bezużyteczne i nic nie warte. Ale mając wszystkie, można stworzyć potężną broń. Broń, której bardzo potrzebuję."\n\n Splunąłeś kością kurczaka pod nogi chuderlawego użytkownika magii. "Czemu miałbym ci pomóc?"\n\nMałe oczy Sandro zamieniły się w szparki. "Bo jeśli przyniesiesz mi te cztery części, dam ci pięćset tysięcy sztuk złota i akt własności do małej posiadłości. Co więcej, dzięki nim będę w stanie zniszczyć Zbroję Przeklętego - artefakt o niewypowiedzianej aurze zła. TERAZ wiesz, dlaczego?"\n\nZ wolna kiwasz potakująco głową. Zniszczenie czegokolwiek, a szczególnie noszącego znamiona zła, przemawia do twojego barbarzyńskiego poczucia etyki. "A wiesz gdzie są te cztery przedmioty?"\n\n"Tak, wiem. Tu." Sandro podaje ci małą mapkę. "To kraj, w którym żyje Barshon, barbarzyńca. To bardzo zły człowiek. Wydobył spod ziemi pierwszy z poszukiwanych przeze mnie przedmiotów. To Czaszkowy Hełm. Ostrzegam, nie słuchaj tego, co będzie ci mówił. Chociaż jest barbarzyńcą jak ty, nie ma za grosz honoru i jest przebiegły jak wąż. Pomagają mu też inni barbarzyńcy, którzy spróbują cię powstrzymać. To bardzo niebezpieczna wyprawa. Podejmiesz się tego zadania?"\n\nGwałtownie podrywasz się od stołu, chwytasz swój bojowy topór i wbijasz go głęboko w blat, dwa centymetry od dłoni Sandro.  "Podejmuję się! Ale jeśli mnie oszukasz, czarowniku, żywcem obedrę cię ze skóry."
+26|[]|Entering region.
+27|[]|Swą wizytę w Avautnell, postanawiasz zacząć od założenia własnej warowni. Najszybszym sposobem będzie przejęcie jednego z miast należących do nękających ten rejon barbarzyńców. Potem wystarczy odszukać tego Barshona i zabrać mu hełm.
+28|[]|Rogue barbarians.
+29|[]|Zwiadowcy donoszą, że Barshon zjednoczył siły z wędrującymi po okolicy barbarzyńcami. Ponoć na północnym wschodzie znajduje się erathiańska wioska.
+# SKIP: 30|[]|Czarna owca...
+31|[]|Tym razem musisz odebrać niejakiemu Marzethowi miecz Rycerza Śmierci, nie przegrywając przy tym żadnej bitwy. Crag Hack nie może awansować powyżej 15 poziomu, ale zabierze doświadczenie, umiejętności i zaklęcia do następnego scenariusza.
+# SKIP: 32|[]|Second Sword...
+# SKIP: 33|[]|Third Sword...
+# SKIP: 34|[]|Jaszczuroludzie wychodzą z bagna i atakują!...
+35|[]|Wejście do wykopów zabronione pod karą śmierci. Podpisano: Marzeth.
+36|[]|Przywódca twierdzy i jego klan wyjechali ci na spotkanie. Klepiąc pobratymca barbarzyńcę w mięsień piwny, zauważasz, że jego oczy są dziwnie puste. Chociaż nowy sojusznik wyraża się uprzejmie o Sandro, wciąż nie możesz zrozumieć, w jaki sposób czarownik przekonał tego krewkiego barbarzyńcę, by go wspierał.
+37|[]|Te ziemie należą do Rycerzy Miecza. Jeśli nie masz przepustki, ODEJDŹ!
+38|[]|Te ziemie należą do Rycerzy Miecza. Jeśli nie masz przepustki, ODEJDŹ!
+39|["npc_m", "tarnum"]|Z zarośli wyłaniają się wojownicy i trwożnie mierzą cię wzrokiem.  "Czy masz przepustkę?" pyta dowódca.\n\nPokazujesz swój topór i mówisz: "TO jest moja przepustka!" Słysząc to, dowódca wydaje żołnierzom rozkaz ataku.
+40|["npc_m", "tarnum", "tarnum"]|Z zarośli wyłaniają się wojownicy i trwożnie mierzą cię wzrokiem.  "Czy masz przepustkę?" pyta dowódca.\n\n"Przepustkę?" Śmiejesz się w głos. "Nie potrzebuję waszej zafajdanej przepustki!" Słysząc to, dowódca wydaje żołnierzom rozkaz ataku.
+# SKIP: 41|[]|First Sword...
+42|[]|Marzeth był kiedyś Rycerzem Miecza. Otrzymawszy w spadku przeklęty miecz, zaczął zamieniać się w Rycerza Śmierci.  I tylko śmierć może go skutecznie wyleczyć.
+# SKIP: 43|[]|Sandro take 2...
+44|["npc_m", "tarnum", "npc_m", "npc_m", "tarnum", "npc_m", "tarnum"]|"O widzę, że przyniósł mi pan Czaszkowy Hełm, panie Hack", wykrzykuje Sandro na twój widok. \n\n"Mówiłem już, jestem CRAG Hack. I wiesz, co powiedział mi Barshon? Twierdził, że hełm jest w jego rodzinie od pokoleń."\n\n"Widzisz! Ostrzegałem cię, że będzie kłamał, byle tylko zachować hełm dla siebie! I on śmiał nazywać siebie barbarzyńcą! Ten tchórz nie wiedział, co to honor. Mam nadzieję, że nie miał lekkiej śmierci."\n\nNigdy wcześniej nie słyszałeś tak brutalnych słów z ust czarownika. Z uniesionymi brwiami słuchasz dalszych wywodów Sandro. "Kolejnym przedmiotem, którego potrzebuję, jest miecz Rycerza Śmierci. Został skradziony z grobowca wielkiego bohatera przez Rycerza Śmierci imieniem Marzeth. Obawiam się, że odnalezienie go nie będzie łatwym zadaniem. Marzeth mieszka na mokradłach, zupełnie niepodobnych do skalistych pagórków, które wy, barbarzyńcy, tak bardzo lubicie. Co gorsza, ma on sojuszników, którzy będą go bronić."\n\nZrywasz się na równe nogi i łapiesz za topór. "Nie bój nic! Odnajdę choćby na dnie bagna i wytnę w pień jaszczuroludzi, którzy ośmielili się sprofanować grób bohatera."\n\n"I jeszcze jedno, nim odjedziesz. Ja też mam sojuszników w tym regionie. Znam przywódcę jednego z barbarzyńskich osiedli. Zgodził się, byś założył w nim swą bazę." \nPo raz pierwszy spoglądasz na Sandro z czymś w rodzaju szacunku. Ten czarownik zdobył zaufanie barbarzyńcy, przywódcy miasta!  "Nie będę więc marnować dłużej czasu, Sandro. Idę po twój miecz, do kompletu z hełmem." Mówisz otwierając drzwi.
+# SKIP: 45|[]|Scout report...
+46|[]|Zwiadowcy donoszą, że w prowincji znajdują się trzy zamki. Według plotek, Marzeth jest pod ochroną tego, który należy do bractwa zwanego Rycerzami Miecza. Dziwne. Dlaczego ludzie chronią Rycerza Śmierci? Potrząsasz głową. Rozbolała cię od nadmiaru myślenia.
+# SKIP: 47|[]|Scout report 2...
+48|[]|Zwiadowcy przynieśli następne wieści. Podobno Marzeth był Rycerzem Miecza, póki nie odziedziczył pewnego magicznego ostrza. Ta przeklęta broń przemieniła jego duszę do tego stopnia, że stał się Rycerzem Śmierci. To wyjaśnia, czemu ludzie go bronią, ale kłóci się z opowieścią Sandro, jakoby Marzeth ukradł miecz z krypty wojownika. Cóż, plotki to tylko plotki.
+49|[]|Crag Hack musi zdobyć Klatkę Żebrową należącą do jednego z liszów grasujących na bagnach Ferris, nie przegrywając żadnej bitwy. Crag Hack nie może awansować powyżej 20 poziomu, ale ze zdobytego doświadczenia, umiejętności i zaklęć będzie mógł korzystać w następnym scenariuszu.
+50|[]|Bonus money from followers.
+# SKIP: 51|[]|Oto pieniądze od fanatycznych wielbicieli!...
+52|[]|Goblin tribe tribute.
+53|[]|Zamieszkujące w pobliżu plemię goblinów przysyła ci swych wojowników jako trybut dla barbarzyńskich braci, którzy pomogli im odeprzeć atak wędrownego plemienia ogrów.
+# SKIP: 54|[]|Kopalnia złota - na północ\n\nNamiot - na południe...
+55|[]|Jasnoniebieski - zachodzące słońce\n\nCiemnoniebieski - wschodzące słońce
+56|["npc_m"]|Mumie syczą: "Nikt nie będzie kalał naszych grobów."
+57|["npc_m"]|Mumie syczą: "Nikt nie będzie kalał naszych grobów."
+58|["npc_m"]|Wygląda na to, że nekromanci z "Hebanowej Dłoni" zabarykadowali się w swoim zamku! Może warto zostawić te tchórzliwe wywłoki na później. Na razie trzeba zająć się poszukiwaniem żeber.
+59|[]|Podczas ataku liszów zauważasz, że jeden z nich nosi zbroję zrobioną z ludzkich żeber.
+60|["npc_m"]|Bagna Ferris - na południe. Uwaga, teren prywatny należący do "Hebanowej Dłoni". Właściciele nie lubią intruzów.
+61|["npc_m"]|Bagna Ferris - na wschód. Uwaga, teren prywatny należący do "Hebanowej Dłoni". Właściciele nie lubią intruzów.
+# SKIP: 62|[]|Sandro meeting 3...
+63|["npc_m", "tarnum", "tarnum", "npc_m", "npc_m", "tarnum", "npc_m"]|"Wyśmienicie! Widzę, że znów odniosłeś sukces, panie Hack!" Powiedział Sandro, witając cię w tawernie Wingtail.\n\n"CRAG Hack", warczysz.  "Ten śmierdzący Rycerz Śmierci, Marzeth, ostatecznie przeniósł się do wieczności."\n\n"Trzecim przedmiotem, którego potrzebuję, jest Klatka Żebrowa, będąca w posiadaniu grupy nekromantów zamieszkujących małe bagienko o nazwie Ferris,"  mówi Sandro, wręczając ci niewielką mapkę. "Przechowywano ją dla mnie w sanktuarium, ale nekromanci, znając jej wartość, spalili budynek i ukradli Klatkę. Zrobią wszystko, by ją zatrzymać." \n\n"Mam walczyć z nieumarłymi? Nie lubię ich smrodu. Strasznie cuchną."  Patrząc na mapę, unosisz brwi. \n\nSandro rozchyla sakwę, pokazując złoto i klejnoty.  "Pomyśl o nagrodzie, którą ci obiecałem, oraz o tym, że zdobyte przez ciebie przedmioty posłużą do usunięcia z Enroth potężnego artefaktu zła." \n\nZastanawiasz się przez chwilę, po czym z wolna przytakujesz. W końcu ci nekromanci spalili jedyne miejsce, w którym bohater może czuć się bezpiecznie. Ale walka dla tego czarownika nie jest wcale tak zabawna, jak początkowo sądziłeś. Sandro zbyt często zmusza cię do myślenia.
+64|[]|Entering the region.
+65|[]|Pierwszym krokiem, po wejściu na obszar zaznaczony na mapie Sandro, powinno być zajęcie miasta. Najwyraźniej w tej prowincji czarownik nie miał przyjaciół, którzy zechcieliby cię ugościć, ale na szczęście zwiadowcy znaleźli w pobliżu niezajętą twierdzę...
+# SKIP: 66|[]|Send Message...
+67|["tarnum"]|Rozkazujesz zwiadowcom przekazać nekromantom następującą wiadomość: "Oddajcie Klatkę Żebrową albo Crag Hack zetrze wasze kości na proch, tak jak wy obróciliście w popiół sanktuarium."  Posłaniec szybko opuszcza obóz i znika w zaroślach.
+68|["npc_m"]|Zwiadowca wrócił. Posiniaczony, zakrwawiony i okaleczony, ale żywy... Przekuśtykawszy w twoją stronę, wręczył ci wiadomość: "O sanktuarium nic nie wiemy, panie Hack. Wiemy za to, że jesteś już martwy. Tyle, że jeszcze o tym nie wiesz." Składasz papier mamrocząc, że na imię masz przecież Crag. Gdy próbujesz wcisnąć zwitek papieru w dłoń posłańca, jego ręka bezwładnie opada na ziemię. Zamieniono go w zombie! Jednym celnym uderzeniem topora pozbawiasz go głowy. Przeklęci nekromanci! Nienawidzisz ich z całej duszy!
+# SKIP: 69|[]|Cmentarna hiena...
+70|["npc_m"]|Odbierz Tarczę Zionącej Śmierci nekromanckiej sekcie "Dłoń Śmierci", nie przegrywając przy tym żadnej bitwy. Crag Hack nie może awansować powyżej 25 poziomu, ale będzie mógł korzystać ze zdobytego doświadczenia, umiejętności i zaklęć w następnej kampanii.
+71|["npc_m"]|Szkielet w czarnej szacie mówi: "Charnath próbował sprofanować ten cmentarz przed tobą. A teraz się ukrywa. Przepuszczę cię tylko pod warunkiem, że go ukarzesz."
+72|[]|Szkielet wie, że Charnath nie umarł i nie pozwala ci przejść.
+73|[]|New recruits.
+74|[]|Agresywna akcja rekrutacyjna prowadzona w mieście przez kapitana i jego ludzi przyniosła pewne efekty.
+75|[]|Slash to dawny kompan od kieliszka Craga Hacka, jeszcze z czasów Enroth. Przybył do Erathii, by ukryć się przed konstablami, którzy chcieli przesłuchać go na okoliczność pewnej... sprzeczki z kilkoma chłopami. W Erathii aresztowano go za oszukiwanie przy grze w karty.
+76|[]|Na pierwszy rzut oka widać, że miasto jest opanowane przez nieumarłych. Zwiadowcy doradzają ostrożność - i dużą liczbę oddziałów.
+77|[]|Dusze przeklętych, których tu pogrzebano, wstały z grobów i ruszyły do ataku!
+78|["npc_m", "npc_m"]|"Ostrożnie!" szepcze jeden ze szkutników, wyraźnie wstrząśnięty. "Widziałem już na tej wyspie nieumarłych pojawiających się jakby znikąd." Wciskasz mu kilka monet, dziękując za ostrzeżenie.
+79|[]|Więzienie Enroth #520. Aktualny aresztant: Slash.
+80|[]|Wygląda na to, że wampiry zabiły prawdziwych strażników, a teraz złowrogo łypią na więźnia.
+81|[]|Droga na wschód ginie pod stosem śmieci i kości.
+82|[]|Dusze przeklętych, których tu pogrzebano, wstały z grobów i ruszyły do ataku!
+83|["npc_m", "tarnum", "npc_m", "npc_m", "npc_m", "tarnum", "npc_m", "npc_m"]|"Masz Klatkę Żebrową! Wspaniała robota, panie Hack." Mówi Sandro, witając cię w tawernie Wingtail. \n\n"CRAG Hack", poprawiasz gniewnie czarownika. \n\n"Został już tylko jeden przedmiot." Sandro rozwija mapę i wskazuje prowincję. "Do wykonania tego zadania pozyskałem kilku byłych żołnierzy Erathii, obecnie najemników. Przydadzą ci się. Mają zamek, który stanie się twoją bazą. Będziesz potrzebował ich pomocy, gdyż ostatni przedmiot, Tarcza Zionącej Śmierci, znajduje się w rękach nekromanckiej sekty "Dłoń Śmierci". Odebrali tarczę pokonanemu wampirowi, który znalazł w tych liszach godnego siebie przeciwnika." \n\n"Żadnych nieumarłych!" warczysz. \n\n"Myśl o nagrodzie, jaką dostaniesz, gdy przyniesiesz mi tarczę. Nie dość, że staniesz się bogatym człowiekiem, to jeszcze raz wyświadczysz Erathii wielką przysługę", przypomniał Sandro. "I jeszcze jedno. Tak jak inni, nekromanci też spróbują cię okłamać. Nie słuchaj ich."\n\nWychodząc, zastanawiasz się nad kłamstwami, których musiałeś wysłuchać w służbie Sandro. Może należałoby odebrać nagrodę, ZANIM oddasz mu ostatni artefakt.
+# SKIP: 84|[]|Captain meeting...
+85|["npc_m", "tarnum", "npc_m"]|Gdy podjechałeś do zamku wskazanego przez Sandro na mapie, jego kapitan wyjechał ci na powitanie. "Witaj! Sandro uprzedził nas o twoim przybyciu. Udzielimy ci wszelkiej niezbędnej pomocy."\n\n"Dobrze. Powiedz mi coś o naszym zadaniu. Wkrótce wyruszamy i chcę wiedzieć, czego się spodziewać."\n\nKapitan najemników potakuje i opowiada o nekromantach zamieszkujących na południu. "Dłoń Śmierci", jak nazywają tę sektę, do niedawna zachowywała się bardzo spokojnie. Jednak wkrótce po tym, jak Sandro wynajął kapitana, nekromanci stali się aktywniejsi i zaczęli wysyłać nieumarłych na północ.
+86|[]|Message from Hand of Death.
+87|["npc_m", "npc_m"]|Otrzymałeś wiadomość od "Dłoni Śmierci": "Wiemy, że wysłał cię nasz wspólny znajomy i wiemy, czego szukasz. Ale pamiętaj, że Tarcza Zionącej Śmierci jest dla nas relikwią. Od wielu lat spoczywa na naszym cmentarzu. Zrobimy wszystko, by cię powstrzymać." Kolejne kłamstwa, gnieciesz papier, ale wątpliwości pozostają. Czy Sandro jest godzien zaufania?
+88|[]|Sandro sends money.
+89|[]|Sandro przysyła pieniądze, by wspomóc twoje starania.
+90|[]|Barricaded Hand of Death.
+91|["npc_m"]|Zwiadowcy donoszą, że "Dłoń Śmierci" bardzo skutecznie zabarykadowała swoje zamki. Irytuje cię ich tchórzostwo, ale dochodzisz do wniosku, że ważniejsze od oblegania wrogich zamków jest odnalezienie tarczy.
