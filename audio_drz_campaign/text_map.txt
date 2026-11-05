@@ -1,0 +1,101 @@
+# text_map.txt (bez filtra mapy)
+# Format: drz_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Drz_bmp_campaign_texts_ab_edit.txt
+
+drz_001|Tarnum został wezwany aby ocalić przed n
+drz_002|Misja: Pokonaj wszystkich przeciwników, 
+drz_003|Tarnum wyruszył w samotną podróż na ratu
+drz_004|Misja: Pokonaj wszystkich przeciwników, 
+drz_005|Nekromanci nigdy więcej nie walczyli prz
+drz_006|Misja: Pokonaj wszystkich przeciwników, 
+drz_007|Tarnum wiedział, że jest blisko Drzewa Ż
+drz_008|Misja: Pokonaj Króla Targora, nie tracąc
+drz_009|Tarnum w swym życiu zabił dość ludzi, dl
+drz_010|Misja: Pokonaj wszystkich przeciwników, 
+drz_011|Z pomocą amuletu pamięci Tarnum odsłonił
+drz_012|Kiedy Tarnum natknął się na wybijający z
+drz_014|Tarnum musi zdobyć wszystkie twierdze ne
+drz_015|Znajome, upiorne zawodzenie bez końca ni
+drz_016|Osądzony przez Przodków jako niegodny ws
+drz_017|Ten hełm został zrobiony z czaszki mojeg
+drz_018|Przed sobą dostrzegasz stare pole bitwy.
+drz_019|Twój koń zatrzymuje się, na moment przed
+drz_020|"Uratuj Drzewo Życia!"\n\nRozległo się w
+drz_021|W okolicy nie ma żadnych śladów bytności
+drz_022|Przodkowie wciąż milczą.  Nie wypowiedzi
+drz_023|Przywołałem do swego namiotu pięciu posł
+drz_024|Wszyscy szamani zgodzili się pomóc mi, c
+drz_025|"Dlaczego zjednoczyłeś się z wiedźmami?"
+drz_026|Powrócił mój kurier, przynosząc list od 
+drz_027|Pozostali szamani znaleźli podobne wyjaś
+drz_028|Dzisiaj rano, odpowiedziawszy na zew nat
+drz_029|Jeden z moich zwiadowców był wczoraj świ
+drz_031|Tarnum musi zwyciężyć wszystkich Nekroma
+drz_032|Posiłki nareszcie przybyły!  Możesz nają
+drz_033|Twym oczom ukazuje się wielka maczuga sp
+drz_034|"Martwy czy Nieumarły!  Niezadługo to bę
+drz_035|"Serdecznie cię zapraszamy do opróżnieni
+drz_036|"Jeśli chcesz podróżować przez nasze wro
+drz_037|"Przybywasz w samą porę!  Niegdyś było n
+drz_038|Nekromanci zjednoczyli się pod czerwonym
+drz_039|Odkąd wkroczyliśmy do niższych korytarzy
+drz_040|Tego rana zaskoczyliśmy niewielką grupę 
+drz_041|Walkę z nekromantami łatwo jest porównać
+drz_042|Ku mojemu zdumieniu Vorr nie jest jak są
+drz_043|Tego rana podjechałem do Addara, wreszci
+drz_044|Staram się nie ukazywać przed wojskiem, 
+drz_045|Nekromanci posiadają niewyczerpalne źród
+drz_046|Szczęście mi sprzyja!  Otrzymałem inform
+drz_047|Tarnum musi zdobyć wszystkie barbarzyńsk
+drz_048|Przemierzając kolejne jaskinie słyszysz 
+drz_049|Nad tobą przelatuje ze świstem gołębica,
+drz_050|Słyszysz krzyk a następnie widzisz parę 
+drz_051|"Co to jest?" spytałem.\n\nŚcigaliśmy ki
+drz_052|Osiadliśmy w twierdzy służącej wcześniej
+drz_053|Dzisiaj powrócił nieustraszony posłaniec
+drz_054|Dzisiaj ogrzy kapitan Grumba prowadził t
+drz_055|Wszystko czego uczę się o Królu Targorze
+drz_056|Kiedy podjechał do mnie Addar, wiedziałe
+drz_057|"Jak sprawić, by wyznawcy opuścili Vorra
+drz_058|Grumba nadesłał wiadomość w której poinf
+drz_059|Obserwowałem mały oddział mych najlepszy
+drz_060|Jestem trochę zaniepokojony o Addara, st
+drz_061|Dziś rano zwijając obóz, odnaleźliśmy st
+drz_063|Tarnum musi pokonać w bitwie króla Targo
+drz_065|Chociaż nekromanci uciekli z tego obszar
+drz_066|Obozuje tutaj horda ogrzych dezerterów, 
+drz_067|Masywny ogr występuje z cienia szczerząc
+drz_068|Zwiadowcy donoszą o grupie upiornych ryc
+drz_069|Grumba, ogrzy kapitan wychyla się ze szc
+drz_070|"Nie marzę o niczym innym jak o zaatakow
+drz_071|Grumba spieszy by otworzyć ci wrota i mó
+drz_073|Zaślepiony słowami Vorra król Targor uwi
+drz_074|Pod przywództwem Vorra nekromanci zjedno
+drz_075|Zeszłej nocy do obozu wśliznął się brudn
+drz_076|Otrzymałem dziś informację z powierzchni
+drz_077|Dwie noce temu zwiadowcy dostrzegli paru
+drz_078|Posiłki z powierzchni spóźniają się.  Od
+drz_079|Jeden ze zwiadowców wysłanych w celu odn
+drz_080|Podążając ścieżką napotkaliśmy smukłego,
+drz_081|Trzymałem Nilidona blisko siebie, by mie
+drz_082|Czuję się jak głupiec!\n\nJak wyjaśnił N
+drz_083|Tarnum i jego nowi barbarzyńscy sprzymie
+drz_084|Gdy zbliżasz się do lasu, dostrzegasz pa
+drz_085|Zauważasz pojedyncze ciało na trawie, z 
+drz_086|Na środku drogi siedzi stara kobieta, tr
+drz_087|Nogi legionisty są dobrze strzeżone prze
+drz_088|Przez kilka minut obserwujesz jak horda 
+drz_089|Nekromanci przysłali hordę upiorów z zad
+drz_090|Z dziury w ścianie groty sterczy głowa l
+drz_091|Nekromanci muszą już wiedzieć, że poszuk
+drz_092|Stoisz na pobojowisku, miejscu chwalebne
+drz_093|Odwaga króla Targora zostanie zapamiętan
+drz_094|Na całe szczęście zdążyliśmy obwarować s
+drz_095|Elficki druid Nilidon twierdzi, że gdzie
+drz_096|Moi szpiedzy wysłali mi raporty dotycząc
+drz_097|W końcu otrzymałem wiadomość od ostatnie
+drz_098|Dzisiejszego dnia Nilidon ocalił życie m
+drz_099|Grupa młodych goblinów w nagłym przypływ
+drz_100|Dzisiaj zabłysła mała iskierka nadziei, 
+drz_101|W czasie ostatniej bitwy schwytaliśmy ne
+drz_102|Poleciłem goblinom wyczyścić pobazgrane 

@@ -1,0 +1,3898 @@
+{
+  "campaign": "Mie",
+  "total_texts": 145,
+  "generated": 145,
+  "errors": 0,
+  "total_chars": 76384,
+  "results": [
+    {
+      "id": 1,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Elficki bohater, Gelu, wyruszył, by pomimo apokaliptycznej przepowiedni odnaleźć tajemniczy Miecz Mrozu. Teraz losy świata spoczywają w rękach Tarnuma, który musi rozpalić swoje mroczne talenty i poprowadzić wynaturzone stwory Nighonu przeciw dawnemu przyjacielowi."
+        }
+      ],
+      "total_chars": 265,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_001.mp3",
+      "size_kb": 264.9404296875
+    },
+    {
+      "id": 2,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 68,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_002.mp3",
+      "size_kb": 73.51171875
+    },
+    {
+      "id": 3,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Elficki bohater, Gelu, wyruszył by odnaleźć i zniszczyć Miecz Mrozu. Pragnął powstrzymać apokaliptyczną przepowiednię, lecz nie zdawał sobie sprawy, że odnalezienie artefaktu może sprowadzić na świat olbrzymie niebezpieczeństwo. Tarnum musi go powstrzymać, jednak siły dobra, Avlee i Erathii, odmówiły przystąpienia do kampanii przeciwko Gelu. Któż tedy będzie gotów dźwignąć miecz przeciw elfom?"
+        }
+      ],
+      "total_chars": 396,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_003.mp3",
+      "size_kb": 434.736328125
+    },
+    {
+      "id": 4,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zdobądź pierścień nieskończonych bogactw, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 77,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_004.mp3",
+      "size_kb": 80.8583984375
+    },
+    {
+      "id": 5,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Gelu był zbyt blisko Miecza Mrozu, by Tarnum mógł stać spokojnie z boku i się przyglądać. Tak długo jak żona barbarzyńcy, Kija, wciąż pozostawała niedaleko, stanowiła zagrożenie, dlatego Tarnum postanowił wyeliminować ją z tych niebezpiecznych łowów."
+        }
+      ],
+      "total_chars": 250,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_005.mp3",
+      "size_kb": 271.0625
+    },
+    {
+      "id": 6,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zdobądź Bastion, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 52,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_006.mp3",
+      "size_kb": 57.185546875
+    },
+    {
+      "id": 7,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kolejna para zachłannych oczu spoczęła na Mieczu Mrozu, lecz nie po to, by go zniszczyć bądź uchronić przed odszukaniem. Kija, żona bezwzględnego króla barbarzyńców, Kilgora, przybyła, by przywłaszczyć sobie niebezpieczne ostrze. Tarnum będzie bardziej niż kiedykolwiek potrzebował zwycięstwa."
+        }
+      ],
+      "total_chars": 293,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_007.mp3",
+      "size_kb": 309.8388671875
+    },
+    {
+      "id": 8,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zrekrutuj 6 błękitnych smoków, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 66,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_008.mp3",
+      "size_kb": 74.736328125
+    },
+    {
+      "id": 9,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum wiedział, że błękitne smoki, najpotężniejsze ze smoczej braci, mogą dać siłę potrzebną do zwyciężenia zarówno elfów Gelu jak i barbarzyńców Kiji. Jednakże przekonanie błękitnych smoków do współpracy mogło go słono kosztować."
+        }
+      ],
+      "total_chars": 231,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_009.mp3",
+      "size_kb": 244.9404296875
+    },
+    {
+      "id": 10,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj Ufretina, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 53,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_010.mp3",
+      "size_kb": 64.9404296875
+    },
+    {
+      "id": 11,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum był niechętny pojmaniu jednego z przyjaciół Gelu, ponieważ chciał zapobiec niechybnemu przesłuchaniu. Jak daleko był w stanie się posunąć, by poznać położenie Miecza Mrozu? Czy był w stanie uciec się do morderstwa? A gdyby mógł, czy Przodkowie mogliby mu wybaczyć?"
+        }
+      ],
+      "total_chars": 271,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_011.mp3",
+      "size_kb": 283.7158203125
+    },
+    {
+      "id": 12,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 68,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_012.mp3",
+      "size_kb": 71.0625
+    },
+    {
+      "id": 13,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kiedy Ufretin na niego spojrzał, dostrzegł w nim jedynie mężczyznę, który zdradził elfy i dołączył do ich śmiertelnego wroga. Tarnum musiał sprawić, by więzień mu zaufał i zdradził lokalizację Miecza Mrozu. W przeciwnym razie Nieśmiertelny Bohater musiałby zmusić go do mówienia przemocą, a tego chciał za wszelką cenę uniknąć."
+        }
+      ],
+      "total_chars": 327,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_013.mp3",
+      "size_kb": 349.8388671875
+    },
+    {
+      "id": 14,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj wszystkich przeciwników, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 68,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_014.mp3",
+      "size_kb": 78.41015625
+    },
+    {
+      "id": 15,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostre brzegi północnych rubieży nie zgotowały Tarnumowi ciepłego powitania. Dotarł do brzegu z niewielkimi tylko siłami, odcięty od wszelkiego zaopatrzenia i otoczony przez zacięte elfy z Vori. Na domiar złego jego własne oddziały nastawały na jego życie."
+        }
+      ],
+      "total_chars": 255,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_015.mp3",
+      "size_kb": 272.287109375
+    },
+    {
+      "id": 16,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Podbij Bastion Volee, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 57,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_016.mp3",
+      "size_kb": 63.7158203125
+    },
+    {
+      "id": 17,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Gelu wciąż nie chciał dostrzec, że już samo odszukanie Miecza Mrozu może doprowadzić do wypełnienia przepowiedni. Tarnum nie miał innego wyjścia, jak tylko wyprzedzić go w wyścigu do miasta Volee, gdzie niegdyś zaginęła starożytna broń."
+        }
+      ],
+      "total_chars": 236,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_017.mp3",
+      "size_kb": 238.41015625
+    },
+    {
+      "id": 18,
+      "voices": [
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Z trudem wywalczone zwycięstwo nad miastem Volee poszło na marne. Gdy Tarnum przebił się do miejsca spoczynku miecza, okazało się, że ktoś już wydarł go z jego lodowego leża. Pośród odłamków lodu leżał porzucony barbarzyński topór. Tarnum zacisnął dłonie na jego rękojeści i nabrawszy w płuca powietrza, wykrzyczał imię złodzieja."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Kija!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Czemu jej nie zabił, gdy pozostawała jego jeńcem? Potem zaczął się modlić,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przodkowie, błagam was, nie pozwólcie, by moje miłosierdzie sprowadziło na cały świat zagładę!"
+        }
+      ],
+      "total_chars": 503,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_018.mp3",
+      "size_kb": 593.51171875
+    },
+    {
+      "id": 20,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi podbić podziemne miasta Nighonu, by móc w nich sformować armię gotową stawić czoła Gelu i jego elfom. Wszyscy bohaterowie ograniczeni są do poziomu 6, zaś Tarnum wraz ze zdobytymi umiejętnościami, czarami i doświadczeniem przejdzie do następnego scenariusza."
+        }
+      ],
+      "total_chars": 270,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_020.mp3",
+      "size_kb": 283.7158203125
+    },
+    {
+      "id": 21,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Osądzony przez Przodków jako niegodny wstąpienia do Raju, Tarnum wędruje po świecie szukając odkupienia za swe zbrodnie. Jest Nieśmiertelnym Bohaterem, wiecznym obrońcą, ale powątpiewa, czy kiedykolwiek zdoła zadośćuczynić za błędy popełnione w młodości."
+        }
+      ],
+      "total_chars": 254,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_021.mp3",
+      "size_kb": 268.6142578125
+    },
+    {
+      "id": 22,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Spod ciemnego sklepienia jaskini sfruwa na ciebie skora do walki grupa harpich wiedźm, lecz ty uniósłszy swój miecz jednym płynnym cięciem powalasz ich prowodyra. Pozostałe harpie z uśmiechami na twarzach błagają cię, byś pozwolił im dołączyć do dowódcy o tak wielkiej sile."
+        }
+      ],
+      "total_chars": 274,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_022.mp3",
+      "size_kb": 297.185546875
+    },
+    {
+      "id": 23,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zstępując do tego świata wiecznej ciemności, zastanawiasz się, czy dokonałeś właściwego wyboru. Nie bez powodu mieszkańcy podziemi cieszą się sławą najokrutniejszej z nacji. Czyż myśl, że możesz ich pozyskać do walki w służbie dobra, nie była z twej strony ogromną arogancją?"
+        }
+      ],
+      "total_chars": 275,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_023.mp3",
+      "size_kb": 283.7158203125
+    },
+    {
+      "id": 24,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przybył dzisiaj wóz z zaopatrzeniem, wioząc zapasy z jednej z moich osobistych skrytek."
+        }
+      ],
+      "total_chars": 87,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_024.mp3",
+      "size_kb": 84.9404296875
+    },
+    {
+      "id": 25,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "tarnum",
+          "text": "Jeśli Miecz Mrozu i Ostrze Armagedonu kiedykolwiek się spotkają, będzie to oznaczało koniec świata!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Jakiż głupiec z tego elfa! Co mogło go pchnąć do poszukiwań Miecza Mrozu? Spotkałem niegdyś Gelu, dał mi się wówczas poznać jako pełen inspiracji przywódca i wzięty wojownik. W ciągu kilku ostatnich lat dokonał wielu heroicznych czynów, udowadniając, że jego umiejętnościom dorównuje tylko jego upór. Nigdy bym go nie podejrzewał o brak rozsądku. Czy jest aż tak bardzo przywiązany do Ostrza Armageddonu, że nie potrafi dostrzec zagrożenia, na jakie naraża cały świat? Dlatego też przybyłem do Nighonu w poszukiwaniu siły, która mogłaby przeciwstawić się Gelu i jego elfom. Niestety, Król Elfów nie kiwnie nawet palcem, by przeszkodzić największemu bohaterowi Avlee. Erathianie natomiast pozostają z nim w przymierzu - podniesienie ręki na Gelu jest równoznaczne ze zniszczeniem tego sojuszu. Moim jedynym wyjściem pozostało przywdzianie szat suwerena i poprowadzenie armii Nighonu do walki za szlachetną sprawę. Słyszałem, że po śmierci przywódczyni Nighonu, Smoczej Królowej Mutare, w podziemiach zapanował chaos. Walka o dominację między jej generałami przeistoczyła się w niekończącą się wojnę domową. To idealny moment, bym wśliznął się na scenę i przejął kontrolę nad ich siłami. Tylko z ich pomocą będę mógł powstrzymać Gelu przed wypełnieniem jego szalonej misji."
+        }
+      ],
+      "total_chars": 1370,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_025.mp3",
+      "size_kb": 1429.8388671875
+    },
+    {
+      "id": 26,
+      "voices": [
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Setki lat, które upłynęły od mojego brutalnego, niegodnego raju życia, zmiękczyły mnie. Już po tygodniu dowodzenia stworzeniami Nighonu zacząłem współczuć ich trudnemu żywotowi. Los najsłabszych wśród służących w moich szeregach - ślepych troglodytów - był nie do pozazdroszczenia. Widziałem, jak harpie i beholdery zabijają troglodytę tylko dlatego, że wszedł im w drogę. Nic dziwnego, że te małe istoty wszędzie zdążają w takim pośpiechu. Przyznaję, że w swoim życiu zabiłem setki troglodytów, lecz teraz, pod moją komendą, za wszelką cenę starałem się ich chronić przed ich własnymi sprzymierzeńcami. Kiedy para harpii zaczęła szykanować troglodytę niosącego jedzenie dla swoich ziomków, przyskoczyłem do nich i schwyciłem skrzydlate kobiety za kościste gardła. Wiedziałem, że nie mogę okazać słabości, w przeciwnym razie ktoś inny mógłby zapragnąć przejąć dowodzenie i zabić mnie. Okazanie litości mogło być równie śmiertelnym błędem. Z tego też powodu wymierzyłem troglodycie kopniaka, posyłając go na ziemię i cisnąłem harpie na najbliższą ścianę tunelu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czy powiedziałem wam, że możecie między sobą walczyć ? Czy padło to z moich ust?"
+        },
+        {
+          "voice": "narrator",
+          "text": "ryknąłem ile sił w płucach. Zadbałem, by usłyszała mnie cała moja armia. Troglodyta skulił się, gdy sięgnąłem do pasa po nabijaną kolcami maczugę. Harpie próbowały oddalić się chyłkiem. Zrozumiałem, że jeśli nie dam im przykładu tu i teraz, wkrótce więcej z tych stworzeń zginie. Skoczyłem na harpie. Wolną ręką chwyciłem za skrzydło jednej z nich i szarpnąłem, odrywając je od ciała. Maczugą grzmotnąłem drugą harpię, druzgocząc jej żebra i miażdżąc serce. Zwracając się do reszty mojej armii, wzniosłem wysoko dłoń ze skrwawionym skrzydłem, tak, by każdy mógł je dojrzeć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To JA mówię wam, kogo możecie zabijać! Jeśli jeszcze ktoś tego nie rozumie, niech wystąpi teraz naprzód,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem do nich. Wiedzieli, że jeśli ktokolwiek się poruszy, zginie."
+        }
+      ],
+      "total_chars": 1885,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_026.mp3",
+      "size_kb": 2112.287109375
+    },
+    {
+      "id": 27,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Po każdym zwycięstwie muszę zmagać się z moimi własnymi żołnierzami, odciągając ich od masakrowania ocalałych. Ci Nighończycy nie mają pojęcia, co to litość. Dlatego też, by nie przemknęło im przez myśl, że ja, jako suweren, jestem słabym wodzem z powodu okazywanej pokonanym łaski, zacząłem udawać, że jestem obłąkany. Rozmawiałem z rzeczami, których tam nie było, pewnego zaś razu przejechałem nago kilka mil, nim"
+        },
+        {
+          "voice": "tarnum",
+          "text": "zorientowałem się"
+        },
+        {
+          "voice": "narrator",
+          "text": ", że nie mam na sobie swego pancerza. A gdy ktoś zostaje schwytany, zamiast torturować go, póki nie wyzionie ducha, upokarzam go. Grupę troglodytów unurzałem w smole i obrzuciłem pierzem, mówiąc im, że są teraz harpiami. Raz nawet zmusiłem minotaura, by ubrał kobiecą suknię. Na szczęście moje oddziały są teraz na tyle zdezorientowane, że przestały się przejmować, kiedy darowuję życie więźniom. I jak dotąd są zbyt przerażeni, by spróbować podważyć mój autorytet."
+        }
+      ],
+      "total_chars": 897,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_027.mp3",
+      "size_kb": 1063.7158203125
+    },
+    {
+      "id": 28,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przez stulecia zdołałem zgromadzić olbrzymie zapasy na wypadek zaistnienia sytuacji takiej jak obecna. Wiedząc, że będę potrzebował tych surowców, wysłałem słowo do moich zaufanych przyjaciół, którzy zorganizowali transport części skarbu. Pierwsze wozy z zaopatrzeniem powinny przybyć już jutro, kolejne zaś są w drodze i powinny tu docierać co dwa tygodnie."
+        }
+      ],
+      "total_chars": 358,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_028.mp3",
+      "size_kb": 388.6142578125
+    },
+    {
+      "id": 29,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Otrzymałem dziś wiadomość od mojego przyjaciela z Avlee, w której informuje, że Gelu postawił żagle i wyruszył do odległej, leżącej na północy krainy Vori, tygodnie przed planowanym początkiem wyprawy. Jest żądny ukończenia swej misji zniszczenia Miecza Mrozu. Jeśli się nie pośpieszę i nie zbiorę w Nighonie dostatecznej armii, nigdy go nie dogonię."
+        }
+      ],
+      "total_chars": 350,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_029.mp3",
+      "size_kb": 375.9609375
+    },
+    {
+      "id": 30,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zwycięstwo jest bliskie, dlatego posłałem umyślnego, by zakupił kilka okrętów i przygotował je na moje przybycie. Dowiedziałem się również, że wpływy Nighonu sięgają daleko aż do ziem Vori, dlatego prawdopodobnie będę w stanie utrzymać stamtąd kontrolę nad tymi tunelami. Zobaczymy. Lecz najpierw muszę domknąć tu parę spraw, a przede wszystkim umocnić moje terytoria na tyle, by oparły się zakusom nighońskich suwerenów - przynajmniej do czasu, nim nie powstrzymam Gelu."
+        }
+      ],
+      "total_chars": 471,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_030.mp3",
+      "size_kb": 503.7158203125
+    },
+    {
+      "id": 31,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "By dostać się do miasta Volee, Tarnum musi zdobyć pierścień nieskończonych bogactw. Niestety, na jego drodze stoi przywódczyni barbarzyńców - Kija. Tarnum wraz z dwoma najlepszymi herosami przejdzie do następnego scenariusza, zabierając czary, umiejętności i doświadczenie. Poziom ograniczony do 32."
+        }
+      ],
+      "total_chars": 299,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_031.mp3",
+      "size_kb": 342.4912109375
+    },
+    {
+      "id": 32,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Mieszkający w tej ruderze strojny w kunsztowne szaty czarodziej zupełnie nie pasuje do tego miejsca. Nawet jego pompatyczne słowa utwierdzają cię w przekonaniu, że nie powinien pozostawać zakopany tak głęboko w ziemi."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Potrzebuję twojej pomocy, dzielny podróżniku,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zwraca się do ciebie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wygląda na to, że czerwone smoki skradły mi księgę o niebagatelnej wartości. Jeśli zwrócisz mi księgę magii ognia w nieskazitelnym stanie, zapłacę ci 48,000 sztuk złota. Niezła sumka, co nie?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dla mnie to aż nadto,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówisz mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak, wiem, lecz jak już wspomniałem, MUSZĘ odzyskać tę książkę. I to szybko! Nie zwlekaj, mój przyjacielu."
+        }
+      ],
+      "total_chars": 611,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_032.mp3",
+      "size_kb": 828.6142578125
+    },
+    {
+      "id": 33,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Musisz mi wybaczyć, ale w zwykłych okolicznościach nie przestaję z osobnikami twojego pokroju. Nie mam najmniejszego zamiaru udzielać się towarzysko. Jedyne, co mnie interesuje, to moja książka!"
+        }
+      ],
+      "total_chars": 194,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_033.mp3",
+      "size_kb": 212.287109375
+    },
+    {
+      "id": 34,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Arogancki czarodziej uważnie bada księgę magii ognia, zakładając przed jej otwarciem białą rękawiczkę. Każdą stronę przewraca powoli i z namaszczeniem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Och nie! Tu jest smuga!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Była w posiadaniu czerwonych smoków,"
+        },
+        {
+          "voice": "narrator",
+          "text": "wyjaśniasz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie możesz wymagać, by była w idealnym stanie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mogę i wymagam! Prawdą jest jednak, że winienem ci 40,000 sztuk złota,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi czarodziej."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Hej, przecież mowa była o 48 tysiącach sztuk!"
+        },
+        {
+          "voice": "narrator",
+          "text": "przypominasz mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oczywiście. Wiesz, że w zasadzie to mi je kradniesz? Zabieraj swoje piekielne pieniądze i wynoś się stąd!"
+        }
+      ],
+      "total_chars": 519,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_034.mp3",
+      "size_kb": 687.3896484375
+    },
+    {
+      "id": 35,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Słyszałeś, że to może być miejsce ukrycia pierścienia nieskończonych bogactw, lecz wydaje ci się mało prawdopodobne, by faktycznie tak było. W solidnych drzwiach otwiera się maleńki wziernik, przez który spogląda na ciebie para czarnych oczu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odejdź! Jedynym, którego chcę zobaczyć, jest Tarnum, Przyjaciel Smoków."
+        }
+      ],
+      "total_chars": 313,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_035.mp3",
+      "size_kb": 332.287109375
+    },
+    {
+      "id": 36,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Nie jesteś tym, którego szukam! Odejdź stąd! Marnujesz tylko mój czas,"
+        },
+        {
+          "voice": "narrator",
+          "text": "woła do ciebie gruby głos zza drzwi."
+        }
+      ],
+      "total_chars": 106,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_036.mp3",
+      "size_kb": 127.3896484375
+    },
+    {
+      "id": 37,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "tarnum",
+          "text": "Ja jestem Tarnum,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówisz. Słyszysz szczęk kilku otwieranych zamków, a następnie w krąg światła wkracza krępa postać. To krasnolud Ufretin!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie spodziewałem się, że jeszcze cię kiedyś zobaczę!"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówisz mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "A ja się nie spodziewałem, że kiedykolwiek się tu znajdę, wierz mi,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiada."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co się stało?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nim odnalazłem drogę powrotną do Gelu, twoje słowa wsiąkły w moją duszę. Wiedziałem, że musisz mieć rację - bo dlaczego miałbyś uczynić wszystko to, co uczyniłeś? Próbowałem przekonać Gelu, by zawrócił, ale nie usłuchał mnie. Zwyzywał cię od łajdaków i mnie także, ponieważ z tobą rozmawiałem. Jest poza wszelką kontrolą!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wiem o tym. Jest przeświadczony o słuszności swej racji, a zarazem zbyt uparty by przyznać, że ściąga zagrożenie na cały świat,"
+        },
+        {
+          "voice": "narrator",
+          "text": "przytakujesz krasnoludowi."
+        },
+        {
+          "voice": "npc_m",
+          "text": "No cóż, zamknął przejście wiodące do miasta Volee i zatrzymał jedyny istniejący klucz - pierścień nieskończonych bogactw. Ukradłem mu go i zamierzałem ci go oddać, gdy drogę zagrodziła mi Kija i jej barbarzyńcy. Na całe szczęście zdołałem zabarykadować się w tym magicznym drzewie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Ufretin. Krasnolud zdjął pierścień i wpatruje się teraz ze smutkiem w leżącą na jego dłoni błyskotkę."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mam nadzieję, że postępuję właściwie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi krótko."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wiem, jak ciężko ci było zdradzić przyjaciela, ale uwierz mi, to dla dobra nas wszystkich!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Po prostu go powstrzymaj, Tarnumie, Przyjacielu Smoków. Powstrzymaj go, nim na wieki splami swe imię i będzie znany jako ten, którego pycha nieomal nie zniszczyła świata."
+        },
+        {
+          "voice": "narrator",
+          "text": "Ufretin pragnie ci wręczyć pierścień nieskończonych bogactw. Czy go przyjmiesz?"
+        }
+      ],
+      "total_chars": 1537,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_037.mp3",
+      "size_kb": 1902.4912109375
+    },
+    {
+      "id": 39,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niedobitki barbarzyńskich plemion skryły się w głębinach tych podlodowcowych tuneli. A może to Kija ich tu przywiodła? Moje własne poszukiwania wiadomości na temat miasta Volee, gdzie ponoć skryty został Miecz Mrozu, przyniosły pewne rezultaty. Volee było pierwszym miastem elfów Vori, które jednak zupełnie zaginęło ponad tysiąc lat temu, gdy stworzony został Miecz Mrozu. Niektórzy twierdzą, że to Miecz Mrozu doprowadził do powstania olbrzymich lodowców, które pogrzebały pod sobą starożytne miasto. Jeśli w broni tej faktycznie zaklęta została tak wielka siła, nie dziwi mnie, że byłaby również w stanie sprowadzić na cały świat zagładę. Jednak najpierw raz na zawsze muszę pozbyć się Kiji. Żona władcy barbarzyńców nie ma już dokąd uciec."
+        }
+      ],
+      "total_chars": 743,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_039.mp3",
+      "size_kb": 804.9404296875
+    },
+    {
+      "id": 40,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zallisa, królewska meduza, ostrzegła mnie dzisiaj, że ta część lodowca połączona została niezliczoną liczbą tuneli i portali. Jeśli nie będę dostatecznie czujny, wróg bez większego trudu będzie w stanie szybko i cicho przekraść się na moje tyły."
+        }
+      ],
+      "total_chars": 245,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_040.mp3",
+      "size_kb": 253.51171875
+    },
+    {
+      "id": 41,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kosztowało mnie to nieco złota, jednak opłaciwszy dezerterów wroga, zdołałem od nich wyciągnąć sporo interesujących informacji dotyczących Kiji i jej wojsk. Skoro została żoną Kilgora, władcy barbarzyńców, bez wątpienia jest wielką wojowniczką. Jednak w przeciwieństwie do jej męża, to nie szaleństwo pcha ją do działania, lecz ambicja i jej upodobanie w zadawaniu cierpienia. Kija zbudowała w jednej z leżących poniżej jaskiń twierdzę, umocnioną potężnymi fortyfikacjami. I wie też, że jestem coraz bliżej i bliżej. Ważniejsze jest jednak to, że próbuje odnaleźć pierścień niekończących się bogactw - jedyny artefakt zdolny otworzyć podwoje miasta Volee - zanim ją dopadnę. Tym, czego tak naprawdę pożąda, jest Miecz Mrozu i uczyni wszystko, co tylko leży w jej mocy, aby go posiąść - nawet jeśli będzie to kosztowało życie wszystkich jej ludzi."
+        }
+      ],
+      "total_chars": 846,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_041.mp3",
+      "size_kb": 903.7158203125
+    },
+    {
+      "id": 42,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Doniesiono mi, że na południu, w starej chatce proroka ukrywa się czarodziej, oferujący olbrzymią nagrodę każdemu, kto będzie w stanie odzyskać jego własność. Muszę się śpieszyć. Nie chcę, by moi wrogowie zgłosili się po to złoto przede mną."
+        }
+      ],
+      "total_chars": 241,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_042.mp3",
+      "size_kb": 244.9404296875
+    },
+    {
+      "id": 43,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Odkąd Neez i Kilkik polegli, znacznie lepiej sypiam. Mogę zaufać chciwości mojego minotaurzego ochroniarza. Na pierwszy rzut oka widać, że łaknie wyłącznie bogactwa. Zaś Zallisa i jej meduzy nadal odczuwają wdzięczność za okazaną im przeze mnie łaskę. Gdyby tylko udało mi się utrzymać ten stan rzeczy choć trochę dłużej."
+        }
+      ],
+      "total_chars": 321,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_043.mp3",
+      "size_kb": 380.8583984375
+    },
+    {
+      "id": 44,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dzisiejszego dnia w moim obozie zjawił się gobliński posłaniec, niosący wiadomość od Kiji, trzeciej żony Kilgora."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Królowa pragnie, byśmy zjednoczyli się pod wspólnym sztandarem i zmietli te paskudne elfy,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł goblin."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlaczego walczymy, skoro możemy być sojusznikami? A hojność oferty, jaką obdarza cię Królowa Kija, jest wprost bezgraniczna!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Sam to osądzę,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedziałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego ona chce?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Prosi tylko o Miecz Mrozu. Możesz zatrzymać wszystkie zdobyte łupy, a nawet te zmrożone północne krainy! Wszystko będzie twoje!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Rozejrzałem się po moich ludziach. Sojusz ten wydał im się nad wyraz korzystny, po ich twarzach poznałem, że byli gotowi zaprzestania walki."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Odmawiam!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał osłupiały goblin."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jeśli Kija pragnie porzucić to wszystko dla tego jednego miecza, zaiste musi być on potężną bronią - być może zdolną do podbicia całego świata! Odrzucam jej propozycję, lecz wróć do Kiji i powiedz jej, że składam jej tę samą ofertę. Może zatrzymać te zmrożone pustkowia dla siebie, ale to ja posiądę Miecz Mrozu."
+        },
+        {
+          "voice": "narrator",
+          "text": "Podejrzliwe spojrzenia mej straży odprowadziły w ciemność odesłanego przeze mnie goblina."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlaczego tak postąpiłeś? Majątek, który ci oferowano, był większy niż jestem w stanie to sobie wyobrazić,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Trongar."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ponieważ z Mieczem Mrozu u mego pasa i tak będę mógł to wszystko posiąść. To właśnie był plan Kiji. Chciała mi wszystko oddać, co by się jednak stało, gdyby jej mąż postanowił pomaszerować na północ? Odpowiem ci. Odebrałby nam to wszystko, a my zostalibyśmy z niczym!"
+        }
+      ],
+      "total_chars": 1474,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_044.mp3",
+      "size_kb": 1927.3896484375
+    },
+    {
+      "id": 45,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Istniało tylko jedno rozwiązanie dla zakusów Kiji. Musiałem zwyciężyć jej armię. Musiałem zgnieść ją raz na zawsze, w przeciwnym razie nigdy nie zaprzestałaby poszukiwań Miecza Mrozu."
+        }
+      ],
+      "total_chars": 183,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_045.mp3",
+      "size_kb": 200.8583984375
+    },
+    {
+      "id": 46,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi pokonać elfy Vori, które strzegą pomostu łączącego stały ląd z północnymi lodowcami. Do poszukiwań Miecza Mrozu dołączył też nowy wróg. Tarnum i jego najlepszy kapitan zabiorą czary, umiejętności i doświadczenie do następnego scenariusza. Bohaterowie mogą osiągnąć 18 poziom."
+        }
+      ],
+      "total_chars": 287,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_046.mp3",
+      "size_kb": 355.9609375
+    },
+    {
+      "id": 47,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Oblężenie tej wieży zajęłoby zbyt wiele cennego czasu, dlatego decydujesz się przystąpić do negocjacji z jej strażnikami. Zgodzili się przepuścić cię, jeśli przyniesiesz im Naszyjnik Boskich Mocy."
+        }
+      ],
+      "total_chars": 196,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_047.mp3",
+      "size_kb": 200.8583984375
+    },
+    {
+      "id": 48,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Jeśli nie dostarczysz strażnikom Naszyjnika Boskich mocy, nie zamienią z tobą nawet słowa."
+        }
+      ],
+      "total_chars": 90,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_048.mp3",
+      "size_kb": 88.6142578125
+    },
+    {
+      "id": 49,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Strażnicy domagają się, byś przerzucił Naszyjnik Boskich Mocy na blanki strażnicy, ty jednak odmawiasz im i postanawiasz poczekać, co zrobią. Ostatecznie ich chciwość bierze górę. Otwierają przed tobą wrota i zgadzają się przepuścić twoją armię, jeśli tylko wręczysz im artefakt. Czy przekażesz im teraz naszyjnik?"
+        }
+      ],
+      "total_chars": 314,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_049.mp3",
+      "size_kb": 337.185546875
+    },
+    {
+      "id": 52,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Gelu cały czas pozostaje o krok przede mną. Moi zwiadowcy donoszą, że ufortyfikował niewielkie miasto leżące w pobliżu lądowego pomostu, którym można dotrzeć do północnych lodowców. To jedyna droga prowadząca do elfa, dlatego będę musiał zająć to miasto. Co więcej, moje harpie wykryły na tym obszarze także oddziały barbarzyńców. Cóż oni robią tak daleko na północy? Od chwili, gdy otrzymałem te wieści, złe przeczucie nieustannie ściska mój żołądek."
+        }
+      ],
+      "total_chars": 451,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_052.mp3",
+      "size_kb": 484.9404296875
+    },
+    {
+      "id": 53,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przykład, który dałem moim ludziom kiedy byłem jeszcze bezwzględnym barbarzyńskim tyranem, wydaje dziś swoje plugawe owoce. Moim ludem przewodzi teraz Kilgor, który uczynił z niego żądną krwi zbieraninę dzikusów. Wciąż jednak wierzę w moich rodaków. Poleciłem moim posłańcom, by udali się do najbliższych osad barbarzyńców i spytali o cel ich przybycia tutaj oraz o ewentualną możliwość zawiązania sojuszu."
+        }
+      ],
+      "total_chars": 406,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_053.mp3",
+      "size_kb": 427.3896484375
+    },
+    {
+      "id": 54,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Do mojego obozu wjechał dziś krzepki wojownik i odmówił złożenia swego topora moim strażnikom. Dostrzegłem go już z daleka i od razu rozpoznałem w nim jednego z moich ludzi - barbarzyńców - i poleciłem przyprowadzić go przed moje oblicze."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To niezbyt rozsądne, mój Suwerenie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział beholder Neez."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To prawda,"
+        },
+        {
+          "voice": "narrator",
+          "text": "dodał Kilkik,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "ten człowiek może być zabójcą. Pozwól nam, byśmy go najpierw przesłuchali."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie, ja z nim porozmawiam,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekłem. Pamiętając, że muszę udawać obłąkanego, odwróciłem głowę w prawo i przemówiłem w pustą przestrzeń namiotu,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Powiedziałem im, mamo! Porozmawiam z dzikusem... tak, w cztery oczy!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Obracając się z powrotem w stronę beholderów, rozkazałem,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zabierzcie tego barbarzyńcę do mojego namiotu. Porozmawiam z nim osobiście."
+        },
+        {
+          "voice": "narrator",
+          "text": "Wkrótce barbarzyńca został przyprowadzony przed moje oblicze. Wyglądał na człowieka dumnego i silnego, gotowego na śmierć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dzień dobry,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powitałem go."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ty dowodzisz tym tałatajstwem?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, a cóż wy, dzikusy, robicie tak daleko od swego domu?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem w odpowiedzi."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Reprezentuję mojego wodza, Kiję, trzecią żonę Kilgora, króla Krewlodu!"
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekł butnie barbarzyńca."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co ma zatem do powiedzenia?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tylko tyle, nighońska szumowino! Przybyła do tej krainy w poszukiwaniu Miecza Mrozu. Nie wie, jaki jest twój cel, lecz ostrzega cię, że jeśli wejdziesz jej w drogę, powiesi cię za pęciny! Czy to rozumiesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Czyli miałem do czynienia z trzecią żoną Kilgora, Kiją, we własnej osobie. Jestem pewien, że nie poszukiwała Miecza Mrozu dla siebie, lecz dla swego męża. Ponownie poczułem jak żołądek podchodzi mi do gardła. Dokładnie o tym mówili Przodkowie. Muszę uczynić wszystko, aby przekonać Gelu do zaprzestania poszukiwań Miecza Mrozu. Mogłem sobie wyobrazić, do czego byłby zdolny szaleniec pokroju Kilgora, gdyby ten potężny oręż wpadł w jego ręce."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Pytałem, czy rozumiesz!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł wysłannik spluwając. Właśnie wtedy dostrzegłem cień sunący w poprzek mojego namiotu - znajomy kształt jednego z moich wielookich doradców. Jeśli pozwolę barbarzyńcy mówić do mnie w ten sposób, beholdery spostrzegą moją słabość. Choć mi się to nie podobało, wciąż byli mi potrzebni, nie mówiąc już o reszcie moich oddziałów. Dlatego też jednym skokiem skróciłem dystans dzielący mnie od posła i złamałem mu nos. Kiedy leżał oszołomiony, odebrałem mu jego barbarzyńską broń i i złamałem rękę tępym końcem topora. Potem cisnąłem nim w stronę wejścia do namiotu, tak, by wszyscy mogli go dojrzeć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Powiedz tej swojej kobiecie, że będę robił wszystko, co mi się żywnie podoba! Nie kryję się za kobietami jak Kilgor, kiedy trzeba podjąć zdecydowane kroki. Jestem nighońskim suwerenem!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Potem zakopałem topór w ziemi między jego nogami i poleciłem mu wynosić się, póki jeszcze nie powiesiłem go za kostki nóg."
+        }
+      ],
+      "total_chars": 2692,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_054.mp3",
+      "size_kb": 3192.287109375
+    },
+    {
+      "id": 55,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Żona barbarzyńcy, Kija, nie zdawała sobie sprawy, że prawdopodobnie nikt nie znał barbarzyńców lepiej niż ja. Wiedziałem, że w odpowiedzi na moje groźby może dojść przemocy. Niestety. nic nie mogłem na to poradzić. Wypowiedziała mi wojnę i miałem teraz tu, na północy, dwójkę wrogów - lecz nie chciałem śmierci żadnego z nich. Nie znajdowałem przyjemności w zabijaniu moich ludzi, nieważne jak bardzo pobłądzili. A przez ostatnie lata mego życia z elfami również i je pokochałem jak braci."
+        }
+      ],
+      "total_chars": 489,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_055.mp3",
+      "size_kb": 531.0625
+    },
+    {
+      "id": 56,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wreszcie, po kilku imponujących zwycięstwach, smoki uznały mnie za wypróbowanego wodza i zgodziły się przybyć na północ, by walczyć pod moimi sztandarami. Czerwone smoki nieustannie narzekają na zimno - przez co zmuszony jestem budować olbrzymie ogniska, przy których mogą się ogrzać. Wymaga to wiele drewna, lecz dopóki po stronie Gelu walczy kilka złotych i zielonych smoków, dopóty będę potrzebował ich potęgi."
+        }
+      ],
+      "total_chars": 413,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_056.mp3",
+      "size_kb": 449.8388671875
+    },
+    {
+      "id": 57,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Beholdery Neez i Kilkik spotykają się ze mną każdej nocy, by porozmawiać o postępach i omówić następny dzień marszu. Neez, który zdaje się mieć uszy w każdej frakcji mojej armii, nieustannie donosi mi o potencjalnych zdrajcach, dzięki czemu mogę ich zgnieść zanim wymkną się spod kontroli. Kilkik zaś zajął się zaś zbieraniem wywiadu na temat naszych wrogów. Dzisiaj opowiedział mi o przesłuchaniu orkowego więźnia, podczas którego pozyskał wiele cennych informacji . Nie wnikałem, jak przebiegało owo przesłuchanie, ani czy ork je przetrwał. Znałem odpowiedzi na te pytania."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wygląda na to, że ta trzecia żona Kilgora za wszelką cenę pragnie uczynić swych synów sukcesorami męża,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Kilkik."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, to oczywiste! Jeśli ofiaruje Kilgorowi oręż tak potężny, jak Miecz Mrozu, z całą pewnością okaże jej swą wdzięczność,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlatego też doszliśmy do wniosku, że dodatkowe metody walki z nią - takie jak rabunek czy szantaż - z pewnością nie przyniosą zamierzonego rezultatu. Nie działa z przyziemnych pobudek, dlatego szanse, że się podda, są niewielkie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "orzekł Neez. Co oznacza, że jedynym sposobem na pozbycie się Kiji jest jej zabicie."
+        }
+      ],
+      "total_chars": 1138,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_057.mp3",
+      "size_kb": 1332.287109375
+    },
+    {
+      "id": 58,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Musiałem sięgnąć po moje zapasy drewna, by podtrzymać ogień płonących dla smoków stosów. Toczenie wojny na północy nie jest ani łatwe, ani tanie."
+        }
+      ],
+      "total_chars": 145,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_058.mp3",
+      "size_kb": 169.8388671875
+    },
+    {
+      "id": 59,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W czasie jednego z naszych strategicznych spotkań zwróciłem się do Kilkika i zapytałem,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czy udało ci się wybadać, dokąd zmierza Gelu? Być może moglibyśmy go wyprzedzić."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedział Kilkik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wszyscy elfi więźniowie, których przesłuchiwaliśmy, nie zostali wtajemniczeni w jego długofalowe plany. Jest mądrym przywódcą, strzegącym tego sekretu przed swoimi ludźmi,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Kilkik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mam jednak pewną sugestię,"
+        },
+        {
+          "voice": "narrator",
+          "text": "dodał Kilkik."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jaką?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Do tej pory porywaliśmy wyłącznie tych niższych rangą podwładnych, nic nieznaczących. Musimy dopaść kogoś będącego zawsze blisko Gelu."
+        },
+        {
+          "voice": "narrator",
+          "text": "To był dobry pomysł, na razie jednak Gelu mnie ignorował, wysforowując się daleko przed moją armię. Jeśli pochwycę kogoś, na kim mu zależy, z pewnością rozdrażnię porywczego elfa. Z drugiej strony, może właśnie tego potrzebuję. Muszę zaskoczyć Gelu."
+        }
+      ],
+      "total_chars": 802,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_059.mp3",
+      "size_kb": 966.1650390625
+    },
+    {
+      "id": 61,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kiedy Tarnum spostrzega, że jego wróg jest potężniejszy niż początkowo przypuszczał, zwraca się do błękitnych smoków po pomoc. Tarnum i jego dwaj najlepsi kapitanowie pojawią się w następnym scenariuszu, a wraz z nimi ich czary, umiejętności i doświadczenie. Bohaterowie mogą osiągnąć poziom 22."
+        }
+      ],
+      "total_chars": 295,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_061.mp3",
+      "size_kb": 313.51171875
+    },
+    {
+      "id": 62,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Strażnicy przepuszczą tylko Tarnuma."
+        }
+      ],
+      "total_chars": 36,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_062.mp3",
+      "size_kb": 32.287109375
+    },
+    {
+      "id": 63,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Nareszcie przybyłeś, Tarnumie! Czy życzysz sobie przejść?"
+        }
+      ],
+      "total_chars": 57,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_063.mp3",
+      "size_kb": 62.4912109375
+    },
+    {
+      "id": 64,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zbliżasz się do tej leżącej na odludziu chatki zupełnie sam i zaczynasz się zastanawiać, czy to dobry pomysł, kiedy zza zaspy wynurza się para kryształowych smoków."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Stop!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wykrzykuje ktoś na moment przed zakończeniem twojego żywota. Wspaniale ubrany młody mężczyzna z przyjacielskim uśmiechem wychodzi przed chatę."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przepraszam, że cię przestraszyłem, to tylko moi strażnicy. A przynajmniej będą nimi do czasu, gdy nie zastąpię ich innymi,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiada."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jakich obrońców poszukujesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "W zasadzie przydałyby mi się latające smoki. Potrzebuję sześciu czarnych smoków, które mogłyby przetransportować mnie i moje rzeczy przez morze. Nie wiesz przypadkiem, gdzie mógłbym znaleźć choćby jednego? Jestem gotów wymienić te dwa kryształowe na sześć czarnych smoków."
+        },
+        {
+          "voice": "narrator",
+          "text": "Zdaję ci się, że wiesz, gdzie można ich szukać."
+        }
+      ],
+      "total_chars": 796,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_064.mp3",
+      "size_kb": 948.6142578125
+    },
+    {
+      "id": 65,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Młody mężczyzna wystąpił przed chatę, by obejrzeć oferowane przez ciebie czarne smoki."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zakładam, że są lojalne i zdrowe?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pyta cię."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, oczywiście!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Świetnie. Biorę je. Czy chcesz teraz dokonać wymiany?"
+        }
+      ],
+      "total_chars": 197,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_065.mp3",
+      "size_kb": 247.3896484375
+    },
+    {
+      "id": 66,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Olbrzymi cień pada na twoje oddziały. Gdy spoglądzasz w górę, widzisz pojedynczego błękitnego smoka płynącego pośród niskich, szarych chmur. Nurkuje, przelatując tuż nad twoją głową i ląduje, wstrząsając ziemią pod twoimi stopami."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Słabi nie są godni, by wejść do Doliny!"
+        },
+        {
+          "voice": "narrator",
+          "text": "ryczy smok i rusza do ataku."
+        }
+      ],
+      "total_chars": 297,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_066.mp3",
+      "size_kb": 380.8583984375
+    },
+    {
+      "id": 67,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ta mała chatka cuchnie zgniłymi jajami tak bardzo, że podchodząc musisz zakryć płaszczem nos i usta. Kiedy otwierasz drzwi, nawet płaszcz już nie pomaga. Siedzący za stołem - jedynym meblem w tym pomieszczeniu - stary mężczyzna, waży małe kupki siarki. Reszta chaty wpełniona jest niezliczonymi sakwami zawierającymi coś, co bez wątpienia przypomina siarkę. Spogląda na ciebie i uśmiecha się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Witam!"
+        },
+        {
+          "voice": "narrator",
+          "text": "zwraca się do ciebie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Witaj!"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiadasz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jakim cudem wytrzymujesz ten zapach?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jaki zapach?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pyta zdziwiony."
+        },
+        {
+          "voice": "tarnum",
+          "text": "W porządku."
+        },
+        {
+          "voice": "narrator",
+          "text": "wzdychasz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak ci się udało zdobyć tak wiele siarki?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wytwarzam ją. Jestem alchemikiem i odkryłem sekret przemiany śniegu w siarkę. Jest naprawdę doskonałej jakości, niestety przyniosła mi nie lada kłopot."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jaki kłopot?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie mam pojęcia co z nią zrobić. Oddałbym ją, ale nie mogę przekazać jej byle komu. Dlatego zdecydowałem się oddać 50 worków siarki temu, kto osiągnie 22 poziom."
+        }
+      ],
+      "total_chars": 893,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_067.mp3",
+      "size_kb": 1195.9609375
+    },
+    {
+      "id": 68,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Ha! Nie jesteś jeszcze dostatecznie doświadczony, by spełnić moje żądanie, młody bohaterze. Wróć, gdy osiągniesz poziom 22."
+        }
+      ],
+      "total_chars": 123,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_068.mp3",
+      "size_kb": 153.51171875
+    },
+    {
+      "id": 69,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Stary mężczyzna w cuchnącej chacie uśmiecha się na twój widok. Potwierdza, że jesteś już na tyle doświadczony, że zasługujesz na otrzymanie 50 worków siarki."
+        }
+      ],
+      "total_chars": 157,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_069.mp3",
+      "size_kb": 166.1650390625
+    },
+    {
+      "id": 70,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zauważasz starego czarodzieja, pochylonego nad stołem zakrytym niezliczonymi zwojami. Czekasz, aż cię dostrzeże, zanim się odezwiesz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To są plany wieży, nieprawdaż?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz go."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak właśnie jest. Marzę o wybudowaniu mojej własnej wieży czarodzieja, niestety nie dysponuję dostateczną ilością materiałów."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jakich surowców potrzebujesz?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Hmm, zobaczmy,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi czarodziej sięgając po jeden ze zwojów."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wieża będzie wymagała 50 wozów drewna, 50 wozów rudy i 3000 sztuk złota na opłacenie budowniczych."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Rozumiem. A co mógłbyś mi zaoferować w zamian za dostarczenie ci tych surowców?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz go, a twój głos pobrzmiewa niczym głos doświadczonego kupca. Czarodziej rozważa przez chwilę twoje słowa, a potem uśmiecha się szeroko."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przypadkiem dowiedziałem się, że poszukujesz błękitnych smoków, jednakże zanim do ciebie dołączą, będziesz musiał kilka z nich pokonać. Jedyną istotą, która, jak mi się zdaje, mogłaby cię w tym wspomóc, jest kryształowy smok. Jego stworzenie nie jest łatwe i wymaga wiele tego cennego surowca. W zamian za twoje zapasy wręczę ci 60 kryształów."
+        }
+      ],
+      "total_chars": 1047,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_070.mp3",
+      "size_kb": 1329.8388671875
+    },
+    {
+      "id": 71,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ponownie pytasz czarodzieja, jakich dokładnie surowców potrzebuje do budowy swojej wieży. Tym razem wręcza ci listę. 50 wozów drewna 50 wozów rudy 3000 sztuk złota Nie mniej, nie więcej!"
+        }
+      ],
+      "total_chars": 186,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_071.mp3",
+      "size_kb": 260.8583984375
+    },
+    {
+      "id": 72,
+      "voices": [
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Prowadzisz wozy wypełnione drewnem i rudą do chatki czarodzieja i osobiście wręczasz mu kilka sakiewek ze złotem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Oto surowce, których potrzebujesz do budowy swej wieży,"
+        },
+        {
+          "voice": "narrator",
+          "text": "oznajmiasz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dziękuję ci! Czy chciałbyś dokonać teraz wymiany?"
+        }
+      ],
+      "total_chars": 228,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_072.mp3",
+      "size_kb": 254.736328125
+    },
+    {
+      "id": 73,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Pomogłeś podróżującemu kupcowi naprawić jedno z kół w jego wozie, w zamian za co opowiada ci o magu, mieszkającym niedaleko na południe stąd. Ów mag powinien być zdolny pokazać ci Błękitną Dolinę."
+        }
+      ],
+      "total_chars": 196,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_073.mp3",
+      "size_kb": 206.1650390625
+    },
+    {
+      "id": 74,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Pokaż nam, pod jaką flagą maszerujesz!"
+        },
+        {
+          "voice": "narrator",
+          "text": "domaga się stojący na szczycie wieży strażnik. Nakazujesz niosącemu sztandar żołnierzowi, by wystąpił naprzód."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przepuścimy wyłącznie tego, który zdąża pod jasnoniebieską flagą,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi strażnik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zobaczmy, co my tu mamy?"
+        }
+      ],
+      "total_chars": 251,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_074.mp3",
+      "size_kb": 318.41015625
+    },
+    {
+      "id": 75,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Odejdź, głupcze! Jedynie ktoś dzierżący jasnoniebieską flagę zostanie przepuszczony!"
+        }
+      ],
+      "total_chars": 84,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_075.mp3",
+      "size_kb": 99.634765625
+    },
+    {
+      "id": 76,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Strażnik, widząc kolor twojej flagi, uśmiecha się i radośnie cię pozdrawia, dając ci znak, że możesz przejść. Czy chcesz otworzyć bramę?"
+        }
+      ],
+      "total_chars": 136,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_076.mp3",
+      "size_kb": 122.4912109375
+    },
+    {
+      "id": 77,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wiedząc, że na tych mroźnych pustkowiach moje zapasy zostaną znacznie uszczuplone, zarządziłem wzmożenie produkcji w pozostawionych za mną lochach. Będą wysyłać na północ wszystko, co tylko zdołają wyprodukować. Co dwa tygodnie powinien przybywać olbrzymi transport surowców. Mam nadzieję, że to wystarczy."
+        }
+      ],
+      "total_chars": 306,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_077.mp3",
+      "size_kb": 315.9609375
+    },
+    {
+      "id": 78,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Grupa moich zwiadowców odkryła olbrzymi skład wypełniony złotem i rtęcią daleko na północnym zachodzie. Niestety, skarb ten strzeżony jest przez grupę zielonych smoków. Zgaduję, że zapasy te należą do Gelu, ukryte tu w razie nagłej potrzeby. Nie tylko mógłbym skorzystać z tych surowców, lecz także zapobiec ich odzyskaniu przez Gelu."
+        }
+      ],
+      "total_chars": 334,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_078.mp3",
+      "size_kb": 357.185546875
+    },
+    {
+      "id": 79,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Potyczki z barbarzyńcami Kiji spowolniły mnie na tyle, że straciłem Gelu z oczu. Wiedzieliśmy, że kieruje się na północ, jednak teraz, gdy tak bardzo się ode mnie oddalił, boję się, że nie złapiemy go na czas. Muszę pogodzić się z myślą, że Gelu pokona mnie w wyścigu po Miecz Mrozu. Czy jednak byłoby to czymś złym? Tak, Przodkowie zdradzili mi, że jeśli Ostrze Armageddonu i Miecz Mrozu kiedykolwiek się spotkają, sprowadzi to na cały świat zniszczenie. Czy Gelu mógłby być aż tak nierozsądny, by do tego dopuścić? Jednak bez względu na to, jak dobrymi intencjami by się nie kierował, Gelu nie może przewidzieć nieprzewidzianego. Obecność Kiji tu, na tak dalekiej północy, jest tego żywym dowodem. Myśl, że mogłaby wejść w posiadanie Miecza Mrozu, napawa mnie grozą. Oto dlaczego postanowiłem dla wzmocnienia moich sił pozyskać przychylność błękitnych smoków."
+        }
+      ],
+      "total_chars": 861,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_079.mp3",
+      "size_kb": 946.1650390625
+    },
+    {
+      "id": 80,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Posłana na zwiady harpia powróciła dziś do obozu ze złymi wieściami. Barbarzyńcy Kiji są na północy. W jakiś sposób udało im się okrążyć moją armię i po raz kolejny stoją na mej drodze."
+        }
+      ],
+      "total_chars": 185,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_080.mp3",
+      "size_kb": 199.634765625
+    },
+    {
+      "id": 81,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Mój beholder-szpieg, Neez, doniósł mi, że Kija zostawiła część swoich ludzi na północy. Jej celem jest spowolnienie mnie na tyle długo, by zdołała dopaść Gelu. Doskonale wiem, że lepiej nie pytać Neeza, skąd ma te wszystkie informacje. Jestem pewien, że zdobył je kosztem kilku trupów."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wybadaj, dokąd kierują się Gelu i Kija,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rozkazałem mu. Z kolei do Kilkika zwróciłem się tymi słowy,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie możemy tracić czasu na utarczki z tymi barbarzyńcami!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oczywiście, bez zwłoki rozpocznę poszukiwania ich słabych punktów."
+        }
+      ],
+      "total_chars": 506,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_081.mp3",
+      "size_kb": 592.287109375
+    },
+    {
+      "id": 82,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kilkik wsunął się do mojego namiotu i nie czekając na pozwolenie, podetknął mi pod nos swoją cienką mackę ze spoczywającym w niej czerwonym kryształowym odłamkiem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co to jest?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To jest słabość i zarazem siła naszych przeciwników, Panie"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Kilkik."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mów."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wygląda na to, że ta kobieta, Kija, nie jest bezmyślnym zabijaką. Jakimś sposobem posiadła umiejętność wytwarzania kryształowych smoków. Te potężne stworzenia są silniejsze niż jakakolwiek jednostka, którą dysponujemy, jednak ich wytwarzanie wymaga wielu kryształów. Będą zmuszeni skupić całą swoją produkcję na dostarczaniu złota i kryształów - co oznacza, że jeśli przejmiemy kontrolę nad całym ich kryształem, zdruzgoczemy ich."
+        },
+        {
+          "voice": "narrator",
+          "text": "W zamyśleniu maszerowałem w tę i z powrotem, ściskając w swej dłoni zimny kryształ. Miałem już okazję mierzyć się z kryształowymi smokami. Są w stanie bez trudu rozszarpać na kawałki całą armię. Teraz potrzebuję błękitnych smoków bardziej niż kiedykolwiek!"
+        }
+      ],
+      "total_chars": 944,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_082.mp3",
+      "size_kb": 1148.6142578125
+    },
+    {
+      "id": 83,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Samotna meduza przestapiła próg mojego namiotu, śledzona bacznym spojrzeniem Neeza i Kilkika. Padła przede mną na twarz. Odkąd jej siostry próbowały mnie zabić, racje meduz zostały uszczuplone, a ich udział w skarbie zmniejszony. Ze wszystkich sił starały się zyskać w mych oczach. A teraz jedna z nich nieomal żebrała o rozmowę ze mną."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego chcesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Ponownie, mój Suwerenie, przepraszam cię za zachowanie moich sióstr i wierzę, że nam przebaczysz. Mamy dla ciebie pewne wiadomości. Wiele moich sióstr ryzykowało swe życie i zginęło, aby tylko przynieść ci tę informację,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziała meduza. Wyciągnąłem rękę i zacisnąłem dłoń na wijących się kosmykach jej wężowych włosów."
+        },
+        {
+          "voice": "tarnum",
+          "text": "I za chwilę dołączy do nich kolejna, jeśli zaraz tego z siebie nie wykrztusi!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wrzasnąłem."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Błękitne smoki, Suwerenie! Znalazłyśmy je!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Gdzie?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "Za magicznym portalem, jaśniejącym seledynowym blaskiem. Moje siostry wpadły na jeden z tych smoków. Zginęły wszystkie, poza mną."
+        }
+      ],
+      "total_chars": 944,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_083.mp3",
+      "size_kb": 1084.9404296875
+    },
+    {
+      "id": 84,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Nie tylko będziemy musieli zwyciężyć aroganckie błękitne smoki,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Neez, zajmujący się kompletowaniem danych na temat różnych istot,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Skoro tylko zechcą dołaczyć do naszej armii, będziemy musieli oddać na ich utrzymanie niebywałe ilości złota i rtęci. Powinieneś rozważyć rozpoczęcie ich oszczędzania już teraz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Pomyślę o tym,"
+        },
+        {
+          "voice": "narrator",
+          "text": "skwitowałem, a ponieważ od dłuższego czasu nie dostałem jednego z moich ataków, zdarłem z pleców moją koszulę i cisnąłem nią w beholdera."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To boli!"
+        },
+        {
+          "voice": "narrator",
+          "text": "darłem się, rozdrapując paznokciami moją skórę. Wybiegłem na zewnątrz i półnagi wskoczyłem w śnieg, tarzając się w nim, zupełnie jak gdyby cała ziemia stanęła w ogniu. Zanim skończyłem, zgromadził się wokół mnie spory tłumek gapiów. Popatrzyłem na Neeza."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Znajdź tego, który rzucił na mnie ten urok,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zarządziłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Yyy, jaki urok, mój Władco?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ten, który sprawił, że moja koszula zapłonęła, to chyba jasne! A teraz idź!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rozkazałem i powróciłem do mojego namiotu. Kiedy znalazłem się na odosobnieniu, zachichotałem sam do siebie. Wyraz brzydkiej twarzy Neeza był bezcenny. Beholder najpewniej poświęca wiele godzin na zastanawianie się, jak wykonać moje obłąkańcze rozkazy. W końcu i tak do mnie przyjdzie i skłamie mówiąc, że znalazł i zabił delikwenta. Mój chichot przeszedł w śmiech, gdy pomyślałem o mojej replice."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jaki winowajca? Nie mam pojęcia, o czym ty mówisz,"
+        },
+        {
+          "voice": "narrator",
+          "text": "tak będzie brzmiała moja odpowiedź."
+        }
+      ],
+      "total_chars": 1363,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_084.mp3",
+      "size_kb": 1608.6142578125
+    },
+    {
+      "id": 85,
+      "voices": [
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Neez doniósł mi dzisiaj, że chociaż nie odnalazł w otoczeniu Gelu nikogo, kto mógłby powiedzieć dokąd zmierza elf, to przynajmniej udało mu się pozyskać nieco informacji na temat oddziałów mojego przeciwnika. Wszystko wskazuje na to, że Gelu zwierza się wyłącznie dwóm swoim towarzyszom. Obaj są lojalnymi strażnikami, którzy dołączyli do leśnej straży mniej więcej w tym samym czasie co Gelu. Ta trójka jest nierozłączna, gdyby jednak coś niezwykle narażało misję Gelu, być może jeden z nich próbowałby nas zatrzymać."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jeden z przyjaciół Gelu, krasnolud Ufretin, jest gotów do wielkich aktów odwagi i poświęcenia. Jestem przekonany, że moglibyśmy go schwytać,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zakończył Neez."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Cóż, najpierw musimy się zająć oddziałami Gelu. Zacznij wcielać w życie swoje plany. Gdy tylko pozyskamy błękitne smoki dla naszej sprawy, będzie to na tyle duże zagrożenie, że wywabi krasnoluda,"
+        },
+        {
+          "voice": "narrator",
+          "text": "skwitowałem. W głębi duszy wzdrygnąłem się. Znałem Ufretina. Był znamienitym wojownikiem o gołębim sercu. Nie jestem pewien, czy dozwolę Neezowi i Kilkikowi torturować go, by otrzymać odpowiedzi, których tak bardzo potrzebuję. Przeklęci niech będą Przodkowie! Sądziłem, że przybywam ratować istnienia - nie unicestwiać!"
+        }
+      ],
+      "total_chars": 1187,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_085.mp3",
+      "size_kb": 1307.3896484375
+    },
+    {
+      "id": 86,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Neez zaprezentował mi dzisiejszego ranka swój plan schwytania krasnoluda Ufretina. Zgodziłem się. Gelu i jego towarzysze nigdy się nie dowiedzą, co zadało im ten cios. Co więcej, moi dwaj mackowaci doradcy poinformowali mnie, że ich przesłuchania więźniów z barbarzyńskich plemion przyniosły nieco wiadomości. Kija po prostu podąża za Gelu tak jak i my. Liczy na wydarcie z rąk elfa Miecza Mrozu, gdy tylko ten go odnajdzie. Teraz muszę się tylko dowiedzieć, jakie informacje na temat Miecza Mrozu posiada Gelu. Niestety, zdobycie tej wiedzy zapewne będzie kosztowało życie szlachetnego człowieka."
+        }
+      ],
+      "total_chars": 597,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_086.mp3",
+      "size_kb": 651.0625
+    },
+    {
+      "id": 87,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi schwytać przyjaciela Gelu, Ufretina, by dowiedzieć się, gdzie spoczywa Miecz Mrozu. Tarnum i jego dwaj najsilniejsi kapitanowie zabiorą do następnego scenariusza czary, umiejętności i doświadczenie. Wszyscy bohaterowie ograniczeni są do poziomu 26."
+        }
+      ],
+      "total_chars": 260,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_087.mp3",
+      "size_kb": 299.634765625
+    },
+    {
+      "id": 88,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Stary elf Vori żyjący w tym wydrążonym drzewie wyjaśnia ci, że poszukuje łuczników, którzy zgodziliby się go chronić podczas jego ważnej podróży na południe. Nie zdradza celu swej wędrówki, jest jednak gotów ofiarować 30 kryształów za czasowe najęcie 40 wysokich elfów."
+        }
+      ],
+      "total_chars": 269,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_088.mp3",
+      "size_kb": 309.8388671875
+    },
+    {
+      "id": 89,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Nie, zaufać mogę wyłącznie wysokim elfom. Tylko one zapewnią mi odpowiednią ochronę,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi stary elf Vori. Postanawiasz się z nim nie spierać."
+        }
+      ],
+      "total_chars": 140,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_089.mp3",
+      "size_kb": 174.736328125
+    },
+    {
+      "id": 90,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Stary elf Vori przygląda się prezentowanym przez ciebie elfom i wygląda na ukontentowanego ich zdolnościami."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Świetnie! Mam w środku 30 kryształów, zaczekaj tu chwilę, a zaraz je przyniosę,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiada. Czy chcesz dokonać transkacji?"
+        }
+      ],
+      "total_chars": 226,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_090.mp3",
+      "size_kb": 274.736328125
+    },
+    {
+      "id": 91,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Przejdzie tędy jedynie Suweren Tarnum!"
+        },
+        {
+          "voice": "narrator",
+          "text": "woła z wieży jeden ze strażników, będący zresztą beholderem."
+        }
+      ],
+      "total_chars": 98,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_091.mp3",
+      "size_kb": 115.9609375
+    },
+    {
+      "id": 92,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Strażnicy tej wieży przepuszczą wyłącznie Tarnuma."
+        }
+      ],
+      "total_chars": 50,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_092.mp3",
+      "size_kb": 48.6142578125
+    },
+    {
+      "id": 93,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Witaj, mój Suwerenie! Czy życzysz sobie teraz przejść?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pyta jeden ze strażników."
+        }
+      ],
+      "total_chars": 79,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_093.mp3",
+      "size_kb": 95.9609375
+    },
+    {
+      "id": 95,
+      "voices": [
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Stary rycerz żyjący w tym rozpadającym się domku zaprasza cię do środka. Częstuje cię skromnym posiłkiem i życzliwą rozmową, jednak jego mieszkanie stanowi niewielką osłonę przed mroźnym wiatrem dmącym na zewnątrz. Nim odchodzisz, pytasz go, czy nie mógłbyś mu w jakiś sposób pomóc. Prosi cię jedynie o odnalezienie artefaktu, którego pomimu wielu lat poszukiwań nie udało mu się zdobyć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jakiż to artefakt?"
+        },
+        {
+          "voice": "narrator",
+          "text": "dopytujesz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Miecz ognia piekielnego. Zwodził mnie przez wiele lat i jestem teraz zbyt stary, by za nim podążyć. Nim umrę, chcę odnaleźć to przepełnione złem ostrze i je zniszczyć,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiada rycerz. Kiedy zgadzasz się mu pomóc, rycerz zdradza ci, że nie oczekuje od ciebie uczynienia tego za darmo. W pobliżu ukryte leży 40 uncji rtęci. Jeśli przyniesiesz miecz, wymieni go za ten zapas rtęci."
+        }
+      ],
+      "total_chars": 793,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_095.mp3",
+      "size_kb": 1015.9609375
+    },
+    {
+      "id": 96,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Otwierasz drzwi małej, rozsypującej się chatki tylko po to, by odnaleźć starego rycerza chrapiącego głośno na jego prostym łóżku. Ponieważ nadal nie masz miecza ognia piekielnego, postanawiasz wrócić później."
+        }
+      ],
+      "total_chars": 208,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_096.mp3",
+      "size_kb": 218.41015625
+    },
+    {
+      "id": 97,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W chwili, gdy przynosisz do chaty starego rycerza miecz, niemal natychmiast dostrzegasz zmianę. Niektóre z sopli wiszących u powały zaczynają topnieć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czy jesteś pewien, że chcesz zniszczyć tę broń?"
+        },
+        {
+          "voice": "narrator",
+          "text": "zwracasz się do starego mężczyzny, prezentując mu miecz,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przynajmniej mogłaby zapewnić twojemu domowi ciepło."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie. Poprzysiągłem, że ją zniszczę i obietnicy swojej dotrzymam. Jeśli mi ją wręczysz, przekażę ci mapę do schowanej w kryjówce rtęci,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi rycerz. Czy chcesz mu teraz przekazać miecz?"
+        }
+      ],
+      "total_chars": 488,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_097.mp3",
+      "size_kb": 594.736328125
+    },
+    {
+      "id": 101,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "By dogonić Gelu, zmusiłem moje oddziały do bezlitosnego marszu. Ci, którzy nie mogli nadążyć, zostawali w tyle. Oto metody Nighonu. Niestety, popełniłem błąd. Maszerowaliśmy zbyt szybko, zapuściliśmy się zbyt daleko i nim się obejrzałem, byliśmy otoczeni przez oddziały elfów. Wiedziałem, że był to ryzykowny plan, jednak bez wątpienia było to ryzyko konieczne do wydarcia Gelu informacji na temat Miecza Mrozu. Tak jak to przewidział Neez, Ufretin został, by ubezpieczyć tyły. Jednak Neez nie przewidział jego przebiegłości. Ufretin oczekiwał na moje oddziały w ukryciu, by błyskawicznie zaatakować, gdy tylko będę w pobliżu. Ta pierwsza zasadzka słono mnie kosztowała, nieomal zmiotła moją armię. Potem dał mi czas, bym się poddał. To był błąd. Odstępując, Ufretin dał mi szansę okopać się i przegrupować moje siły. Pozwolę mu myśleć, że jestem zbyt słaby, by podjąć walkę. Wkrótce jego miłosierdzie obróci się przeciwko niemu."
+        }
+      ],
+      "total_chars": 929,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_101.mp3",
+      "size_kb": 1004.9404296875
+    },
+    {
+      "id": 102,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dzisiejszego dnia przybył do mnie posłaniec od Ufretina, żadając mojej bezwarunkowej kapitulacji."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Daliśmy ci więcej czasu, niż na to zasługujesz,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł wysłannik,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jeśli nie złożycie swojej broni, wybijemy was co do nogi!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skinąłem i moment później ramię gońca przeszyła strzała. Stanąłem nad człowiekiem, który uniósł swój wzrok i zrozumiał, że popełnił straszliwy błąd."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Kiedy się ockniesz, powiedz swojemu panu, by przy następnym spotkaniu upewnił się, że nie żyję. To jedyny sposób, by zmusić mnie do złożenia broni!"
+        },
+        {
+          "voice": "narrator",
+          "text": "I uderzyłem go z mocą, czując jak pod moim potężnym ciosem pęka jego szczęka. Czułem się świetnie. Oto czego najbardziej się obawiałem."
+        }
+      ],
+      "total_chars": 647,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_102.mp3",
+      "size_kb": 804.9404296875
+    },
+    {
+      "id": 103,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Krasnolud Ufretin dowodzi swą armią zza bramy na południu,"
+        },
+        {
+          "voice": "narrator",
+          "text": "oznajmił mi dzisiejszego ranka mój doradca, Kilkik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Niestety, nie damy rady jej sforsować. Będziemy mogli przejść jedynie po odwiedzeniu namiotu zielonego klucznika."
+        },
+        {
+          "voice": "tarnum",
+          "text": "A gdzież jest ten namiot?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem. Jadłem swoje śniadanie tak, jakby nic mnie to nie obchodziło."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Kilku moich szpiegów doniosło, że leży na północym zachodzie, otoczony przez wrogie oddziały. Musimy się pośpieszyć. Będą bronić namiotu do ostatniej kropli krwi,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Kilkik. Skinąłem, odprawiając go machnięciem dłoni."
+        }
+      ],
+      "total_chars": 537,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_103.mp3",
+      "size_kb": 643.7158203125
+    },
+    {
+      "id": 104,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Pomimo że zapamiętałem Ufretina jako osobę słynącą ze śmiałości, postępował jak dotąd z nadzwyczajną ostrożnością. Odmówił spotkania ze mną w otwartym polu, pomimo wielu wyzwań jakie mu rzucałem. Pozwoliłem nawet Neezowi i Kilkikowi na sprezentowanie u jego bram zmasakrowanych ciał torturowanych więźniów. Wszystko na nic. Ufretin nie jest głupi i prawdopodobnie zaczął już podejrzewać, że nie walczę w tej okolicy bez powodu. W końcu po cóż miałbym tu pozostawać, skoro mogę uciec i kontynuować moją pogoń za Gelu? Nie ma to już teraz żadnego znaczenia. Ufretin jest związany tą walką. Wie, że prędzej czy później po niego przyjdę, dlatego bez wątpienia będzie gotowy na moje przybycie."
+        }
+      ],
+      "total_chars": 688,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_104.mp3",
+      "size_kb": 757.185546875
+    },
+    {
+      "id": 105,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Neez i Kilkik przyprowadzili dziś przed moje oblicze tuzin troglodytów, oskarżając je o zagubienie 2100 sztuk złota, które mieli przywieźć z jednej z moich kopalni."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Potrzebuję całego złota, które tylko może do mnie dotrzeć! Jakim cudem straciliście go tak dużo?"
+        },
+        {
+          "voice": "narrator",
+          "text": "darłem się. Troglodyci nie byli w stanie odpowiedzieć, woleli zamiast tego płaszczyć się przede mną i błagać o zmiłowanie. Wreszcie Neez przedstawił prawdopodobny scenariusz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przypuszczam, że położyli się spać i nie wystawili straży. Elfy są gotowe uciec się do kradzieży, jeśli tylko bardzo tego potrzebują. Któż inny zabrałby złoto, lecz zostawiłby przy życiu to ścierwo?"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział Neez."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Spaliście!"
+        },
+        {
+          "voice": "narrator",
+          "text": "spoliczkowałem najbliższego troglodytę tak mocno, że ten stracił przytomność. Co mam teraz zrobić? Okazanie im miłosierdzia zostanie odebrane jako słabość. Błędy tego rodzaju zawsze karane są w ten sam sposób. Śmiercią. Ale nie mogłem wydać ich na tak straszną karę."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jesteście najszczęśliwszymi szumowinami, jakie kiedykolwiek widziałem!"
+        },
+        {
+          "voice": "narrator",
+          "text": "zawołałem. Neez rzucił na mnie zaciekawionym okiem i zapytał,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Szczęśliwi? Pod jakim względem oni są szczęśliwi?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Rzuciłem moją broń na ziemię."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ponieważ choćbym nawet nie wiem jak bardzo pragnął ich zabić, nie mogę tego dzisiaj uczynić! Zeszłej nocy miałem sen, w którym powiedziano mi, że jeśli zabiję dziś choćby jednego z moich podkomendnych, w najbliższej bitwie elfia strzała przeszyje mój kark,"
+        },
+        {
+          "voice": "narrator",
+          "text": "wyjaśniłem. Wpatrywałem się piorunującym wzrokiem w Neeza i troglodytów, trzymając moje oczy szeroko otwarte. Miałem nadzieję, że uwierzą, iż właśnie ponownie odezwało się we mnie moje szaleństwo. Jednak mój beholderowy doradca tylko spojrzał na mnie gniewnie. Przedstawienie się nie udało. Tym razem nie zdołam się wyłgać."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mam jednak inny pomysł,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zagaiłem szybko. Przemaszerowałem przed nieszczęśliwymi troglodytami i rzekłem do nich,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mam dla was zadanie, chłopaki! Chcę, byście niezwłocznie wyruszyli do bastionu mojego wroga, krasnoluda Ufretina. Przyprowadzicie go do mnie, żywego. Muszę mieć pewność, że nie wywiniecie się od zadania, dlatego towarzyszyć wam będzie mój doradca, Neez."
+        },
+        {
+          "voice": "narrator",
+          "text": "Troglodyci, którzy jeszcze przed chwilą sądzili, że są bezpieczni, teraz byli zupełnie przybici. Jak taki mały oddział może równać się z hordą elfów i krasnoludów? To była samobójcza misja."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ale Suwerenie..."
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział Neez. Właśnie zdał sobie sprawę, że jego życie także zawisło na włosku."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Och, nie martw się, Neez! Nie chcę, byś ruszał do ataku na bastion - chcę tylko, byś popilnował tych troglodytów, dopóki nie porwą Ufretina lub zginą próbując. Obojętnie, co wydarzy się najpierw. Rób co każę, bo jutrzejszego dnia mogę bez lęku uśmiercać moich podwładnych!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Przynajmniej w ten sposób biedni troglodyci otrzymali pewną szansę - maleńką, ale jednak szansę. Na nieszczęście, coś trzeba teraz uczynić z Neezem - po jego spojrzeniu wnioskuję, że właśnie zyskałem sobie nowego wroga."
+        }
+      ],
+      "total_chars": 2853,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_105.mp3",
+      "size_kb": 3382.4912109375
+    },
+    {
+      "id": 106,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kilkik wpłynął tego ranka do mojego namiotu ze złowróżbnym wyrazem twarzy. Wiedziałem, że beholder nie jest na tyle głupi, by zaatakować mnie w pojedynkę, lecz coś w jego ciemnych oczach mówiło mi, że Kilkik przestał być lojalną mi istotą. Dlatego też wstałem i zawołałem do niego,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Pozwól, że ci kogoś przedstawię, Kilkiku. Trongar!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Ukryte w tylnej ścianie mojego namiotu rozcięcie rozdzieliło się na dwoje i potężny, czarny minotaur wkroczył do środka. Musiał schylić swoją wielką głowę, by uniknąć rozdarcia rogami sklepienia mojego namiotu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Kilkiku, poznaj mojego nowego osobistego obrońcę. Wynająłem go zeszłej nocy,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Kilkik długo stał lustrując minotaura i uświadamiając sobie, że właśnie stałem się dwukrotnie potężniejszy niż wcześniej."
+        },
+        {
+          "voice": "tarnum",
+          "text": "A teraz, z czym do mnie przybywasz, Kilkiku?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przynoszę złe wieści,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zaczął Kilkik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Troglodyci których posłałeś, by schwytali Ufretina, zostali zabici jeszcze zanim dotarli do jego bastionu. Elfia zasadzka! Co gorsza, nasz lojalny towarzysz, Neez, poległ wraz z nimi!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Och, przykro mi to słyszeć! Naprawdę,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Możesz odejść. Zostaw mnie z moją rozpaczą samego."
+        },
+        {
+          "voice": "narrator",
+          "text": "Kiedy zostałem już tylko ja i Trongar, rzuciłem mu pod nogi ciężką torbę wypełnioną złotem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "On jest niebezpieczny,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Trongar."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak wiem, ale właśnie stracił swojego największego sprzymierzeńca. Odzyskanie sił powinno zabrać mu jeszcze trochę czasu."
+        },
+        {
+          "voice": "narrator",
+          "text": "Gdy Trongar miał już opuścić namiot, zatrzymałem go jeszcze na chwilę, mówiąc,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Swoją drogą, dobra robota. Zakładam, że to meduzy użyły strzał elfów, by inscenizacja wyglądała na robotę naszego wroga."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak. Wszystkie bardzo chciały ponownie wkupić się w twoje łaski - i przynajmniej częściowo pomścić swoje siostry,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedział Trongar. Uśmiechnąłem się, lecz moje wnętrzności skręcały się ze wstydu. Zdrada ta przyszła mi ze zbyt wielką łatwością."
+        }
+      ],
+      "total_chars": 1815,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_106.mp3",
+      "size_kb": 2153.51171875
+    },
+    {
+      "id": 108,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Jeśli Tarnum chce doścignąć Gelu, musi wywalczyć swoją drogę przez wyryte w olbrzymim lodowcu tunele. Tarnum i jego dwaj najsilniejsi kapitanowie zabiorą do następnego poziomu całe swoje doświadczenie, czary i umiejętności. Wszyscy bohaterowie są ograniczeni do poziomu 25."
+        }
+      ],
+      "total_chars": 273,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_108.mp3",
+      "size_kb": 314.736328125
+    },
+    {
+      "id": 109,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zatrzymujesz się w starej chatce i godzinami rozmawiasz z mieszkającą tu schorowaną babuliną. Co niezwykłe, zdaje się w ogóle nie przejmować, że wkrótce umrze. Jej jedynym zmartwieniem jest to, że nie ma nikogo, komu mogłaby przekazać swoją jedyną własność. Poszukuje kogoś, kto osiągnął 28 poziom doświadczenia. Jedynie ktoś tak doświadczony będzie godzien posiąść bezdenny tygiel rtęci."
+        }
+      ],
+      "total_chars": 388,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_109.mp3",
+      "size_kb": 439.634765625
+    },
+    {
+      "id": 110,
+      "voices": [
+        "npc_f",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_f",
+          "text": "Jesteś wspaniały, ale wciąż nie posiadasz dostatecznej ilości doświadczenia, mój drogi,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi stara, umierająca kobieta."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Wróć, gdy będziesz na 28 poziomie doświadczenia."
+        }
+      ],
+      "total_chars": 166,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_110.mp3",
+      "size_kb": 178.41015625
+    },
+    {
+      "id": 111,
+      "voices": [
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_f",
+          "text": "Proszę, to dla ciebie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi stara kobieta sięgając między poły swej szaty po zakorkowaną srebrną butelkę. Czy przyjmiesz ją od niej teraz?"
+        }
+      ],
+      "total_chars": 137,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_111.mp3",
+      "size_kb": 164.9404296875
+    },
+    {
+      "id": 112,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Armia Gelu zanurzyła się w niezgłębionych ciemnościach tuneli wykopanych pod olbrzymim lodowcem. Nie zastanawiając się podążyłem za nimi. Choć w korytarzach tych jest dość chłodno, moje nighońskie oddziały przywykły do walki w takich warunkach. Niestety, istnieją poszlaki wskazujące, że Kija i jej barbarzyńcy także dotarli do tego regionu. Ciekawe, z kim przyjdzie mi się zmierzyć najpierw."
+        }
+      ],
+      "total_chars": 392,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_112.mp3",
+      "size_kb": 420.8583984375
+    },
+    {
+      "id": 113,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dziś rano po raz pierwszy odwiedziłem mojego więźnia, Ufretina. Kazałem mu czekać niemal miesiąc, by złamać jego determinację i ostudzić gniew. Pomijając małe i niezbyt częste przydziały żywności oraz wystawienie go na działanie chłodu, Ufretin powininen już zostać zmiękczony przez przesłuchania. Kiedy zbliżyłem się do żelaznej klatki Ufretina, znalazłem krasnoluda odartego do pasa z ubrań, posiniaczonego i wychudzonego, lecz nadal dość silnego, by na mój widok dumnie się wyprostować."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie komplikuj już swojej sytuacji i odpowiadaj na pytania,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlaczego nie zdejmiesz tego hełmu i nie pokażesz mi swej prawdziwej twarzy? Czy jesteś tchórzem?"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedział Ufretin. Zamierzałem zakładać hełm przy każdym spotkaniu. Gdybym pokazał mu swoją twarz, ryzykowałem, że rozpozna we mnie tego samego Tarnuma, który przez długie lata żył i walczył wespół z elfami z Avlee. Zrozumiałem jednak, że winien mu jestem przynajmniej to. Zdjąłem mój hełm i pomimo czarnych wzorów znaczących mą twarz, zdołał mnie rozpoznać."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tarnum Przyjaciel Smoków!"
+        },
+        {
+          "voice": "narrator",
+          "text": "To było imię nadane mi przez elfy."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To niemożliwe!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wykrzyknął Ufretin."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Możliwe i jak najbardziej realne,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Rozejrzałem się, by się upewnić, że w zasięgu naszej rozmowy nie znajdują się żadne niepowołane uszy. Drżałem na myśl, co mogłoby się wydarzyć, gdyby moje nighońskie oddziały odkryły, że niegdyś walczyłem po stronie Avlee."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jestem Tarnum, dlatego możesz mi wierzyć, gdy ci mówię, że nie zamierzam cię skrzywdzić. Potrzebuję twojej pomocy, Ufretinie. Być może zdołam uniknąć dalszego rozlewu krwi!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Ufretin milczał przez długi czas. Z jego twarzy wyczytałem, że byłem ostatnią osobą, którą spodziewał się zobaczyć za zasłoną mojego hełmu. W końcu na mnie spojrzał oczami płonącymi nienawiścią."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie mam ci nic do powiedzenia, zdrajco!"
+        }
+      ],
+      "total_chars": 1785,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_113.mp3",
+      "size_kb": 2098.41015625
+    },
+    {
+      "id": 114,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Jeśli nie chce mówić, pozwól mi zastosować bardziej zdecydowane środki perswazji,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zasugerował Kilkik. Omyłkowo wspomniałem przy beholderze o mojej frustracji po codziennych odwiedzinach u Ufretina. Przez ponad tydzień przemawiałem do rozsądku mojego więźnia, jednakże krasnolud zdecydował się milczeć. Obawiam się, że jeśli niezwłocznie nie dowiem się, gdzie znajduje się Miecz Mrozu, nigdy nie będzie mi dane powstrzymać Gelu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Żadnych tortur!"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparłem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przynajmniej na razie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie rozumiem,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zaczął znów Kilkik. Jego zdziwienie było niebezpodstawne. Zezwalałem wcześniej na tortury, ale tylko dlatego, że sam w nich nie brałem udziału. Nie znałem tych ludzi. Nie musiałem słuchać ich krzyków. Nie mógłbym jednak dopuścić, by podobny los spotkał Ufretina, dzielnego wojownika, który na to nie zasługiwał. Moja zwłoka wywołała wśród moich ludzi poruszenie. Choć nie mam na to dowodu, jestem przekonany, że przynajmniej częściowo za nieposłuszeństwo mojej armii odpowiedzialny jest Kilkik. Powodzenie mojej misji w całości spoczywa teraz na Ufretinie - który wciąż myśli, że jestem jego wrogiem."
+        }
+      ],
+      "total_chars": 1085,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_114.mp3",
+      "size_kb": 1233.51171875
+    },
+    {
+      "id": 115,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Mój minotaur strażnik przyprowadził przed me oblicze królową meduz, Zallisę."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego się dowiedziałaś?"
+        },
+        {
+          "voice": "narrator",
+          "text": "zapytałem ją."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Moi zwiadowcy odkryli trzy stojące na naszej drodze twierdze. Istnieje także kolejne zagrożenie. Tunele, u wrót których stoimy, przecinają się w wielu miejscach. Da to naszym wrogom możliwość prześliźnięcia się na tyły naszej armii,"
+        },
+        {
+          "voice": "narrator",
+          "text": "przekazała Zallisa."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co o tym myślisz, Trongarze?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem minotaura. Wzruszył ramionami i odrzekł"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Uderz w nich z dostateczną siłą, a te tunele przestaną mieć jakiekolwiek znaczenie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Prawda. Jeśli zajmiemy twierdze, zwyciężymy,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Jednak dla bezpieczeństwa powinienem pozostawić niewielki garnizon dla ochrony tego skrawka ziemi, który już zająłem."
+        }
+      ],
+      "total_chars": 697,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_115.mp3",
+      "size_kb": 827.3896484375
+    },
+    {
+      "id": 116,
+      "voices": [
+        "npc_f",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przywódczyni meduz, Zallisa, zawitała dziś do mnie z wiadomościami, których miałem nadzieję nie usłyszeć."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Barbarzyńcy są w tych lodowych tunelach dosłownie wszędzie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "zdawała raport. Jej zwiadowcy zbadali te jaskinie, bez przerwy natykając się na patrole barbarzyńców. Oznacza to, że Kija odnalazła inną drogę, by tu wejść. Zastanawia mnie, którędy mogła przybyć. Przynajmniej wiem, gdzie jest teraz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dobra robota,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem, odprawiając meduzę z namiotu."
+        }
+      ],
+      "total_chars": 453,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_116.mp3",
+      "size_kb": 519.634765625
+    },
+    {
+      "id": 117,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Minęło sporo czasu, odkąd ostatni raz rozmawiałem z Ufretinem, dlatego widok bladego krasnoluda skulonego w kącie klatki był dla mnie szokiem. Wyglądał na bliskiego śmierci. Brak pożywienia, ruchu i odpowiedniego ubioru zebrał swoje żniwo. A ja wciąż starałem się oszczędzić mu tortur. Szturchnąłem go urękawicznioną dłonią, budząc go."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Walczysz po złej stronie, Ufretinie. Wiem, że Gelu to twój przyjaciel, jednak teraz pobłądził. Jest głupcem, skoro podjął się poszukiwań Miecza Mrozu!"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "W przeciwieństwie do ciebie, pragnie go tylko zniszczyć - nie wykorzystać!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie zamierzam go użyć! Co więcej, chcę, by nadal pozostał w ukryciu."
+        },
+        {
+          "voice": "narrator",
+          "text": "Lecz Ufretin nie wierzył mi. W jego oczach pozostawałem zdrajcą. Byłem teraz jednym z Nighończyków. Jak mogłem go przekonać, że jest inaczej? Czy mogę jeszcze odzyskać jego zaufanie?"
+        }
+      ],
+      "total_chars": 825,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_117.mp3",
+      "size_kb": 931.0625
+    },
+    {
+      "id": 118,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Czy naprawdę wierzysz, że odrobina jedzenia i ciepły płaszcz przekona mnie do rozmowy?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał Ufretin, gdy nadszedłem. Dzięki dodatkowym racjom wyglądał znacznie lepiej, niż gdy widziałem go ostatnim razem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekłem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "nie chciałem tylko, abyś umarł."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlaczego zatem tu jesteś? Nie zamierzam ci czegokolwiek zdradzić."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przyszedłem, by ci się wytłumaczyć - by wytłumaczyć prawdę o sobie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedziałem. Musiało w końcu do tego dojść. Nie przychodziło mi do głowy nic innego, co mogłoby przekonać Ufretina do mówienia, oprócz tortur, do których nie zamierzałem się uciekać. Już czułem, że upadłem zbyt nisko, pociągnięty w dół przez moich ludzi."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co to ma znaczyć?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał podejrzliwie Ufretin, ściągając brwi. Rozejrzałem się, by się upewnić, że nikt nas nie obserwuje. Potem powoli zdjąłem mój kaftan, odsłaniając nagi tors."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jestem nieśmiertelny, Ufretinie. Nie jestem tylko długowieczny, jak smoki czy elfy. Jestem nieśmiertelny - nie można mnie zabić!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jesteś głupcem!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Głupcem, niezwykle okrutnym zresztą, byłem niegdyś. Aż po dzień dzisiejszy płacę cenę za moją bezduszność. I pewnie będę ją spłacał aż po kres czasu. Oto dlaczego tu jestem! I dlatego muszę powstrzymać Gelu! Ten elf wkrótce poprowadzi świat na samą krawędź, ku zagładzie. I nieważne, jak ohydne czyny przyjdzie mi popełnić, nie pozwolę mu na to!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Zanim Ufretin zdołał odpowiedzieć, zatopiłem skryty dotąd sztylet głęboko w moim sercu."
+        }
+      ],
+      "total_chars": 1391,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_118.mp3",
+      "size_kb": 1717.185546875
+    },
+    {
+      "id": 119,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dałem Ufretinowi cały dzień, by ochłonął po tym co zobaczył podczas mojej ostatniej wizyty."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak się dziś czujesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem go."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Pokaż mi swoją pierś,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekł. Rozpiąłem moją koszulę. Po moim ciosie nie pozostała na skórze nawet szrama."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odrodziłeś się, zupełnie jak gdyby nigdy nic,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł krasnolud."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Patrzyłem, jak rozcina twoją skórę, widziałem krew, a już po chwili znów stałeś bez najmniejszego draśnięcia. Jak?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak już mówiłem, jestem nieśmiertelny."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jak? Dlaczego?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytał Ufretin. Już nie widziałem w jego oczach nienawiści, tylko strach. Przez następną godzinę opowiadałem mu skróconą historię mojego życia. Chciałem usprawiedliwić swe czyny, opisując okrucieństwo królów-magów, którzy zniewolili mój lud, lecz dochodząc w opowieści do spalonych przeze mnie wsi i zamęczonych ludzi, moje wytłumaczenie brzmiało nieprzekonująco. W końcu opowiedziałem mu, jak zginąłem i o tym, jak Przodkowie odmówili mi wstępu do Raju."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wykonuję wszystkie ich rozkazy - dopóki nie odkupię moich win, pozostaję ich pokornym sługą. Lecz nigdy dotąd nie prosili mnie, bym walczył przeciwko przyjaciołom. A poza nimi nie ma nikogo, kogo jeszcze mógłbym przekonać do przeciwstawienia się Gelu!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Sam nie wiem, Tarnumie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparł Ufretin."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dałeś mi dużo do myślenia - a zarazem chcesz, bym w równie wiele uwierzył."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zajrzyj w swoje serce i spytaj siebie, dlaczego nikomu nie pozwoliłem cię torturować. Może wtedy zobaczysz, że mówię prawdę."
+        }
+      ],
+      "total_chars": 1397,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_119.mp3",
+      "size_kb": 1757.185546875
+    },
+    {
+      "id": 120,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Moja armia była bliska puczu, a wszystko to za sprawą tego jak traktowałem mojego więźnia, Ufretina. Wiedziałem, że to Kilkik podżega do buntu, jednak nie za wiele mogłem na to poradzić. Muszę wreszcie pozbyć się przyczyny moich problemów. Muszę usunąć krasnoluda."
+        }
+      ],
+      "total_chars": 264,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_120.mp3",
+      "size_kb": 280.8583984375
+    },
+    {
+      "id": 121,
+      "voices": [
+        "npc_m",
+        "npc_f",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Z pogrążonego we śnie obozu wynurzyła się samotna postać. Unosząc się nad lodem, płynęła w stronę czarnej, żelaznej klatki. Więzień spał w środku, nawet nie drgnąwszy, gdy długa macka wysunęła się i sięgnęła do zamka. Drzwi klatki otworzyły się gwałtownie, lecz nawet wtedy sterta futer nie poruszyła się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Teraz giń, krasnoludzie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wyszeptał gorączkowo Kilkik. Nagle jedno z futer podskoczyło, na moment zasłaniając beholderowi cały świat. Tuż spod niego wyłoniła się królewska meduza, Zallisa, błyskawicznie zatapiając w ciele Kilkika prosty, kościany sztylet."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nie! To ty giń, beholderze!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wykrzyknęła Zallisa. Wydarła z jego ciała sztylet i dźgnęła raz jeszcze."
+        },
+        {
+          "voice": "npc_f",
+          "text": "A to za moje siostry!"
+        }
+      ],
+      "total_chars": 678,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_121.mp3",
+      "size_kb": 848.6142578125
+    },
+    {
+      "id": 122,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tymczasem w jednym z odległych tuneli Ufretin i ja zsiedliśmy z wierzchowców. Wręczyłem krasnoludowi topór i zawiniątko z jedzeniem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To powinno wystarczyć, byś mógł powrócić do przyjaciół,"
+        },
+        {
+          "voice": "narrator",
+          "text": "oznajmiłem mu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przecież mogłeś mnie wypuścić wysoko na powierzchni ponad nami. Wtedy przynajmniej nie mógłbym ostrzec Gelu,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zauważył Ufretin."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Liczę, że zdołasz przekonać Gelu do zmiany jego planów."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dlaczego w ogóle sądzisz, że mógłbym chcieć to zrobić?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie mam żadnego powodu, by tak myśleć. A ponieważ nie mam zamiaru wyciągać od ciebie informacji za pomocą tortur, nie mogę cię dłużej zatrzymywać. Teraz wszystko jest w twoich rękach."
+        },
+        {
+          "voice": "narrator",
+          "text": "Wspiąłem się na mojego konia."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co stanie się przy naszym powtórnym spotkaniu?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał Ufretin."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Pewnie nadal będziemy wrogami."
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekłem. Już zamierzałem odjechać, lecz Ufretin zatrzymał mnie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Miasto Volee - oto gdzie schowany jest Miecz Mrozu. Gelu poszukuje legendarnego, starożytnego miasta elfów Vori,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dziękuję ci,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem mu, odwracając się w stronę mrocznych tuneli."
+        }
+      ],
+      "total_chars": 991,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_122.mp3",
+      "size_kb": 1163.7158203125
+    },
+    {
+      "id": 124,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum roztrzaskał się na mroźnym wybrzeżu Vori, gdzie z goryczą odkrył, że śnieżne elfy dołączyły do sprawy Gelu. Jego zadaniem jest zdobycie wrogich miast. Wszystkie zdolności, czary i doświadczenie Tarnum zabierze ze sobą do następnego scenariusza. Bohaterowie ograniczeni są do poziomu 12."
+        }
+      ],
+      "total_chars": 293,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_124.mp3",
+      "size_kb": 317.185546875
+    },
+    {
+      "id": 126,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kiedy przemykasz się przez ośnieżone równiny, natrafiasz na grupę krasnoludów i elfów Vori, prowadzących kilka beholderów. Są skute razem, a ich oczy są zawiązane. Elfy najpewniej prowadzą je na śmierć, dlatego bez chwili wahania ruszasz im na ratunek."
+        }
+      ],
+      "total_chars": 252,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_126.mp3",
+      "size_kb": 275.9609375
+    },
+    {
+      "id": 127,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Pożeglowałem na daleką północ, do zmrożonych ziem wyspy Vori. Jej mieszkańcy oczekiwali mnie. Próbowałem przemówić Vorijczykom do rozsądku, opowiedziałem im nawet o proroctwie dotyczącym Miecza Mrozu i Ostrza Armageddonu - wszystko na próżno. Uważają, że Gelu - pół-Vorijczyk - jest ich rodakiem, ponadto oczarowała ich jego charyzma. Poza tym przypuszczam, że nigdy nie zaufaliby suwerenowi podziemi. Uderzenie Vorijczyków było zdecydowane, w jego wyniku zatopili dwa z trzech moich statków. Wojska Nighonu są nieprzywykłe do morskich potyczek, dlatego nie za wiele mogły zdziałać podczas starcia. Z trudem zdołałem uciec, niestety, mój okręt doznał poważnych uszkodzeń i tylko dzięki szczęściu zdołałem dobić do brzegu."
+        }
+      ],
+      "total_chars": 721,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_127.mp3",
+      "size_kb": 786.1650390625
+    },
+    {
+      "id": 128,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Powiedziano mi, że gdzieś na południu żyje czarodziej, mogący ukazać mi mojego wroga i poczynania oddziałów Vori."
+        }
+      ],
+      "total_chars": 113,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_128.mp3",
+      "size_kb": 119.634765625
+    },
+    {
+      "id": 129,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kolejna próba porozumienia się z mieszkańcami Vori zakończyła się porażką. Wysłałem emisariusza, by rozpoczął rozmowy z Vorijczykami stojącymi mi na drodze do odnalezienia Gelu. Błagałem ich, by jeszcze raz rozważyli moje słowa, lecz na próżno. Teraz już wiem skąd w Gelu tyle ślepego uporu!"
+        }
+      ],
+      "total_chars": 291,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_129.mp3",
+      "size_kb": 303.7158203125
+    },
+    {
+      "id": 130,
+      "voices": [
+        "npc_f",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Coś uderzyło mnie w łokieć, zrzucając mnie z siodła. Ból wystrzelił w dół mojego lewego ramienia. Gdy podniosłem się na kolana, dostrzegłem tkwiącą w moim ciele strzałę. Czyżby zasadzka elfów? Nie. Przyjrzałem się bliżej sterczącemu ze skóry pokrytemu zadziorami grotowi i zrozumiałem, że nie uczyniła go ręka elfa. Odwracając się powoli, spostrzegłem meduzę, bez pośpiechu sunącą w moim kierunku, z kolejną strzałą spoczywającą w nacięciu jej łuku. Uśmiechnęła się nikczemnie i zasyczała. Próba sił. Zgodnie z nighońskim zwyczajem meduza sprawdzała moje umiejętności lidera i gdybym zawiódł, z radością zajęłaby moją pozycję."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nie jesteś już suwerenem,"
+        },
+        {
+          "voice": "narrator",
+          "text": "wykrzyknęła Meduza."
+        },
+        {
+          "voice": "npc_f",
+          "text": "teraz ja tu dowodzę!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Próbowałem unieść maczugę i bronić się, lecz moje ramiona opadły bezwładnie. Mogłem się spodziewać, że meduza nasączy swe strzały trucizną. Choć śmierć i tak nie mogła mnie dosięgnąć, w oczach moich oddziałów byłbym martwy, a było już za późno na budowę nowej armii. Wtem, magiczne uderzenie rozszczepiło łuk meduzy na pół. Odwróciła się tylko po to, by trzy kolejne pociski uderzyły ją w pierś. Legła na ziemi martwa, a ja zwróciłem się w stronę moich wybawców - beholderów."
+        }
+      ],
+      "total_chars": 1165,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_130.mp3",
+      "size_kb": 1328.6142578125
+    },
+    {
+      "id": 131,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Powrót do sił po truciźnie meduzy zajał mi trochę czasu. W zasadzie to jestem przekonany, że faktycznie przyprawiła mnie ona o śmierć - przynajmniej o tyle, o ile jestem w stanie umrzeć. Na całe szczęście nikt tego nie zauważył. Cóż, medyczne umiejętności Nighończyków pozostawiają wiele do życzenia. Tego ranka podźwignąłem się z pryczy w moim namiocie i odszukałem trzy beholdery, które mnie ocaliły. Choć mieszkańcy Nighonu szanują wyłącznie siłę i władzę, czasem działa to na twoją korzyść. Stworzenia takie jak te beholdery nie ochroniły mnie przed meduzą, ponieważ byłem dobrym przywódcą; tym bardziej nie można mówić w ich przypadku o współczuciu czy lojalności. Nie, to także był element fali i oczekiwały, że za udzieloną mi pomoc odpowiednio je wynagrodzę."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Znów chodzisz - to dobrze"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł jeden z beholderów."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Chcę wam wszystkim podziękować za uratowanie mnie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Przyszło mi do głowy, co mógłbym im ofiarować."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Potrzebuję osobistych strażników, którzy mogliby również służyć mi od czasu do czasu radą,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zostaną oni generałami mojej armii. Czy znacie kogoś, kto nadawałby się do tej roli?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Oczywiście beholdery bez cienia namysłu wskazały na siebie."
+        }
+      ],
+      "total_chars": 1172,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_131.mp3",
+      "size_kb": 1291.0625
+    },
+    {
+      "id": 132,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Gdziekolwiek bym teraz nie poszedł, podążają za mną trzy beholdery - Neez, Zarm i Kilkik. Wydają się kompletnie ignorować sytuacje, w których zachowuję się nie do końca poczytalnie. Być może nie przeszkadza im, że ich dowódca wydaje wojnę drzewu i nakazuje połowie armii je zaatakować. A może po prostu nie jestem pierwszym szaleńcem, który nimi kieruje? Bez wątpienia korzyścią płynącą z posiadania ich zawsze przy sobie, są trzy dodatkowe zestawy oczu, które bacznie obserwują, czy któryś z moich ludzi nie dybie na moje życie. Nareszcie mogę sobie pozwolić na chwile dodatkowego odpoczynku. Teraz jedynymi istotami, na które powinienem uważać, są moi własni ochroniarze."
+        }
+      ],
+      "total_chars": 673,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_132.mp3",
+      "size_kb": 700.8583984375
+    },
+    {
+      "id": 133,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zaatakowaliśmy młodsze siostry meduzy akurat w momencie, gdy w sekrecie warzyły porcję trucizny do swych strzał. Wzięliśmy je w krzyżowy ogień: Neez i Zarm przyczaili się z jednej strony, natomiast ja i Kilkik z drugiej. Sięgnąłem po mój łuk i wykorzystując lata doświadczenia zdobytego pośród elfów, wypuściłem strzałę. Beholdery na ten sygnał zaatakowały. Cztery meduzy zginęły natychmiast. Kolejne trzy padły zanim jeszcze dobyły swą broń. Pozostałe nawiązały niezłą walkę, trafiając dwiema strzałami Zarma w oko, zanim zdołaliśmy powalić je na ziemię. Idąc pośród pokonanych, upewniłem się, że beholdery dostrzegą zakwitający na moich ustach pełen satysfakcji uśmiech. Pomimo to nie czułem radości z zabijania moich ludzi. Tylko wypatrywałem chwili, gdy będę mógł zrzucić z siebie płaszcz suwerena. Każde podjęte przeze mnie działanie podyktowane było dobrem świata, miałem jednak nieodparte wrażenie, że zacząłem powracać do mojej niechlubnej przeszłości. Boję się, że pewnego dnia życie suwerena zacznie sprawiać mi przyjemność."
+        }
+      ],
+      "total_chars": 1034,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_133.mp3",
+      "size_kb": 1054.736328125
+    },
+    {
+      "id": 134,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Neez, kapitan moich beholderów-strażników przystąpił do mnie podczas marszu. Starał się mówić cicho i dyskretnie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Czy znasz meduzę, którą zabiliśmy w twojej obronie?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Oczywiście! Ten dług został już spłacony."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie, nie to mam na myśli. Jej towarzyszki spiskują przeciwko nam wszystkim. Już wkrótce zaatakują,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł beholder."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ile ich jest?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dziesięć. Szanse są niewielkie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jesteś pewien?"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "W zupełności. Mam pośród meduz szpiega."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zatem będziemy musieli coś z tym zrobić, czyż nie?"
+        },
+        {
+          "voice": "narrator",
+          "text": "oświadczyłem chichocząc obłąkańczo."
+        }
+      ],
+      "total_chars": 522,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_134.mp3",
+      "size_kb": 699.634765625
+    },
+    {
+      "id": 136,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi podbić masto Volee zanim zdoła zrobić to Gelu, aby uniemożliwić elfowi odnalezienie Miecza Mrozu. Wszyscy bohaterowie ograniczeni są do poziomu 36."
+        }
+      ],
+      "total_chars": 159,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_136.mp3",
+      "size_kb": 202.4912109375
+    },
+    {
+      "id": 137,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Mieszkający w tej chacie poważny starszy mężczyzna mówi ci, że jeśli powrócisz do niego osiągnąwszy poziom 34, ofiaruje ci nagrodę w wysokości 7,890 sztuk złota."
+        }
+      ],
+      "total_chars": 161,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_137.mp3",
+      "size_kb": 222.4912109375
+    },
+    {
+      "id": 138,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W ciągu zaledwie kilku minu starszy mężczyzna spostrzega, że nie jesteś jeszcze dostatecznie doświadczony, by zasłużyć na nagrodę. Będziesz musiał wrócić do niego później"
+        }
+      ],
+      "total_chars": 170,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_138.mp3",
+      "size_kb": 172.287109375
+    },
+    {
+      "id": 139,
+      "voices": [
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "W dzisiejszych czasach rzadko widuje się młodych ludzi, którzy poświęcają swój czas i energię na zdobywanie doświadczenia, które tobie udało się osiągnąć,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi ci stary człowiek. Otwiera skrzynię u nóg jego łóżka, ukazując kilka wypełnionych złotem toreb."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Lubię nagradzać poświęcenie i wierzę, że w przyszłości, gdy sam już dożyjesz moich lat, z równą radością będziesz obdarowywał młodych bohaterów. Oto złoto, które ci przyobiecałem."
+        }
+      ],
+      "total_chars": 433,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_139.mp3",
+      "size_kb": 483.7158203125
+    },
+    {
+      "id": 140,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Poświęcasz kilka godzin, by uciąć pogawędkę z potężnym mężczyzną, rąbiącym przed swoją dziwną chatą drewno na opał. Przez cały ten czas chełpi się swoimi niezliczonymi wyprawami, a nawet wyzywa cię, byś stanął z nim do walki w zapasach."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zwycięzca otrzyma 8,950 sztuk złota,"
+        },
+        {
+          "voice": "narrator",
+          "text": "oznajmia."
+        },
+        {
+          "voice": "tarnum",
+          "text": "A co, jeśli przegram?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nic,"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi bohater, uśmiechając się,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "poza tym, że będziesz musiał żyć ze świadomością haniebnej porażki."
+        },
+        {
+          "voice": "narrator",
+          "text": "Zgadzasz się stanąć do walki, lecz zostajesz błyskawicznie przyszpilony do ziemi. Twój przeciwnik zanosi się śmiechem, tłumacząc ci, że byłeś zupełnie bez szans."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie jesteś jeszcze dość doświadczony. Wróć, gdy twoje umiejętności przynajmniej dorównają moim."
+        }
+      ],
+      "total_chars": 659,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_140.mp3",
+      "size_kb": 784.9404296875
+    },
+    {
+      "id": 141,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wyzywasz mieszkającego tu olbrzymiego bohatera na kolejne zapasy, lecz znów okazuje się, że dopóki nie osiągniesz poziomu 36, każda walka zakończy się bardzo szybko."
+        }
+      ],
+      "total_chars": 165,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_141.mp3",
+      "size_kb": 174.736328125
+    },
+    {
+      "id": 142,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Siłujesz się z bohaterem przez prawie godzinę, lecz w końcu udaje ci się przechylić szalę zwycięstwa na twoją stronę. Bohater wstaje i potrząsa głową, śmiejąc się donośnie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Minęło bardzo wiele czasu, odkąd ostatni raz przegrałem,"
+        },
+        {
+          "voice": "narrator",
+          "text": "stwierdza. Niezwłocznie wchodzi do swego mieszkania, by już po chwili wynurzyć się z kilkoma sakwami złota."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Twoja nagroda,"
+        },
+        {
+          "voice": "narrator",
+          "text": "oznajmia, wręczając ci sakiewkę,"
+        },
+        {
+          "voice": "npc_m",
+          "text": "zasłużyłeś na nią!"
+        }
+      ],
+      "total_chars": 399,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_142.mp3",
+      "size_kb": 467.3896484375
+    },
+    {
+      "id": 143,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ignorując groźby harpii podchodzisz do wieży, jednakże znaczące rozmiary ciskanych kamieni i deszcz innych odpadków zmuszają cię do odejścia."
+        }
+      ],
+      "total_chars": 141,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_143.mp3",
+      "size_kb": 148.6142578125
+    },
+    {
+      "id": 144,
+      "voices": [
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Od twojego pancerza odbija się kamień, a potem niespodziewanie harpie zaprzestają ostrzeliwania ciebie i twojej armii. Jedna z nich zlatuje na dół i ląduje tuż przed tobą, mądrze trzymając się poza zasięgiem twojej broni."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Ty jesteś suweren Tarnum, czyż nie?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pyta cię."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiadasz, pocierając wgniecenie w twojej zbroi."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Przechódź śmiało! Zapraszamy!"
+        }
+      ],
+      "total_chars": 348,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_144.mp3",
+      "size_kb": 424.9404296875
+    },
+    {
+      "id": 145,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!"
+        }
+      ],
+      "total_chars": 140,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_145.mp3",
+      "size_kb": 152.287109375
+    },
+    {
+      "id": 146,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!"
+        }
+      ],
+      "total_chars": 140,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_146.mp3",
+      "size_kb": 142.4912109375
+    },
+    {
+      "id": 147,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!"
+        }
+      ],
+      "total_chars": 140,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_147.mp3",
+      "size_kb": 149.8388671875
+    },
+    {
+      "id": 148,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niespodziewanie wokół ciebie wystrzeliwują w górę tumany śniegu, gdy jak spod ziemi wyrasta gromada elitarnych strzelców Gelu i atakuje cię!"
+        }
+      ],
+      "total_chars": 140,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_148.mp3",
+      "size_kb": 146.1650390625
+    },
+    {
+      "id": 149,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Z kryjówek wśród śniegu i kamieni występują kolejni żołnierze Gelu. Stają na twojej drodze, odmawiając ci przejścia. Nie masz innego wyboru, jak tylko podjąć z nimi walkę."
+        }
+      ],
+      "total_chars": 171,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_149.mp3",
+      "size_kb": 178.41015625
+    },
+    {
+      "id": 150,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Twoi zwiadowcy donoszą, że miasto Volee jest strzeżone przez dwa silne garnizony. Na dodatek miasto samo w sobie jest potężnie ufortyfikowne, dlatego zanim podejmiesz decyzję o ataku, powinieneś się upewnić, że twoja armia jest tak potężna, jak to tylko możliwe."
+        }
+      ],
+      "total_chars": 262,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_150.mp3",
+      "size_kb": 284.9404296875
+    },
+    {
+      "id": 153,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przez kilka ostatnich dni wymieniałem się z Gelu korespondencją, śląc w tę i z powrotem powietrznych wysłanników. Próbowałem przekonać go, by porzucił swoją misję odnalezienia Miecza Mrozu, lecz nadal pozostaje święcie przekonany, że zniszczenie starożytnego reliktu jest jego przeznaczeniem - że odpowiedzialność za bezpieczeństwo całego świata spoczęła na nim aż po wiek wieków. Cóż za głupiec! Dzisiaj otrzymałem od Gelu ostatnią wiadomość."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tarnumie, Zgodziłem się wstrzymać mój pochód w stronę Volee, póki nie rozwiążemy nurtującej nas kwestii, jednak zgodzisz się ze mną, że doszło między nami do impasu. Mój lud zwał cię niegdyś Przyjacielem Smoków, dlatego błagam cię, nie stawaj na mojej drodze, jeśli odmawiasz przyłączenia się do mojej sprawy. Nie spocznę, póki Miecz Mrozu nie zostanie zniszczony. Jeśli będzie trzeba, nie zawaham się zabić ani ciebie, ani straszliwych istot, z którymi związałeś swój los. Odejdź stąd, a nie doznasz żadnej krzywdy. Wiesz przecież, że każdą misję, której się podejmę, doprowadzam do końca - bez względu na to, czy jest nią zabicie nikczemnego suwerena, czy zniszczenie artefaktu. Nie spocznę. Gelu z Avlee, Leśny Strażnik"
+        },
+        {
+          "voice": "narrator",
+          "text": "A zatem przepadło. Wszystkie moje próby powstrzymania konfliktu spełzły na niczym. Żałuję dnia, w którym przyjdzie mi skrzyżować z Gelu miecz, lecz najpierw muszę zdobyć Miecz Mrozu."
+        }
+      ],
+      "total_chars": 1347,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_153.mp3",
+      "size_kb": 1537.185546875
+    },
+    {
+      "id": 154,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W pobliżu znajduje się mag, który zaoferował mi ukazanie wizji miasta Volee i sąsiednich ziem, jeśli tylko zdołam znaleźć do niego drogę."
+        }
+      ],
+      "total_chars": 137,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_154.mp3",
+      "size_kb": 144.9404296875
+    },
+    {
+      "id": 155,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wejścia do żyznej, zielonej krainy otaczającej Volee są zablokowane przez niedostępne dla mojej armii bramy. Jedynym sposobem na ich otwarcie jest poznanie haseł, znanych wyłącznie klucznikom. Podczas licznych wypadów moich harpii, podczas których dostarczały Gelu napisane przeze mnie wiadomości, udało im się dostrzec namiot niebieskiego klucznika w pobliżu bastionu Gelu. Niestety, to jedyny klucznik, który jak dotąd odnaleźli moi zwiadowcy. Wygląda na to, że mimo wszystko przyjdzie mi się zmierzyć z Gelu. Nie mogę pozwolić, by dotarł do Volee przede mną. To by oznaczało katastrofę."
+        }
+      ],
+      "total_chars": 589,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_155.mp3",
+      "size_kb": 631.0625
+    },
+    {
+      "id": 156,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Obco wyglądająca harpia wpadła dziś do obozu i niemal została rozszarpana na strzępy przez służące mi skrzydlate kobiety."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Stójcie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wykrzyknąłem, wpadając między nie i osłaniając wyczerpaną istotę. Dajesz jej wodę i pozwalasz złapać oddech, zanim postanawiasz ją zapytać o cel jej przybycia."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Moje siostry pragną ci pomóc,"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziała."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Tutejsze elfy polują na nas od stuleci. W końcu przybył ktoś, kto może nas wesprzeć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Gdzie są twoje siostry?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "A, właśnie! Zdobyłyśmy wieżę, strzegącą przesmyku wiodącego do namiotu białego klucznika! Teraz, dzięki nam, twoi wrogowie nie mają wstępu do Volee!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekła z uśmiechem. Wspaniałe wieści! Wciąż muszę zaryzykować wydanie bitwy Gelu, by dostać się do niebieskiego klucznika, ale nie muszę się już dłużej martwić, że jako pierwszy zdobędzie Miecz Mrozu."
+        }
+      ],
+      "total_chars": 784,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_156.mp3",
+      "size_kb": 918.41015625
+    },
+    {
+      "id": 157,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "tarnum",
+          "text": "A cóż to ma być?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem mojego strażnika, minotaura Trongara. Zwykle jechał tuż przy mnie, na samym czele kawalkady, jednak parę minut wcześniej oddalił się na tyły."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Chciałem się lepiej przyjrzeć stojącym tam drzewom,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Trongar, wskazując dłonią."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zdaje mi się, że coś widziałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To zbyt daleko, nawet dla elfickiego łucznika,"
+        },
+        {
+          "voice": "narrator",
+          "text": "uspokoiłem go."
+        },
+        {
+          "voice": "npc_m",
+          "text": "No, ale to mógł być szpieg. Znasz elfy. Kochają zasadzki. Zastawiają je, gdy tylko tylko mają ku temu okazję,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparł Trongar. Znałem elfy lepiej niż ktokolwiek inny i dlatego zdawałem sobie sprawę, że minotaur ma rację. Powinienem być czujniejszy. Taktyka kąsania i ucieczki była bliska sercu każdego członka Leśnej Straży, zaś Gelu był najlepszym, jakiego kiedykolwiek wydało Avlee."
+        }
+      ],
+      "total_chars": 722,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_157.mp3",
+      "size_kb": 940.8583984375
+    },
+    {
+      "id": 158,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niestety, elfy Vori żyjące w mieście Volee nie odpowiedzą na ani jedną z licznych wysłanych im wiadomości. Zaatakowały każdego mojego posłańca, nie czekając na to, co miał im do przekazania. Jedyną pociechą jest to, że emisariuszy Gelu traktują w podobny sposób. Wygląda na to, że Volee dostrzega wroga w nas obu."
+        }
+      ],
+      "total_chars": 313,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_158.mp3",
+      "size_kb": 368.6142578125
+    },
+    {
+      "id": 159,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dzisiejszego dnia przybył do mnie goniec z wieścią o ucieczce żony barbarzyńcy, Kiji, z lochów. Jest sama. Jej ludzie są albo martwi, albo w rozsypce. Tak naprawdę nie ma już teraz znaczenia, co się z nią stanie. Zapewne wróci do domu, do swego męża, by lizać swoje rany. Nawet jeśli przekona Kilgora, by udał się po Miecz Mrozu osobiście, będzie już za późno. I to bez względu na to, czy jako pierwszy Miecz Mrozu posiądę ja, czy też Gelu doprowadzi do zniszczenia świata. Wtedy już nic nie będzie miało najmniejszego znaczenia."
+        }
+      ],
+      "total_chars": 529,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_159.mp3",
+      "size_kb": 582.4912109375
+    },
+    {
+      "id": 160,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zeszłej nocy, nim położyłem się do snu, prosiłem Przodków, aby ze mną porozmawiali. Zwykle nie odpowiadają, lecz tym razem postanowili mi się ukazać."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dziękuję, że przybyliście, by ze mną pomówić,"
+        },
+        {
+          "voice": "narrator",
+          "text": "zwróciłem się do nich."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wyczuliśmy, że nas potrzebujesz,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł jeden z nich."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wkrótce powinienem dotrzeć do Volee, jednak nigdy mi nie powiedzieliście, co mam począć z Mieczem Mrozu. Przecież nie mogę go zatrzymać! Czy mam go zniszczyć?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie. Miecz Mrozu może zostać zniszczony jedynie przez Ostrze Armageddonu. Obawiamy się, że Gelu zda sobie z tego sprawę i opacznie to zrozumiawszy, spróbuje skrzyżować ostrza. Dlatego właśnie musisz odzyskać Miecz Mrozu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "A potem?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przynieś go nam. Umieścimy go tam, gdzie nikt go nigdy więcej nie odnajdzie,"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedzieli Przodkowie. Nim Przodkowie zniknęli, zebrałem w sobie całą odwagę, by powiedzieć coś, co dręczyło mnie już od miesięcy."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przepraszam,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Za co?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Zawstydzony spuściłem mą głowę i powiedziałem cicho,"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Za wszystko to, czego się dopuściłem poszukując Miecza Mrozu. Sądziłem, że było to konieczne."
+        },
+        {
+          "voice": "npc_m",
+          "text": "I miałeś rację. Tarnumie, robienie tego, co jest dla wszystkich najlepsze - nawet jeśli czyny te wzbudzają w tobie odrazę - to prawdziwy honor! Nie możemy cię za nic winić,"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekli Przodkowie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nadal czuję się podle,"
+        },
+        {
+          "voice": "narrator",
+          "text": "nastawałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "I tak być powinno."
+        },
+        {
+          "voice": "narrator",
+          "text": "Przodkowie zniknęli."
+        }
+      ],
+      "total_chars": 1303,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_mie_campaign\\mie_160.mp3",
+      "size_kb": 1757.185546875
+    }
+  ],
+  "error_list": []
+}

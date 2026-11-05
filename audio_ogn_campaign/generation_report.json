@@ -1,0 +1,2565 @@
+{
+  "campaign": "Ogn",
+  "total_texts": 103,
+  "generated": 103,
+  "errors": 0,
+  "total_chars": 43601,
+  "results": [
+    {
+      "id": 0,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przodkowie zostali porwani przez Vorra, Przodka, który zwariował przez swoją moc. Tarnum musi uratować Przodków i powstrzymać Vorra, zanim ten zniszczy świat."
+        }
+      ],
+      "total_chars": 158,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_000.mp3",
+      "size_kb": 162.4912109375
+    },
+    {
+      "id": 1,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zdobądź Inferno, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 52,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_001.mp3",
+      "size_kb": 60.8583984375
+    },
+    {
+      "id": 2,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum opuścił upojne podziemne tunele Drzewa Świata, nie wiedząc dokąd zaprowadzą go poszukiwania Vorra. Jak rozdzielone strumienie wody, poczuł niewytłumaczalną siłę ciągnącą go na północny-wschód, poprzez niegościnną pustynię."
+        }
+      ],
+      "total_chars": 229,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_002.mp3",
+      "size_kb": 247.3896484375
+    },
+    {
+      "id": 3,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zdobądź Inferno Blackdome, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 62,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_003.mp3",
+      "size_kb": 68.6142578125
+    },
+    {
+      "id": 4,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Piaski pustyni zmieniły się w pagórki, a pagórki w góry. Tarnum maszerował naprzód, wiedząc, że nowy wróg czekał na niego, sprawiając, że musi walczyć o każdy krok. Jakoś wiedział, że te demony i diabły muszą być sprzymierzone z Vorrem, ale dlaczego i w jakim celu?"
+        }
+      ],
+      "total_chars": 265,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_004.mp3",
+      "size_kb": 292.287109375
+    },
+    {
+      "id": 5,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Zdobądź pierścień wędrowca, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 63,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_005.mp3",
+      "size_kb": 69.8388671875
+    },
+    {
+      "id": 6,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Teraz Tarnum wie, że Vorr uciekł z tego świata, by zebrać siły. Jedyna droga prowadząca do niego przechodzi przez Iskrzący Most, portal do dowolnej lokacji we wszechświecie. Niestety, żywiołakowi strażnicy Iskrzącego Mostu nie pozwalają każdemu przez niego przechodzić."
+        }
+      ],
+      "total_chars": 269,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_006.mp3",
+      "size_kb": 293.51171875
+    },
+    {
+      "id": 7,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj Xyrona, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 51,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_007.mp3",
+      "size_kb": 58.41015625
+    },
+    {
+      "id": 8,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Vorr, uwięził pozostałych Przodków gdzieś na odizolowanym Ognistym Księżycu. Tarnum, jak tylko postawił nogę na spalonej ziemi, poczuł ból Przodków. Umierali, a z wraz nimi umarłby i on."
+        }
+      ],
+      "total_chars": 186,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_008.mp3",
+      "size_kb": 214.736328125
+    },
+    {
+      "id": 9,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Misja: Pokonaj Vorra, nie tracąc przy tym Tarnuma."
+        }
+      ],
+      "total_chars": 50,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_009.mp3",
+      "size_kb": 64.9404296875
+    },
+    {
+      "id": 10,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kiedy Vorr leżał umierający na polu bitwy, Tarnum wlał fiolkę soku z Drzewa Życia w usta Przodka. Powoli nowe życie wlało się w Vorra. Jego rany się zaleczyły i powstał. Łzy popłynęły z oczu Vorra, kiedy obejmował Tarnuma. Drzewo Życia nie tylko uleczyło jego rany, ale także nienawiść, która nim kierowała. Łzy popłynęły także z oczu Tarnuma, gdyż po raz pierwszy uwierzył, że mógł się zmienić."
+        }
+      ],
+      "total_chars": 395,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_010.mp3",
+      "size_kb": 468.6142578125
+    },
+    {
+      "id": 12,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi przebyć nieprzyjazne piaski pustyni, ale ma nowego wroga. Musi pokonać Inferno, ale sam nie może zginąć. Wszyscy bohaterowie ograniczeni są do 6 poziomu, ale całe doświadczenie, zaklęcia, zdolności i artefakty Tarnum przeniesie do następnego scenariusza."
+        }
+      ],
+      "total_chars": 266,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_012.mp3",
+      "size_kb": 299.634765625
+    },
+    {
+      "id": 13,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Oo-tee-dee!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wrzeszczą zakapturzeni bandyci, kiedy spadają z klifów. Nie widzisz ich twarzy, ale ich mordercze oczy błyszczą w ciemnościach pod kapturami."
+        }
+      ],
+      "total_chars": 152,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_013.mp3",
+      "size_kb": 166.1650390625
+    },
+    {
+      "id": 14,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kości podróżnika i jego konia leżą w piasku. Dziwne, ale jedyną rzeczą jaka nie sczezła na tym gorącym słońcu jest para rękawic jeździeckich na kościstych dłoniach."
+        }
+      ],
+      "total_chars": 164,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_014.mp3",
+      "size_kb": 186.1650390625
+    },
+    {
+      "id": 15,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kości niezliczonych nieszczęsnych dusz zaśmiecają piaski w tym rejonie. To są pozostałości po głupich podróżnikach, którzy sądzili, że mogą zabrać Niszczycielską Maczugę Ogrów tym trzem Behemotom. Twoja czaszka byłaby miłym dodatkiem do kolekcji. Czy chcesz zaatakować?"
+        }
+      ],
+      "total_chars": 269,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_015.mp3",
+      "size_kb": 307.3896484375
+    },
+    {
+      "id": 16,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Mija chwila zanim twoje oczy przyzwyczajają się do światła dnia, czegoś czego nie widziałeś od miesięcy. Powietrze jest gorące i suche, a słońce piecze twoją skórę. Czujesz się dobrze."
+        }
+      ],
+      "total_chars": 184,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_016.mp3",
+      "size_kb": 213.51171875
+    },
+    {
+      "id": 17,
+      "voices": [
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "tarnum",
+          "text": "Zasadzka!"
+        },
+        {
+          "voice": "narrator",
+          "text": "krzyczysz, gdy tuzin strzał wylatuje zza skał powyżej. Twoi ludzie kryją się, kiedy nadciąga druga fala. Potem rozkazujesz swoim ludziom wspiąć się na wzgórze."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Poszukajcie tych tchórzy!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rozkazujesz. Twoi ludzie jednak powracają po godzinie. Po bandytach ani śladu. Później orientujesz się, że strzały były przeznaczone nie dla twoich ludzi, ale ich manierki z wodą. Połowa wody zniknęła."
+        }
+      ],
+      "total_chars": 394,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_017.mp3",
+      "size_kb": 400.8583984375
+    },
+    {
+      "id": 18,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wycie dobiegające od klifów brzmi jakby setki tysięcy wilków otaczało cię. Ty i twoi ludzie stają w kole gotowi na spotkanie z zagrożeniem. W końcu widzisz je - horda wielkich czarnych psów pędzą w waszą stronę, a dym z ich nozdrzy znaczą drogę."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Piekielne ogary"
+        },
+        {
+          "voice": "narrator",
+          "text": "mruczysz, zaciskając dłoń na mieczu."
+        }
+      ],
+      "total_chars": 296,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_018.mp3",
+      "size_kb": 348.6142578125
+    },
+    {
+      "id": 19,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ziemie przed tobą wznoszą się nieznacznie, nadymając jak czarna rozpacz na powierzchnię pustyni. Piasek jest zwęglony, a z daleka widać dym unoszący się nad aktywnym wulkanem. Masz przeczucie, że ta spopielona ziemia nie była tu od zawsze. Właściwie może być całkiem świeża."
+        }
+      ],
+      "total_chars": 274,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_019.mp3",
+      "size_kb": 319.634765625
+    },
+    {
+      "id": 20,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Grupka Goblinów twierdzi, że były kiedyś częścią twojej armii. Zgubiły się w tunelach, a teraz chcą się przyłączyć do ciebie ponownie."
+        }
+      ],
+      "total_chars": 134,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_020.mp3",
+      "size_kb": 140.8583984375
+    },
+    {
+      "id": 21,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Widzisz orkowego leśnika wraz z jego synem na ścieżce przed tobą, a wielkie wiązki drewna leżą na ich barkach. Kiedy cię zauważają, oddają tobie pokłon. Ojciec mówi:"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie ma potrzeby jechać tą drogą. Jest zablokowana."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zablokowana? Jak?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałeś."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zapadła się miesiące temu. To dziwne. Tu były kiedyś silne tunele."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czy jest jakaś inna droga na powierzchnię?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Taa... Słyszałem, że ci magiczni Nekromanci postawili monolit gdzieś tutaj. Może jeszcze działa"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiada ork. Dziękujesz mu, pozwalając jemu oraz jego synowi wrócić do pracy."
+        }
+      ],
+      "total_chars": 530,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_021.mp3",
+      "size_kb": 687.3896484375
+    },
+    {
+      "id": 22,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ktoś przykuł grupę cerberów do skał w tym rejonie. Ich smycze są na tyle długie, aby zapolować i zaatakować ciebie, ale na tyle krótkie, aby utrzymać je na straży przejścia."
+        }
+      ],
+      "total_chars": 173,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_022.mp3",
+      "size_kb": 189.8388671875
+    },
+    {
+      "id": 23,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Widzisz kilka żółtych świateł z daleka jakby wiele obozowych ognisk. Co to jest? Armia? Zaciskając zęby, maszerujesz w stronę swego przeznaczenia. Spotykasz jednak mnóstwo magogów czekających na ciebie i gotowych do walki na śmierć i życie."
+        }
+      ],
+      "total_chars": 240,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_023.mp3",
+      "size_kb": 266.1650390625
+    },
+    {
+      "id": 24,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Słyszysz brzęczenie metalowych narzędzi o skały i ostroznie podchodzisz, orientując się, że kilka demonów pracuje w jaskini przed tobą. Najwyraźniej próbują zawalić strop, aby pogrzebać cię tu na zawsze. Kiedy cię spotykają, odkładają narzędzia i atakują."
+        }
+      ],
+      "total_chars": 255,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_024.mp3",
+      "size_kb": 272.287109375
+    },
+    {
+      "id": 25,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Strumienia światła przebijają się przez przejście w odległej jaskini. Nareszcie, znalazłeś wyjście na powierzchnię! Niestety nie zauważyłeś czarno odzianych ludzi kryjących się w cieniu. Podskoczyli do twoich ludzi i zaatakowali."
+        }
+      ],
+      "total_chars": 229,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_025.mp3",
+      "size_kb": 258.41015625
+    },
+    {
+      "id": 26,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Grupa ogrzych magów stoi w kręgu wokół tarczy wiszącej nad wielim ogniskiem. Zgadujesz z ich rytuału, że nadal czczą Vorra Szaleńca. Czy chcesz teraz ich zaatakować i ocalić magiczną tarcze od zniszczenia w imię Vorra?"
+        }
+      ],
+      "total_chars": 218,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_026.mp3",
+      "size_kb": 231.0625
+    },
+    {
+      "id": 27,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Osądzony przez Przodków jako niegodny wkroczenia do Raju, Tarnum przemierza ziemię w poszukiwaniu odkupienia za przestępstwa z przeszłości. Jest Nieśmiertelnym Bohaterem, ponadczasowym obrońcą, ale sam wątpi, czy kiedykolwiek uda mu się wynagrodzić straszliwe błędy ze swojej młodości."
+        }
+      ],
+      "total_chars": 285,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_027.mp3",
+      "size_kb": 294.736328125
+    },
+    {
+      "id": 28,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Drzewo Świata jest teraz bezpieczne, kiedy nie ma już nekromantów, a barbarzyńskie plemię, które kiedyś czciło Vorra, przyrzekło chronić go swoim życiem. Podziwiam ich, na zawsze rezygnując z ciepła i słońca powierzchni, aby chronić coś, o czym większość ludzi nie ma nawet pojęcia. Pozostał jednak honor w barbarzyńskich sercach, co upewnia mnie, że nadal mogę naprawić szkody, jakie uczyniłem. Jeszcze raz muszę opuścić miejsce i ludzi, których pokochałem. Mam nadzieję, że będę mógł pozostać pośród nich, ale Vorr ciągle żyje, a Przodkowie są ciągle dziwnie milczący. Wzywam ich co noc, ale bezskutecznie. Czasami mam wrażenie, że słyszę z oddali krzyk bólu. Nie ma sposobu, aby się przekonać, że jest on realny. Moją jedyną szansą jest odnalezienie Vorra. Opuścił ten świat kiedy pokonałem Nekromantów, a mam przeczucie, że kiedy znajdę go, znajdę i Przodków."
+        }
+      ],
+      "total_chars": 863,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_028.mp3",
+      "size_kb": 971.0625
+    },
+    {
+      "id": 29,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Musi być przejście na powierzchnię. Są dowody na to, że jestem coraz bliżej - korzenie wyrastające ze stropu, martwe tunele zbyt odległe od życiodajnego wpływu Drzewa Świata i przysięgam, że jest tu cieplej. Zabrałem ze sobą kilku barbarzyńców, aby mi pomogli w moim zadaniu. Nie mogę samodzielnie zmierzyć się z Vorrem. Właściwie to nie jestem pewien, czy mam wystarczająco sił, aby pokonać Przodka, zwłaszcza tak szalonego jak Vorr. Czy możliwe jest zabicie Przodka?"
+        }
+      ],
+      "total_chars": 468,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_029.mp3",
+      "size_kb": 553.51171875
+    },
+    {
+      "id": 30,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Obudziłem się dzisiejszego poranka chory po raz pierwszy od wielu stuleci. Wybiegłem z namiotu, upadłem na kolana i wymiotowałem przez prawie godzinę. Nawet teraz ledwo siedzę w siodle. Pot spływał po mojej twarzy, jak gdyby tylko na mnie spadł deszcz. Czuję także jak ciepło emanuje z mojej skóry. Jak to możliwe? Potem stało się dla mnie jasne, że jestem jakoś połączony z Przodkami. Może moja nieśmiertelność pochodzi od nich jakbym był jednym z nich. Jeśli tak, to co się stanie, jeżeli Vorr zniszczy pozostałych Przodków? Zginę, a może znów będę śmiertelny? Jakkolwiek by nie było, mnie to nie przeraża. Jest to wszakże to, o co walczyłem przez tyle lat - stać się znów normalny. Ale potem zacząłem się zastanawiać, jakie jeszcze zmiany przyniesie śmierć Przodków. Są naszymi duchowymi przewodnikami. Są jak latarnia dla barbarzyńskiego ludu. Czy bez nich rozbijemy się o skały przeznaczenia?"
+        }
+      ],
+      "total_chars": 897,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_030.mp3",
+      "size_kb": 1033.51171875
+    },
+    {
+      "id": 31,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wszystkie moje dolegliwości zdały się odejść, ale jestem wciąż mocno osłabiony. Nadal nie wiem, czy mój nagły napad nie jest jakoś powiązany z cierpieniami Przodków. Porozmawiam z szamanem, jednak nie wyjawię jak zostałem Nieśmiertelnym Bohaterem. Lepiej, żeby tego nie wiedział."
+        }
+      ],
+      "total_chars": 279,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_031.mp3",
+      "size_kb": 280.8583984375
+    },
+    {
+      "id": 32,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zaproponowałem pytanie do mojego najmędrszego szamana, Werna, dzisiejszego poranka."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wyczułem, ze Vorr uciekł na północny-wschód, ale nie potrafię go nadal wyczuwać. Gdzie mógł się udać?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem, Mędrzec milczał przez jakiś czasu, a potem się spytał:"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co mi przyniesiesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "To metoda Werna. Prawdę mówiąc, każdy szaman tak postępuje. Odkąd szamani nie obsiewają własnego pola i nie hodują własnych owiec, żyją tylko z hojności tych, którzy korzystają z ich mądrości. Sięgnąłem do sakwy, wyjmując z niej ceramiczną miskę i wyciągnąłem korek z ust."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Spróbuj"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Wern wziął ostrożnie łyk. Jego brwi uniosły się, kiedy poczuł wewnątrz siłę ducha, a potem wziął kolejny chaust."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Pomyślę nad tą sprawą, Tarnumie"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Wern. Wziął kolejny chaust. Jego policzki już zdążyły się zarumienić."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wróć później"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł."
+        }
+      ],
+      "total_chars": 796,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_032.mp3",
+      "size_kb": 1020.8583984375
+    },
+    {
+      "id": 33,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Co mi przyniosłeś?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał szaman Wern kiedy wszedłem do namiotu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Już ci coś przyniosłem. Butelka? Trzy dni temu?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Ale szaman najwyraźniej nie pamiętał jej. Z westchnieniem wyszedłem na moment i przyniosłem beczkę gorzałki z własnego namiotu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dobrze! Wróć za kilka dni i pozwól mi pomedytować nad..."
+        },
+        {
+          "voice": "narrator",
+          "text": "Wern nigdy nie dokończył zdania, gdyż moja ręka zacisnęła się na jego chudym gardle."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie, odpowiesz mi teraz, starcze!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem. Kiedy go wypuściłem, był bardzie chętny do współpracy. Wern jest znany z tego, że będzie kazał czekać ludziom na odpowiedź miesiącami. Jeślibym mu nie pokazał, że mówię serio, nigdy by mi nie odpowiedział."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ach, tak, chciałeś wiedzieć, gdzie szalony Przodek mógł uciec. Próbowałem rozmawiać z duchami, ale milczą. Dziwne. Martwi mnie to!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, wiem już o tym, ale gdzie mógł zniknąć Vorr?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Bez przewodnictwa Przodków, nie mogę odpowiedzieć"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparł Wern. Mówiąc prawdę, żaden z nas nie był pełny bez Przodków."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dziękuję"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem stojąc. Zanim odszedłem dodałem"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Będziesz próbował, prawda?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oczywiście"
+        },
+        {
+          "voice": "narrator",
+          "text": "odrzekł cicho Wern."
+        }
+      ],
+      "total_chars": 1026,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_033.mp3",
+      "size_kb": 1402.4912109375
+    },
+    {
+      "id": 34,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostatniej nocy obóz został zaatakowany przez mrowie chochlików. Latały pomiędzy ludźmi, drapiąc ich i zrzucając z koni. Rozdarły namioty i podpaliły je, kiedy moje wojska wciąż były w nich. Na szczęście nikt nie zginął podczas tego chaosu, chociaż było wiele rannych. Kiedy było po wszystkim, odkryłem prawdziwe zamiary napastników. Te małe potwory ukradły trochę naszych zapasów."
+        }
+      ],
+      "total_chars": 380,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_034.mp3",
+      "size_kb": 412.287109375
+    },
+    {
+      "id": 35,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Większość poranka spędziliśmy szukając zaginionych goblinów. Ostatniej nocy poszli zebrać trochę drewna na opał i nikt nie zwrócił uwagi na to, że nie wrócili. Niestety znaleźliśmy ich przy wetkniętych w mrowiska martwych od wielu godzin. To z pewnością sprawka jednego z tych pokręconych demonów. Rozpoznaję ich taktyki bitewne. Lubują się w straszeniu przeciwnika zanim zaatakują. Ludzie nie walczą tak dobrze jak zwykle, gdy są przerażeni, a moje wojską boją się teraz demonów."
+        }
+      ],
+      "total_chars": 480,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_035.mp3",
+      "size_kb": 502.4912109375
+    },
+    {
+      "id": 36,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dzisiaj jeden z moich zwiadowców znalazł ukryty obóz demonów, które zabiły moje gobliny. Jeśli kiedykolwiek miałbym pokonać te kreatury, muszę udowodnić moim żołnierzom, że nie warto się ich bać. Zabrałem więc czterech moich ludzi do obozu demonów. Kiedy oni obserwowali sytuację z krzaków, podszedłem do demonów samotnie. Zmierzyłem się z chochlikami, gogami i pojedynczym demonem samotnie. Jeślibym ich nie wziął z zaskoczenia, byłbym pewnie martwym. Przeszedłem za to między nimi jak wściekły huragan. Najpierw wziąłem się za gogi, potem ich demonicznego przywódcę. Większość chochlików uciekła. Niestety wpadły na moich ludzi, którzy przyłączyli się do pogromu ostatnich kreatur. Podnosząc jednego z chochlików powiedziałem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "To jest to, czego się baliście. Teraz wracajcie i powiedzcie innym, że nasz wróg jest słaby!"
+        }
+      ],
+      "total_chars": 820,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_036.mp3",
+      "size_kb": 906.1650390625
+    },
+    {
+      "id": 38,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Podbij piekielne miasto zwane Blackdome. Nie strać Tarnuma. Wszyscy są ograniczeni do 12 poziomu, a wszystkie zaklęcia, umiejętności, artefakty i doświadczenie Tarnum i jego najlepszy kapitan przeniosą dalej."
+        }
+      ],
+      "total_chars": 208,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_038.mp3",
+      "size_kb": 228.6142578125
+    },
+    {
+      "id": 39,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Na pierwszy rzut oka ta mała dolinka jest idealnym miejscem na obóz, ale jak tylko wszedłeś do niej, znalazłeś grupę diabłów pracującą w jakiejś masywnej kuźni. Pracują tak zaciekle, jakby wkrótce mijał termin oddania tworu szalonemu królowi, w końcu wykuwając Miecz Ognia Piekielnego. Czy chcesz walczyć z diabłami o ten miecz?"
+        }
+      ],
+      "total_chars": 328,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_039.mp3",
+      "size_kb": 343.7158203125
+    },
+    {
+      "id": 40,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W oddali zauważasz odbłysk światła i podjeżdżaj w jego pobliże. Ptaki gromu zbudowały gniazda w tych górach, a ty odkryłeś, że migot pochodzi z magicznego amuletu zwisającego z jednego z olbrzymich gniazd. Czy zawalczysz z jego mieszkańcami o ten artefakt?"
+        }
+      ],
+      "total_chars": 256,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_040.mp3",
+      "size_kb": 289.8388671875
+    },
+    {
+      "id": 41,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Na wpół zagłodzona banda rabusiów zbiegła ze wzgórza. Nie masz wyboru, musisz walczyć z tymi zdesperowanymi stworzeniami."
+        }
+      ],
+      "total_chars": 121,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_041.mp3",
+      "size_kb": 113.51171875
+    },
+    {
+      "id": 42,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przybyliśmy do oddalonej krainy z kilkoma budynkami. Przed nami bezimienna góra blokuje przejście. Większość szczytów skrywa się w chmurach, a ja czuję dreszcz przechodzący po ciele, gdyż w głębi serca wiem, że muszę iść poza te chmury."
+        }
+      ],
+      "total_chars": 236,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_042.mp3",
+      "size_kb": 244.9404296875
+    },
+    {
+      "id": 43,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Odkryłem, że ten region nie jest całkowicie opuszczony. Więcej budynków tych przebrzydłych demonów stoi tutaj. Także barbarzyńskie plemiona żyją tutaj. Myślę, że ich przywódca jest wyznawcą Vorra, więc mogą stanowić problem. Dzisiejszego poranka otrzymałem wiadomość z miejsca zwanego Blackdome wypaloną w korze drzewa koło obozu. Napis głosił: ZAWRÓĆ LUB GIŃ - Blackdome"
+        }
+      ],
+      "total_chars": 371,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_043.mp3",
+      "size_kb": 432.287109375
+    },
+    {
+      "id": 44,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Z początku myślałem, że te demony stanęły na mojej drodze z czystego przypadku, ale zmieniłem zdanie. Wydają się być zbyt zorganizowane, jakby próbowały celowo zajść mi drogę albo wiedziały gdzie idę. I jeszcze to ostrzeżenie. ZAWRÓĆ LUB GIŃ! Nie zdziwiłbym się gdyby pracowały dla Vorra - wszyscy wydają się palić i niszczyć wszystko na swojej drodze. Te Inferna są tutaj nowe. Lokalni mieszkańcy twierdzą, że dwa z płomiennych twierdz wyrosły tutaj miesiąc temu. Pytanie brzmi: dlaczego tu przybyły?"
+        }
+      ],
+      "total_chars": 501,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_044.mp3",
+      "size_kb": 620.8583984375
+    },
+    {
+      "id": 45,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dziś kilkoro z moich ludzi złapało chowańca czatującego w krzakach na zewnątrz obozu. Wyglądał tak słabo i był zakrwawiony, że obawiałem się, że jego obrażenia powstały podczas złapania, ale moi ludzie przyrzekli, że nigdy go nie tknęli oprócz dostarczenia go do mnie. Przekazałem więc chowańca jednemu z moich uzdrowicieli."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zróbcie co możecie"
+        },
+        {
+          "voice": "narrator",
+          "text": "rozkazałem dając do zrozumienia głosem, że nie będę rozczarowany jeśli nie przeżyje. Byłbym zaskoczony, gdyby przeżył."
+        }
+      ],
+      "total_chars": 460,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_045.mp3",
+      "size_kb": 498.41015625
+    },
+    {
+      "id": 46,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zostałem dzisiejszego poranka przywołany do namiotu uzdrowiciela, gdzie znalazłem złapanego chowańca zabandażowanego, ale przebudzonego. Brakowało mu jednego z wielkich uszu i skrzydeł. Według uzdrowiciela jedno z jego ramion było złamane. Miał szczęście, że przeżył i przez moment byłem wściekły na myśl, że mogli to zrobić moi ludzie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Masz jakieś imię?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak. Pewnie. Oczywiście"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedział. Jego oczy rozbiegły się jakby szukały wroga. Poczekałem chwilę i rzekłem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Cóż, jakie ono jest?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Skizzik moje imię"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jestem Tarnum. Przewodzę tym ludziom"
+        },
+        {
+          "voice": "narrator",
+          "text": "ogłosiłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak, tak. Moja wiedzieć. Wszyscy wiedzieć, ty Tarnum, Nieśmiertelny Bohater."
+        },
+        {
+          "voice": "narrator",
+          "text": "Słowa Skizzika wstrząsnęły mną. Skąd wiedział, że jestem Nieśmiertelnym Bohaterem? Nie mógł chyba, że Vorr mu powiedział."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Więc współpracujesz z Vorrem?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja? Nie, nie. Moja umrzeć, dawno na dobre, wygnaniec, umrzyk, nieboszczyk na zawsze! Łapać?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, zrozumiałem, ale Twój naród pracuje dla Vorra?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik skinął głową niechętnie."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja umrzeć teraz"
+        },
+        {
+          "voice": "narrator",
+          "text": "jęknął chowaniec, zamykając swoje oczy. Oczywiście Skizzik nie umarł, ale zasnął, więc zostawiłem go w spokoju, na razie..."
+        }
+      ],
+      "total_chars": 1097,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_046.mp3",
+      "size_kb": 1580.8583984375
+    },
+    {
+      "id": 47,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tym razem to ja przywołałem chowańca do swojego namiotu po tym, jak miał szansę wyzdrowieć. Dwóch gwardzistów wepchnęło go do środka i czekało, ale ich odprawiłem. Dzień, w którym nie poradzę sobie z pojedynczym, na wpół sparaliżowanym chowańcem to dzień, w którym wczołgam się do jakiejś dziury i skryję na zawsze."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Głodny, Skizzik?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem, wskazując chleb leżący na stoliku. Bez słowa"
+        },
+        {
+          "voice": "npc_m",
+          "text": "dziękuję"
+        },
+        {
+          "voice": "narrator",
+          "text": ", chowaniec wziął cały bochenek i wpakował go całego do gęby."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jesz dużo jak na zwłoki"
+        },
+        {
+          "voice": "narrator",
+          "text": "stwierdziłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja umrzyk, racja!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik rzekł, rozsypując wszędzie okruszki."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zdajesz sobie sprawę, że mówiąc, że jesteś martwy, nie robisz z siebie takiego?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oczywiście! Ale ty nie znać problemu Skizzika. Nie wiedzieć, że ja wkurzyć wielu ludzi. Wszystko przez to, że ja zostawić głupie drzwi otwarte! Ja głupiec, tak!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jakie drzwi?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Do celi, gdzie duży facet trzymać błyszczących ludzi"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział chowanie. Zajęło mi troche czasu zanim zorientowałem się, że mówi o Vorze i Przodkach. Szybko złapałem zdrowe ramię Skizzika i rzekłem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Teraz słuchaj uważnie! Wiesz gdzie są Przodkowie?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja wiedzieć."
+        },
+        {
+          "voice": "narrator",
+          "text": "Znowu zaczekałem, ale kiedy już byłem pewien, że Skizzik nie odpowie, otwarłem usta, by przemówić."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja wiedzieć, moja wiedzieć"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik przerwał."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Twoja chcieć wiedzieć, prawda!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak!"
+        }
+      ],
+      "total_chars": 1242,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_047.mp3",
+      "size_kb": 1503.7158203125
+    },
+    {
+      "id": 48,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Nie wiem co począć ze Skizzikiem. Chowaniec twierdzi, że Vorr zabrał Przodków na Płomienny Księżyc, więżąc ich w magicznym więzieniu do czasu załatwienia innych spraw. To wtedy Skizzik po raz pierwszy widział Przodków. Był jednym z pracowników więzienia - roznosicielem wody. Krótko po przybyciu Przodków zostawił na krótko drzwi otwarte. Przodkowie nie uciekli, ale demony i inne potwory byli wściekli na niego. Coś stamtąd wołało o pomoc, ale Skizzik przysięga, że na Płomiennym Księżycu nie ma niczego oprócz Demonów i innych potworów. Możliwe, że wołanie, które wezwało mnie do ratowania Drzewa Świata było krzykiem, o którym mówiły demony. Jeśli tak było, to w końcu wiem dlaczego Przodkowie sa tacy milczący. Więc kiedy demony dowiedziały się o przeoczeniu Skizzika, próbowały go zabić, ale chowańcowi udało się uciec. Opuścił Płomienny Księżyc przez coś, co nazywa się Migotliwym Mostem i pomimo wielu obrażeń udało mu się dotrzeć tak daleko. Odważna istota, musze przyznać."
+        }
+      ],
+      "total_chars": 981,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_048.mp3",
+      "size_kb": 1029.8388671875
+    },
+    {
+      "id": 49,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Spotkałem się dziś z Grumbą, moim ogrzym kapitanem, i szamanem, Wernem, ponieważ byli zaniepokojeni sprawą Skizzika."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wiesz, że to coś to szpieg"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Grumba z niesmakiem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie jestem tego pewien"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Prawie umarła, prawda Wern?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Z niechęcią szaman skinął głową."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ranny dezerter to stara sztuczka szpiegowska"
+        },
+        {
+          "voice": "narrator",
+          "text": "stwierdził Grumba."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, wiem, ale nie krzywdzisz szpiega na tyle, by mógł umrzeć!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ale..."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Żadnych ale! Nie sądzę, że to szpieg, ale nie jestem głupi, Grumba! Nie zamierzam ufać stworzeniu żadnych ważnych informacji, a w razie gdyby chciał opuścić obóz, ma zostać zabity."
+        }
+      ],
+      "total_chars": 567,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_049.mp3",
+      "size_kb": 732.287109375
+    },
+    {
+      "id": 50,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Właśnie jechaliśmy, gdy Skizzik biegł w moją stronę. Grumba musiał mieć oko na chowańca, bo ogr chwycił Skizzika zanim ten mógł go dosięgnąć. Masywne ręce Grumby zamknęły się wokół wychudzonej szyi chowańca. Jednym ściśnięciem mógł pozbawić Skizzika życia."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie! Odstaw go Grumba!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rozkazłem. Ogr niechętnie postawił Skizzika na ziemię."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czym byłeś taki podniecony?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem chowańca. Skizzik wskazał odległy pagórek i rzekł:"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja widzieć demony kopać złoto, które oni ukraść. Moja widzieć ich na tych wzgórzach, wrócić zanim moja stać się umrzyk - schować się w zimnych krzakach i widzieć ich!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Złoto?"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem z powątpiewaniem. Czy to może być pułapka? Czy mogę się mylić co do Skizzika?"
+        }
+      ],
+      "total_chars": 677,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_050.mp3",
+      "size_kb": 860.8583984375
+    },
+    {
+      "id": 51,
+      "voices": [
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wbrew prośbom Grumby i moim instynktom, Zdecydowałem się, aby Skizzik poprowadził mnie do ukrytego skarbu. Moglibyśmy wykorzystać całe złoto jakie teraz jesteśmy w stanie zdobyć. Przez cały czas spodziewałem się armii demonów, która wyskoczy zza skał. Ale Skizzik przeszedł. Wziął nas na sam środek otwartego pola i kazał kopać. Było ciężko przekopać się przez zamarzniętą ziemię, ale w końcu znaleźliśmy sakwy złota, o których Skizzik mówił."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak znalazłeś to miejsce? Jest po środku pustki"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Moja wyczuwać złoto"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparł chowaniec. To przydatna zdolność."
+        }
+      ],
+      "total_chars": 556,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_051.mp3",
+      "size_kb": 654.736328125
+    },
+    {
+      "id": 53,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Aktywuj Iskrzący Most, aby Tarnum mógł podążyć za Vorrem. Wszyscy są ograniczeni do 18 poziomu, ale Tarnum zachowa swoje doświadczenie, zaklęcia, umiejętności i artefakty. Dwóch najlepszych kapitanów Tarnuma podąży za nim."
+        }
+      ],
+      "total_chars": 222,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_053.mp3",
+      "size_kb": 266.1650390625
+    },
+    {
+      "id": 54,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Potężna armia żywiołów stoi na twojej drodze do pierścienia, który pozwoli Ci na przejście przez Iskrzący Most. Czy chcesz je teraz zaatakować?"
+        }
+      ],
+      "total_chars": 143,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_054.mp3",
+      "size_kb": 155.9609375
+    },
+    {
+      "id": 56,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Żywiołaki ognia i energii latają ponad puszką Pandory, chroniąc potężne zaklęcie w jej środku. Czy chcesz z nimi walczyć o to zaklęcie?"
+        }
+      ],
+      "total_chars": 135,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_056.mp3",
+      "size_kb": 142.4912109375
+    },
+    {
+      "id": 57,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Z gęstymi lasami z obu stron Twojej armii, wiedziałeś, że to doskonałe miejsce na zasadzkę. Wysłałeś zwiadowców, aby zbadali linię drzew, ale nic nie znaleźli. Ale w mgnieniu oka grupa żywiołaków energii pojawiła się przed Tobą. Skąd się wzięli - tego nie wiesz..."
+        }
+      ],
+      "total_chars": 264,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_057.mp3",
+      "size_kb": 311.0625
+    },
+    {
+      "id": 58,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Horda żywiołaków burzy kręci się wokół puszki Pandory, strzegąc jej potężnego zaklęcia. Czy chcesz z nimi walczyć o to zaklęcie?"
+        }
+      ],
+      "total_chars": 128,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_058.mp3",
+      "size_kb": 132.287109375
+    },
+    {
+      "id": 61,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Powietrze jest tutaj cienkie, a mroźne powietrze tnie skórę niczym ostrze. To musi być szczyt świata. Nikt przy zdrowych zmysłach nie zamieszkałby na tych nieprzyjaznych zboczach, ale szybko zrozumiałem, że byłem w błędzie. Żywiołaki - istoty czystego ognia, wody, czegokolwiek - żyły tutaj od zarania dziejów, strzegąc Iskrzącego Mostu, a teraz musze się przebić przez ich armie, jeżeli chcę dotrzeć na Płomienny Księżyc."
+        }
+      ],
+      "total_chars": 422,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_061.mp3",
+      "size_kb": 466.1650390625
+    },
+    {
+      "id": 62,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Skizzik stał się moim przewodnikiem. Nie jest tak dobry jak myślał. Albo był w delirium kiedy przechodził przez ten region, albo ma słabą pamięć. Czasami zauważa charakterystyczny punkt i prowadzi nas tam zanim orientuje się, że nigdy nie widział go wcześniej. Całe to łażenie denerwuje żołnierzy, więc trzymam Skizzika przy sobie cały czas. Jeżeli spotkałby teraz Grumbę, to z pewnością imp nie przetrwałby tego."
+        }
+      ],
+      "total_chars": 413,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_062.mp3",
+      "size_kb": 449.8388671875
+    },
+    {
+      "id": 63,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wkroczyliśmy do gaju dzisiejszego poranka i, chociaż zwiadowcy sprawdzili teren w poszukiwaniu śladów zasadzki, zostałem trafiony śnieżkami. Kiedy odwróciłem się w kierunku drzew, ujrzałem kilka nimf wzlatujących w niebo, śmiejąc się i wskazując na mnie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Naprzód, orki!"
+        },
+        {
+          "voice": "narrator",
+          "text": "krzyknąłem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Gotować topory!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Nimfy jednak uniosły ręce na znak poddania się."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Przepraszamy!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekły z szacunkiem. Wytrząsnąłem śnieg z włosów i mruknąłem"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego chcecie?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "Szukasz Iskrzącego Mostu, prawda? Znamy pewien sekret"
+        },
+        {
+          "voice": "narrator",
+          "text": "zaśpiewały. Pociągnąłem nosem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego chcecie?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "Złota i trochę ładnych klejnotów, jeżeli macie!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dobrze"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem. Moi ludzie przynieśli nagrodę, ale trzymałem ją dopóki nie upewniłem się, że sekret jest warty tego."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nie możesz wejść od tak na Iskrzący Most. Mógłbyś wyjść gdziekolwiek. To magiczny portal do każdego świata we wszechświecie - dlatego pilnują go żywiołaki"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekły nimfy."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Więc jak mam trafić do miejsca, którego szukam?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Potrzebujesz Pierścień Wędrowca. Znajdź go, a będziesz mógł iść gdziekolwiek chcesz!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Nimfy zleciały, zabrały nagrodę i odleciały na północ."
+        }
+      ],
+      "total_chars": 1053,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_063.mp3",
+      "size_kb": 1304.9404296875
+    },
+    {
+      "id": 64,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Prawie zginąłem tego poranka. Tylko dzięki Skizzikowi jeszcze żyję. Zostaliśmy oślepieni przez zamieć, a potem żywiołaki powietrza napadły na nas. Zazwyczaj poradziłbym sobie z nimi, ale ból przeszedł przez mój brzuch jakbym został ugodzony lodowatym ostrzem. Spadłem z konia, słaby z bólu i zapomniany przez żywiołaka, który uznał, że mnie zabił. Nie widziałem co się stało, ale później jeden z goblinów powiedział, że Skizzik wskoczył na plecy żywiołaka. Imp wbił zęby w jego kark, który to wił się, aby zrzucić napastnika. Grumba dotarł do mnie po tym, jak żywiołak powietrza posłał Skizzika w zaspę. Tuż po tym bitwa szybko się skończyła, a ja zostałem zaciągnięty do namiotu medyka."
+        }
+      ],
+      "total_chars": 687,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_064.mp3",
+      "size_kb": 744.9404296875
+    },
+    {
+      "id": 65,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Oczywiście medyk nie znalazł żadnych ran i nie mógł powiedzieć co spowodowało mój stan agonalny. Ale ja wiedziałem. To był ból głębokiej, śmiertelnej rany - tej samej, która zakończyła mój żywot dawno temu i sprowadziła przed osąd Przodków. Minęło tyle czasu, że zapomniałem jakie to uczucie. Ale czemu wspomnienia wróciły? Czy to było jak moja wcześniejsza choroba? Czy było to jakoś związane ze zniknięciem Przodków?"
+        }
+      ],
+      "total_chars": 418,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_065.mp3",
+      "size_kb": 491.0625
+    },
+    {
+      "id": 66,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Skizzik wpadł do mojego namiotu z miną jakby coś przeskrobał."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie bój się"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Chciałem podziękować tobie za uratowanie mi życia."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie chciałem, byś także był trupem. Jesteś tym, który trzyma wielkiego brzydkiego faceta z dala od Skizzika."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Cóż, to było odważne z twojej strony. Wiem, że nie jesteś przyzwyczajony do tego jak barbarzyńcy postępują, ale jeśli będziesz trzymał się naszych zasad, Skizziku, przysięgam, że zawsze znajdziesz dom pośród nas."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Imp i barbarzyńca przyjaciółmi? To niemożliwe!"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Skizzik. Wydłubał coś spomiędzy swoich ostrych zębów i uśmiechnął się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dobra rzecz, że ja być martwy, co? Może teraz być barbarzyńcą też."
+        }
+      ],
+      "total_chars": 643,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_066.mp3",
+      "size_kb": 797.185546875
+    },
+    {
+      "id": 67,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Skizzik, który był przyzwyczajony do wysokich temperatur miast piekielnych, drżał cały czas. Próbowałem go ubrać ciepło, ale nalegał, aby nosić tylko wełniany kapok i hełm ze śmiesznie wielkimi baranimi rogami. Imp myśli, że jest teraz barbarzyńcą i nawet nosi ze sobą motykę, która w jego rękach wyglądał jak topór bitewny. Kiedy wskazałem, że nawet ja noszę grubsze ubranie w śniegu, Skizzik roześmiał się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To znaczy, ze jestem twardszy niż ty!"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział mi, szczerząc zęby. Już nawet nie próbowałem więcej. Niech zamarznie, jeżeli jest tak głupi, żeby nie założyć ubrań!|"
+        }
+      ],
+      "total_chars": 573,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_067.mp3",
+      "size_kb": 628.6142578125
+    },
+    {
+      "id": 68,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wysłałem zwiadowców na poszukiwania Iskrzącego Mostu, ale wrócili z pustymi rękoma. Jeden z nich uważa, że jest w odległej dolinie daleko na północny-wschód. Jedynym problemem jest brak możliwo dostania się tam z tej strony. Szczyty okalające dolinę są zbyt wysokie, aby przejść. Możemy mieć jednak trochę szczęścia. Inny zwiadowca spędził trochę czasu szpiegując w spalonych ziemiach północy i zauważył wejście do podziemi. Wydaje się, ze jest duża aktywność wokół jej - zbyt duża jak na zwykłą grotę. Czy to możliwe, aby to było podziemne przejście do Iskrzącego Mostu?"
+        }
+      ],
+      "total_chars": 571,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_068.mp3",
+      "size_kb": 603.7158203125
+    },
+    {
+      "id": 69,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Znalazłem dzisiaj Skizzika wąchającego ziemię. Chwycił ziemię między palce i polizał ją swoim długim, czarnym językiem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co się dzieje?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem. Nie mogliśmy ruszyć zanim nie wsiądzie na swego kuca."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ja chyba przypomnieć sobie coś. Tak, ja pamiętać wrota blokujące drogę - wielkie drzwi, ale ja mały i martwy. Nie zobaczyli małego trupa, którym byłem, więc prześlizgnąłem się"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedział Skizzik."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wrota?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Ja zbyt duży teraz, wielki barbarzyńca zauważony teraz, musimy znaleźć klucznika!"
+        }
+      ],
+      "total_chars": 479,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_069.mp3",
+      "size_kb": 698.41015625
+    },
+    {
+      "id": 70,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostatniej nocy Skizzik miał okazję sprawdzić swoją motykę w bitwie zamiast na każdym drzewie i krzaku po drodze. Złapaliśmy kilka żywiołaków ognia próbujących podpalić nasze wozy z zaopatrzeniem. Imp wpadł na nie, krzycząc i wymachując bronią. Niestety jego oczy były zamknięte. Trafił orka, jednego z moich żołnierzy, w kolano zanim dotarł do przeciwnika. Niestety, żywiołaki ognia nie były przestraszone. Jeden spalił broń w ręku Skizzika i spopieliłby go, gdybym nie przybył na czas, Po wszystkim wezwałem płatnerza i rozkazałem wykuć topór, który nie połamałby się tak szybko. Jeżeli Skizzik ma być barbarzyńcą, to niech przynajmniej ma odpowiednią broń."
+        }
+      ],
+      "total_chars": 658,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_070.mp3",
+      "size_kb": 695.9609375
+    },
+    {
+      "id": 71,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi pokonać Xyrona, strażnika, aby uwolnić Przodków z ich magicznego więzienia. Wszyscy bohaterowie są ograniczeni do poziomu 24, ale Tarnum i dwóch najlepszych kapitanów przejdzie do następnej mapy."
+        }
+      ],
+      "total_chars": 207,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_071.mp3",
+      "size_kb": 224.9404296875
+    },
+    {
+      "id": 72,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Złowrogi skowyt ostrzega cię przed atakiem Piekielnych Ogarów, na chwilę przed tym, jak wyłaniają się zza zwęglonych kikutów drzew."
+        }
+      ],
+      "total_chars": 131,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_072.mp3",
+      "size_kb": 144.9404296875
+    },
+    {
+      "id": 73,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Świetliste chmury Iskrzącego Mostu kończą się tutaj. poza nimi kraina jest spalona i popękaka niczym kosmiczny krajobraz. Nie ma nigdzie śladów życia. Jedziesz naprzód, mając nadzieję, że Iskrzący Most pozostanie tutaj na tyle długo, abyś mógł wrócić. Wściekłbyś się, gdybyś musiał żyć w tej zapomnianej krainie."
+        }
+      ],
+      "total_chars": 312,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_073.mp3",
+      "size_kb": 332.287109375
+    },
+    {
+      "id": 74,
+      "voices": [
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Powietrze tutaj jest tak gęste, że konie odmawiają dalszej jazdy. Schodzisz więc i podchodzisz do egzotycznego domu zbudowanego w pniu wielkiego, dawno martwego drzewa. Z jego gałęzi zwisają dziesiątki demonów, gogów i innych kreatur. Wyciągasz miecz i stawiasz kolejny krok. Drzwi otwierają się, ukazując czarno odzianą starą kobietę. Jej twarz jest ukryta w skupisku białych włosów. Wszystko co widzisz to skrzywiony uśmiech."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nie mam zbyt wielu gości ostatnimi czasy"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Może to przez dekoracje na twoim domy"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłeś, wskazując na szkielety kołyszące się powoli na gorącym wietrze."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Możliwe"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparła z szerokim uśmiechem."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Widzę, że macie konie. Wyczuwam, że szukacie czegoś. Albo kogoś. Cóż, także szukam czegoś, ale nie jestem w stanie opuścić mojego domu. Pomożecie mi?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "To zależy."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Tak, będziecie chcieli zapłaty bez wątpienia. Nie mam nic wartościowego prócz mojej wiedzy. Jeśli znajdziecie i zwrócicie mój płaszcz przeciwstawienia, nauczę cię wszystkiego co wiem. Umowa stoi?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiadasz."
+        }
+      ],
+      "total_chars": 986,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_074.mp3",
+      "size_kb": 1249.8388671875
+    },
+    {
+      "id": 75,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Podchodzisz do chatki proroka, ale brak odpowiedzi na pukanie. Może wie, że nie masz jeszcze płaszcza odwrócenia. Jeśli chcesz z nią porozmawiać, musisz wpierw go znaleźć."
+        }
+      ],
+      "total_chars": 171,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_075.mp3",
+      "size_kb": 182.4912109375
+    },
+    {
+      "id": 76,
+      "voices": [
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Prorokini spotyka się z tobą w progu, natychmiast zabierając płaszcz odwrócenia, zakladając go na swoje barki."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Imp zabrał mi go z domu, kiedy zabijałam tamtą parkę"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziała, wskazując grupkę demonów zwisającą z jednej z najwyższych gałęzi."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Powiedziałaś, że nauczysz mnie wszystkiego co wiesz, prawda?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "Tak, wejdź. Napijemy się czarnej herbaty i porozmawiamy"
+        },
+        {
+          "voice": "narrator",
+          "text": "odpowiedziała. Wchodzisz do jej domu, mając nadzieję, że wiedza, którą tobie przekaże, jest warta zostania w tym mrocznym miejscu."
+        }
+      ],
+      "total_chars": 485,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_076.mp3",
+      "size_kb": 542.4912109375
+    },
+    {
+      "id": 77,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "W oddali widzisz spalone ruiny pradawnego miasta. Nie wiesz kto kiedyś zamieszkiwał je, ale teraz jest okupowane przez bandę renegatów - gogów i impów. Jeżeli chcesz znaleźć miejsce do trenowania swoich żołnierzy, to miasto wygląda na jedyny wybór."
+        }
+      ],
+      "total_chars": 248,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_077.mp3",
+      "size_kb": 289.8388671875
+    },
+    {
+      "id": 78,
+      "voices": [
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zszedłem z Iskrzącego Mostu w duszący gorąc zaciemnionego krajobrazu. Niebo ponad mną jest czarne niczym węgiel. Chaotyczne kłębowisko burzy rozświetla tereny przypadkowymi fioletowymi iskrami piorunów. Gdzieś tam Przodkowie czekają na mnie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wiem co czujesz!"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem, gdy koń parsknął zdegustowany zapylonym powietrzem. W głębi czułem, że to jest samotne, pełne boleści miejsce. Potrząsnąłem głową, zastanawiając się dlaczego ktokolwiek mógłby żyć w tej parzącej krainie."
+        }
+      ],
+      "total_chars": 474,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_078.mp3",
+      "size_kb": 538.41015625
+    },
+    {
+      "id": 79,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Ah, pamiętam dobrze. Tu żyłem zanim umarłem"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedział Skizzik dzisiejszego poranka, gdy wspinaliśmy się na poszarpaną czarną grań i wpatrywaliśmy się w horyzont. Imp uronił łzę."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To był dom."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie wygląda na takowy!"
+        },
+        {
+          "voice": "narrator",
+          "text": "orzekł ogr Grumba. Nagle Skizzik zeskoczył ze skały i stanął naprzeciw ogra z założonymi na biodrach rękoma. Grumba był przynajmniej pięć razy większy."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odszczekaj to, brzydalu! Co? Myślisz, że twój dom lepszy - nic poza pyłem, kamieniami i krowim łajnem! To ma być dom?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Stanąłem pomiędzy nimi, bojąc się, że Grumba zmiażdży Skizzika, ale ogr wydawał się zaskoczony i pełen podziwu, że mały odważył się stanąć naprzeciw niego."
+        },
+        {
+          "voice": "npc_m",
+          "text": "W porządku"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Grumba."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Powiedz nam jednak, przewodniku, gdzie Vorr trzymałby Przodków?"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik wziął kilka głębokich oddechów, aby się uspokoić, a potem wspiął się ponownie na grań. Wpatrywał się w horyzont, dłubiąc w zębach i drapiąc się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tylko jeden demon może trzymać naszych Przodków - Xyron dozorca!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Albo sam Vorr"
+        },
+        {
+          "voice": "narrator",
+          "text": "dodałem."
+        }
+      ],
+      "total_chars": 956,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_079.mp3",
+      "size_kb": 1231.0625
+    },
+    {
+      "id": 80,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dziś, podczas zbierania tak potrzebnego chrustu na ognisko, aby móc gotować, Skizzik zaginął. Wyprawiłem grupę poszukiwawczą, która wkrótce usłyszała jego krzyki. Zbliżyliśmy się i znaleźliśmy go z głową w dziurze."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To grobowiec!"
+        },
+        {
+          "voice": "narrator",
+          "text": "krzyczał w strachu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Brzydki trup tutaj!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Wskoczył w ciemność z pochodnią w ręku. Istotnie to było dawne miejsce pochówku wypełnione przez pół tuzina kamiennych stołów, wspierających szczątki jakiś wojowników."
+        },
+        {
+          "voice": "tarnum",
+          "text": "To niepodobne do demonów, aby chować swoich w ten sposób"
+        },
+        {
+          "voice": "narrator",
+          "text": "stwierdziłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oh, to nie demony! To ci co żyli wcześniej"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik sprostował."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zanim przybyły demony, byli inni"
+        },
+        {
+          "voice": "narrator",
+          "text": "Skizzik powiedział. Wydawało się, że chciał odejść, jakby się obawiał duchów czy czegoś takiego."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co się stało z tymi innymi?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Są głęboko - trupy jak ci. Zabiliśmy wszystkich! No może nie ja. To przed Skizzikiem. Wszystko co widziałem to czarna i gorąca ziemia jak ta - żadnych zielonych drzew dla mnie do zobaczenia."
+        },
+        {
+          "voice": "narrator",
+          "text": "Spojrzałem smutno na martwych wojowników, którzy prawdopodobnie polegli walcząc z demonami. Jacy bylli? Czy wiedzieli, że są przeznaczeni, aby przegrać i nadal walczyli? Zacisnąłem pięść w gniewie. Tak odważne dusze nie powinny spocząć zapomniane w dziurze w tym martwym świecie! Te demony nie wierzą w nic poza destrukcją. Honor nic dla niech nie znaczy. Gdziekolwiek pójdę, lud Skizzika zmieni każdy świat w kopię tego Ognistego Księżyca. Mój świat był prawdopodobnie następny. Apetyt Vorra na zniszczenie był niezwykły, może nawet większy niż demonów, a teraz przyciągnął te demony do mojego świata. Uniosłem miecz ponad tymi zapomnianymi wojownikami i przysiągłem"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak długo krew płynie mi w żyłach, przysięgam, że mój świat nie stanie się taki jak ten!"
+        }
+      ],
+      "total_chars": 1674,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_080.mp3",
+      "size_kb": 2064.9404296875
+    },
+    {
+      "id": 81,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Chroń dobrze twierdzę"
+        },
+        {
+          "voice": "narrator",
+          "text": "zaproponował Grumba. Ogr niemal został zabity kiedy wróg nagle pojawił się w pobliskim wyjściu z monolitu. Udało mu się uciec, ale gdyby moi żołnierze byli zbyt daleko, aby bronić miasta, przeciwnik z łatwością by je podbił."
+        }
+      ],
+      "total_chars": 245,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_081.mp3",
+      "size_kb": 279.634765625
+    },
+    {
+      "id": 82,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Skizzik opowiada historie ze swojego 'dawnego życia', więc mogę poznać mojego przeciwnika lepiej. Te demony to idealni sprzymierzeńcy dla Szalonego Przodka, Vorra. Obu podnieca zniszczenie. Im dłużej maszeruję przez posępny świat, tym dłużej zastanawiam się jak wyglądał kiedyś. Jakie piękno zostało stracone pod kopytami demonów?"
+        }
+      ],
+      "total_chars": 330,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_082.mp3",
+      "size_kb": 363.7158203125
+    },
+    {
+      "id": 83,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dzisiejszego poranka ledwo wyszedłem z łóżka zmożony chorobą. Siły mnie opuszczają z każdym dniem. Skizzik jednak zauważył, ze mam znacznie większy problem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nieźle wyglądasz"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Skizzik, wskazując moje włosy."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Sprawia, że wyglądasz jak mądry wódz."
+        },
+        {
+          "voice": "narrator",
+          "text": "Złapałem dobrze wypolerowany topór impa."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Hej! To moje!"
+        },
+        {
+          "voice": "narrator",
+          "text": "zaprotestował Skizzik, ale to zignorowałem. Wpatrywałem się w moje nieco zniekształcone odbicie w ostrzu i zmarszczyłem mocno brwi. Pojawiło się wiele linii wokół moich oczu, a włosy przy skroniach stały się całkowicie siwe. Starzałem się. I to szybko! Nic dziwnego, że moje stawy mnie bolały bez przerwy i prawie nie miałem sił, aby wyjść z namiotu rano. Czas mnie doganiał. Czy byłem nadal nieśmiertelny? Jak mocno się jeszcze zestarzeję zanim umrę?"
+        }
+      ],
+      "total_chars": 749,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_083.mp3",
+      "size_kb": 939.634765625
+    },
+    {
+      "id": 84,
+      "voices": [
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zazwyczaj ćwiczę z mieczem przez godzinę każdego poranka zanim obóz się przebudzi, ale tego dnia moje ramię zmęczyło się w połowie tego czasu. Ledwo wróciłem do namiotu i padłem na kilka godzin. Grumba musiał mnie obudzić."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Dobrze się czujesz?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał ogr."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, świetnie"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziałem i zarządziłem wymarsz. Ale nie czułem się dobrze. Moje stawy bolały mnie po raz pierwszy w moim życiu. Co się ze mną działo?"
+        }
+      ],
+      "total_chars": 402,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_084.mp3",
+      "size_kb": 419.634765625
+    },
+    {
+      "id": 85,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Zwiadowcy donoszą, że Xyron Dozorca jest poza czerwonym strażnikiem granicznym, gdzieś na Ognistych Polach. Widziałem te Ogniste Pola, żywy ogień stworzony przez żywiołaki, aby zwiększyć ich moc. Chociaż to wbrew logice, ogień nie pali ciała - nawet ubrań. Płomienie liżą twoją skórę jak gorąca bryza, ale nie parzą."
+        }
+      ],
+      "total_chars": 316,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_085.mp3",
+      "size_kb": 352.287109375
+    },
+    {
+      "id": 86,
+      "voices": [
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Potrzebowałem dziś pomocy, aby wsiąść na konia. Moje mięśnie są osłabione, a włosy niemal w całości siwe. Wyglądałem na osiemdziesięciolatka. Ostatnio myślałem nawet nad zakończeniem tego wszystkiego. Zapomnienie musi być lepsze od wstydu proszenia grupy ogrów, aby pomogli tobie wsiąść na twojego własnego konia. Myślę, ze mój szaman, Wern, zauważył moje spojrzenie samobójcy."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Musisz kontynuować, Tarnumie"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Wern."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Bez Przodków nikt z nas nie będzie mógł wejść do Raju. Wszyscy barbarzyńcy będą skazani na zapomnienie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Wzdychając wiedziałem, że ma rację. Możliwe, że mógłbym zaakceptować pustkę zapomnienia, ale byłoby sprawiedliwe, gdybym skazał innych na to samo. Muszę kontynuować, chociaż nie wiem jak pokonam Dozorcę, Xyrona."
+        }
+      ],
+      "total_chars": 730,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_086.mp3",
+      "size_kb": 866.1650390625
+    },
+    {
+      "id": 87,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tarnum musi pokonać szalonego Przodka, Vorra, łapiąc go, aby Przodkowie dali mu napój z soku Drzewa Życia."
+        }
+      ],
+      "total_chars": 106,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_087.mp3",
+      "size_kb": 120.8583984375
+    },
+    {
+      "id": 88,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Pukasz do wrót, ale jedyne co słyszysz to echo słów ze środka."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odejdź albo poznaj mój gniew! Jeżeli chcesz przejść, musisz przynieść mi ptaka ognia!"
+        }
+      ],
+      "total_chars": 147,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_088.mp3",
+      "size_kb": 197.185546875
+    },
+    {
+      "id": 89,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Pukasz do drzwi, ale w jakiś sposób szaleniec musi wiedzieć, że nie masz feniksa."
+        }
+      ],
+      "total_chars": 81,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_089.mp3",
+      "size_kb": 92.287109375
+    },
+    {
+      "id": 90,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wysyłasz feniksa na szczyt wieży. Natychmiast drzwi się otwierają i dziko wyglądający, mały człowiek wychodzi z łzami w oczach."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Proszę, pozwól mi ją zatrzymać! Mogę?"
+        },
+        {
+          "voice": "narrator",
+          "text": "błaga."
+        }
+      ],
+      "total_chars": 170,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_090.mp3",
+      "size_kb": 226.1650390625
+    },
+    {
+      "id": 91,
+      "voices": [
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_f",
+          "text": "Witaj, kochanie"
+        },
+        {
+          "voice": "narrator",
+          "text": "powiedziała stara wizjonerka. Chociaż była okryta obdartymi szatami, zauważyłeś, że jej ręce i twarz poryte były różowymi bliznami - dowodem na szpecące oparzenia."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Tak się składa, że wiem, iż na południu jest wieża z obłąkańcem. Nie pozwoli ci przejść chyba, ze przyniesiesz mu oswojonego feniksa. Tak się składa, że mam jednego, ale jeżeli chcesz go, to musisz mi przynieść coś co straciłam."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Chętnie. Co to jest?"
+        },
+        {
+          "voice": "narrator",
+          "text": "pytasz."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Ach, tak szybko się zgodziłeś. Lubię to! Po prostu przynieś moje patrzałko, mój teleskop, a ja dam ci feniksa"
+        },
+        {
+          "voice": "narrator",
+          "text": "mówi."
+        }
+      ],
+      "total_chars": 547,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_091.mp3",
+      "size_kb": 692.287109375
+    },
+    {
+      "id": 92,
+      "voices": [
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_f",
+          "text": "Próbujesz mnie oszukać? Cóż, nie dam ci feniksa dopóki nie przyniesiesz mi mojego teleskopu!"
+        },
+        {
+          "voice": "narrator",
+          "text": "I stara kobieta zatrzaskuje ci drzwi przed nosem."
+        }
+      ],
+      "total_chars": 141,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_092.mp3",
+      "size_kb": 172.287109375
+    },
+    {
+      "id": 93,
+      "voices": [
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_f",
+          "text": "Widzę, że masz mój teleskop. Jeżeli mi oddasz go, to nie tylko pozwolę zabrać ci feniksa, ale także dam listę komend, abyś mógł go kontrolować. Nie chcialbyś się poparzyć, prawda? Pamiętaj, kochanie, bez feniksa nie przejdziesz przez wieżę szaleńca na południu!"
+        }
+      ],
+      "total_chars": 261,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_093.mp3",
+      "size_kb": 263.7158203125
+    },
+    {
+      "id": 94,
+      "voices": [
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Jak tylko masz zamiar zapukać do drzwi wieży, słyszysz głos ze środka."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tylko Tarnum przejdzie!"
+        }
+      ],
+      "total_chars": 93,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_094.mp3",
+      "size_kb": 106.1650390625
+    },
+    {
+      "id": 95,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Brak reakcji na pukanie utwierdza cię tylko w przekonaniu, że przepuszczą tylko Tarnuma."
+        }
+      ],
+      "total_chars": 88,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_095.mp3",
+      "size_kb": 82.4912109375
+    },
+    {
+      "id": 96,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Drzwi otwierają się jak tylko Tarnum podjeżdza. Czy chcesz przejść?"
+        }
+      ],
+      "total_chars": 67,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_096.mp3",
+      "size_kb": 88.6142578125
+    },
+    {
+      "id": 97,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Niegdyś jeden z bezimiennych Przodków, Vorr pozwolił, aby brutalność i nienawiść barbadzyńskiego plemieniaszukającego boga wojna skorumpowała go. Teraz jest obłakańcem, mającym obsesję na punkcie zniszczenia świata."
+        }
+      ],
+      "total_chars": 215,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_097.mp3",
+      "size_kb": 249.8388671875
+    },
+    {
+      "id": 98,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Grupa ognistych ptaków krąży ponad terenem. Pod nimi stoją porzucone przez kierowców wozy. Zauważyłeś, że jeden z nich to samonapełniający się wóz drewna. Kiedy się zbliżasz, ogniste ptaki atakują!"
+        }
+      ],
+      "total_chars": 197,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_098.mp3",
+      "size_kb": 237.185546875
+    },
+    {
+      "id": 99,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ku twojemu zdziwieniu, spalona ziemia ustępuje miejsca zieleni. A więc demony nie zniszczyły całego świata, ale zastanawiasz się jak długo ten skrawek życia przetrwa."
+        }
+      ],
+      "total_chars": 166,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_099.mp3",
+      "size_kb": 174.736328125
+    },
+    {
+      "id": 100,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Już widziałeś kiedyś podobne Ramiona legionisty. Jeśli przekażesz je któremuś dowódcy i zostawisz go w Twierdzy na noc pod koniec tygodnia, otrzymasz dodatkowych żołnierzy."
+        }
+      ],
+      "total_chars": 172,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_100.mp3",
+      "size_kb": 195.9609375
+    },
+    {
+      "id": 101,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Maszerowaliśmy przez jałowy Ognisty Księżyc do tego odległego miejsca za Skizzikiem, który był naszym przewodnikiem, gotowi do walki z Vorrem. A przynajmniej tak sadziliśmy. Tym razem Vorr przyszedł do nas i rzucił wszystko co miał na nas. Jego magia jest niebywała! Kule ognia i łańcuch piorunów zmiotły wielu z moich ludzi z powierzchni w ciągu pierwszych minut bitwy. Próbowałem się wspiąć po trupach moich żołnierzy, aby sięgnąć przeciwnika, ale przestałem kiedy ręka trafiła na martwą twarz mojego szamana, Werna. Grumba padł na moich oczach w błysku tak gorącym, że stopiłby stal. Wkrótce ognie dosięgły i mnie. Przegraliśmy! Kiedy się obudziłem, większość mojego ubrania i zbroi były wypalone ze mnie. Powinienem być martwy jak większość mojej armii. Odnalazłem kilku niedobitków, którzy uciekli z tej zatrważającej walki. Straciliśmy przyjaciół, braci, wszystko i nadal musieliśmy zatrzymać Vorra. Teraz chcę śmierci Vorra!"
+        }
+      ],
+      "total_chars": 931,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_101.mp3",
+      "size_kb": 1035.9609375
+    },
+    {
+      "id": 102,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przynajmniej moja mała grupa nie była jedynymi ocalałymi. Kilkoro moich kapitanów także przetrwało, choć są rozsypani po okolicy. Przynajmniej mam miasto, aby odbudować armię. Niestety Skizzik jest pośród zaginionych. Tych, o których wierzy się, że są tak mocno spalonych magią Vorra, że nie pozostało nic do identyfikacji. Co za katastrofa! Następnym razem będę przygotowany na Vorra. Nie przegram ponownie!"
+        }
+      ],
+      "total_chars": 408,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_102.mp3",
+      "size_kb": 462.4912109375
+    },
+    {
+      "id": 103,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Wszedłem do namiotu ostatniej nocy i ujrzałem parę świetlistych postaci - Przodków."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Czego chcecie?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem ostro. Najwyższa pory, aby sie pojawili."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przynieśliśmy ci więcej wyciągu z Drzewa Życia"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł jeden z Przodków. Podążyłem za ich wzrokiem do mojego stołu wieczerzalnego, gdzie leżała fosforyzująca butelka napoju."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Przeliczyliśmy się co do mocy Vorra"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekli wspólnie. Czyżby to były ich przeprosiny?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ja też, ale nie popełnię tego błędu ponownie"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Poza tym, Tarnumie, przychodzimy powiedzieć, abyś poszukał chatki maga. Pokaże Ci on miejsce ukrycia kilku artefaktów, które przydadzą się w walce z Vorrem."
+        },
+        {
+          "voice": "narrator",
+          "text": "Po kilku minutach ciszy i podejrzanych spojrzeniach Przodków, zniknęli."
+        }
+      ],
+      "total_chars": 679,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_103.mp3",
+      "size_kb": 944.9404296875
+    },
+    {
+      "id": 104,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dziś przebudziłem się, patrząc w oczy zatroskanego Przodka. Powoli wyciągnął dłoń i wytworzył butelkę wyciągu z Drzewa Życia."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Czemu to zostawiłeś?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytał."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie będę tego potrzebował"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparłem. Skoro już nie śpię to przynajmniej wykorzystam ten czas na dodatkowe ćwiczenia. Sięgnąłem po miecz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie, Tarnumie, wręcz przeciwnie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "sprzeciwił się Przodek. Przypiąłem miecz do pasa, nie zakładając nawet tuniki. Na tym Ognistym Księżycu było gorąco całą dobę."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Próbowałem waszą metodą"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekłem twardo."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Teraz Vorr musi zginąć zanim przemieni mój świat w kopię tego przeklętego miejsca!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Wybiegłem z namiotu."
+        }
+      ],
+      "total_chars": 584,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_104.mp3",
+      "size_kb": 717.185546875
+    },
+    {
+      "id": 105,
+      "voices": [
+        "npc_m",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostatnio spotykam się z Skizzikiem co noc jakby był moim zastępcą. W pewnym sensie nim jest. Sposób w jaki chowaniec wszystkich traktuje świadczy, że za takiego się uważa. Niestety Skizzik nie był w stanie rozwiązać dylematu wyciągu z Drzewa Życia."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odciąć mu łeb!"
+        },
+        {
+          "voice": "narrator",
+          "text": "krzyknął Skizzik."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To to co my barbarzyńcy robić najlepiej!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Czyżby? Czy tym właśnie jesteśmy i zawsze będziemy? Czy moja nienawiść i gniew skaziły linię barbarzyńców na zawsze? Podniosłem butelkę wyciągu i potrząsnąłem głową. Jak ta fiolka miała zmienić stan rzeczy? Żyw czy martwy, Vorr nie zmieni barbarzyńców."
+        }
+      ],
+      "total_chars": 571,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_105.mp3",
+      "size_kb": 652.287109375
+    },
+    {
+      "id": 106,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostatniej nocy nawiedził mnie w snach Vorr. Na początku myślałem, że znowu mnie odwiedzają Przodkowie, ale potem zobaczyłem mściwe oczy Vorra. Chwycił mnie za gardło i ścisnął, miażdżąc mi szyję aż usłyszałem pękanie kości."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Czemu ze mną walczysz, Tarnumie?"
+        },
+        {
+          "voice": "narrator",
+          "text": "rzekł Vorr."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie pamiętasz jak to jest mieć taką siłę? Nie tęsknisz za tym? Był czas kiedy jednym ruchem odbierałeś życie człowiekowi. Teraz to moc, której nawet Przodkowie nie mają!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co to ma wspólnego ze mną?"
+        },
+        {
+          "voice": "narrator",
+          "text": "spytałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mogę zwrócić ci tę moc. Pomyśl! Przyłącz się do mnie i razem będziemy żyć wiecznie. Nic nie stanie nam na drodze"
+        },
+        {
+          "voice": "narrator",
+          "text": "przekonywał Vorr."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tylko... jedna... rzecz."
+        },
+        {
+          "voice": "narrator",
+          "text": "Vorr urwał, rozluźniając uchwyt. Czułem, że się boi, że o czymś zapomniał. A więc nie był do końca pewien wygranej. To był dobry znak."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co takiego?"
+        },
+        {
+          "voice": "narrator",
+          "text": "zapytał Vorr."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ja!"
+        },
+        {
+          "voice": "narrator",
+          "text": "wyrwałem się."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Zabiję Cię!"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Zabijając mnie, zabijesz siebie!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Obudziłem się zachłystując się powietrzem. Prawie się udusiłem we śnie. Kiedy doszedłem do siebie, szepnąłem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, wiem. Zabiję siebie."
+        }
+      ],
+      "total_chars": 974,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_106.mp3",
+      "size_kb": 1400.8583984375
+    },
+    {
+      "id": 107,
+      "voices": [],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ale szczęście! Ludzie, którzy żyli na tej planecie zanim stała się Ognistym Księżycem ciągle walczą przeciw demonom. Dziś podczas zwiadu w poszukiwaniu pułapek, Skizzik odkrył ukrytą jaskinię. Wewnątrz znalazł sakwy wysuszonego jedzenia i inne zasoby, w tym złoto. Nie mogło nam się to trafić w lepszym momencie."
+        }
+      ],
+      "total_chars": 312,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_107.mp3",
+      "size_kb": 338.41015625
+    },
+    {
+      "id": 108,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Jakby wiedzieli, że chcę z nimi porozmawiać, Przodkowie przybyli na krótko po moim przebudzeniu. Nie czułem się na siłach, aby wdawać się w dyskusję, więc po prostu spytałem się o to co mi zaprzątało myśli."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Umrę jeśli zabiję Vorra?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak"
+        },
+        {
+          "voice": "narrator",
+          "text": "odparli Przodkowie. Teraz ma to sens. Nie tak dawno temu szybko się starzałem jakby moje ciało próbowało nadrobić stracony czas. Kiedy uwolniłem Przodków z ich więzienia, odzyskałem siły, choć Przodkowie wydawali się być osłabieni po miesiącach magicznych tortur. Jakoś moja nieśmiertelność była związana z Przodkami - cała trójką. Więc jeśli zniszczę Vorra, sam umrę."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Teraz widzisz? Nie tylko to, ale jeśli Vorr umrze, my także!"
+        },
+        {
+          "voice": "narrator",
+          "text": "dodali Przodkowie. Skinąłem głową i rzekłem łagodnie:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Może czas barbarzyńców już przeminął."
+        }
+      ],
+      "total_chars": 751,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_ogn_campaign\\ogn_108.mp3",
+      "size_kb": 880.8583984375
+    }
+  ],
+  "error_list": []
+}

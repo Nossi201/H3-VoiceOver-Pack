@@ -1,256 +1,260 @@
-1|Zanim Tarnum sta³ siê Nieœmiertelnym Boh
-2|Misja: pokonaj wszystkich przeciwników, 
-3|Wiedz¹c, jak siê to wszystko zaczê³o, le
-4|Misja: Pokonaj wszystkich przeciwników, 
-5|Pokonawszy Rabaka, Tarnum sam obwo³a³ si
-6|Misja: Zdob¹dŸ Fortecê w ci¹gu 3 miesiêc
-7|Lud barbarzyñców zachowa³ swoj¹ to¿samoœ
-8|Misja: Pokonaj wszystkich przeciwników, 
-9|Chocia¿ B³otne Ziemie pozostawa³y pod w³
-10|Misja: Pokonaj wszystkich przeciwników, 
-11|Rozleg³y ³añcuch górski nazywany Blankam
-12|Misja: Zajmij Twierdzê, nie trac¹c przy 
-13|Gdy Tarnum i jego horda przekroczyli Bla
-14|Misja: Pokonaj wszystkich przeciwników, 
-15|Lata zmagañ, strata wszystkich których k
-16|Misja: Zdob¹dŸ zamek Steelhorn, nie trac
-17|Przera¿eni brutalnym i krwawym rozwojem 
-18|Zdobywszy warowniê Steelhorn, Tarnum wst
-20|Aby obwo³aæ siê królem barbarzyñców,\nTa
-22|Twoja harda odpowiedŸ na ultimatum Rabak
-23|Ah, wiedzia³em, ¿e nadejdziesz. Je¿eli c
-24|Nie uda³o ci siê znaleŸæ 50 wilczych jeŸ
-25|Wreszcie, 50 wilczych jeŸdŸców zapewni m
-26|Bogato zdobiony portal a¿ trzeszczy i sk
-27|Te ziemie nale¿¹ do Rabaka i jego klanu.
-28|S³ysza³eœ, ze ta po³o¿ona na uboczu wysp
-29|Z pomiêdzy szczytów drzew niespodziewani
-30|Tarnum jest m³odym barbarzyñc¹, który ca
-32|W twoj¹ stronê kuœtyka starzec, p³osz¹c 
-34|Twoi rodacy nie zawsze byli niewolnikami
-35|Myœla³eœ, ¿e twoi pobratymcy bêd¹ zafasc
-36|Jeden z kapitanów zauwa¿a, ¿e bêdziesz p
-37|Jedz¹c posi³ek wspólnie ze swymi ¿o³nier
-38|"Zbieraj wszystkie zasoby, mój panie", p
-39|Wieœci o twoich zwyciêstwach rozchodz¹ s
-41|"Co wiesz o naszej historii?" pytasz sta
-43|Siedz¹c samotnie, w nocy rozmyœla³eœ nad
-45|Ostatnio twoje imiê jest na ustach wszys
-46|Sprowadzono przed twoje oblicze jakiegoœ
-47|Gdy pod koniec dnia po d³ugim marszu zdj
-49|W ci¹gu ostatnich kilku dni zg³osi³o siê
-51|Siedz¹c z bardami, s³uchasz ich opowieœc
-52|Jeden z kapitanów poinformowa³ ciê, ¿e p
-54|Królowie magowie og³osili Tarnuma przest
-55|Na polowaniu pokona³eœ jedn¹ rêka behemo
-57|Rozci¹gaj¹ca siê przed tob¹ dolina by³a 
-58|Zasadzka!!\n\nZ zaroœli wy³aniaj¹ siê wr
-59|Na g³azie w pozycji siedz¹cej spoczywaj¹
-60|Na ziemi znajdujesz worek z³ota, podnosi
-61|To wa¿na budowla dla ka¿dego miasta, gdy
-63|Czarodziej stworzyli teleporty, by szybc
-64|To musi byæ ukryta dolina, o ktorej opow
-65|Zdo³a³eœ zapewniæ chwilowe bezpieczeñstw
-67|"Przeszukaj chatê, mo¿e znajdziesz oko m
-68|"Musimy siê te¿ broniæ, panie", mówi twó
-69|"Wiem, ¿e walcz¹c o ¿ycie, cz³owiek mo¿e
-71|Tworzenie armii wymaga zawsze bardzo du¿
-72|Otrzyma³eœ wiadomoœæ przywi¹zan¹ do nogi
-73|Po raz kolejny musisz podziêkowaæ Bardom
-75|"Nie zapomnij ka¿dego tygodnia werbowaæ 
-76|Forgar, jeden z twoich najbardziej doœwi
-78|Samotny, zakrwawiony goblin wraca z misj
-79|Twój przyjaciel Hardac, sprowadzi³ ostat
-80|Zgodnie ze starym zwyczajem Król Barbarz
-81|Usmiechasz siê na wieœc o tym, ¿e czarow
-82|Z³y czarownik Kurl uwiêzi³ czterech osta
-88|Descendent of the great Barbarian King J
-89|Chwilowy odpoczynek w przydro¿nej gospod
-90|Stara wiedŸma, wygl¹daj¹ca tak jakby ocz
-91|B³ysk szaleñstwa w oczach staro¿ytnych b
-92|"Cofnij siê, ma³y cz³owieku! To z³oto cy
-93|Za tymi stra¿nikami le¿y przejœcie wiod¹
-94|Stara wiedŸma, wygl¹daj¹ca tak jakby ocz
-95|Ci ¿o³nierze powiewaj¹ sztandarem Kurla,
-96|Za ta bram¹ graniczn¹ le¿y ziemia Kurla.
-97|Gdy zbli¿asz siê do magicznego bo¿ka for
-98|Wraca zwiadowca, który ledwie uszed³ z ¿
-99|Zarz¹dzasz postój, by spo¿yæ posi³ek i p
-100|Hardac, twój doradca, mówi, ¿e przed ka¿
-102|"Mamy szczêœcie, mój Królu!" wo³a Hardac
-104|Dziœ do miasta przyby³a oddzia³y pragn¹c
-106|Kurl dobrze wybra³ miejsce na swoj¹ twie
-107|"Nie powinieneœ zaprz¹taæ sobie g³owy gr
-108|Czasu rzeczywiœcie nie mamy wiele, a trz
-109|"Królu Tarnumie," mówi twój doradca, Har
-111|I znów Hardac udzieli³ ci dobrej rady. Z
-112|Przyby³ szpieg przynosz¹c straszne wieœc
-113|Zwiadowca przynosi ulotkê, która znalaz³
-115|List Kurla, informuj¹cy o œmierci najsta
-117|W czasie wieczornego posi³ku w towarzyst
-119|I znów ten posiwia³y goblin, który okrzy
-121|Ci, którzy opuœcili twój obóz po zabiciu
-123|By wzmocniæ swoja armiê, Tarnum musi pod
-126|Tym razem wojowniczka Yalla wróci³a prow
-127|Ach, spodziewa³am siê kogoœ, ale nie cie
-128|Nie masz pierœcienia co? Ale na pewno w 
-129|Pierœcieñ ¿ycia!  Czujê, ¿e jest w pobli
-130|Odpoczywaj¹c przy drodze zauwa¿asz du¿eg
-131|Trzymaj siê z dala! Na tym terenie miesz
-132|Odnajduszesz przypadkiem oœlep³¹ i bardz
-133|Widzisz maga, który co si³ w nogach ucie
-134|Natrafiasz na zadban¹ chatkê starego pus
-135|Do zaginionej kopalni z³ota.
-136|Uwalniasz pobliskie wioski od ohydnego m
-137|No có¿, rzeczywiœcie zak³adanie siê z ty
-139|Wreszcie! Zd¹¿y³eœ na czas. Przypuszczam
-140|To przejœcie wiedzie do niebezpiecznych 
-141|W³aœnie zastanawia³eœ siê nad wizyt¹ w p
-142|Twoje oddzia³y zosta³y niemal unieruchom
-143|Kamienny pos¹g wojownika dzier¿y srebrn¹
-144|Zaginiona kopalnia z³ota - strze¿ siê WI
-145|Stoj¹c z kapitanem nad map¹ bagien naszk
-146|"Szukaj chat jasnowidzów", mówi m¹dra ko
-148|Bardowie informuj¹ ciê, ¿e wiele lat tem
-149|W czasie rutynowej narady jeden z kapita
-150|Nazywa siê Yalla. przyby³a do twojego ob
-152|Yalla znów odwiedzi³a twój obóz. Tym raz
-153|"Panie, panie", krzyczy posiwia³y goblin
-154|Ka¿dej nocy odczuwasz niepokój przemierz
-156|Yalla odesz³a, nim siê obudzi³eœ. Tym ra
-157|Zosta³eœ wezwany do dobrze strze¿onych w
-159|Twój zaufany doradca, Hardac, przyszed³ 
-161|Spêdzi³eœ kolejny wspania³y dzieñ z Yall
-163|Podczas ostatniej wizyty Yalla obieca³a,
-164|Œwie¿o przyby³y zwiadowca nerwowa przeka
-166|Tarnum musi jakoœ utorowaæ sobie drogê w
-172|Witamy w Imperium Bracaduun!\nKraina Mag
-173|Wchodzisz na teren Blanków.\nTylko dla u
-174|Drogê niespodziewanie zasypuje ci tytan,
-175|Mo¿e pomo¿esz starej kobiecie, co? Ostat
-176|Nie przeszkadzaj¹ mi twoje wizyty, ale w
-177|Och, co z ciebie zam i³y m³odzieniec! Ba
-178|Tak jak powiedzia³ Bard, Gladius Tytanów
-179|Jeden z Bardów zbli¿y³ siê do ciebie.\n\
-180|Twoja armia zostaje niespodziewanie zaat
-181|Znajdujesz spory kufer wykonany z niezna
-182|Dobrze s³ysza³eœ, mam He³m Gromu. I nie,
-183|Mówi³em ¿e go nie sprzedam! Przynieœ mi 
-184|Ooo! He³m piekielnego sztormu jest znacz
-185|Poœród resztek spalonej na stosie czarow
-186|Spotykasz wêdrowca, który wyci¹ga taliê 
-187|Od strony rozpalonego s³oñcem horyzontu 
-188|Zupe³nie przypadkiem jedna z twoich ludz
-189|Odwiedzaj¹c lokalnego mêdrca opowiadasz 
-190|Na drodze czeka na ciebie ma³a grupa ¿o³
-191|"Uwaga" , mówi doradca, gdy zbli¿acie si
-192|Niedawny zawa³ odkry³ trochê klejnotów i
-193|Dr¿¹cy krzak ostrzega ciê przed atakiem 
-194|Natkn¹³eœ siê na ma³y kr¹g kolorowych wo
-195|Przed tob¹ wysokie, kamienne mury zamku.
-196|Kopi¹c groby dla kilku zmar³ych, twoi lu
-198|Obudzi³ ciê szaman. "Mia³em sen, mój Kró
-200|Wizyta u miejscowej czarownicy okaza³a s
-201|Miesi¹ce bezustannej walki nauczy³y ciê 
-202|Postanowi³eœ spo¿yæ posi³ek samotnie w s
-203|Nic, nawet wspomnienie dawnych zwyciêstw
-204|D³ugo konferowa³eœ z Bardami na temat hi
-205|Wed³ug najœwie¿szych raportów zaatakowan
-207|Siedz¹c przy wieczornym posi³ku s³uchasz
-209|Dosz³o do tego, ¿e nawet niektórzy z dow
-211|Znowu uderzono na linie zaopatrzenia two
-213|Dzisiaj awansowa³eœ najstarszego syna Ha
-214|To by³ fatalny dzieñ.\n\nMusia³eœ zabiæ 
-216|Do obozu przyby³ ledwie ¿ywy ¿o³nierz. P
-218|Zasadzki sta³y siê twoim utrapieniem, ze
-220|Przyby³a para ogrów wioz¹c miêdzy sob¹ c
-222|Tarnum przebi³ siê przez Blanki, ale w k
-223|Stra¿nicy krzycz¹: "To przejœcie jest ot
-224|"To naprawdê ty, panie?" pyta kapitan st
-226|Na zachód - Blanki i Dzikie pustkowia  \
-227|DŸwiêki bitwy przywabiaj¹ ciê do miejsca
-228|Na zewn¹trz sanktuarium modli siê grupa 
-229|Biwakuje tu banda wêdrownych Mistrzów. W
-230|Powietrze wokó³ ciebie za³amuje siê, prz
-231|Bandyci!  Ci brutalni mordercy nie maj¹ 
-232|Widzisz z³oty ³uk zwisaj¹cy z ga³êzi drz
-233|"Z rozkazu cesarstwa, ci niebezpieczni b
-234|Jeden ze stra¿ników przy bramie informuj
-236|Wyczerpana grupa twoich ¿o³nierzy z tyln
-238|Przyby³y wieœci od barbarzyñskich rebeli
-239|"Wszystko co musimy teraz zrobiæ", mówi 
-240|Nie doceni³eœ potêgi królów-magów Baraca
-241|Przebudzi³eœ siê, Twoje cia³o jest ociê¿
-243|Z oci¹ganiem mianujesz nastêpcê syna Har
-244|Jak to siê sta³o, ¿e jesteœ oddzielony o
-246|Hardac wszed³ do twojego namiotu z ponur
-247|Dziœ wróci³ ze swej misji Bloodclub i na
-248|"To wszystko, co zamierzasz zrobiæ w tej
-249|Hardac wróci³ ze zwiadu akurat w porze t
-250|Jedna z grup zwiadowczych wróci³a dzisia
-252|Grupa ¿o³nierzy wróci³a z puszczy nios¹c
-253|Pole walki.\n\nWidzia³eœ ich ju¿ tak wie
-255|Tego ranka ty i Hardac wjechaliœcie na s
-257|Straciwszy wiêkszoœæ hordy w pu³apce cza
-258|"B³agam", krzyczy jeden z wieœniaków. "T
-259|Nie d³ugo po tym, jak twoja armia spali³
-260|Z jaskiñ wychodzi grupa zmêczonych, rozw
-261|Grupa ch³opstwa zagradza przejœcie, ale 
-262|Du¿a grupa wolno posuwa siê po bagnistym
-263|Przed pobliska wiosk¹ stoi grupa wieœnia
-264|Zwiadowcy donosz¹, ¿e w pobliskich zaroœ
-265|Pod¹¿asz œlepo ze sw¹ armi¹, nie zauwa¿y
-266|Twoi ludzie wytropili w tym surowym tere
-267|Grupa barbarzyñskich zdrajców przyby³a d
-268|Przed tob¹ du¿a grupa popleczników króló
-269|Du¿a grupa ch³opów wychodzi z pobliskieg
-270|Obecnie królowie-magowie przygotowywan¹ 
-272|Dziœ rano wyda³eœ wszystkim kapitanom na
-273|Wszêdzie p³on¹ wioski, ale twoi zwiadowc
-274|Wczeœniej wys³a³eœ niewielk¹ grupê, by z
-275|Tropiciele wrócili prowadz¹c zaginion¹ j
-276|Dezerter! Jeden z kapitanów. Trzeba to z
-277|Odwiedziwszy dymi¹ce zgliszcza wioski za
-279|Masz wra¿enie, ¿e ju¿ to wczeœniej widzi
-281|Hardac wróci³ prowadz¹c goblina dezerter
-283|Narady strategiczne s¹ coraz cichsze, w³
-285|Zamieszanie w przeciwleg³ej czêœci obozu
-287|W nocy wymkn¹³eœ siê z namiotu okrywszy 
-288|"Tak dokona³ wielkich czynów. i za to go
-290|Do twojego namiotu wszed³ Hardac. Jest p
-291|Tarnum wypar³ królów-magów do oceanu. Te
-294|Na drodze przed tob¹ dzieje siê cos dziw
-295|Ogrzy szaman blokuje ci drogê okazuj¹ si
-296|Samotny rycerz prowadzi grupê brudnych w
-297|Niemal wszyscy wieœniacy w tej okolicy m
-298|Przed tob¹ rozci¹ga siê ocean, ale pamiê
-299|Znalaz³eœ grupê kiepsko wygl¹daj¹cych gó
-300|W czasie po³udniowego odpoczynku jakiœ n
-301|Nie wierzysz w³asnym oczom, ale ta magic
-302|Na twoich oczach ca³a armia zmieni³a siê
-303|Przed tob¹ na ziemi le¿y skrzynia ze ska
-304|Chyba zgubi³em przedmiot, który by³ dla 
-305|Wracasz bez odznaki? A wiêc zapewne zgin
-306|To ona! Och, wielkie dziêki! \nUczyni³eœ
-307|Atak nadszed³ od strony nisko sun¹cych c
-308|Przy drodze rozbi³a obóz banda nieokrzes
-309|Widzisz ¿o³nierzy odpoczywaj¹cych po d³u
-310|Nagle otacza ciê mg³a. Ledwie widzisz na
-311|Umieszczone na szczycie iglicy guano-pla
-313|S¹dzi³eœ, ¿e czêœæ ¿o³nierzy zdezerteruj
-315|Szpiedzy donosz¹, ¿e miêdzy twoimi pozyc
-316|Jak co dzieñ rano, pytasz o radê jasnowi
-317|Jeden ze zwiadowców wróci³ znad oceanu, 
-319|Co najmniej piêædziesiêciu ¿o³nierzy prz
-321|Znów ten sen.\n\nTEN SEN - tak go nazywa
-323|Ludzie, mówi¹, ¿e w tych rejonach nawet 
-324|Poniewa¿ twoja horda straci³a nieco na l
-326|Zza drzew wy³ania siê znajomy, stary gob
-327|Dowiedzia³eœ siê, ze miejsce, w którym s
-328|Przyby³ dziœ pos³aniec od królów-magów. 
-330|Dziœ zwiadowcy przyjechali wiod¹c ze sob
-332|Ojciec le¿y w ³ó¿ku od piêciu dni i nie 
-334|Jeden ze s³u¿¹cych przyniós³ wiadomoœæ n
-336|Budzi ciê miêkki ha³as i otwierasz oczy,
-338|S¹dz¹c, ¿e gobelin odkry³, i¿ to ty by³e
-339|Koszmar zaczyna siê podobnie, jak TEN SE
+# text_map.txt (bez filtra mapy)
+# Format: woj_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Woj_bmp_campaign_texts_ab_edit.txt
+
+woj_001|Zanim Tarnum staÅ‚ siÄ™ NieÅ›miertelnym Boh
+woj_002|Misja: pokonaj wszystkich przeciwnikÃ³w, 
+woj_003|WiedzÄ…c, jak siÄ™ to wszystko zaczÄ™Å‚o, le
+woj_004|Misja: Pokonaj wszystkich przeciwnikÃ³w, 
+woj_005|Pokonawszy Rabaka, Tarnum sam obwoÅ‚aÅ‚ si
+woj_006|Misja: ZdobÄ…dÅº FortecÄ™ w ciÄ…gu 3 miesiÄ™c
+woj_007|Lud barbarzyÅ„cÃ³w zachowaÅ‚ swojÄ… toÅ¼samoÅ›
+woj_008|Misja: Pokonaj wszystkich przeciwnikÃ³w, 
+woj_009|ChociaÅ¼ BÅ‚otne Ziemie pozostawaÅ‚y pod wÅ‚
+woj_010|Misja: Pokonaj wszystkich przeciwnikÃ³w, 
+woj_011|RozlegÅ‚y Å‚aÅ„cuch gÃ³rski nazywany Blankam
+woj_012|Misja: Zajmij TwierdzÄ™, nie tracÄ…c przy 
+woj_013|Gdy Tarnum i jego horda przekroczyli Bla
+woj_014|Misja: Pokonaj wszystkich przeciwnikÃ³w, 
+woj_015|Lata zmagaÅ„, strata wszystkich ktÃ³rych k
+woj_016|Misja: ZdobÄ…dÅº zamek Steelhorn, nie trac
+woj_017|PrzeraÅ¼eni brutalnym i krwawym rozwojem 
+woj_018|Zdobywszy warowniÄ™ Steelhorn, Tarnum wst
+woj_020|Aby obwoÅ‚aÄ‡ siÄ™ krÃ³lem barbarzyÅ„cÃ³w,\nTa
+woj_022|Twoja harda odpowiedÅº na ultimatum Rabak
+woj_023|Ah, wiedziaÅ‚em, Å¼e nadejdziesz. JeÅ¼eli c
+woj_024|Nie udaÅ‚o ci siÄ™ znaleÅºÄ‡ 50 wilczych jeÅº
+woj_025|Wreszcie, 50 wilczych jeÅºdÅºcÃ³w zapewni m
+woj_026|Bogato zdobiony portal aÅ¼ trzeszczy i sk
+woj_027|Te ziemie naleÅ¼Ä… do Rabaka i jego klanu.
+woj_028|SÅ‚yszaÅ‚eÅ›, ze ta poÅ‚oÅ¼ona na uboczu wysp
+woj_029|Z pomiÄ™dzy szczytÃ³w drzew niespodziewani
+woj_030|Tarnum jest mÅ‚odym barbarzyÅ„cÄ…, ktÃ³ry ca
+woj_032|W twojÄ… stronÄ™ kuÅ›tyka starzec, pÅ‚oszÄ…c 
+woj_034|Twoi rodacy nie zawsze byli niewolnikami
+woj_035|MyÅ›laÅ‚eÅ›, Å¼e twoi pobratymcy bÄ™dÄ… zafasc
+woj_036|Jeden z kapitanÃ³w zauwaÅ¼a, Å¼e bÄ™dziesz p
+woj_037|JedzÄ…c posiÅ‚ek wspÃ³lnie ze swymi Å¼oÅ‚nier
+woj_038|"Zbieraj wszystkie zasoby, mÃ³j panie", p
+woj_039|WieÅ›ci o twoich zwyciÄ™stwach rozchodzÄ… s
+woj_041|"Co wiesz o naszej historii?" pytasz sta
+woj_043|SiedzÄ…c samotnie, w nocy rozmyÅ›laÅ‚eÅ› nad
+woj_045|Ostatnio twoje imiÄ™ jest na ustach wszys
+woj_046|Sprowadzono przed twoje oblicze jakiegoÅ›
+woj_047|Gdy pod koniec dnia po dÅ‚ugim marszu zdj
+woj_049|W ciÄ…gu ostatnich kilku dni zgÅ‚osiÅ‚o siÄ™
+woj_051|SiedzÄ…c z bardami, sÅ‚uchasz ich opowieÅ›c
+woj_052|Jeden z kapitanÃ³w poinformowaÅ‚ ciÄ™, Å¼e p
+woj_054|KrÃ³lowie magowie ogÅ‚osili Tarnuma przest
+woj_055|Na polowaniu pokonaÅ‚eÅ› jednÄ… rÄ™ka behemo
+woj_057|RozciÄ…gajÄ…ca siÄ™ przed tobÄ… dolina byÅ‚a 
+woj_058|Zasadzka!!\n\nZ zaroÅ›li wyÅ‚aniajÄ… siÄ™ wr
+woj_059|Na gÅ‚azie w pozycji siedzÄ…cej spoczywajÄ…
+woj_060|Na ziemi znajdujesz worek zÅ‚ota, podnosi
+woj_061|To waÅ¼na budowla dla kaÅ¼dego miasta, gdy
+woj_063|Czarodziej stworzyli teleporty, by szybc
+woj_064|To musi byÄ‡ ukryta dolina, o ktorej opow
+woj_065|ZdoÅ‚aÅ‚eÅ› zapewniÄ‡ chwilowe bezpieczeÅ„stw
+woj_067|"Przeszukaj chatÄ™, moÅ¼e znajdziesz oko m
+woj_068|"Musimy siÄ™ teÅ¼ broniÄ‡, panie", mÃ³wi twÃ³
+woj_069|"Wiem, Å¼e walczÄ…c o Å¼ycie, czÅ‚owiek moÅ¼e
+woj_071|Tworzenie armii wymaga zawsze bardzo duÅ¼
+woj_072|OtrzymaÅ‚eÅ› wiadomoÅ›Ä‡ przywiÄ…zanÄ… do nogi
+woj_073|Po raz kolejny musisz podziÄ™kowaÄ‡ Bardom
+woj_075|"Nie zapomnij kaÅ¼dego tygodnia werbowaÄ‡ 
+woj_076|Forgar, jeden z twoich najbardziej doÅ›wi
+woj_078|Samotny, zakrwawiony goblin wraca z misj
+woj_079|TwÃ³j przyjaciel Hardac, sprowadziÅ‚ ostat
+woj_080|Zgodnie ze starym zwyczajem KrÃ³l Barbarz
+woj_081|Usmiechasz siÄ™ na wieÅ›c o tym, Å¼e czarow
+woj_082|ZÅ‚y czarownik Kurl uwiÄ™ziÅ‚ czterech osta
+woj_088|Descendent of the great Barbarian King J
+woj_089|Chwilowy odpoczynek w przydroÅ¼nej gospod
+woj_090|Stara wiedÅºma, wyglÄ…dajÄ…ca tak jakby ocz
+woj_091|BÅ‚ysk szaleÅ„stwa w oczach staroÅ¼ytnych b
+woj_092|"Cofnij siÄ™, maÅ‚y czÅ‚owieku! To zÅ‚oto cy
+woj_093|Za tymi straÅ¼nikami leÅ¼y przejÅ›cie wiodÄ…
+woj_094|Stara wiedÅºma, wyglÄ…dajÄ…ca tak jakby ocz
+woj_095|Ci Å¼oÅ‚nierze powiewajÄ… sztandarem Kurla,
+woj_096|Za ta bramÄ… granicznÄ… leÅ¼y ziemia Kurla.
+woj_097|Gdy zbliÅ¼asz siÄ™ do magicznego boÅ¼ka for
+woj_098|Wraca zwiadowca, ktÃ³ry ledwie uszedÅ‚ z Å¼
+woj_099|ZarzÄ…dzasz postÃ³j, by spoÅ¼yÄ‡ posiÅ‚ek i p
+woj_100|Hardac, twÃ³j doradca, mÃ³wi, Å¼e przed kaÅ¼
+woj_102|"Mamy szczÄ™Å›cie, mÃ³j KrÃ³lu!" woÅ‚a Hardac
+woj_104|DziÅ› do miasta przybyÅ‚a oddziaÅ‚y pragnÄ…c
+woj_106|Kurl dobrze wybraÅ‚ miejsce na swojÄ… twie
+woj_107|"Nie powinieneÅ› zaprzÄ…taÄ‡ sobie gÅ‚owy gr
+woj_108|Czasu rzeczywiÅ›cie nie mamy wiele, a trz
+woj_109|"KrÃ³lu Tarnumie," mÃ³wi twÃ³j doradca, Har
+woj_111|I znÃ³w Hardac udzieliÅ‚ ci dobrej rady. Z
+woj_112|PrzybyÅ‚ szpieg przynoszÄ…c straszne wieÅ›c
+woj_113|Zwiadowca przynosi ulotkÄ™, ktÃ³ra znalazÅ‚
+woj_115|List Kurla, informujÄ…cy o Å›mierci najsta
+woj_117|W czasie wieczornego posiÅ‚ku w towarzyst
+woj_119|I znÃ³w ten posiwiaÅ‚y goblin, ktÃ³ry okrzy
+woj_121|Ci, ktÃ³rzy opuÅ›cili twÃ³j obÃ³z po zabiciu
+woj_123|By wzmocniÄ‡ swoja armiÄ™, Tarnum musi pod
+woj_126|Tym razem wojowniczka Yalla wrÃ³ciÅ‚a prow
+woj_127|Ach, spodziewaÅ‚am siÄ™ kogoÅ›, ale nie cie
+woj_128|Nie masz pierÅ›cienia co? Ale na pewno w 
+woj_129|PierÅ›cieÅ„ Å¼ycia!  CzujÄ™, Å¼e jest w pobli
+woj_130|OdpoczywajÄ…c przy drodze zauwaÅ¼asz duÅ¼eg
+woj_131|Trzymaj siÄ™ z dala! Na tym terenie miesz
+woj_132|Odnajduszesz przypadkiem oÅ›lepÅ‚Ä… i bardz
+woj_133|Widzisz maga, ktÃ³ry co siÅ‚ w nogach ucie
+woj_134|Natrafiasz na zadbanÄ… chatkÄ™ starego pus
+woj_135|Do zaginionej kopalni zÅ‚ota.
+woj_136|Uwalniasz pobliskie wioski od ohydnego m
+woj_137|No cÃ³Å¼, rzeczywiÅ›cie zakÅ‚adanie siÄ™ z ty
+woj_139|Wreszcie! ZdÄ…Å¼yÅ‚eÅ› na czas. Przypuszczam
+woj_140|To przejÅ›cie wiedzie do niebezpiecznych 
+woj_141|WÅ‚aÅ›nie zastanawiaÅ‚eÅ› siÄ™ nad wizytÄ… w p
+woj_142|Twoje oddziaÅ‚y zostaÅ‚y niemal unieruchom
+woj_143|Kamienny posÄ…g wojownika dzierÅ¼y srebrnÄ…
+woj_144|Zaginiona kopalnia zÅ‚ota - strzeÅ¼ siÄ™ WI
+woj_145|StojÄ…c z kapitanem nad mapÄ… bagien naszk
+woj_146|"Szukaj chat jasnowidzÃ³w", mÃ³wi mÄ…dra ko
+woj_148|Bardowie informujÄ… ciÄ™, Å¼e wiele lat tem
+woj_149|W czasie rutynowej narady jeden z kapita
+woj_150|Nazywa siÄ™ Yalla. przybyÅ‚a do twojego ob
+woj_152|Yalla znÃ³w odwiedziÅ‚a twÃ³j obÃ³z. Tym raz
+woj_153|"Panie, panie", krzyczy posiwiaÅ‚y goblin
+woj_154|KaÅ¼dej nocy odczuwasz niepokÃ³j przemierz
+woj_156|Yalla odeszÅ‚a, nim siÄ™ obudziÅ‚eÅ›. Tym ra
+woj_157|ZostaÅ‚eÅ› wezwany do dobrze strzeÅ¼onych w
+woj_159|TwÃ³j zaufany doradca, Hardac, przyszedÅ‚ 
+woj_161|SpÄ™dziÅ‚eÅ› kolejny wspaniaÅ‚y dzieÅ„ z Yall
+woj_163|Podczas ostatniej wizyty Yalla obiecaÅ‚a,
+woj_164|ÅšwieÅ¼o przybyÅ‚y zwiadowca nerwowa przeka
+woj_166|Tarnum musi jakoÅ› utorowaÄ‡ sobie drogÄ™ w
+woj_172|Witamy w Imperium Bracaduun!\nKraina Mag
+woj_173|Wchodzisz na teren BlankÃ³w.\nTylko dla u
+woj_174|DrogÄ™ niespodziewanie zasypuje ci tytan,
+woj_175|MoÅ¼e pomoÅ¼esz starej kobiecie, co? Ostat
+woj_176|Nie przeszkadzajÄ… mi twoje wizyty, ale w
+woj_177|Och, co z ciebie zam iÅ‚y mÅ‚odzieniec! Ba
+woj_178|Tak jak powiedziaÅ‚ Bard, Gladius TytanÃ³w
+woj_179|Jeden z BardÃ³w zbliÅ¼yÅ‚ siÄ™ do ciebie.\n\
+woj_180|Twoja armia zostaje niespodziewanie zaat
+woj_181|Znajdujesz spory kufer wykonany z niezna
+woj_182|Dobrze sÅ‚yszaÅ‚eÅ›, mam HeÅ‚m Gromu. I nie,
+woj_183|MÃ³wiÅ‚em Å¼e go nie sprzedam! PrzynieÅ› mi 
+woj_184|Ooo! HeÅ‚m piekielnego sztormu jest znacz
+woj_185|PoÅ›rÃ³d resztek spalonej na stosie czarow
+woj_186|Spotykasz wÄ™drowca, ktÃ³ry wyciÄ…ga taliÄ™ 
+woj_187|Od strony rozpalonego sÅ‚oÅ„cem horyzontu 
+woj_188|ZupeÅ‚nie przypadkiem jedna z twoich ludz
+woj_189|OdwiedzajÄ…c lokalnego mÄ™drca opowiadasz 
+woj_190|Na drodze czeka na ciebie maÅ‚a grupa Å¼oÅ‚
+woj_191|"Uwaga" , mÃ³wi doradca, gdy zbliÅ¼acie si
+woj_192|Niedawny zawaÅ‚ odkryÅ‚ trochÄ™ klejnotÃ³w i
+woj_193|DrÅ¼Ä…cy krzak ostrzega ciÄ™ przed atakiem 
+woj_194|NatknÄ…Å‚eÅ› siÄ™ na maÅ‚y krÄ…g kolorowych wo
+woj_195|Przed tobÄ… wysokie, kamienne mury zamku.
+woj_196|KopiÄ…c groby dla kilku zmarÅ‚ych, twoi lu
+woj_198|ObudziÅ‚ ciÄ™ szaman. "MiaÅ‚em sen, mÃ³j KrÃ³
+woj_200|Wizyta u miejscowej czarownicy okazaÅ‚a s
+woj_201|MiesiÄ…ce bezustannej walki nauczyÅ‚y ciÄ™ 
+woj_202|PostanowiÅ‚eÅ› spoÅ¼yÄ‡ posiÅ‚ek samotnie w s
+woj_203|Nic, nawet wspomnienie dawnych zwyciÄ™stw
+woj_204|DÅ‚ugo konferowaÅ‚eÅ› z Bardami na temat hi
+woj_205|WedÅ‚ug najÅ›wieÅ¼szych raportÃ³w zaatakowan
+woj_207|SiedzÄ…c przy wieczornym posiÅ‚ku sÅ‚uchasz
+woj_209|DoszÅ‚o do tego, Å¼e nawet niektÃ³rzy z dow
+woj_211|Znowu uderzono na linie zaopatrzenia two
+woj_213|Dzisiaj awansowaÅ‚eÅ› najstarszego syna Ha
+woj_214|To byÅ‚ fatalny dzieÅ„.\n\nMusiaÅ‚eÅ› zabiÄ‡ 
+woj_216|Do obozu przybyÅ‚ ledwie Å¼ywy Å¼oÅ‚nierz. P
+woj_218|Zasadzki staÅ‚y siÄ™ twoim utrapieniem, ze
+woj_220|PrzybyÅ‚a para ogrÃ³w wiozÄ…c miÄ™dzy sobÄ… c
+woj_222|Tarnum przebiÅ‚ siÄ™ przez Blanki, ale w k
+woj_223|StraÅ¼nicy krzyczÄ…: "To przejÅ›cie jest ot
+woj_224|"To naprawdÄ™ ty, panie?" pyta kapitan st
+woj_226|Na zachÃ³d - Blanki i Dzikie pustkowia  \
+woj_227|DÅºwiÄ™ki bitwy przywabiajÄ… ciÄ™ do miejsca
+woj_228|Na zewnÄ…trz sanktuarium modli siÄ™ grupa 
+woj_229|Biwakuje tu banda wÄ™drownych MistrzÃ³w. W
+woj_230|Powietrze wokÃ³Å‚ ciebie zaÅ‚amuje siÄ™, prz
+woj_231|Bandyci!  Ci brutalni mordercy nie majÄ… 
+woj_232|Widzisz zÅ‚oty Å‚uk zwisajÄ…cy z gaÅ‚Ä™zi drz
+woj_233|"Z rozkazu cesarstwa, ci niebezpieczni b
+woj_234|Jeden ze straÅ¼nikÃ³w przy bramie informuj
+woj_236|Wyczerpana grupa twoich Å¼oÅ‚nierzy z tyln
+woj_238|PrzybyÅ‚y wieÅ›ci od barbarzyÅ„skich rebeli
+woj_239|"Wszystko co musimy teraz zrobiÄ‡", mÃ³wi 
+woj_240|Nie doceniÅ‚eÅ› potÄ™gi krÃ³lÃ³w-magÃ³w Baraca
+woj_241|PrzebudziÅ‚eÅ› siÄ™, Twoje ciaÅ‚o jest ociÄ™Å¼
+woj_243|Z ociÄ…ganiem mianujesz nastÄ™pcÄ™ syna Har
+woj_244|Jak to siÄ™ staÅ‚o, Å¼e jesteÅ› oddzielony o
+woj_246|Hardac wszedÅ‚ do twojego namiotu z ponur
+woj_247|DziÅ› wrÃ³ciÅ‚ ze swej misji Bloodclub i na
+woj_248|"To wszystko, co zamierzasz zrobiÄ‡ w tej
+woj_249|Hardac wrÃ³ciÅ‚ ze zwiadu akurat w porze t
+woj_250|Jedna z grup zwiadowczych wrÃ³ciÅ‚a dzisia
+woj_252|Grupa Å¼oÅ‚nierzy wrÃ³ciÅ‚a z puszczy niosÄ…c
+woj_253|Pole walki.\n\nWidziaÅ‚eÅ› ich juÅ¼ tak wie
+woj_255|Tego ranka ty i Hardac wjechaliÅ›cie na s
+woj_257|Straciwszy wiÄ™kszoÅ›Ä‡ hordy w puÅ‚apce cza
+woj_258|"BÅ‚agam", krzyczy jeden z wieÅ›niakÃ³w. "T
+woj_259|Nie dÅ‚ugo po tym, jak twoja armia spaliÅ‚
+woj_260|Z jaskiÅ„ wychodzi grupa zmÄ™czonych, rozw
+woj_261|Grupa chÅ‚opstwa zagradza przejÅ›cie, ale 
+woj_262|DuÅ¼a grupa wolno posuwa siÄ™ po bagnistym
+woj_263|Przed pobliska wioskÄ… stoi grupa wieÅ›nia
+woj_264|Zwiadowcy donoszÄ…, Å¼e w pobliskich zaroÅ›
+woj_265|PodÄ…Å¼asz Å›lepo ze swÄ… armiÄ…, nie zauwaÅ¼y
+woj_266|Twoi ludzie wytropili w tym surowym tere
+woj_267|Grupa barbarzyÅ„skich zdrajcÃ³w przybyÅ‚a d
+woj_268|Przed tobÄ… duÅ¼a grupa poplecznikÃ³w krÃ³lÃ³
+woj_269|DuÅ¼a grupa chÅ‚opÃ³w wychodzi z pobliskieg
+woj_270|Obecnie krÃ³lowie-magowie przygotowywanÄ… 
+woj_272|DziÅ› rano wydaÅ‚eÅ› wszystkim kapitanom na
+woj_273|WszÄ™dzie pÅ‚onÄ… wioski, ale twoi zwiadowc
+woj_274|WczeÅ›niej wysÅ‚aÅ‚eÅ› niewielkÄ… grupÄ™, by z
+woj_275|Tropiciele wrÃ³cili prowadzÄ…c zaginionÄ… j
+woj_276|Dezerter! Jeden z kapitanÃ³w. Trzeba to z
+woj_277|Odwiedziwszy dymiÄ…ce zgliszcza wioski za
+woj_279|Masz wraÅ¼enie, Å¼e juÅ¼ to wczeÅ›niej widzi
+woj_281|Hardac wrÃ³ciÅ‚ prowadzÄ…c goblina dezerter
+woj_283|Narady strategiczne sÄ… coraz cichsze, wÅ‚
+woj_285|Zamieszanie w przeciwlegÅ‚ej czÄ™Å›ci obozu
+woj_287|W nocy wymknÄ…Å‚eÅ› siÄ™ z namiotu okrywszy 
+woj_288|"Tak dokonaÅ‚ wielkich czynÃ³w. i za to go
+woj_290|Do twojego namiotu wszedÅ‚ Hardac. Jest p
+woj_291|Tarnum wyparÅ‚ krÃ³lÃ³w-magÃ³w do oceanu. Te
+woj_294|Na drodze przed tobÄ… dzieje siÄ™ cos dziw
+woj_295|Ogrzy szaman blokuje ci drogÄ™ okazujÄ… si
+woj_296|Samotny rycerz prowadzi grupÄ™ brudnych w
+woj_297|Niemal wszyscy wieÅ›niacy w tej okolicy m
+woj_298|Przed tobÄ… rozciÄ…ga siÄ™ ocean, ale pamiÄ™
+woj_299|ZnalazÅ‚eÅ› grupÄ™ kiepsko wyglÄ…dajÄ…cych gÃ³
+woj_300|W czasie poÅ‚udniowego odpoczynku jakiÅ› n
+woj_301|Nie wierzysz wÅ‚asnym oczom, ale ta magic
+woj_302|Na twoich oczach caÅ‚a armia zmieniÅ‚a siÄ™
+woj_303|Przed tobÄ… na ziemi leÅ¼y skrzynia ze ska
+woj_304|Chyba zgubiÅ‚em przedmiot, ktÃ³ry byÅ‚ dla 
+woj_305|Wracasz bez odznaki? A wiÄ™c zapewne zgin
+woj_306|To ona! Och, wielkie dziÄ™ki! \nUczyniÅ‚eÅ›
+woj_307|Atak nadszedÅ‚ od strony nisko sunÄ…cych c
+woj_308|Przy drodze rozbiÅ‚a obÃ³z banda nieokrzes
+woj_309|Widzisz Å¼oÅ‚nierzy odpoczywajÄ…cych po dÅ‚u
+woj_310|Nagle otacza ciÄ™ mgÅ‚a. Ledwie widzisz na
+woj_311|Umieszczone na szczycie iglicy guano-pla
+woj_313|SÄ…dziÅ‚eÅ›, Å¼e czÄ™Å›Ä‡ Å¼oÅ‚nierzy zdezerteruj
+woj_315|Szpiedzy donoszÄ…, Å¼e miÄ™dzy twoimi pozyc
+woj_316|Jak co dzieÅ„ rano, pytasz o radÄ™ jasnowi
+woj_317|Jeden ze zwiadowcÃ³w wrÃ³ciÅ‚ znad oceanu, 
+woj_319|Co najmniej piÄ™Ä‡dziesiÄ™ciu Å¼oÅ‚nierzy prz
+woj_321|ZnÃ³w ten sen.\n\nTEN SEN - tak go nazywa
+woj_323|Ludzie, mÃ³wiÄ…, Å¼e w tych rejonach nawet 
+woj_324|PoniewaÅ¼ twoja horda straciÅ‚a nieco na l
+woj_326|Zza drzew wyÅ‚ania siÄ™ znajomy, stary gob
+woj_327|DowiedziaÅ‚eÅ› siÄ™, ze miejsce, w ktÃ³rym s
+woj_328|PrzybyÅ‚ dziÅ› posÅ‚aniec od krÃ³lÃ³w-magÃ³w. 
+woj_330|DziÅ› zwiadowcy przyjechali wiodÄ…c ze sob
+woj_332|Ojciec leÅ¼y w Å‚Ã³Å¼ku od piÄ™ciu dni i nie 
+woj_334|Jeden ze sÅ‚uÅ¼Ä…cych przyniÃ³sÅ‚ wiadomoÅ›Ä‡ n
+woj_336|Budzi ciÄ™ miÄ™kki haÅ‚as i otwierasz oczy,
+woj_338|SÄ…dzÄ…c, Å¼e gobelin odkryÅ‚, iÅ¼ to ty byÅ‚e
+woj_339|Koszmar zaczyna siÄ™ podobnie, jak TEN SE

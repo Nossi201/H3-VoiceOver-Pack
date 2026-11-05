@@ -1,0 +1,791 @@
+{
+  "campaign": "Pod",
+  "total_texts": 302,
+  "generated": 15,
+  "errors": 0,
+  "total_chars": 118216,
+  "results": [
+    {
+      "id": 64,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Panie! Poczekaj!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Zatrzymujesz się i czekasz na młodego człowieka."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mam informacje, panie"
+        },
+        {
+          "voice": "narrator",
+          "text": ", mówi."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Na północy znajduje się wartościowa sakiewka pilnowana przez drakolicze. Ta sakiewka przez długi czas będzie zaopatrywać cię w złoto."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dziękuję za tę informację. Jakiej oczekujesz nagrody?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", pytasz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Chcę dołączyć do twej armii! Teraz jestem tylko kuchcikiem. Przeważnie zbieram chrust, ale pragnąłbym nieść miecz w bitwie, walczyć u twego boku!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Dzielny chłopak."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dobrze więc. Zostajesz zwolniony z obecnych obowiązków. Idź do Worthington i porozmawiaj z dowodzącym sierżantem. Da ci wszystko, czego potrzebujesz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak jest, panie! Wezmę też przyjaciół!"
+        }
+      ],
+      "total_chars": 635,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_064.mp3",
+      "size_kb": 826.1650390625
+    },
+    {
+      "id": 107,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Ostatniego wieczoru jadłem kolację z królową Allison. Rozmawialiśmy o jej doświadczeniach i sposobie dowodzenia armią."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Niełatwo kontrolować te demony, a jednak spisujesz się świetnie. Sądzę, że naprawdę już mnie nie potrzebujesz."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nic podobnego"
+        },
+        {
+          "voice": "narrator",
+          "text": ", odparła."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Jesteś moim zaufanym doradcą, rycerzu Tarnum. Czuję jakiś związek z tobą, zawsze czułam. Nie proś, bym to wyjaśniła - wiem, że to brzmi jak szaleństwo. To tak, jakbyś był bratem, którego nigdy nie miałam, lub coś w tym rodzaju."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, wiem co masz na myśli."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Gdy już stąd odejdziemy i wrócimy do Erathii, mam zamiar uczynić cię mym osobistym obrońcą, rycerzu Tarnum. Chcę, żebyś zawsze był u mego boku. Obiecaj, że zostaniesz!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Spojrzałem na swą siostrzenicę i powstrzymałem emocje. A potem obiecałem, choć wiedziałem, że nie będę mógł dotrzymać słowa."
+        }
+      ],
+      "total_chars": 796,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_107.mp3",
+      "size_kb": 977.185546875
+    },
+    {
+      "id": 112,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Kraina pełna wyziewów siarki jest kiepskim miejscem na jakąkolwiek ceremonię, ale na oczach wszystkich pasowałem dziś uroczyście królową Allison na rycerza. Była zaskoczona, gdy poprosiłem, by ugięła kolano i przysięgła wierność Erathii. Łzy napłynęły jej do oczu. Gdy wstała, dałem jej swój miecz i powiedziałem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "To mocne ostrze, moja królowo, służyło mi dobrze przez lata, których nie zliczę."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Bardzo ci dziękuję, rycerzu Tarnum!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Odwróciłem ją ku tłumowi i krzyknąłem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Na cześć nowego rycerza, królowej Allison Gryphonheart. Zasłużyła na swój tytuł i na miecz!"
+        }
+      ],
+      "total_chars": 557,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_112.mp3",
+      "size_kb": 648.6142578125
+    },
+    {
+      "id": 137,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "npc_f",
+        "tarnum",
+        "tarnum",
+        "npc_f",
+        "npc_f",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Panie, znaleźliśmy tę starą kobietę w legowisku piekielnych ogarów, zamkniętą w klatce"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedział jeden z pikinierów. Na wpół zagłodzona kobieta w średnim wieku nie sprawiała wrażenia przestraszonej."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jak możemy ci pomóc, pani?"
+        },
+        {
+          "voice": "npc_f",
+          "text": "Mój dom jest niedaleko stąd - zabierzcie mnie tam."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mieszkasz w takim miejscu?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zdziwiłem się. Jak mogła tu przeżyć?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mogę zabrać cię z powrotem na powierzchnię."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Nie. Tu jest mój dom. Jeśli mnie do niego zabierzesz, podam ci imię tego, którego szukasz - demona, co skradł duszę."
+        },
+        {
+          "voice": "narrator",
+          "text": "Jej chata nie była daleko. Mimo że chyląca się ku upadkowi konstrukcja porośnięta była grzybem, kobieta wyglądała na zadowoloną, że jest w domu. Poruszała się energicznie, stąpając z siłą, jakiej osoba w jej wieku nie powinna mieć. A potem odwróciła się. Teraz była młoda, promienna i piękna."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Bestia, której szukasz, to Jorm"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziała uśmiechając się szyderczo w moim kierunku."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Podróżuje po najniższych poziomach Podziemi, ale nie ma stałego domu - w ten sposób takie kanalie unikają wrogów. Nigdy nie przebywa zbyt długo w jednym miejscu, więc nikt nie wie, gdzie go znaleźć, może z wyjątkiem Deezeliska, księcia Dna. On może zaprowadzić cię do Jorma."
+        }
+      ],
+      "total_chars": 1152,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_137.mp3",
+      "size_kb": 1383.7158203125
+    },
+    {
+      "id": 139,
+      "voices": [
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Królowa Allison niespodziewanie pojawiła się w obozie."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Dlaczego nie odpowiedziałeś na żaden z moich listów?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytała."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Umierałam z niepokoju, czy żyjesz! Wytłumacz się, panie Tarnum!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Grzecznie zaprowadziłem ją do mego namiotu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Przepraszam, moja królowo, ale byłem niezwykle zajęty. Mam za to dobre nowiny. Dusza twojego ojca jest przetrzymywana przez demona imieniem Jorm. Najwyraźniej Jorm jest zbyt nieuchwytny, byśmy mogli znaleźć go sami, musimy więc odszukać innego demona, księcia Deezeliska."
+        },
+        {
+          "voice": "npc_f",
+          "text": "To dobra nowina, ale powinieneś odpowiadać szybciej. Masz mnie szczegółowo informować o swoich postępach w przyszłości, zrozumiałeś?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", odpowiedziała władczo. Przytaknąłem."
+        }
+      ],
+      "total_chars": 664,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_139.mp3",
+      "size_kb": 784.9404296875
+    },
+    {
+      "id": 224,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przybył posłaniec od królowej Allison i z napięciem czekam, by rozpoczął swą relację."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Bandzie minotaurów udało się ominąć nasz patrol na wyższym poziomie. Zdziesiątkowali eskortę królowej Allison i próbują dopaść ją w twierdzy"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedział posłaniec."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Co się stało? Czy z nią wszystko w porządku?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Poprowadziła nas ku zwycięstwu, panie Tarnum!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Co za ulga."
+        },
+        {
+          "voice": "npc_m",
+          "text": "To było tak, jakbyśmy znów walczyli u boku jej ojca"
+        },
+        {
+          "voice": "narrator",
+          "text": ", rzekł dumnie posłaniec."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Wstrzymała szarżę czempionów, mimo że głośno protestowały. Również kusznicy wstrzymali atak, dopóki minotaury nie znalazły się w zasięgu. Dopiero wówczas królowa rozkazała kusznikom atakować. Gdy już wielu wrogów zginęło, rzuciła do walki czempiony, by atakując i odskakując, pognębiły wroga jeszcze bardziej. Gdy minotaury dotarły do naszych linii, było ich zbyt mało, by mogły przeprowadzić skuteczny atak."
+        },
+        {
+          "voice": "narrator",
+          "text": "Uśmiechnąłem się dumny z sukcesu mojej uczennicy i powiedziałem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Wróć do królowej i powiedz jej, że jestem pod wrażeniem. Wkrótce nie będzie mnie już potrzebowała!"
+        }
+      ],
+      "total_chars": 994,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_224.mp3",
+      "size_kb": 1218.41015625
+    },
+    {
+      "id": 239,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Panie Tarnum, chciałbym zamienić słówko na osobności"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedział Mensor, gdy narada wojenna miała się ku końcowi. Skinąłem głową i odprawiłem pozostałych kapitanów, wiedząc, że czeka mnie konfrontacja, której się obawiałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "A może powinienem powiedzieć raczej, królu Tarnumie Tyranie?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytał Mensor. Bez sensu byłoby teraz zaprzeczać."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Tak, byłem niegdyś królem barbarzyńców. Jednak nie zamierzałem być tyranem. Nim zdałem sobie sprawę, dostałem dokładnie to, o co walczyłem. Tak się złożyło, że..."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Oszczędź sobie żałosnych wymówek! Jak to się stało, że żyjesz, jesteś cały i zdrowy, i nie starszy niż wówczas, gdy podobno umarłeś? Czym jesteś, liczem? Jakąś nadnaturalną istotą? Jakiego rodzaju potworem stałeś się teraz?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Człowiekiem, jak ty"
+        },
+        {
+          "voice": "narrator",
+          "text": ", odparłem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie jak ja! Jesteś mordercą!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Cisza!"
+        },
+        {
+          "voice": "narrator",
+          "text": ", huknąłem na niego. Wykrzyczał ostatnie słowa na tyle głośno, by wszyscy mogli je usłyszeć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Powiedz choć jednej osobie, a zabijesz nas wszystkich"
+        },
+        {
+          "voice": "narrator",
+          "text": ", ostrzegłem go."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Moje czyny mówią za siebie. Doprowadziłem nas tak daleko i nie czas teraz, by wszystko się rozpadło. Wiesz równie dobrze, jak ja, że jesteśmy skazani na tę misję. Nie ma drogi odwrotu. Jestem tu, bo chcę pomóc królowej Allison. Jeśli nie chcesz słuchać mojej historii, w porządku. Ale jeśli spróbujesz wyjawić mój sekret, dowiesz się, jakim tyranem potrafię być, gdy tego chcę. Nie pozwolę, by ci ludzie zginęli tylko dlatego, że pewnego człowieka bawi wtykanie nosa w nie swoje sprawy!"
+        }
+      ],
+      "total_chars": 1431,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_239.mp3",
+      "size_kb": 1732.287109375
+    },
+    {
+      "id": 240,
+      "voices": [
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dałem sobie i Mensorowi kilka dni na uspokojenie, a potem wezwałem go do mojego namiotu. Gdy wchodził, spojrzał na mnie pełnymi nienawiści oczami. Widziałem już gorsze spojrzenia, ale poznałem po jego ruchach, że myśli o tym, jak mnie zabić."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mensor, zapewne nie uwierzysz, ale jestem szczerze oddany waszej sprawie. Przybyłem tu, by pomóc królowej Allison - to wszystko. Gdy skończę, nigdy więcej mnie nie zobaczysz. Dla dobra tych ludzi zdecydowałem, że będę grał w twoją grę."
+        },
+        {
+          "voice": "narrator",
+          "text": "Wyraz niedowierzania przemknął przez jego twarz."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mam informację, która doprowadziłaby do upadku nie tylko królową Allison, ale i całe królestwo Erathii. Widząc, jak zależy ci na twoich rodakach, wiem, że nie zaryzykujesz wyjawienia tej tajemnicy. Szczególnie, jeśli, powiedzmy, miałbym tajemniczo zginąć, a potem jakiś lojalny żołnierz z rozkazem oddania pewnego listu udałby się do świata powyżej i dał go pierwszemu napotkanemu minstrelowi. Minstrele notorycznie zdradzają sekrety, sam wiesz."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jaki sekret?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytał z wahaniem Mensor. To była gra, którą dobrze znał i wiedział, że nie blefuję."
+        }
+      ],
+      "total_chars": 1068,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_240.mp3",
+      "size_kb": 1179.634765625
+    },
+    {
+      "id": 243,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "npc_m",
+          "text": "Tarnum, dlaczego mnie uratowałeś?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", to dość bezpośrednie pytanie Mensor zadał natychmiast po przekroczeniu progu mojego namiotu."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Bo byłeś w kłopotach. Przyjaciele robią dla siebie takie rzeczy"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziałem rzeczowym tonem. Nie byłem w nastroju do kojenia nerwów tego człowieka, zająłem się więc na powrót ostrzeniem miecza."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Gdybym zginął, twój sekret byłby bezpieczny."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Mmmh."
+        },
+        {
+          "voice": "narrator",
+          "text": "Mensor potrząsnął głową i odszedł."
+        }
+      ],
+      "total_chars": 405,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_243.mp3",
+      "size_kb": 527.3896484375
+    },
+    {
+      "id": 248,
+      "voices": [
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "tarnum",
+          "text": "Powszechnie wiadomo, że Rion Gryphonheart uratował matkę Allison z małej wioski. Czego ludzie nie wiedzą, to to, że w tej wiosce mieszkała siostra króla barbarzyńców"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziałem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie wierzę ci!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Lepiej uwierz! Zastanawiam się, co by się stało, gdyby wszyscy dowiedzieli się, że królowa Allison jest siostrzenicą Tarnuma, barbarzyńskiego Tyrana? Stawiałbym na chaos. Z pewnością Allison straciłaby głowę. Wszystko, co powiedziałem, można potwierdzić. Wiesz, że nie kłamię."
+        },
+        {
+          "voice": "narrator",
+          "text": "Mensor wyszedł z namiotu, osłupiały i zmieszany. Chociaż miałem nadzieję, że to wystarczy, by szpieg zostawił mnie w spokoju, i tak nie miałem zamiaru spać dziś w nocy."
+        }
+      ],
+      "total_chars": 638,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_248.mp3",
+      "size_kb": 657.185546875
+    },
+    {
+      "id": 281,
+      "voices": [
+        "tarnum",
+        "npc_f",
+        "npc_f",
+        "tarnum",
+        "npc_f",
+        "tarnum",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Dziś, gdy królowa Allison przygotowywała się do ćwiczenia szermierki, podszedłem do niej i przy wszystkich padłem przed nią na kolana. Skłaniając głowę, powiedziałem:"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Moja królowo, błagam o przebaczenie. Byłem głupcem!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Nie od razu podniosłem głowę, ale trzymałem ją spuszczoną, a wzrok utkwiony w ziemi, starając się, by nikt nie zauważył mojego drżenia. Nigdy jeszcze przed nikim nie zginałem karku."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Oczywiście wybaczam ci, panie Tarnum"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziała."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Ja też popełniłam błąd."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Nie, ty nie popełniłaś błędu. Jedynym moim usprawiedliwieniem jest to, że nie czułem się dobrze."
+        },
+        {
+          "voice": "npc_f",
+          "text": "Wydaje się, że ostatnio więcej wypoczywasz. To dobrze. To miejsce źle działa na nas wszystkich, ale na nikogo tak źle, jak na ciebie. Zastanawiam się dlaczego?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Kto wie?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", odparłem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Pewnie mam pecha."
+        },
+        {
+          "voice": "narrator",
+          "text": "W głębi duszy wiedziałem, że mam na sumieniu więcej zbrodni niż inni."
+        }
+      ],
+      "total_chars": 831,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_281.mp3",
+      "size_kb": 958.41015625
+    },
+    {
+      "id": 301,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Przed tobą widać wiele krytych strzechą chat, miasto w samym środku ciemności. W pobliżu bladzi wieśniacy uprawiają swoje liche poletka. Skąd wzięli się tu na dole? Odpowiedź pojawia się natychmiast."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Witaj, panie!"
+        },
+        {
+          "voice": "narrator",
+          "text": ", pozdrawia cię jeden z wieśniaków."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Mam nadzieję, że masz się dobrze. Nie pamiętam już, od ilu lat nie widzieliśmy człowieka. Ale byliśmy pewni, że pewnego dnia ktoś po nas przyjdzie."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jak się tu dostaliście?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Cóż, właściwie jesteśmy więźniami. Przynajmniej mój ojciec był. Dawno temu demony wysłały nas do tej odległej jaskini, byśmy wydobywali złoto. Gdy nic już nie pozostało, po prostu zostawili nas tu na pewną śmierć. Ale, jak na ironię, przetrwaliśmy przez wszystkie te lata!"
+        }
+      ],
+      "total_chars": 689,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_301.mp3",
+      "size_kb": 818.41015625
+    },
+    {
+      "id": 307,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Tej nocy Rion Gryphonheart powrócił ze łzami w oczach. Zaprawdę wielki musiał być ból, który sprowadził na ducha taką żałość."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Nie mogę już tego wytrzymać, Tarnum! Ona tak cierpi, a wszystko przeze mnie. Jest moją córką, a ja nie mogę nic zrobić!"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedział Gryphonheart."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jest silna, Gryphonheart, silniejsza niż sądzisz. Po prostu bądź u jej boku, daj jej swoją siłę. Deezelisk zapłaci mi za każdy dzień jej cierpienia!"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziałem. Zdawało się, że moje słowa dały Gryphonheartowi nieco nadziei. Nawet uśmiechnął się."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Poznaję ten ton, Tarnum. Gdy chcesz, potrafisz być ostry, co?"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Owszem. Deezelisk nie ma pojęcia, jak niebezpieczny potrafi być mój gniew, ale wkrótce się o tym przekona!"
+        }
+      ],
+      "total_chars": 685,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_307.mp3",
+      "size_kb": 855.9609375
+    },
+    {
+      "id": 308,
+      "voices": [
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Moje noce wypełnione są koszmarami, ale nie takimi, jakie potrafią niekiedy przywołać Podziemia. To moje własne obawy, gdy wyobrażam sobie moją siostrzenicę, Allison, w okrutnych rękach tego demona. Ostatniej nocy obudziłem się i zobaczyłem Gryphonhearta siedzącego obok mojego posłania. Wyglądał na zaszczutego i słabego."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Odkryłem, że mogę ująć Allison przynajmniej nieco bólu, ale muszę być na terenie kontrolowanym przez Deezeliska - a on ma wielką moc. Wiedział, że tego spróbuję. Teraz to wiem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "O czym ty mówisz?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytałem. To wszystko nie miało sensu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Byłem przynętą, Tarnumie"
+        },
+        {
+          "voice": "narrator",
+          "text": ", wyjaśnił Gryphonheart."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Deezelisk rozkazał Jormowi porwać mnie z raju, aby zwabić tu na dół Allison. Krzyk, który Allison słyszała we śnie, nie był mój - to była robota Deezeliska. Wiedział, że jeśli zacznie torturować Allison, połączę się z jej duszą, aby ją chronić, a wówczas będzie mógł mnie zniszczyć."
+        },
+        {
+          "voice": "tarnum",
+          "text": "A więc manipulował nami od samego początku?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Tak, i teraz wygrywa. Nie wiem, jak długo jeszcze wytrzymam. Gdy moja dusza stanie się zbyt słaba, rozpadnie się w nicość - i wówczas Allison zostanie sama z tym przeklętym demonem!"
+        },
+        {
+          "voice": "narrator",
+          "text": "Nachyliłem się, aby poklepać Gryphonhearta po ramieniu i dodać mu otuchy, ale na szczęście w porę zdałem sobie sprawę, że równie dobrze mógłbym poklepać letnią bryzę."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jest coś, czego Deezelisk nie planował."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Co?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytał Gryphonheart."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Ja!"
+        }
+      ],
+      "total_chars": 1344,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_308.mp3",
+      "size_kb": 1760.8583984375
+    },
+    {
+      "id": 316,
+      "voices": [
+        "npc_m",
+        "npc_m",
+        "tarnum",
+        "npc_m",
+        "tarnum",
+        "tarnum",
+        "npc_m"
+      ],
+      "segments": [
+        {
+          "voice": "narrator",
+          "text": "Odchyliłem połę namiotu i zamarłem. Stojący przede mną, połyskujący, przejrzysty obraz, był duszą Riona Gryphonhearta, który wyglądał na znacznie silniejszego, niż gdy go ratowałem. Nic nie mówiąc, wszedłem i opuściłem za sobą połę namiotu."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Jesteś tu, by pomagać"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedział Gryphonheart. Jego głos był ledwie szeptem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Widzę to. Przeszłość, jeśli o mnie chodzi, jest już zapomniana."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Jeśli o mnie chodzi, również. Nie żywię urazy"
+        },
+        {
+          "voice": "narrator",
+          "text": ", powiedziałem, zaskakując samego siebie, gdyż właśnie to czułem."
+        },
+        {
+          "voice": "npc_m",
+          "text": "Błagam, ratuj Allison. Deezelisk torturuje ją, by dostać mnie. Wie, że nie odejdę, dopóki Allison jest w niebezpieczeństwie, ale też nie mogę wiele zrobić, by jej pomóc!"
+        },
+        {
+          "voice": "tarnum",
+          "text": "Aby dostać ciebie?"
+        },
+        {
+          "voice": "narrator",
+          "text": ", zapytałem."
+        },
+        {
+          "voice": "tarnum",
+          "text": "Dlaczego tak cię nienawidzi?"
+        },
+        {
+          "voice": "npc_m",
+          "text": "Bo próbował zająć Erathię i przegrał - to długa historia. Mówiąc krótko, pokonałem jego oddziały, oślepiłem go i odesłałem z powrotem do Podziemi!"
+        }
+      ],
+      "total_chars": 863,
+      "output_file": "F:\\gry\\h3-Chro-Hdmod(modowanie)\\plugin\\H3ButtonPlugin\\tools\\chronicles_voiceover\\audio_pod_campaign\\pod_316.mp3",
+      "size_kb": 1094.736328125
+    }
+  ],
+  "error_list": []
+}

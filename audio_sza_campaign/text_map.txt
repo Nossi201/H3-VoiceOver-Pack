@@ -1,0 +1,261 @@
+# text_map.txt (bez filtra mapy)
+# Format: sza_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Sza_bmp_campaign_texts_ab_edit.txt
+
+sza_001|Gdy zniknęły dobre smoki, Tarnum został 
+sza_002|Misja: Zdobądź 20 jednorożców bitewnych,
+sza_003|Nie jest niczym zaskakującym, że Nieśmie
+sza_004|Misja: Zdobądź Fiolkę smoczej krwi, nie 
+sza_005|Mutare była niegdyś człowiekiem, lecz je
+sza_006|Misja: Zdobądź 10 Złotych smoków, nie tr
+sza_007|Złote matki smoków, które urodziły wszys
+sza_008|Misja: Tarnum musi pokonać wszystkich wł
+sza_009|Gdy Tarnum uwolnił dobre smoki spod wpły
+sza_010|Misja: Pokonaj wszystkich przeciwników, 
+sza_011|Mutare przekroczyła granicę Erathii, gdy
+sza_012|Misja: Najmij 12 czarodziejskich smoków,
+sza_013|Bitwa, która rozegrała się na Erathiańsk
+sza_014|Misja: Pokonaj wszystkich przeciwników, 
+sza_015|Wreszcie Tarnum zebrał siły pozwalające 
+sza_016|Misja: Pokonaj wszystkich przeciwników, 
+sza_017|Błyskawiczny atak Tarnuma odepchnął Muta
+sza_018|Po klęsce Mutare schroniła się w Nighoni
+sza_020|Dobre smoki zniknęły, a jedyną osobą, kt
+sza_021|Natykasz się na grupę młodych centaurów 
+sza_022|Znane ze stoickiego charakteru krasnolud
+sza_023|Słyszysz świst, krzyczysz z bólu i łapie
+sza_024|Centaury pilnujące tartaku przed bandyta
+sza_025|Uparci, jak wszystkie krasnoludy, zbóje 
+sza_026|Witaj Tarnumie! Smoki mówiły o tobie wie
+sza_027|Nie jesteś Tarnumem. Odejdź!
+sza_028|Usiądź Tarnumie. Historia, którą chcę ci
+sza_029|Kryjesz się w cieniu drzew przed gorącym
+sza_030|Zwykle rozsądne, jednorożce nie chcą prz
+sza_031|Banda zbuntowanych krasnoludów okupuje t
+sza_032|"Czego znów chcesz?" krzyczy krasnoludzk
+sza_033|"Czekaj, musimy policzyć", strażnicy zni
+sza_034|W lewo - Dolina Jednorożców\nW prawo -  
+sza_035|Uznany przez Przodków za niegodnego prze
+sza_036|Przed tobą stoi dom zaklinaczki smoków, 
+sza_037|Gdy odwracasz się w kierunku, z którego 
+sza_038|Podziwiasz otaczające cię łąki, gdy nagl
+sza_039|"Z radością przepuścilibyśmy cię, Tarnum
+sza_040|"Przetrząsnęliśmy wszystkie kąty, ale wc
+sza_041|"Amulet! Rzuć go do nas!"\n\nStrażnik zn
+sza_042|W słońcu połyskuje coś w ptasim gnieździ
+sza_043|Od około 20 lat mieszkam z elfami w tych
+sza_044|Udało mi się przekonać króla elfów z AvL
+sza_045|Służąc AvLee, walczyłem w szeregach Leśn
+sza_046|"Co mogło się stać?" Zapytałem jednego z
+sza_047|Elfy tak rwą się do pomocy, że wielu mus
+sza_048|Ostatniej nocy byłem świadkiem zdarzenia
+sza_049|Dowiedziałem się, że do zaklinaczki smok
+sza_050|Gdy ostatniej nocy ujrzałem zielonego sm
+sza_051|Gdy zacząłem oficjalny werbunek do armii
+sza_052|Tego ranka, gdy przygotowywaliśmy się do
+sza_053|"Szach i mat!" powiedział Aspen, bijąc w
+sza_054|Mój kwatermistrz Krubon bez końca krytyk
+sza_055|Otrzymałem raport o najeździe na elfią f
+sza_056|Aspen wrócił ze spalonej farmy.\n\n"To p
+sza_057|Zdarzyły się jeszcze dwa najazdy na farm
+sza_058|Analizując naszą przeszłość wiem, że nie
+sza_060|Tarnum musi zdobyć fiolkę smoczej krwi, 
+sza_061|W oddali widać starożytną Bramę Ognia, j
+sza_062|Biorąc pod uwagę zakres twej misji, król
+sza_063|"Pozdrowienia! Uwięziliśmy na wzgórzach 
+sza_064|"Nie próbuj mnie przekonywać, to bez sen
+sza_065|"Podejdź bliżej, bym mógł cię obejrzeć",
+sza_066|Valita równie dobrze posługuje się miecz
+sza_067|Z więzienia wychodzi czart. Strzela z ba
+sza_068|Byłeś skoncentrowany na sterowaniu statk
+sza_069|Miejscowy krasnolud powiedział ci, że ko
+sza_070|U wejścia do kryształowej groty stoi gro
+sza_071|Twój statek podpłynął zbyt blisko brzegu
+sza_072|Przejeżdżałeś właśnie obok grupy uschnię
+sza_073|"Smok!" krzyknął ktoś.\n\nSpojrzałeś w n
+sza_074|Jeden ze zwiadowców powraca ze stoczni i
+sza_075|Opowieść zaklinaczki smoków sprawiła, że
+sza_076|Każdego wieczoru zasiadam z Aspenem, moi
+sza_077|Pegazy zdecydowały się przyłączyć do pos
+sza_078|"Do czego służy ta fiolka smoczej krwi?"
+sza_079|Tego ranka krasnoludzka straż przyprowad
+sza_080|Kurbon, mój kwatermistrz, zażądał, bym z
+sza_081|Dziś Aspen dał mi mapę prowincji z nanie
+sza_082|Gdy spożywałem poranny posiłek, odwiedzi
+sza_083|Dziś Aspen wrócił z misji ratowania uwię
+sza_085|Tarnum musi uratować  złote smocze matki
+sza_086|Stara kobieta z dziwnej chatki przywołuj
+sza_087|"Zanim zapłacę, muszę mieć dowód.  Wysta
+sza_088|"Przyjmij podziękowania ode mnie i od mi
+sza_089|Tego tartaku pilnują krasnoludzcy żołnie
+sza_090|Atakuje cię grupa centaurów bojowych got
+sza_091|Spotykasz kilka zielonych smoków wygrzew
+sza_092|Chociaż jesteś tak bardzo ostrożny, elfy
+sza_093|Podchodzisz do wozu wypełnionego drewnem
+sza_094|Dym z palącego się ogniska przyciągnął t
+sza_095|"W obecnych czasach, gdy wszyscy dezerte
+sza_096|"Wiem, że wyszkolenie dobrych żołnierzy 
+sza_097|"Dzięki tym 100 krasnoludzkim żołnierzom
+sza_098|Wokół chaty starca rozbito dziesiątki na
+sza_099|"Mamy jeszcze tyle do zrobienia.  Wróć, 
+sza_100|"Zadziwiające!  Jesteś tak dobry.  Czy c
+sza_101|Przy drzwiach do chaty spotykasz młodego
+sza_102|"Przykro mi", mówi młody adept, "ale nie
+sza_103|Młodzieniec przy drzwiach uśmiecha się n
+sza_104|Podkradasz się do pary zielonych smoków 
+sza_105|Przed tobą pojawia się wielka jaskinia, 
+sza_106|Z cieni między drzewami wygląda stado ma
+sza_107|"Przykro mi, ale otrzymałem wiadomość, ż
+sza_108|Jeden ze strażników obserwuje cię, a nas
+sza_109|"A, to ty, Valita!",  mówi strażnik.  "N
+sza_110|Zwalone pnie drzew blokują przejście. Gd
+sza_111|Kilka jednorożców stoi na drodze, jakby 
+sza_112|To musi być przedmiot, w którego obronie
+sza_113|Strażnicy tarczy przeklętego są gotowi w
+sza_114|Oto tunele władców podziemia, sług Smocz
+sza_115|Strażnicy mówią, że przepuszczą tylko Ta
+sza_116|Strażnicy pozwolą przejść tylko Tarnumow
+sza_117|"Wreszcie jesteś, Tarnumie."  Czy chcesz
+sza_118|"Dziękuję, że zgodziłeś się wypić filiża
+sza_119|"To miło, że znów przychodzisz mnie odwi
+sza_120|"Ach, wyglądasz na godnego mojego najcen
+sza_121|W jaskini przed tobą cztery czerwone smo
+sza_122|Widzisz czerwone i czarne smoki pilnując
+sza_123|Upuszczasz kroplę krwi z fiolki na głowę
+sza_124|Upuszczasz kroplę krwi z fiolki na głowę
+sza_125|Upuszczasz kroplę krwi z fiolki na głowę
+sza_126|Widzisz skulonego złotego smoka, większe
+sza_127|Upuszczasz kroplę krwi z fiolki na głowę
+sza_128|Teraz, gdy dobre smoki walczą dla Smocze
+sza_129|Otrzymałem wiadomość od zwiadowców o sil
+sza_130|Kapitan Valita, dowódca zwiadowców uwoln
+sza_131|Mimo wątpliwości, zdecydowałem pozostawi
+sza_132|Mój doradca, Aspen, rozparł się na krześ
+sza_133|Dziś przyszedł raport od kapitan Vality.
+sza_134|Cześć oddziałów z tego terenu, wciąż wie
+sza_135|Kurbon, krasnolud-kwatermistrz, przyszed
+sza_136|Pierwszy raport mojego szpiega jest racz
+sza_137|Dziś rano przyszedł do mnie Aspen, trzym
+sza_138|"Mam złe nowiny, Tarnumie", powiedział A
+sza_139|Złapałem Aspena za ramię, nim wskoczył n
+sza_140|Długo myślałem o sprawie Vality i chocia
+sza_142|Tarnum musi pokonać wszystkich władców p
+sza_143|Próbuję opracować sposób zamiany zwykłyc
+sza_144|O nie, to za mało.  Potrzebuję 10000 szt
+sza_145|Wreszcie!  Daj mi te 10000 sztuk złota, 
+sza_146|Kilka czarnych smoków kręci się przy smo
+sza_147|Trawa wokół ciebie nagle się zapala, ota
+sza_148|To miejsce jest w rękach lojalnych podda
+sza_149|Strażnicy pozwolą przejść tylko temu, kt
+sza_150|"Czy jesteś gotów wkroczyć na terytorium
+sza_151|Pukasz do bramy i po chwili otwierają si
+sza_152|"Oho ho!  Nie mogę uwierzyć, że znów mi 
+sza_153|Drzwi otwierają się tak szybko, że niema
+sza_154|Horda harpii i harpich wiedźm zgromadził
+sza_155|Czujesz w powietrzu odrażający odór, któ
+sza_156|Kilka czerwonych smoków torturuje młode 
+sza_157|Stuff for enemy...
+sza_159|Gdy byłem zajęty uwalnianiem dobrych smo
+sza_160|Jeden z władców podziemi grasuje na gran
+sza_161|Od pięciu dni kapitan Valita jedzie u me
+sza_162|Gdy wszedłem, Aspen pił herbatę zagłębio
+sza_163|Gdy zatrzymaliśmy się w południe, by nap
+sza_164|"Chciałeś mnie widzieć?", zapytał Kurbon
+sza_165|Wkrótce po rozbiciu obozu przyszedł do m
+sza_166|Zatrzymaliśmy się w południe, aby uzupeł
+sza_167|Po kolejnej pracy w zespole Kurbona usie
+sza_168|Wczesnym rankiem, gdy ćwiczyłem fechtune
+sza_169|Aspen powrócił z kolejnej tajemniczej mi
+sza_170|Wrogowie szturmują granice Erathii. Aby 
+sza_171|"Tylko dowódca AvLee, Tarnum, może tędy 
+sza_172|"Wreszcie", krzyknął strażnik, "To ty!  
+sza_173|W chacie ukrywa się młody mężczyzna.  Gd
+sza_174|"To naprawdę ty, Sorsha!  Przechowałem z
+sza_175|Ta wieża jest opuszczona, a jedyny klucz
+sza_176|Próbujesz otworzyć bramę, ale ponieważ T
+sza_177|Podchodzisz do bramy, przekręcasz klucz 
+sza_178|Zatrzymujesz się i spożywasz posiłek z p
+sza_179|Znajdujesz pustelnika pakującego księgi 
+sza_180|"Jesteś w samą porę", mówi pustelnik.  S
+sza_181|Spotykasz krasnoludy bojowe idące drogą.
+sza_182|Klika młodych zielonych smoków siedzi pr
+sza_185|Spomiędzy drzew wyłania się członek Leśn
+sza_186|Stoją niczym kryształowe posągi, słońce 
+sza_187|Zwały świeżej ziemi leżące wzdłuż drogi 
+sza_188|Podobno w tych kryształowych grotach mie
+sza_189|Rój chowańców zajmuje te okolice.  Tańcz
+sza_190|Trawa jest tu wypalona, a w powietrzu un
+sza_191|Elfi szpieg, który obserwuje erathiańską
+sza_192|Przyszedłeś na tę polanę, aby zaprzyjaźn
+sza_193|Podchodzisz do stawu z klejnotami, aby w
+sza_194|Spuszczasz linę w głąb dołu, który służy
+sza_195|Ostrożnie zbliżasz się do czarnych smokó
+sza_196|Rycerz trzymający w ręku białą flagę wol
+sza_198|Zapach chemikaliów unoszący się wokół te
+sza_199|"Ojej, to po prostu za mało.  Potrzebuję
+sza_200|"Wreszcie!  Daj mi 40 kryształów, a ja d
+sza_201|Doszły mnie plotki, że erathiański rycer
+sza_202|Na szczęście Aspen zostawił mnie w spoko
+sza_203|W czasie marszu, dzisiejszego ranka koń 
+sza_204|Przez ostatnich kilka dni obserwowałem k
+sza_205|Ostatniej nocy przyniosłem kapitan Valic
+sza_206|Znalazłem sobie lepszą rozrywkę, niż prz
+sza_207|Gdy wydałem rozkaz postoju, chwyciłem Ku
+sza_208|Dziś rano, gdy wyszedłem przed namiot, z
+sza_209|Kurbon odwraca wzrok, gdy tylko nasze oc
+sza_210|Znalazłem Aspena grającego w szachy z ce
+sza_211|Szukaliśmy dobrego miejsca na południowy
+sza_212|Valita odnalazła mnie pierwsza.  Ukryta 
+sza_213|Zeszłego wieczoru wezwałem Valitę do meg
+sza_214|Mogę mieć tylko nadzieję, że Valita uwol
+sza_216|Aby pokonać władców podziemi, Tarnum mus
+sza_217|To musi być skarb, za który demony oddał
+sza_218|Grupa kawalerzystów strzeże hełmu piekie
+sza_219|Jadąc przez ciemny las, zdajesz sobie sp
+sza_220|Szczyty drzew zatrzeszczały, gdy oddział
+sza_221|Z mroku leżącej naprzeciw kopalni złota 
+sza_222|Nagła nawałnica zmusiła ciebie i twoich 
+sza_223|Drzewa przerzedziły się otwierając widok
+sza_224|W czasie polowania zauważasz w górze jed
+sza_228|Król elfów, podobnie jak ja, zdał sobie 
+sza_229|Aspen dowiedział się, że na południu są 
+sza_230|Po wieczornej odprawie Valita poczekała,
+sza_231|Ostatniego wieczora zaprosiłem Aspena na
+sza_232|Zamiast rozgrywać następną partię szachó
+sza_233|Aspen wszedł rankiem do obozu z pokonaną
+sza_234|Być może rozmowa z Kurbonem nie była naj
+sza_235|Byłem sam w swoim namiocie, gdy weszła V
+sza_236|Aspen wjechał do obozu z uniesioną wysok
+sza_237|Podszedłem do umorusanego żołnierza, wie
+sza_238|Tarnum uderza na Mutare, aby odebrać zag
+sza_240|Postanawiasz zjeść posiłek na starym, zm
+sza_241|W oddali widać pięć błękitnych smoków.  
+sza_242|Czarodziejski smok zatacza koła nad twoj
+sza_243|Łapiesz młodego leprechauna, który nie t
+sza_244|Zwiadowca nie żartował.  Z koron drzew u
+sza_245|Z zarośli wypada elfi zwiadowca.  Jest b
+sza_248|Wreszcie przyszedł czas na ofensywę.\n\n
+sza_249|Otrzymałem informację od króla elfów, że
+sza_250|Dziś rano, jak co dnia, odwiedziłem nami
+sza_251|Poczułem szybsze bicie serca, gdy zdałem
+sza_252|Dziś para czerwonych smoków zasadziła si
+sza_253|Dziś dostałem raport o kolejnym ataku sm
+sza_254|Dwa kolejne ataki na wioski i farmy elfó
+sza_255|Gdy jak co dzień ćwiczyłem o poranku fec
+sza_256|Zeszłego wieczoru modliłem się do Przodk
+sza_257|Ataki smoków na elfie wioski stały się n
+sza_259|Tarnum dowodzi połączonymi siłami AvLee 
+sza_262|Elfi zwiadowaca dotarł dziś do obozu, tr
+sza_263|Mutare popełniła pomyłkę rozdzielając sw
+sza_264|Minął niemal tydzień, odkąd ostatnio wsp
+sza_265|Kolejny list od zaklinaczki smoków brzmi
+sza_266|Tego ranka otrzymałem niespodziewaną wia
+sza_267|Elf przyniesiony na noszach do obozu, sł
+sza_268|Nie mogę się skupić!\n\nW czasie narad w
+sza_269|W środku nocy przybyła harpia z wiadomoś
+sza_270|Kurbon czekał tydzień z wysłaniem następ
+sza_271|W najciemniejszych godzinach nocy, gdy n
+sza_272|"Co za groźba!  Jesteś pewien, że walczy
+sza_274|Byłem tchórzem!  Pole walki, jak się prz
+sza_275|W oddali ujrzeliśmy dym, czarny i gęsty.
+sza_276|Gdy obudziłem się tego ranka, Valita sie

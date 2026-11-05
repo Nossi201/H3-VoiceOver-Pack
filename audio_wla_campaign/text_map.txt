@@ -1,0 +1,245 @@
+# text_map.txt (bez filtra mapy)
+# Format: wla_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Wla_bmp_campaign_texts_ab_edit.txt
+
+wla_000|Tarnum musiał też przemóc swą niechęć do
+wla_001|Misja: Pokonaj wszystkich przeciwników, 
+wla_002|Przodkowie zesłali Tarnuma do odległego 
+wla_003|Misja: Pokonaj wszystkich przeciwników, 
+wla_004|Misja: Pokonaj wszystkich przeciwników, 
+wla_005|Gdy Tarnum dotarł do wymiaru wody, władc
+wla_006|Misja: Pokonaj wszystkich przeciwników, 
+wla_007|Ze wszystkich wymiarów, wymiar ziemi naj
+wla_008|Misja: Oflaguj wszystkie siedliska żywio
+wla_009|Najdziwniejszy ze wszystkich wymiarów je
+wla_010|Misja: Przyłącz do swojej armii "Pierwsz
+wla_011|Tarnum odkrył, że siłą, która wiąże wszy
+wla_012|Misja: Zajmij Wrota Żywiołów przeciwnika
+wla_013|Tarnum zawsze obsesyjnie nienawidził nie
+wla_014|Misja: Pokonaj zjednoczonych Władców Żyw
+wla_015|Wreszcie Tarnum wrócił do naszego świata
+wla_016|Tarnum pokonał władców żywiołów wyrzucaj
+wla_017|Tarnum musi zająć wrota żywiołów, aby zd
+wla_018|Osądzony przez Przodków jako niegodny pr
+wla_019|Władca powietrza wiedział, że przyjdzies
+wla_020|Chłodny wiatr przenika cię do kości.  Do
+wla_021|Widzisz przed sobą dom gargulców otoczon
+wla_022|"To nasza rtęć.  Idź i poszukaj sobie in
+wla_023|Jeden z tubylców zbliża się do twojej ar
+wla_024|Znów znikąd pojawiły się żywiołaki powie
+wla_025|Początkowo sądziłeś, że te złote golemy 
+wla_026|Ta kopalnia złota musiała być nieużywana
+wla_027|Zbyt późno dostrzegasz grupę żelaznych g
+wla_028|W ciągu ostatnich lat wiele nauczyliśmy 
+wla_029|Ty nie nasz twórca.  Nie ma przejścia.  
+wla_030|Siedzisz między górnikami chochlikami i 
+wla_031|Władca żywiołów uwięził tę grupę chochli
+wla_032|Szalony arcymag wybiega spośród drzew kr
+wla_033|Dokładne przeszukiwanie tego obszaru nar
+wla_034|Dostrzegasz coś na wpół zakopanego w śni
+wla_035|Zatrzymujesz się na krótki popas. Zsiadł
+wla_036|Stary weteran mówi w imieniu mieszkańców
+wla_037|Chociaż do tej pory nie docenialiśmy cię
+wla_038|Z miejsca, w którym stoisz, dostrzegasz 
+wla_039|"Przyjmij dobrą radę", zaczyna Barsolar.
+wla_040|Wiatr wiejący od gór zwala z nóg, niemal
+wla_041|"Lordzie Tarnum", Barsolar, mój asystent
+wla_042|Gargulce!  Gdyby to zależało ode mnie, n
+wla_043|Łowiłem ryby na spokojnym jeziorze, gdy 
+wla_044|Barsolar od dobrej godziny nudził o złoż
+wla_045|Król Bracady, Gavin Magnus, użyczył mi s
+wla_046|"Lordzie Tarnum, ci twoi czarodzieje są 
+wla_047|Niech przeklęci będą wszyscy użytkownicy
+wla_048|Przed obiadem usiadłem obok instruktora 
+wla_049|Tej nocy przyszedł raport z mojej fortec
+wla_050|W typowy dla czarowników sposób, wysłałe
+wla_051|Być może nie zareagowałem pozytywnie na 
+wla_052|Przyszedł dziś list od króla Bracady.  W
+wla_053|Wciąż molestują mnie o budowę domu gildi
+wla_054|Gdy ostatniej nocy rozstawialiśmy obóz, 
+wla_055|"Panie?", zapytał asystent o pomarszczon
+wla_056|"Lordzie Tarnum", Barsolar wpadł do moje
+wla_057|Siedząc przy stole w moim namiocie, potr
+wla_058|Dziś rano opuściłem obóz, gdy było jeszc
+wla_059|Powiedziano mi, że do walki z władcami ż
+wla_061|Tarnum musi pokonać armię władcy powietr
+wla_062|Chociaż stąpasz po twardym gruncie, wies
+wla_063|Jeden z dżinów, który ostatnio do ciebie
+wla_079|Powiewając białą flagą, zbliża się do ci
+wla_080|Jesteśmy na miejscu, przed nami wymiar p
+wla_081|Mamy rozkaz eliminować każdego, kto spró
+wla_082|Strzeżemy tych klejnotów dla naszego pan
+wla_083|Strzeżemy tej odkrywki dla naszego pana,
+wla_084|To złoto należy do naszego pana, władcy 
+wla_085|Strzeżemy tych kamieniołomów dla naszego
+wla_086|Strzeżemy tego tartaku dla naszego pana,
+wla_087|Strzeżemy tej kryształowej groty dla nas
+wla_090|Z chmur wynurza się gromada żywiołaków p
+wla_091|Wokół księgi magii powietrza unosi się b
+wla_092|Nikt nie weźmie księgi magii powietrza. 
+wla_093|Z hukiem gromu otaczają cię nagle żywioł
+wla_094|"Wspaniale, mój panie!  Te rękawice pozw
+wla_095|"Wspaniała bitwa, lordzie Tarnum", rzekł
+wla_096|Nie wiesz skąd obok twego konia pojawił 
+wla_097|"Cudownie!", mówi Hemoross.  "Szkoła mag
+wla_098|W bibliotece wrót żywiołów Barsolar odna
+wla_099|Barsolar odjechał dziś rano na poszukiwa
+wla_100|Od tak dawna nie miałem żadnych wieści o
+wla_101|Doszedłem do wniosku, że Przodkowie karz
+wla_102|Chociaż perfekcyjne opanowanie posługiwa
+wla_103|Dziś kilku z moich asystentów wezwało mn
+wla_104|Kilka dni temu wysłałem zwiadowcę, aby z
+wla_105|Część sylfid dowiedziała się, że ich dzi
+wla_106|Znaleźliśmy miejsce, w którym przetrzymy
+wla_107|W ostatnim liście król Magnus wyraził za
+wla_108|Rozkazałem Hemorossowi jeszcze raz zajrz
+wla_109|Od tygodnia dostaję listy od wszystkich 
+wla_111|Tarnum musi zdobyć wszystkie cytadele. B
+wla_112|Z wodnych głębin wynurza się horda żywio
+wla_113|Znalazłeś hełm wilka morskiego leżący na
+wla_114|Łuski pokrywają teren wokół nory kilku b
+wla_115|Na wielkim, omszałym głazie leży błyszcz
+wla_116|Zaskakuje cię widok dżinów w wymiarze wo
+wla_117|Odwiedzaj latarnie morskie, a będziesz s
+wla_118|Oto kula sztormów, ale pilnuje jej horda
+wla_119|Tylko mała część samonapełniającego się 
+wla_120|Odkrywasz, że wyspa jest zamieszkała prz
+wla_121|Nie byliśmy w stanie wrócić do naszego w
+wla_122|Wymiar wody jest gorszy niż wymiar powie
+wla_123|Dziś Barsolar wziął małą łódź i kilka ch
+wla_124|Dziś dostałem pierwszy raport od Barsola
+wla_125|Sowa Barsolara wróciła z krótką wiadomoś
+wla_126|Chociaż dziwnie było słyszeć głos Barsol
+wla_127|Dziś w nocy ledwie zmrużyłem oko przez t
+wla_128|Mój instruktor magii, Hemoross, odkrył k
+wla_129|Zaczynam lepiej rozumieć istotę morskich
+wla_130|Zwołałem moich doradców na naradę, aby p
+wla_131|Hemoross zajadał ze smakiem śniadanie, p
+wla_132|Kiedy ostatnio czułem się dobrze?  Nie p
+wla_133|Skoro ja mogłem nauczyć się kilku zaklęć
+wla_134|Dziś rano podszedłem do czarowników jedz
+wla_135|Cała ta podróż po wodzie jest straszna. 
+wla_136|Gdy spotkaliśmy się dziś rano, Barsolar 
+wla_137|Tarnum musi pokonać władców podziemia. B
+wla_138|Magowie i golemy Reamusa zgodzili się do
+wla_139|Na południe - Sodville\nNa północny wsch
+wla_140|Idź na wschód, aby przejąć miasto-loch.
+wla_141|Zauważasz, że ten stos złota jest nieco 
+wla_142|Z pęknięć w pobliskiej ścianie wyłania s
+wla_143|Na horyzoncie pojawiła się piramida kryj
+wla_144|Przeciskając się przez takie wąskie prze
+wla_145|Ucieszyłem się z naszego przybycia do wy
+wla_146|Banda przeraz, które mieszkają w tym wym
+wla_147|Dziś przyleciała sowa Barsolara z naszki
+wla_148|Kiedyś już walczyłem ze stworzeniami zam
+wla_149|Na szczęście byłem na jawie.  Ostatniej 
+wla_150|Zrewanżowałem się za to, co magowie zrob
+wla_151|Dziś do obozu przybył Barsolar.  Wygląda
+wla_152|Wszyscy przypuszczaliśmy, że zaginieni m
+wla_153|Ostatniej nocy, po posiłku z Reamusem i 
+wla_154|Dziś powiedziałem Reamusowi i jego ludzi
+wla_155|Gdy dziś rano wyszedłem z namiotu, natyc
+wla_157|Tarnum musi zdobyć Inferno i przejąć kon
+wla_158|"Bądź ostrożny otwierając puszki Pandory
+wla_159|Otwierając puszkę Pandory, przygotowujes
+wla_160|Zaczynasz nabierać przekonania, że wszys
+wla_161|Ta puszka Pandory toczy się gwałtowanie 
+wla_163|Z płomieni wyłania się liczna grupa żywi
+wla_164|Płomienie są tu wyższe niż zwykle, wijąc
+wla_165|Za pierwszym dotknięciem puszka niemal p
+wla_166|Oddział czarcich lordów i wiele demonów 
+wla_167|Grupa ifrytów zanurza tarczę przeklętego
+wla_168|Ifryty mieszkają tu, wśród płomieni, któ
+wla_169|Początkowo sądzisz, że mieniące się nieb
+wla_170|W płomieniach widać kolejną puszkę.  Z j
+wla_171|Nie wiadomo, co jest w środku, ale gdy p
+wla_172|Niepokoiłem się trochę przejściem do wym
+wla_173|Moi czarownicy przestrzegli mnie przed p
+wla_174|Barsolar odkrył na południu dwa miasta t
+wla_175|Na tym obszarze występuje wiele kryjówek
+wla_176|Ponieważ jesteśmy już tak bliscy podbici
+wla_177|Ostatniej nocy przyszli do mnie Barsolar
+wla_178|Cokolwiek robią Barsolar i Reamus, zaang
+wla_179|Eksperyment związany z odszukaniem wymia
+wla_180|Nic nigdy łatwo nie przychodzi.  Gdy już
+wla_181|Po całym dniu spędzonym na dyskusjach z 
+wla_182|Barsolar wrócił dziś z ekspedycji badawc
+wla_183|Tarnum prowadzi wyścig z armiami władców
+wla_184|Idź na północ jeden krok, aby Wyrocznia 
+wla_185|"Jestem Wyrocznią Powietrza i jeśli zapł
+wla_186|Idź na zachód jeden krok, aby Wyrocznia 
+wla_187|"Jestem Wyrocznią Ognia.  Zapłać 200 szt
+wla_188|"Jestem Wyrocznią Ognia.  Zapłać 200 szt
+wla_189|Idź na południe jeden krok, a potem krok
+wla_190|Idź na wschód jeden krok, jeśli chcesz n
+wla_191|"Jestem Wyrocznią Ognia.  Zapłać 200 szt
+wla_192|"Jestem Wyrocznią Ognia.  Zapłać 200 szt
+wla_193|Idź na północ jeden krok, jeśli chcesz n
+wla_194|Idź na południe jeden krok, jeśli chcesz
+wla_195|"Jestem Wyrocznią Ognia.  Zapłać 200 szt
+wla_196|"Jestem Wyrocznią Ziemi.  Zapłać 300 szt
+wla_197|Idź na południe jeden krok, jeśli chcesz
+wla_198|Do Wyroczni Ziemi jeden krok na południe
+wla_199|"Jestem Wyrocznią Ziemi.  Zapłać 300 szt
+wla_200|Idź na południe jeden krok, jeśli chcesz
+wla_201|"Jestem Wyrocznią Ziemi.  Zapłać 300 szt
+wla_202|"Jesteśmy najstarsi, jesteśmy pierwsi."\
+wla_203|Wymiar żywiołu magii nie różni się specj
+wla_204|Żywiołak umysłu, który przybył do nas ja
+wla_205|Jadłem śniadanie próbując ignorować dria
+wla_206|Z jakiegoś powodu Hemoross wszedł za mną
+wla_207|Kilka dni temu Barsolar odjechał badać i
+wla_208|Dziś rano przyleciała sowa Barsolara.  Z
+wla_209|Dziś znalazłem na poboczu drogi małą stu
+wla_210|Reamus przyniósł dziś rano raport od odd
+wla_211|Dziś zwołałem na naradę swych najważniej
+wla_212|Wkrótce po tym, jak udałem się do mego n
+wla_213|Dziś rano, zanim moi doradcy obudzili si
+wla_214|Za każdym razem, gdy myśleli, że tego ni
+wla_215|Co noc obóz jest pełen szeptów, które ci
+wla_216|Tego ranka Hemoross wykonał swój ruch.  
+wla_217|Być może jestem częściowo winny temu, co
+wla_218|Powiedziano mi, że wkrótce odnajdziemy ż
+wla_220|Tarnum musi pokonać żywiołaki ognia, któ
+wla_221|Z wrót żywiołów przyszła wiadomość, że ż
+wla_223|W ten sposób dasz pieniądze komputerowi.
+wla_224|Siedzący między płomieniami żywiołak mag
+wla_225|Idziesz między językami ognia, nie zwrac
+wla_226|Ostrożnie zbliżasz się do wrót żywiołów.
+wla_227|Dogania cię nadlatująca znad chmur grupa
+wla_228|Zbyt późno zdajesz sobie sprawę, że wpad
+wla_229|Wreszcie wróciliśmy do wymiaru ognia, ab
+wla_230|Żywiołaki umysłu są świetnym uzupełnieni
+wla_231|Mimo że Barsolar pozostaje teraz przy ar
+wla_232|Jednemu ze szpiegów Barsolara udało się 
+wla_233|Wypadłem z namiotu, gdy tylko usłyszałem
+wla_234|Dziś rozkazałem Barsolarowi i Reamusowi 
+wla_235|Dziś rano wziąłem miskę kaszy i udałem s
+wla_236|Barsolar zlokalizował władców żywołów, a
+wla_237|Tarnum musi zmierzyć się z czterema wład
+wla_241|Mała grupa driad pokazała się dziś rano 
+wla_242|Władcy żywiołów stali się podejrzliwi w 
+wla_243|Jak obiecał król Magnus, w zamian za opo
+wla_244|Z ziemi wyłoniły się nagle wysokie płomi
+wla_245|Niebo pełne jest driad latających wokół 
+wla_246|Zbliżając się do swoich wrót żywiołów, z
+wla_247|Ziemia trzęsie się, pęka.  Nie możesz us
+wla_248|Wszystkich władców żywiołów trapią dezer
+wla_249|Zaczyna padać.  Ciężkie krople deszczu p
+wla_250|Na skraju pól ognia widzisz skute żywioł
+wla_251|Zwiadowca, żywiołak powietrza, ostrzega 
+wla_252|Czystość wymiarów żywiołów jest ostrym k
+wla_253|Jeden z magów szybko obliczył, jak długo
+wla_254|W dniu, w którym tu przybyłem, wysłałem 
+wla_255|Wreszcie wrócił też trzeci zwiadowca - z
+wla_256|Dziś przyszedł list od króla Magnusa.  P
+wla_257|Dziś kilku żywiołakom ognia udało się pr
+wla_258|Dziś wrócił kolejny żywiołak magii, też 
+wla_259|"W bagnistym terenie na południowym zach
+wla_260|Postępując według tej samej taktyki, co 
+wla_261|Ponieważ moje ostatnie najazdy są skutec
+wla_262|Król Gavin Magnus pojawił się dziś rano 
+wla_263|Dziś rano przyszedł kolejny list od król
+wla_264|Szybko zauważyłem, że innym członkiem św
+wla_265|Dziś król Magnus wraca do domu.  Niestet
+wla_266|Król Magnus przyjął moje zaproszenie na 

@@ -1,0 +1,149 @@
+# text_map.txt (bez filtra mapy)
+# Format: mie_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Mie_bmp_campaign_texts_ab_edit.txt
+
+mie_001|Elficki bohater, Gelu, wyruszył, by pomi
+mie_002|Misja: Pokonaj wszystkich przeciwników, 
+mie_003|Elficki bohater, Gelu, wyruszył by odnal
+mie_004|Misja: Zdobądź pierścień nieskończonych 
+mie_005|Gelu był zbyt blisko Miecza Mrozu, by Ta
+mie_006|Misja: Zdobądź Bastion, nie tracąc przy 
+mie_007|Kolejna para zachłannych oczu spoczęła n
+mie_008|Misja: Zrekrutuj 6 błękitnych smoków, ni
+mie_009|Tarnum wiedział, że błękitne smoki, najp
+mie_010|Misja: Pokonaj Ufretina, nie tracąc przy
+mie_011|Tarnum był niechętny pojmaniu jednego z 
+mie_012|Misja: Pokonaj wszystkich przeciwników, 
+mie_013|Kiedy Ufretin na niego spojrzał, dostrze
+mie_014|Misja: Pokonaj wszystkich przeciwników, 
+mie_015|Ostre brzegi północnych rubieży nie zgot
+mie_016|Misja: Podbij Bastion Volee, nie tracąc 
+mie_017|Gelu wciąż nie chciał dostrzec, że już s
+mie_018|Z trudem wywalczone zwycięstwo nad miast
+mie_020|Tarnum musi podbić podziemne miasta Nigh
+mie_021|Osądzony przez Przodków jako niegodny ws
+mie_022|Spod ciemnego sklepienia jaskini sfruwa 
+mie_023|Zstępując do tego świata wiecznej ciemno
+mie_024|Przybył dzisiaj wóz z zaopatrzeniem, wio
+mie_025|"Jeśli Miecz Mrozu i Ostrze Armagedonu k
+mie_026|Setki lat, które upłynęły od mojego brut
+mie_027|Po każdym zwycięstwie muszę zmagać się z
+mie_028|Przez stulecia zdołałem zgromadzić olbrz
+mie_029|Otrzymałem dziś wiadomość od mojego przy
+mie_030|Zwycięstwo jest bliskie, dlatego posłałe
+mie_031|By dostać się do miasta Volee, Tarnum mu
+mie_032|Mieszkający w tej ruderze strojny w kuns
+mie_033|"Musisz mi wybaczyć, ale w zwykłych okol
+mie_034|Arogancki czarodziej uważnie bada księgę
+mie_035|Słyszałeś, że to może być miejsce ukryci
+mie_036|"Nie jesteś tym, którego szukam!  Odejdź
+mie_037|"Ja jestem Tarnum," mówisz.\n\nSłyszysz 
+mie_039|Niedobitki barbarzyńskich plemion skryły
+mie_040|Zallisa, królewska meduza, ostrzegła mni
+mie_041|Kosztowało mnie to nieco złota, jednak o
+mie_042|Doniesiono mi, że na południu, w starej 
+mie_043|Odkąd Neez i Kilkik polegli, znacznie le
+mie_044|Dzisiejszego dnia w moim obozie zjawił s
+mie_045|Istniało tylko jedno rozwiązanie dla zak
+mie_046|Tarnum musi pokonać elfy Vori, które str
+mie_047|Oblężenie tej wieży zajęłoby zbyt wiele 
+mie_048|Jeśli nie dostarczysz strażnikom Naszyjn
+mie_049|Strażnicy domagają się, byś przerzucił N
+mie_052|Gelu cały czas pozostaje o krok przede m
+mie_053|Przykład, który dałem moim ludziom kiedy
+mie_054|Do mojego obozu wjechał dziś krzepki woj
+mie_055|Żona barbarzyńcy, Kija, nie zdawała sobi
+mie_056|Wreszcie, po kilku imponujących zwycięst
+mie_057|Beholdery Neez i Kilkik spotykają się ze
+mie_058|Musiałem sięgnąć po moje zapasy drewna, 
+mie_059|W czasie jednego z naszych strategicznyc
+mie_061|Kiedy Tarnum spostrzega, że jego wróg je
+mie_062|Strażnicy przepuszczą tylko Tarnuma.
+mie_063|Nareszcie przybyłeś, Tarnumie!  Czy życz
+mie_064|Zbliżasz się do tej leżącej na odludziu 
+mie_065|Młody mężczyzna wystąpił przed chatę, by
+mie_066|Olbrzymi cień pada na twoje oddziały.  G
+mie_067|Ta mała chatka cuchnie zgniłymi jajami t
+mie_068|"Ha!  Nie jesteś jeszcze dostatecznie do
+mie_069|Stary mężczyzna w cuchnącej chacie uśmie
+mie_070|Zauważasz starego czarodzieja, pochylone
+mie_071|Ponownie pytasz czarodzieja, jakich dokł
+mie_072|Prowadzisz wozy wypełnione drewnem i rud
+mie_073|Pomogłeś podróżującemu kupcowi naprawić 
+mie_074|"Pokaż nam, pod jaką flagą maszerujesz!"
+mie_075|"Odejdź, głupcze!  Jedynie ktoś dzierżąc
+mie_076|Strażnik, widząc kolor twojej flagi, uśm
+mie_077|Wiedząc, że na tych mroźnych pustkowiach
+mie_078|Grupa moich zwiadowców odkryła olbrzymi 
+mie_079|Potyczki z barbarzyńcami Kiji spowolniły
+mie_080|Posłana na zwiady harpia powróciła dziś 
+mie_081|Mój beholder-szpieg, Neez, doniósł mi, ż
+mie_082|Kilkik wsunął się do mojego namiotu i ni
+mie_083|Samotna meduza przestapiła próg mojego n
+mie_084|"Nie tylko będziemy musieli zwyciężyć ar
+mie_085|Neez doniósł mi dzisiaj, że chociaż nie 
+mie_086|Neez zaprezentował mi dzisiejszego ranka
+mie_087|Tarnum musi schwytać przyjaciela Gelu, U
+mie_088|Stary elf Vori żyjący w tym wydrążonym d
+mie_089|"Nie, zaufać mogę wyłącznie wysokim elfo
+mie_090|Stary elf Vori przygląda się prezentowan
+mie_091|"Przejdzie tędy jedynie Suweren Tarnum!"
+mie_092|Strażnicy tej wieży przepuszczą wyłączni
+mie_093|"Witaj, mój Suwerenie!  Czy życzysz sobi
+mie_095|Stary rycerz żyjący w tym rozpadającym s
+mie_096|Otwierasz drzwi małej, rozsypującej się 
+mie_097|W chwili, gdy przynosisz do chaty stareg
+mie_101|By dogonić Gelu, zmusiłem moje oddziały 
+mie_102|Dzisiejszego dnia przybył do mnie posłan
+mie_103|"Krasnolud Ufretin dowodzi swą armią zza
+mie_104|Pomimo że zapamiętałem Ufretina jako oso
+mie_105|Neez i Kilkik przyprowadzili dziś przed 
+mie_106|Kilkik wpłynął tego ranka do mojego nami
+mie_108|Jeśli Tarnum chce doścignąć Gelu, musi w
+mie_109|Zatrzymujesz się w starej chatce i godzi
+mie_110|"Jesteś wspaniały, ale wciąż nie posiada
+mie_111|"Proszę, to dla ciebie," mówi stara kobi
+mie_112|Armia Gelu zanurzyła się w niezgłębionyc
+mie_113|Dziś rano po raz pierwszy odwiedziłem mo
+mie_114|"Jeśli nie chce mówić, pozwól mi zastoso
+mie_115|Mój minotaur strażnik przyprowadził prze
+mie_116|Przywódczyni meduz, Zallisa, zawitała dz
+mie_117|Minęło sporo czasu, odkąd ostatni raz ro
+mie_118|"Czy naprawdę wierzysz, że odrobina jedz
+mie_119|Dałem Ufretinowi cały dzień, by ochłonął
+mie_120|Moja armia była bliska puczu, a wszystko
+mie_121|Z pogrążonego we śnie obozu wynurzyła si
+mie_122|Tymczasem w jednym z odległych tuneli Uf
+mie_124|Tarnum roztrzaskał się na mroźnym wybrze
+mie_126|Kiedy przemykasz się przez ośnieżone rów
+mie_127|Pożeglowałem na daleką północ, do zmrożo
+mie_128|Powiedziano mi, że gdzieś na południu ży
+mie_129|Kolejna próba porozumienia się z mieszka
+mie_130|Coś uderzyło mnie w łokieć, zrzucając mn
+mie_131|Powrót do sił po truciźnie meduzy zajał 
+mie_132|Gdziekolwiek bym teraz nie poszedł, podą
+mie_133|Zaatakowaliśmy młodsze siostry meduzy ak
+mie_134|Neez, kapitan moich beholderów-strażnikó
+mie_136|Tarnum musi podbić masto Volee zanim zdo
+mie_137|Mieszkający w tej chacie poważny starszy
+mie_138|W ciągu zaledwie kilku minu starszy mężc
+mie_139|"W dzisiejszych czasach rzadko widuje si
+mie_140|Poświęcasz kilka godzin, by uciąć pogawę
+mie_141|Wyzywasz mieszkającego tu olbrzymiego bo
+mie_142|Siłujesz się z bohaterem przez prawie go
+mie_143|Ignorując groźby harpii podchodzisz do w
+mie_144|Od twojego pancerza odbija się kamień, a
+mie_145|Niespodziewanie wokół ciebie wystrzeliwu
+mie_146|Niespodziewanie wokół ciebie wystrzeliwu
+mie_147|Niespodziewanie wokół ciebie wystrzeliwu
+mie_148|Niespodziewanie wokół ciebie wystrzeliwu
+mie_149|Z kryjówek wśród śniegu i kamieni występ
+mie_150|Twoi zwiadowcy donoszą, że miasto Volee 
+mie_153|Przez kilka ostatnich dni wymieniałem si
+mie_154|W pobliżu znajduje się mag, który zaofer
+mie_155|Wejścia do żyznej, zielonej krainy otacz
+mie_156|Obco wyglądająca harpia wpadła dziś do o
+mie_157|"A cóż to ma być?" spytałem mojego straż
+mie_158|Niestety, elfy Vori żyjące w mieście Vol
+mie_159|Dzisiejszego dnia przybył do mnie goniec
+mie_160|Zeszłej nocy, nim położyłem się do snu, 

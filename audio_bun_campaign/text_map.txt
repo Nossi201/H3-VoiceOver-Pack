@@ -1,0 +1,211 @@
+# text_map.txt (bez filtra mapy)
+# Format: bun_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Bun_bmp_campaign_texts_ab_edit.txt
+
+bun_001|Wiele stuleci temu, Tarnum, zwany woncza
+bun_002|Misja: Pokonaj wszystkich przeciwników, 
+bun_003|Gdyby Erathianie zorganizowali wyprawę k
+bun_004|Misja: Pokonaj wszystkich przeciwników, 
+bun_005|Tarnum wkroczył do historii Błotnego Lud
+bun_006|Misja: Pokonaj wszystkich przeciwników, 
+bun_007|Ustanawiając nagrodę za głowy zbiegłych 
+bun_008|Misja: Pokonaj wszystkich przeciwników, 
+bun_009|Erathianie nie mogli dłużej lekceważyć p
+bun_010|Misja: Pokonaj wszystkich przeciwników, 
+bun_011|Przekonawszy się na własne oczy, jakim p
+bun_012|Misja: Pokonaj wszystkich przeciwników, 
+bun_013|Po przekroczeniu granic Erathii, Błotny 
+bun_014|Misja: Pokonaj wszystkich przeciwników, 
+bun_015|Tarnum cieszył się na myśl o ponownym pr
+bun_016|Misja: Zabij Króla Gryphonhearta, nie tr
+bun_017|Erathia koronowała Nivena na swego noweg
+bun_018|Armia Szalonego Króla walczyła do ostatn
+bun_019|Tarnum musi pokonać lorda Onstena i wszy
+bun_020|"Stójcie, śmierdzące kundle!  To złoże r
+bun_021|"Wracajcie do swoich zagród!  Zapłacicie
+bun_022|Rozpostarłszy skrzydła, z gniazd na wzgó
+bun_023|"Stać w imieniu lorda Onstena!"
+bun_024|"Wracajcie do swych chat, kundle!"
+bun_025|"Wracajcie do swoich ruder, psy albo sko
+bun_026|Na twój widok gnolle zaczynają radośnie 
+bun_027|"Jesteśmy gotowi walczyć za naszą wolnoś
+bun_028|Gnolle na twój widok upadają na kolana.\
+bun_029|"Cofnijcie się!  Karą za opuszczenie zag
+bun_030|"Czas wracać do swych nor, śmierdziele!"
+bun_031|"Tylko lord Onsten może zabierać lepreka
+bun_032|"To młyn jego lordowskiej mości.  Odejdź
+bun_033|Osądzony przez Przodków jako niegodny ws
+bun_034|"Ten skarb został zgromadzony dla lorda 
+bun_035|Zbliżając się do wiatraka, zauważasz mał
+bun_036|Był czas, gdy moją duszę spowijał mrok, 
+bun_037|Aby wybuchło prawdziwe powstanie, wieści
+bun_038|Udało nam się zdobyć kilka kopalni lorda
+bun_039|Jakkolwiek próbuję rozpalić w sobie nien
+bun_040|Spodziewałem się wiadomości od Onstena. 
+bun_041|"Tarnumie," zawołał mój pomocnik.\n\nAku
+bun_042|Dzisiaj otrzymaliśmy wiadomość o dokonan
+bun_043|Zyskałem dzisiaj nowego doradcę.\n\nByła
+bun_045|Tarnum musi pokonać barona Paglona i wsp
+bun_046|Kilku niewolników wykorzystywanych niegd
+bun_047|For Computer - DO NOT TRANSLATE\n\nDla k
+bun_048|For Computer - DO NOT TRANSLATE\n\nDla k
+bun_049|"Dziękujemy ci za przybycie po nas!  Chc
+bun_050|"Niektórzy zwątpili, czy przybędziesz, a
+bun_051|"Chwała Bogu, przyszedłeś nas uratować. 
+bun_052|"Za zabójstwo lorda Onstena król skazał 
+bun_053|"Za zabójstwo lorda Onstena król skazał 
+bun_054|"To ty oswobadzasz niewolników!  Czy poz
+bun_055|"To złoto króla!  Odejdźcie stąd, psy!"\
+bun_056|"Ha!  Baron wiedział, że spróbujecie zaj
+bun_057|"Źli niewolnicy!  Kryształy nie być dla 
+bun_058|"Za wasze głowy została wyznaczona nagro
+bun_059|"Spójrzcie, kogo my tu mamy, chłopcy!  W
+bun_060|Nim się do nich zbliżyłeś, strzelcy szko
+bun_061|"Żaden człowiek nie będzie prowadził nas
+bun_062|"Jam jest król gnolli!  Oddaj mi pokłon 
+bun_063|Mnisi wiozący te sandały do swojego klas
+bun_064|Trochę szczęścia nie zaszkodzi, dlatego 
+bun_065|"Jesteśmy uratowani!" szczekają radośnie
+bun_066|Słyszysz w krzakach szelest, lecz gdy ni
+bun_067|Początkowo nasze małe powstanie traktowa
+bun_068|"Przyślij mi szpiega!" rozkazałem.\n\nWk
+bun_069|Wcześnie z rana obudziły mnie dochodzące
+bun_070|Wypuściłem dzisiaj dwóch walczących ze s
+bun_071|"Dlaczego znowu muszę to robić?" zapytał
+bun_072|"Złe wieści mój panie," powiedział zwiad
+bun_073|Mieszkańcom bagien trzeba przyznać jedno
+bun_074|"A zatem, Brellicku," zacząłem, "masz tu
+bun_075|Stara, gnollowa wiedźma Adamina znów doł
+bun_076|Zanim wyszedłem przed namiot, wokół dwój
+bun_078|Wyeliminuj barona Paglona, podbijając ws
+bun_081|"Zbliż się tylko o krok, a naszpikujemy 
+bun_082|Ktoś zmusił tych jaszczuroludzi do pilno
+bun_083|"Witaj!  Byliśmy niewolnikami tego uczon
+bun_084|Olbrzymie ważki nurkują w kierunku twoje
+bun_085|Gnolle widząc cię upadają na kolana i zd
+bun_086|"Czy masz jakieś jedzenie?  Paglon nie w
+bun_087|Kilku żołnierzy barona Paglona bezskutec
+bun_088|Jeśli chcesz zdobyć naszyjnik przyspiesz
+bun_089|Wszystkie ścieżki prowadzą cię do tego m
+bun_090|Grupa mnichów czuwa przed garnizonem, na
+bun_091|Z gęstej roślinności wypada kilku rabusi
+bun_092|"Mamy rozkaz zabijać wszystkich powstańc
+bun_093|"Nie macie prawa przebywać w królewskiej
+bun_094|"Doskonale!  Dostaniemy za wasze głowy n
+bun_095|"Mamy rozkaz zabijać zbiegłych niewolnik
+bun_096|"Młynarz uczciwie płaci podatki baronowi
+bun_098|Baron Paglon zdołał umknąć zanim podbiłe
+bun_099|Znajomy błysk stali w porannym blasku sł
+bun_100|Przywódca gnolli, Brellick, wyruszył na 
+bun_101|Dzisiaj grupa poszukującą dezerterów odk
+bun_102|Być może Przodkowie natchnęli mój sen, b
+bun_103|Kto poprowadzi Bagienny Lud, gdy mnie za
+bun_104|Baron Paglon zrozumiał już, że znalazł s
+bun_105|Dziś z rana zatrzymało mnie kilka gnolli
+bun_106|Otrzymuję coraz to nowe raporty o dokona
+bun_107|Tarnum musi pokonać wszystkich żołnierzy
+bun_108|"Ha!  Wiedzieliśmy, że nasz skarb zwabi 
+bun_109|Widzisz grupę podskakujących i wymachują
+bun_110|"Stać!" Mówi dowódca krzyżowców.  "Tą dr
+bun_111|Dzisiaj nauczyłeś się, że nie wszystkie 
+bun_112|Najwyraźniej wszystkie sprawiane przez c
+bun_113|Nad wejściem do kopalnii złota swe gniaz
+bun_114|"Ten tartak należy do jego królewskiej m
+bun_115|"Ten tartak należy do jego królewskiej m
+bun_116|"To stajnie króla, świński pomiocie!  Co
+bun_117|"Zejdźcie z królewskiego gościńca!  Rzuć
+bun_118|Przed dziesiątkami lat została tu ukryta
+bun_119|"Stać!" krzyczy przywódca Krzyżowców.  "
+bun_120|"Hrabia Rambert przewidział, że będzieci
+bun_121|Brzęk rycerskich zbroi niósł się po bagn
+bun_122|Omijasz kolejny zakręt i nieomal wpadasz
+bun_123|Potykając się, z gąszczu wychodzi pobity
+bun_124|Rozbójnicy wyskakują zza drzew i zarośli
+bun_125|Dwóch twoich żołnierzy pada naszpikowany
+bun_126|Z nieba spadają gryfy, nurkując wprost k
+bun_127|Natykasz się na niewielki oddział erathi
+bun_128|Wraz ze śmiercią barona Paglona Szalony 
+bun_129|Wysłałem dużą część moich ludzi pod wodz
+bun_130|Otrzymałem dzisiaj list zawierający prop
+bun_131|Zabrałem ze sobą Drogla, zamierzając go 
+bun_132|Hrabia Rambert wysłał mi kilka ostrzeżeń
+bun_133|"Witaj książę," powiedziałem.  To było m
+bun_134|Odeskortowałem Nivena ze związanymi na p
+bun_135|Ponownie na straży Nivena stanął Droglo.
+bun_136|"Boję się, że kompletnie złamaliśmy księ
+bun_137|Jeden z gnolli wpadł do mojego namiotu w
+bun_138|Bez trudu dołączyliśmy do naszej armii, 
+bun_139|Przeszło dwudziestu niewolników zdało Ni
+bun_140|Tarnum musi pokonać hrabiego Ramberta, a
+bun_141|Broń tych mieczników pokrywa świeża krew
+bun_142|Chciwie sięgasz po bezdenną sakwę złota 
+bun_143|Jak dotąd nie znalazłeś w tej okolicy ża
+bun_144|"Z tego przejścia korzystać może jedynie
+bun_145|Parę gnollowych kobiet wybiega ze zwych 
+bun_146|Postąpiłeś słusznie zabijając tych kapła
+bun_147|Do twych uszu dobiega dochodzący gdzieś 
+bun_148|Teraz wiesz, czego strzegli strzelcy - s
+bun_149|Ziemia zasłana jest tutaj ciałami przyku
+bun_150|Zatrzymujesz grupę erathiańskich żołnier
+bun_151|Żona młynarza wychodzi ci na powitanie.\
+bun_152|Tunele przed tobą zablokowane są przez s
+bun_153|Mieszkający tu stary czarodziej był więź
+bun_154|"Wróć, kiedy pokonasz minotaury, a naucz
+bun_155|"Widzę, że jesteś gotowy do nauki. Czy m
+bun_156|Strażnicy przepuszczą tędy tylko Tarnuma
+bun_157|Przejdzie tędy tylko armia Tarnuma.
+bun_159|Hrabia Rambert, uciekając przed moją arm
+bun_160|Dzisiaj nadeszły żądania Ramberta.  Zapr
+bun_161|Każdego dnia obserwowałem, jak Droglo i 
+bun_162|Niven spędzał większość dni opiekując si
+bun_163|Hrabia Rambert odpowiedział dzisiaj na m
+bun_164|Zeszłej nocy spotkałem się z moimi dowód
+bun_165|Mały Droglo wyglądał trochę śmiesznie w 
+bun_166|Wiadomość nadeszła przyczepiona do ogona
+bun_167|Hrabia Rambert skrył się w trudnej do zd
+bun_169|Tarnum musi poprowadzić ofensywę przeciw
+bun_170|"Jakie powstanie?  To wy przyprowadziliś
+bun_171|"Hej!  To jest nasz młyn, złodzieje!  Wy
+bun_172|Choć nareszcie opuściliśmy granice Erath
+bun_173|Od kilku pokoleń Erathianie wyłapują w t
+bun_174|Stawiamy czoła jedynie awangardzie erath
+bun_175|Dziejszego dnia Adamina i pozostałe wied
+bun_176|Jeden z moich jaszczuroludkich zwiadowcó
+bun_177|Późno w nocy, kiedy wiedźmy i większość 
+bun_178|Kiedy dzisiejszego dnia Droglo nadal nie
+bun_179|Wparowałem do namiotu uzdrowiciela, znaj
+bun_180|Nasze zwycięstwo nad awangardą jest blis
+bun_181|Cały dzień otrzymywałem od zwiadowców ra
+bun_183|Połączywszy siły z barbarzyńcami, Tarnum
+bun_184|Banda zbuntowanych gnolli i jaszczurolud
+bun_185|W spojrzeniu paciorkowatych oczu tych og
+bun_186|Z ukrycia wyskakuje wataha gnolli.  Ich 
+bun_187|Trolle musiały zdawać sobie sprawę z war
+bun_188|Gdy zbliżasz się do hełmu chaosu, z gęst
+bun_189|W pobliżu tuniki króla cyklopów drzemie 
+bun_190|Nie wierzyłem, by ktokolwiek inny był w 
+bun_191|Zasugerowałem mieszkańcom bagien, aby og
+bun_192|Jak można było przewidzieć, odpowiedzią 
+bun_193|Podczas dzisiejszej misternej ceremonii 
+bun_194|Choć raz otrzymałem dobre wieści.  Zmęcz
+bun_195|Dzisiaj przygotowałem nowy plan walki.  
+bun_196|Miałem dziś okazję usiąść razem z Drogle
+bun_197|Moi zwiadowcy donieśli dzisiaj, że Szalo
+bun_198|Ponownie musisz zapłacić barbarzyńskim n
+bun_200|Książę Niven i Tarnum połączyli swe siły
+bun_201|Napadają cię bandyci najęci przez Szalon
+bun_202|Zostajesz napadnięty przez bandytów Szal
+bun_203|Wpadłeś w zasadzkę zastawioną przez łajd
+bun_204|Znowu napadają cię zbóje Szalonego Króla
+bun_205|Napadają cię bandyci najęci przez Szalon
+bun_207|Napadają cię bandyci najęci przez Szalon
+bun_208|Napadają cię bandyci najęci przez Szalon
+bun_209|Kolejna zasadzka zastawiona przez łajdak
+bun_210|Wkraczając do tego regionu, przelotnie s
+bun_211|Dzisiaj schwytaliśmy kilku bandytów prób
+bun_212|Tak jak się spodziewałem, Szalony Król G
+bun_213|Dzisiejszego dnia Droglo (reprezentujący
+bun_214|Poprosiłem Drogla, by teraz, gdy nasze z
+bun_215|Gryphonheart zaczął stosować przeciwko n
+bun_217|Lecz nie było tam żadnej pułapki.\n\nZna
+bun_218|"Pozwól mi wyjaśnić," powiedziałem, wcho

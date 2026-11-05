@@ -1,0 +1,107 @@
+# text_map.txt (bez filtra mapy)
+# Format: ogn_XXX|prefix_tekstu  (dopasowuje w calej kampanii)
+# Wygenerowane przez build_text_map.py z Ogn_bmp_campaign_texts_ab_edit.txt
+
+ogn_000|Przodkowie zostali porwani przez Vorra, 
+ogn_001|Misja: Zdobądź Inferno, nie tracąc przy 
+ogn_002|Tarnum opuścił upojne podziemne tunele D
+ogn_003|Misja: Zdobądź Inferno Blackdome, nie tr
+ogn_004|Piaski pustyni zmieniły się w pagórki, a
+ogn_005|Misja: Zdobądź pierścień wędrowca, nie t
+ogn_006|Teraz Tarnum wie, że Vorr uciekł z tego 
+ogn_007|Misja: Pokonaj Xyrona, nie tracąc przy t
+ogn_008|Vorr, uwięził pozostałych Przodków gdzie
+ogn_009|Misja: Pokonaj Vorra, nie tracąc przy ty
+ogn_010|Kiedy Vorr leżał umierający na polu bitw
+ogn_012|Tarnum musi przebyć nieprzyjazne piaski 
+ogn_013|"Oo-tee-dee!" wrzeszczą zakapturzeni ban
+ogn_014|Kości podróżnika i jego konia leżą w pia
+ogn_015|Kości niezliczonych nieszczęsnych dusz z
+ogn_016|Mija chwila zanim twoje oczy przyzwyczaj
+ogn_017|"Zasadzka!" krzyczysz, gdy tuzin strzał 
+ogn_018|Wycie dobiegające od klifów brzmi jakby 
+ogn_019|Ziemie przed tobą wznoszą się nieznaczni
+ogn_020|Grupka Goblinów twierdzi, że były kiedyś
+ogn_021|Widzisz orkowego leśnika wraz z jego syn
+ogn_022|Ktoś przykuł grupę cerberów do skał w ty
+ogn_023|Widzisz kilka żółtych świateł z daleka j
+ogn_024|Słyszysz brzęczenie metalowych narzędzi 
+ogn_025|Strumienia światła przebijają się przez 
+ogn_026|Grupa ogrzych magów stoi w kręgu wokół t
+ogn_027|Osądzony przez Przodków jako niegodny wk
+ogn_028|Drzewo Świata jest teraz bezpieczne, kie
+ogn_029|Musi być przejście na powierzchnię. Są d
+ogn_030|Obudziłem się dzisiejszego poranka chory
+ogn_031|Wszystkie moje dolegliwości zdały się od
+ogn_032|Zaproponowałem pytanie do mojego najmędr
+ogn_033|"Co mi przyniosłeś?" spytał szaman Wern 
+ogn_034|Ostatniej nocy obóz został zaatakowany p
+ogn_035|Większość poranka spędziliśmy szukając z
+ogn_036|Dzisiaj jeden z moich zwiadowców znalazł
+ogn_038|Podbij piekielne miasto zwane Blackdome.
+ogn_039|Na pierwszy rzut oka ta mała dolinka jes
+ogn_040|W oddali zauważasz odbłysk światła i pod
+ogn_041|Na wpół zagłodzona banda rabusiów zbiegł
+ogn_042|Przybyliśmy do oddalonej krainy z kilkom
+ogn_043|Odkryłem, że ten region nie jest całkowi
+ogn_044|Z początku myślałem, że te demony stanęł
+ogn_045|Dziś kilkoro z moich ludzi złapało chowa
+ogn_046|Zostałem dzisiejszego poranka przywołany
+ogn_047|Tym razem to ja przywołałem chowańca do 
+ogn_048|Nie wiem co począć ze Skizzikiem. Chowan
+ogn_049|Spotkałem się dziś z Grumbą, moim ogrzym
+ogn_050|Właśnie jechaliśmy, gdy Skizzik biegł w 
+ogn_051|Wbrew prośbom Grumby i moim instynktom, 
+ogn_053|Aktywuj Iskrzący Most, aby Tarnum mógł p
+ogn_054|Potężna armia żywiołów stoi na twojej dr
+ogn_056|Żywiołaki ognia i energii latają ponad p
+ogn_057|Z gęstymi lasami z obu stron Twojej armi
+ogn_058|Horda żywiołaków burzy kręci się wokół p
+ogn_061|Powietrze jest tutaj cienkie, a mroźne p
+ogn_062|Skizzik stał się moim przewodnikiem. Nie
+ogn_063|Wkroczyliśmy do gaju dzisiejszego porank
+ogn_064|Prawie zginąłem tego poranka. Tylko dzię
+ogn_065|Oczywiście medyk nie znalazł żadnych ran
+ogn_066|Skizzik wpadł do mojego namiotu z miną j
+ogn_067|Skizzik, który był przyzwyczajony do wys
+ogn_068|Wysłałem zwiadowców na poszukiwania Iskr
+ogn_069|Znalazłem dzisiaj Skizzika wąchającego z
+ogn_070|Ostatniej nocy Skizzik miał okazję spraw
+ogn_071|Tarnum musi pokonać Xyrona, strażnika, a
+ogn_072|Złowrogi skowyt ostrzega cię przed ataki
+ogn_073|Świetliste chmury Iskrzącego Mostu kończ
+ogn_074|Powietrze tutaj jest tak gęste, że konie
+ogn_075|Podchodzisz do chatki proroka, ale brak 
+ogn_076|Prorokini spotyka się z tobą w progu, na
+ogn_077|W oddali widzisz spalone ruiny pradawneg
+ogn_078|Zszedłem z Iskrzącego Mostu w duszący go
+ogn_079|"Ah, pamiętam dobrze. Tu żyłem zanim uma
+ogn_080|Dziś, podczas zbierania tak potrzebnego 
+ogn_081|"Chroń dobrze twierdzę" zaproponował Gru
+ogn_082|Skizzik opowiada historie ze swojego 'da
+ogn_083|Dzisiejszego poranka ledwo wyszedłem z ł
+ogn_084|Zazwyczaj ćwiczę z mieczem przez godzinę
+ogn_085|Zwiadowcy donoszą, że Xyron Dozorca jest
+ogn_086|Potrzebowałem dziś pomocy, aby wsiąść na
+ogn_087|Tarnum musi pokonać szalonego Przodka, V
+ogn_088|Pukasz do wrót, ale jedyne co słyszysz t
+ogn_089|Pukasz do drzwi, ale w jakiś sposób szal
+ogn_090|Wysyłasz feniksa na szczyt wieży. Natych
+ogn_091|"Witaj, kochanie" powiedziała stara wizj
+ogn_092|"Próbujesz mnie oszukać? Cóż, nie dam ci
+ogn_093|"Widzę, że masz mój teleskop. Jeżeli mi 
+ogn_094|Jak tylko masz zamiar zapukać do drzwi w
+ogn_095|Brak reakcji na pukanie utwierdza cię ty
+ogn_096|Drzwi otwierają się jak tylko Tarnum pod
+ogn_097|Niegdyś jeden z bezimiennych Przodków, V
+ogn_098|Grupa ognistych ptaków krąży ponad teren
+ogn_099|Ku twojemu zdziwieniu, spalona ziemia us
+ogn_100|Już widziałeś kiedyś podobne Ramiona leg
+ogn_101|Maszerowaliśmy przez jałowy Ognisty Księ
+ogn_102|Przynajmniej moja mała grupa nie była je
+ogn_103|Wszedłem do namiotu ostatniej nocy i ujr
+ogn_104|Dziś przebudziłem się, patrząc w oczy za
+ogn_105|Ostatnio spotykam się z Skizzikiem co no
+ogn_106|Ostatniej nocy nawiedził mnie w snach Vo
+ogn_107|Ale szczęście!\n\nLudzie, którzy żyli na
+ogn_108|Jakby wiedzieli, że chcę z nimi porozmaw
